@@ -71,7 +71,7 @@ The Excel file has three sheets:
 - **Raw Data** — unprocessed scraped fields for reference and debugging.
 - **Wikidata Property Legend** — explains each column, property ID, expected format, and example values.
 
-A pre-generated sample is included in [`data/dcbooks_wikidata.xlsx`](data/dcbooks_wikidata.xlsx).
+The full dataset of 3,641 books is included in [`data/dcbooks_wikidata.xlsx`](data/dcbooks_wikidata.xlsx).
 
 ## How it works
 
