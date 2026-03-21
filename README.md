@@ -86,12 +86,23 @@ The scraper targets dcbookstore.com via its public `sitemap.xml`. The Sucuri cha
 
 Neither site stores explicit Malayalam-script titles. Both use English transliterations (e.g. "AADUJEEVITHAM" rather than "ആടുജീവിതം"). The Malayalam text that _is_ available comes from book summaries, captured in the `Description (ml)` column. Actual Malayalam script titles would need to be added manually or via a separate lookup.
 
+## Linking authors to Wikidata
+
+A separate script looks up each author against Wikidata and adds their QID to a new column:
+
+```bash
+source venv/bin/activate
+python3 link_authors_wikidata.py
+```
+
+This searches all 1,761 unique authors against Wikidata's API, caches results in `author_qid_cache.json`, and adds a `P50_QID (author Wikidata ID)` column to the Excel file. Takes ~10 minutes on first run; subsequent runs use the cache.
+
 ## Wikidata integration
 
 Before uploading:
 
-1. Check if books already exist on Wikidata (search by ISBN-13 using SPARQL)
-2. Replace author name strings with Wikidata QIDs where the author item exists
+1. Run `link_authors_wikidata.py` to auto-link authors to their Wikidata QIDs
+2. Check if books already exist on Wikidata (search by ISBN-13 using SPARQL)
 3. Replace publisher strings with QIDs (e.g. DC Books = [Q3075043](https://www.wikidata.org/wiki/Q3075043))
 4. Review auto-generated descriptions
 5. Upload via [QuickStatements V2](https://quickstatements.toolforge.org/)
