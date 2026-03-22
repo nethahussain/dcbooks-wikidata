@@ -86,6 +86,22 @@ The scraper targets dcbookstore.com via its public `sitemap.xml`. The Sucuri cha
 
 Neither site stores explicit Malayalam-script titles. Both use English transliterations (e.g. "AADUJEEVITHAM" rather than "ആടുജീവിതം"). The Malayalam text that _is_ available comes from book summaries, captured in the `Description (ml)` column. Actual Malayalam script titles would need to be added manually or via a separate lookup.
 
+## Getting Malayalam titles from Kerala Book Store
+
+keralabookstore.com has actual Malayalam script titles (ദേവദാസ്, ആടുജീവിതം) and Malayalam author names — something dcbookstore.com lacks. A separate scraper fetches these and merges them into the Excel by ISBN:
+
+```bash
+source venv/bin/activate
+
+# Scrape DC Books titles from keralabookstore.com
+python3 scrape_keralabookstore.py
+
+# Scrape and merge directly into the Wikidata Excel
+python3 scrape_keralabookstore.py --merge data/dcbooks_wikidata.xlsx
+```
+
+This must be run locally — keralabookstore.com blocks cloud/datacenter IPs.
+
 ## Linking authors to Wikidata
 
 A separate script looks up each author against Wikidata and adds their QID to a new column:

@@ -4,5 +4,7 @@ __pycache__/
 *.pyc
 dcbooks_progress.json
 author_qid_cache.json
+kbs_progress.json
+keralabookstore_dcbooks.json
 scraper.log
 .DS_Store
