@@ -356,7 +356,7 @@ LEGEND = [
     ("P50", "author", "Author name (replace with QID if Wikidata item exists)", "Benyamin"),
     ("P212", "ISBN-13", "13-digit ISBN", "9788126435746"),
     ("P957", "ISBN-10", "10-digit ISBN if available", "8126435747"),
-    ("P123", "publisher", "Publisher name (Q3075043 = DC Books on Wikidata)", "DC BOOKS"),
+    ("P123", "publisher", "Publisher name (Q5203520 = DC Books on Wikidata)", "DC Books"),
     ("P407", "language of work", "Q36236=Malayalam, Q1860=English", "Q36236"),
     ("P495", "country of origin", "Q668 = India", "Q668"),
     ("P577", "publication date", "+YYYY-MM-DDT00:00:00Z/precision", "+2012-01-01T00:00:00Z/11"),
