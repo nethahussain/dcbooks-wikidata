@@ -13,6 +13,7 @@ A Python scraper that extracts book metadata from [DC Books](https://dcbooks.com
 
 | Field | Wikidata property | Coverage |
 |-------|-------------------|----------|
+| Instance of (literary work) | P31 | 100% |
 | Title (transliterated) | Label (en) | 100% |
 | Author | P50 | ~100% |
 | ISBN-13 | P212 | ~97% |
@@ -24,7 +25,7 @@ A Python scraper that extracts book metadata from [DC Books](https://dcbooks.com
 | Genre / category | P136 | ~98% |
 | Edition | P393 | ~100% |
 | Binding format | P437 | ~100% |
-| Malayalam description | Description (ml) | ~80% |
+| Malayalam description | Description (ml) | one-sentence, 100% |
 | Cover image URL | — | ~100% |
 | Source URL | S854 | 100% |
 
@@ -72,6 +73,24 @@ The Excel file has three sheets:
 - **Wikidata Property Legend** — explains each column, property ID, expected format, and example values.
 
 The full dataset of 3,641 books is included in [`data/dcbooks_wikidata.xlsx`](data/dcbooks_wikidata.xlsx).
+
+## Data cleaning applied
+
+The published dataset has been cleaned beyond the raw scraper output:
+
+- **Instance of (P31)** set to `Q7725634` (*literary work*) for all records — not the generic *written work*.
+- **Malayalam descriptions (Description ml)** rewritten as a single clean sentence each, with proper head nouns (e.g. *malayala pachaka pusthakam* rather than a bare topic-genre). No truncated blurbs.
+- **Genre (P136)** QIDs verified against the Wikidata API and corrected — several scraped QIDs pointed to unrelated items (a town, a musician, a sports event, etc.) and were replaced with the correct genre items; one invalid QID was removed.
+- **Publication dates (P577)** normalized to day precision (`+YYYY-MM-DDT00:00:00Z/11`), with no spurious time component.
+
+### Known remaining blockers for direct QuickStatements import
+
+These columns still hold plain text where QuickStatements expects QIDs, and need resolving before upload:
+
+- **P50 (author)** and **P123 (publisher)** — plain names, not QIDs (run `link_authors_wikidata.py` for authors).
+- **P136 (genre)** — ~533 cells still contain non-QID category tokens.
+- **P437 (binding format)** and **S248 (stated in)** — plain labels, not QIDs.
+- A handful of malformed ISBN-13s and one malformed date remain.
 
 ## How it works
 
