@@ -74,6 +74,8 @@ The Excel file has three sheets:
 
 The full dataset of 3,641 books is included in [`data/dcbooks_wikidata.xlsx`](data/dcbooks_wikidata.xlsx).
 
+A flattened, **upload-ready** [`data/dcbooks_quickstatements.csv`](data/dcbooks_quickstatements.csv) is also provided — paste it directly into [QuickStatements](https://quickstatements.toolforge.org/) (CSV mode). Each row creates a new item (blank `qid`) with P31, labels/descriptions, ISBNs, language, country, publication date, pages, edition, and the valid genre QIDs; the source URL is attached as a reference on P31. Columns that still hold plain text (P50 author, P123 publisher, P437 format, S248) are intentionally omitted — see blockers below. **Test a few rows and check for existing items before bulk-creating.**
+
 ## Data cleaning applied
 
 The published dataset has been cleaned beyond the raw scraper output:
