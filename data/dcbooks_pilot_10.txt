@@ -1,0 +1,130 @@
+CREATE
+LAST	Len	"Kazhchayude Moonnamidangal"
+LAST	Lml	"കാഴ്ചയുടെ മൂന്നാമിടങ്ങൾ"
+LAST	Den	"Malayalam-language study published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/-kazhchayude-moonnamidangal"
+LAST	P212	"9789354322532"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-03-18T00:00:00Z/11
+LAST	P1104	126
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"100 Aarogya Paachakam"
+LAST	Lml	"100 ആരോഗ്യ പാചകം"
+LAST	Den	"Malayalam-language cookery published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/100-aarogya-paachakam"
+LAST	P212	"9788126429783"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2011-01-27T00:00:00Z/11
+LAST	P1104	118
+LAST	P136	Q605076
+LAST	P393	"2"
+CREATE
+LAST	Len	"100 Beauty Tips"
+LAST	Lml	"100 ബ്യൂട്ടി ടിപ്സ്"
+LAST	Den	"Malayalam-language life style published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ജീവിതശൈലി സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/100-beauty-tips"
+LAST	P212	"9788126435593"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-11-08T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q32090
+LAST	P393	"1"
+CREATE
+LAST	Len	"100 Chinthavishayangal"
+LAST	Lml	"100 ചിന്താവിഷയങ്ങൾ"
+LAST	Den	"Malayalam-language self help published by Manorama Publication"
+LAST	Dml	"മനോരമ പബ്ലിക്കേഷൻ പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/100-chinthavishayangal"
+LAST	P212	"9789383197927"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-01-13T00:00:00Z/11
+LAST	P1104	228
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"100 Dhyanangal"
+LAST	Lml	"100 ധ്യാനങ്ങൾ"
+LAST	Den	"Malayalam-language health & fitness published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/100-dhyanangal"
+LAST	P212	"9788182665187"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-09-02T00:00:00Z/11
+LAST	P1104	304
+LAST	P136	Q12147
+LAST	P393	"2"
+CREATE
+LAST	Len	"100 Juicukal"
+LAST	Lml	"100 ജയ്‌സുകൾ"
+LAST	Den	"Malayalam-language cookery published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/100-juicukal"
+LAST	P212	"9788126450886"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2014-06-23T00:00:00Z/11
+LAST	P1104	86
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"100 Visishta Paneeyangal"
+LAST	Lml	"100 വിശിഷ്ട പാനീയങ്ങൾ"
+LAST	Den	"Malayalam-language cookery published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/100-visishta-paneeyangal"
+LAST	P212	"9788126429523"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-07-15T00:00:00Z/11
+LAST	P1104	95
+LAST	P136	Q605076
+LAST	P393	"2"
+CREATE
+LAST	Len	"1000 Mahat Vachanangalum 50 Pazhanchollukalum"
+LAST	Lml	"1000 മഹത് വചനങ്ങളും 50 പഴഞ്ചൊല്ലുകളും"
+LAST	Den	"Malayalam-language study published by Olive"
+LAST	Dml	"ഒലിവ് പ്രസിദ്ധീകരിച്ച മലയാള പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/1000-mahat-vachanangalum-50-pazhanchollukalum"
+LAST	P212	"9780000101969"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-06-11T00:00:00Z/11
+LAST	P1104	100
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"101 Home Made Winukal"
+LAST	Lml	"101 ഹോം മ്മടെ വൈനുകൾ"
+LAST	Den	"Malayalam-language cookery published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/101-home-made-winukal"
+LAST	P212	"9789353901332"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-12-16T00:00:00Z/11
+LAST	P1104	140
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"101 Sanjayan Phalithangal"
+LAST	Lml	"101 സഞ്ജയൻ ഫലിതങ്ങൾ"
+LAST	Den	"Malayalam-language humour published by Litmus"
+LAST	Dml	"ലിറ്റ്മസ് പ്രസിദ്ധീകരിച്ച മലയാള ഹാസ്യസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/101-sanjayan-phalithangal"
+LAST	P212	"9788126412662"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-02-04T00:00:00Z/11
+LAST	P1104	48
+LAST	P136	Q60548032
+LAST	P393	"3"
