@@ -1,0 +1,3786 @@
+CREATE
+LAST	Len	"Tharakans Grandhavari - Hard Cover"
+LAST	Lml	"താരകൻസ് ഗ്രന്ഥവരി - ഹാർഡ് കോവർ"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tharakans-grandhavari-hard-cover"
+LAST	P2093	"Benyamin"
+LAST	P212	"9789354826702"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-09-29T00:00:00Z/11
+LAST	P1104	232
+LAST	P136	Q8261
+LAST	P393	"4"
+CREATE
+LAST	Len	"Tharavattupachakam"
+LAST	Lml	"തറവാട്ടുപച്ചകം"
+LAST	Den	"Malayalam-language cookery published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tharavattupachakam"
+LAST	P2093	"Malathy S Nair"
+LAST	P212	"9788126463756"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2018-04-23T00:00:00Z/11
+LAST	P1104	112
+LAST	P136	Q605076
+LAST	P393	"3"
+CREATE
+LAST	Len	"Tharavu Valarthal"
+LAST	Lml	"താറാവ് വളർത്തൽ"
+LAST	Den	"Malayalam-language agriculture & gardening published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള കൃഷിയും തോട്ടപരിപാലനവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tharavu-valarthal"
+LAST	P2093	"Mohanan P V"
+LAST	P212	"9788126424146"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-11-25T00:00:00Z/11
+LAST	P1104	86
+LAST	P136	Q11451
+LAST	P393	"3"
+CREATE
+LAST	Len	"Thaskaran Maniyanpillayude Athmakadha"
+LAST	Lml	"തസ്കരൻ മണിയന്പിള്ളയുടെ ആത്മകഥ"
+LAST	Den	"Malayalam-language autobiography & biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thaskaran-maniyanpillayude-athmakadha"
+LAST	P2093	"Maniyan Pilla"
+LAST	P212	"9788126420049"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2026-02-27T00:00:00Z/11
+LAST	P1104	592
+LAST	P136	Q36279
+LAST	P393	"22"
+CREATE
+LAST	Len	"Thatakanad England Sancharakurippukal"
+LAST	Lml	"തടാകനാഥ് ഇംഗ്ലണ്ട് സഞ്ചാരകുറിപ്പുകൾ"
+LAST	Den	"Malayalam-language travel & travelogue published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള യാത്രാവിവരണം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thatakanad-england-sancharakurippukal"
+LAST	P2093	"Zacharia"
+LAST	P957	"8126415908"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2007-01-01T00:00:00Z/11
+LAST	P1104	70
+LAST	P136	Q1072723
+LAST	P393	"2"
+CREATE
+LAST	Len	"Thattathippenninte Kalyanam"
+LAST	Lml	"തട്ടത്തിപ്പെണ്ണിന്റെ കല്യാണം"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thattathippenninte-kalyanam"
+LAST	P2093	"M. Mukundan"
+LAST	P212	"9788126430178"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-08-25T00:00:00Z/11
+LAST	P1104	88
+LAST	P136	Q49084
+LAST	P393	"7"
+CREATE
+LAST	Len	"Thattukada Specials"
+LAST	Lml	"തട്ടുകട സ്പെഷ്യൽസ്"
+LAST	Den	"Malayalam-language cookery published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thattukada-specials"
+LAST	P2093	"Tency Jacob"
+LAST	P212	"9788126450589"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2018-02-27T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q605076
+LAST	P393	"5"
+CREATE
+LAST	Len	"Thaylandinte Thaniniram"
+LAST	Lml	"തായ്‌ലണ്ടിന്റെ തനിനിറം"
+LAST	Den	"Malayalam-language travel & travelogue published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള യാത്രാവിവരണം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thaylandinte-thaniniram"
+LAST	P2093	"Shornur Karthikeyan"
+LAST	P212	"9789352826780"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-02-04T00:00:00Z/11
+LAST	P1104	104
+LAST	P136	Q1072723
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thazhvaram : M T Yude Priya Thirakkathakal"
+LAST	Lml	"താഴ്‌വാരം : എം ടി യുടെ പ്രിയ തിരക്കഥകൾ"
+LAST	Den	"Malayalam-language screenplay published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള തിരക്കഥ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thazhvaram-m-t-yude-priya-thirakkathakal"
+LAST	P2093	"M T Vasudevan Nair"
+LAST	P212	"9788126475803"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-07-01T00:00:00Z/11
+LAST	P1104	1000
+LAST	P136	Q103076
+LAST	P393	"1"
+CREATE
+LAST	Len	"The 5 Am Club (malayalam)"
+LAST	Lml	"ദി 5 ആം ക്ലബ് (മലയാളം)"
+LAST	Den	"Malayalam-language self help published by Jaico"
+LAST	Dml	"ജൈക്കോ പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-5-am-club-malayalam"
+LAST	P2093	"Robin Sharma"
+LAST	P212	"9789389305265"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-05-09T00:00:00Z/11
+LAST	P1104	225
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Brain Game"
+LAST	Lml	"ദി ബ്രെയിൻ ഗെയിം"
+LAST	Den	"Malayalam-language novel published by Deecee Upmarket Fiction"
+LAST	Dml	"ഡിസി അപ്മാർക്കറ്റ് ഫിക്ഷൻ പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-brain-game"
+LAST	P2093	"Maya Kiran"
+LAST	P212	"9789354821479"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2026-02-26T00:00:00Z/11
+LAST	P1104	208
+LAST	P136	Q8261
+LAST	P136	Q182015
+LAST	P393	"11"
+CREATE
+LAST	Len	"The Ivory Throne (danthasimhasanam)"
+LAST	Lml	"ദി ഐവറി ത്രോൺ (ദന്തസിംഹാസനം)"
+LAST	Den	"Malayalam-language history published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-ivory-throne-danthasimhasanam"
+LAST	P2093	"Manu S. Pillai"
+LAST	P212	"9789352820979"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-09-15T00:00:00Z/11
+LAST	P1104	880
+LAST	P136	Q309
+LAST	P136	Q7553
+LAST	P393	"20"
+CREATE
+LAST	Len	"The Malabar Rebellion (print on Demand)"
+LAST	Lml	"ദി മലബാർ റെബെല്ലിഒൻ (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST	Den	"Malayalam-language history published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-malabar-rebellion"
+LAST	P2093	"M. Gangadharan"
+LAST	P212	"9788126418633"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2011-07-13T00:00:00Z/11
+LAST	P1104	296
+LAST	P136	Q309
+LAST	P393	"2"
+CREATE
+LAST	Len	"The Many - Hued Cyber World : Talks About Online Safety"
+LAST	Lml	"ദി മെനി - ഹുഡ് സൈബർ വേൾഡ് : ടാൽക്സ് എബൌട്ട് ഓൺലൈൻ സേഫ്റ്റി"
+LAST	Den	"Malayalam-language children's literature published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-many---hued-cyber-world--talks-about-online-safety"
+LAST	P2093	"K Sanjay Kumar"
+LAST	P212	"9789354823473"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-03-04T00:00:00Z/11
+LAST	P1104	298
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"The New Buffettology [malayalam]"
+LAST	Lml	"ദി ന്യൂ ബുഫറ്റോളജി [മലയാളം]"
+LAST	Den	"Malayalam-language self help published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-new-buffetology-malayalam"
+LAST	P2093	"Mary Buffett"
+LAST	P212	"9788126448753"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-12-23T00:00:00Z/11
+LAST	P1104	294
+LAST	P136	Q3739522
+LAST	P136	Q4830453
+LAST	P393	"1"
+CREATE
+LAST	Len	"The New One Minute Manager"
+LAST	Lml	"ദി ന്യൂ ഒന്നു മിനിറ്റ് മാനേജർ"
+LAST	Den	"Malayalam-language self help published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-new-one-minute-manager"
+LAST	P2093	"Spencer Johnson"
+LAST	P212	"9789389445800"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-09-10T00:00:00Z/11
+LAST	P1104	110
+LAST	P136	Q3739522
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Quest for a Smartphone"
+LAST	Lml	"ദി ക്യുസ്റ് ഫോർ എ സ്മാർട്ഫോൺ"
+LAST	Den	"Malayalam-language computer & internet published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കമ്പ്യൂട്ടറും ഇന്റർനെറ്റും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-quest-for-a-smartphone"
+LAST	P2093	"K Sanjay Kumar"
+LAST	P212	"9789353906801"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-12-15T00:00:00Z/11
+LAST	P1104	64
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Subtle Art of Not Giving a F*ck (malayalam)"
+LAST	Lml	"ദി സുബ്റ്റിലെ ആര്ട്ട് ഓഫ് നോട ഗിവിങ് എ ഫ്*ക്ക് (മലയാളം)"
+LAST	Den	"Malayalam-language self help published by Manjul Publishing"
+LAST	Dml	"മഞ്ജുൽ പബ്ലിഷിംഗ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-subtle-art-of-not-giving-a-fck-malayalam"
+LAST	P2093	"Mark Manson"
+LAST	P212	"9789390351152"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-05-09T00:00:00Z/11
+LAST	P1104	212
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Theendari"
+LAST	Lml	"തീണ്ടാരി"
+LAST	Den	"Malayalam-language memoirs published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/theendari"
+LAST	P2093	"Sandhya Edavoor"
+LAST	P212	"9789354820168"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-11-25T00:00:00Z/11
+LAST	P1104	264
+LAST	P136	Q112983
+LAST	P393	"2"
+CREATE
+LAST	Len	"Theendarichembu"
+LAST	Lml	"തീണ്ടാരിച്ചേമ്പ്"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/theendarichembu"
+LAST	P2093	"Midhun Krishna"
+LAST	P212	"9789354323041"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-01-11T00:00:00Z/11
+LAST	P1104	168
+LAST	P136	Q49084
+LAST	P393	"3"
+CREATE
+LAST	Len	"Theettappulkrishiyum Kalitheettayum"
+LAST	Lml	"തീറ്റപ്പുല്കൃഷിയും കാലിത്തീറ്റയും"
+LAST	Den	"Malayalam-language agriculture & gardening published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള കൃഷിയും തോട്ടപരിപാലനവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/theettappulkrishiyum-kalitheettayum"
+LAST	P2093	"Mohanan P V"
+LAST	P212	"9788126439799"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-01-02T00:00:00Z/11
+LAST	P1104	124
+LAST	P136	Q11451
+LAST	P393	"1"
+CREATE
+LAST	Len	"Theevandiyathrakal"
+LAST	Lml	"തീവണ്ടിയാത്രകൾ"
+LAST	Den	"Malayalam-language memoirs published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/theevandiyathrakal"
+LAST	P2093	"Siyaf Abdulkhadir"
+LAST	P212	"9789390234769"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-11-02T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q112983
+LAST	P393	"2"
+CREATE
+LAST	Len	"Theevra Vadathinte Rashtreeyavum Prathyaya Sasthravum"
+LAST	Lml	"തീവ്ര വാദത്തിന്റെ രാഷ്ട്രീയവും പ്രത്യയ ശാസ്ത്രവും"
+LAST	Den	"Malayalam-language essays published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഉപന്യാസങ്ങൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/theevra-vadathinte-rashtreeyavum-prathyaya-sasthravum"
+LAST	P2093	"K Venu"
+LAST	P212	"9788182667938"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-07-17T00:00:00Z/11
+LAST	P1104	100
+LAST	P136	Q35760
+LAST	P136	Q213051
+LAST	P393	"2"
+CREATE
+LAST	Len	"Thenmavu"
+LAST	Lml	"തേൻമാവ്"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thenmavu"
+LAST	P2093	"Vaikom Muhammad Basheer"
+LAST	P212	"9789353903282"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-06-30T00:00:00Z/11
+LAST	P1104	152
+LAST	P136	Q131539
+LAST	P393	"9"
+CREATE
+LAST	Len	"Theosophy : Matham Thathwachintha Sasthram"
+LAST	Lml	"തെക്കോസോഫ്യ് : മതം തത്വചിന്ത ശാസ്ത്രം"
+LAST	Den	"Malayalam-language philosophy published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള തത്ത്വശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/theosophy-matham-thathwachintha-sasthram"
+LAST	P2093	"Nair M G K"
+LAST	P212	"9788124020302"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-12-31T00:00:00Z/11
+LAST	P1104	168
+LAST	P136	Q5891
+LAST	P393	"1"
+CREATE
+LAST	Len	"Theerthayaathrakkaayi Punyakshethrangal"
+LAST	Lml	"തീര്ഥയാത്രക്കായി പുണ്യക്ഷേത്രങ്ങൾ"
+LAST	Den	"Malayalam-language religion published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള മതം സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/therthayaathrakkaayi-punyakshethrangal"
+LAST	P2093	"Ramachandran Nair S"
+LAST	P957	"8126434740"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-12-08T00:00:00Z/11
+LAST	P1104	270
+LAST	P136	Q9174
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thettillatha Malayalam"
+LAST	Lml	"തെറ്റില്ലാതെ മലയാളം"
+LAST	Den	"Malayalam-language linguistics published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഭാഷാശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thettillatha-malayalam"
+LAST	P2093	"Panmana Ramachandran Nair"
+LAST	P957	"8124004498"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+1990-02-27T00:00:00Z/11
+LAST	P1104	180
+LAST	P393	"6"
+CREATE
+LAST	Len	"Thevidissikkiliyum Kallanum Poleesum"
+LAST	Lml	"തേവിടിശ്ശിക്കിളിയും കള്ളനും പോലീസും"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thevidissikkiliyum-kallanum-poleesum"
+LAST	P2093	"M. Mukundan"
+LAST	P212	"9789352828036"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-12-28T00:00:00Z/11
+LAST	P1104	232
+LAST	P136	Q49084
+LAST	P393	"2"
+CREATE
+LAST	Len	"Thilachu Thooviya Ormakal"
+LAST	Lml	"തിളച്ചു തൂവിയ ഓർമ്മകൾ"
+LAST	Den	"Malayalam-language memoirs published by Folio Books : an Imprint of DC Books"
+LAST	Dml	"ഫോളിയോ ബുക്സ് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thilachu-thooviya-ormakal"
+LAST	P2093	"Shameema Valapattanam"
+LAST	P212	"9789354824968"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-01-20T00:00:00Z/11
+LAST	P1104	64
+LAST	P136	Q112983
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thirakkadha : Anubhavam, Aavishkaaram, Anweshanam"
+LAST	Lml	"തിരക്കഥ : അനുഭവം  ആവിഷ്കാരം  അന്വേഷണം"
+LAST	Den	"Malayalam-language cinema published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സിനിമാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thirakkadha-anubhavam-aavishkaaram-anweshanam"
+LAST	P2093	"Prasanth Mithran"
+LAST	P212	"9788126464852"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-10-13T00:00:00Z/11
+LAST	P1104	168
+LAST	P136	Q11424
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thiranjedutha Balakavithakal"
+LAST	Lml	"തിരഞ്ഞെടുത്ത ബാലകവിതകൾ"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thiranjedutha-balakavithakal"
+LAST	P2093	"Sippy Pallippuram"
+LAST	P212	"9788126451197"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-11-06T00:00:00Z/11
+LAST	P1104	424
+LAST	P136	Q131539
+LAST	P393	"2"
+CREATE
+LAST	Len	"Thiranjedutha Kathakal - Indu Menon"
+LAST	Lml	"തിരഞ്ഞെടുത്ത കഥകൾ - ഇന്ദു മേനോൻ"
+LAST	Den	"Malayalam-language short stories published by Manorama Publication"
+LAST	Dml	"മനോരമ പബ്ലിക്കേഷൻ പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thiranjedutha-kathakal"
+LAST	P2093	"Indu Menon"
+LAST	P212	"9788195231997"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-05-09T00:00:00Z/11
+LAST	P1104	287
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thiranjedutha Kathakal (asokan Charuvil)"
+LAST	Lml	"തിരഞ്ഞെടുത്ത കഥകൾ (അശോകൻ ചരുവിൽ)"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thiranjedutha-kathakal-asokan-charuvil"
+LAST	P2093	"Ashokan Charuvil"
+LAST	P212	"9788126432233"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2014-04-21T00:00:00Z/11
+LAST	P1104	300
+LAST	P136	Q49084
+LAST	P393	"2"
+CREATE
+LAST	Len	"Thiranjedutha Kathakal - C V Balakrishnan"
+LAST	Lml	"തിരഞ്ഞെടുത്ത കഥകൾ -  സി വി ബാലകൃഷ്ണൻ"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thiranjedutha-kathakal-c-v-balakrishnan"
+LAST	P2093	"C V Balakrishnan"
+LAST	P212	"9788126443444"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2014-08-31T00:00:00Z/11
+LAST	P1104	776
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thiranjedutha Kathakal-thomas Joseph"
+LAST	Lml	"തിരഞ്ഞെടുത്ത കഥകൾ-തോമസ് ജോസഫ്"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thiranjedutha-kathakal-thomas-joseph"
+LAST	P2093	"Thomas Joseph"
+LAST	P212	"9789352828845"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-07-30T00:00:00Z/11
+LAST	P1104	297
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thiranjedutha Kavithakal - Sreekumaran Thampi"
+LAST	Lml	"തിരഞ്ഞെടുത്ത കവിതകൾ - ശ്രീകുമാരൻ തമ്പി"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thiranjedutha-kavithakal-sreekumaran-thampi"
+LAST	P2093	"Alankode Leelakrishnan"
+LAST	P212	"9789353903473"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-03-18T00:00:00Z/11
+LAST	P1104	288
+LAST	P136	Q482
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thiranjedutha Subhashithangal"
+LAST	Lml	"തിരഞ്ഞെടുത്ത സുഭാഷിതങ്ങൾ"
+LAST	Den	"Malayalam-language quotations published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഉദ്ധരണികൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thiranjedutha-subhashithangal"
+LAST	P2093	"Ambalappuzha Ramavarma"
+LAST	P957	"8124010323"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	148
+LAST	P393	"3"
+CREATE
+LAST	Len	"Thiruda Thiruda"
+LAST	Lml	"തിരുട തിരുട"
+LAST	Den	"Malayalam-language autobiography & biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thiruda-thiruda"
+LAST	P2093	"Aadu Antony"
+LAST	P212	"9789353905361"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-11-04T00:00:00Z/11
+LAST	P1104	560
+LAST	P136	Q36279
+LAST	P393	"3"
+CREATE
+LAST	Len	"Thirukkural (trans : S Ramesan Nair)"
+LAST	Lml	"തിരുക്കുറൾ (ട്രാൻസ് : സ് രമേശൻ നായർ)"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thirukkural-s-ramesan-nair"
+LAST	P2093	"Thiruvalluvar"
+LAST	P212	"9788126419838"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-10-30T00:00:00Z/11
+LAST	P1104	716
+LAST	P136	Q482
+LAST	P136	Q9134
+LAST	P393	"6"
+CREATE
+LAST	Len	"Thirumanthram"
+LAST	Lml	"തിരുമന്ത്രം"
+LAST	Den	"Malayalam-language philosophy published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള തത്ത്വശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thirumanthram"
+LAST	P2093	"Thirumoola Nayanar"
+LAST	P957	"8126417161"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2007-01-01T00:00:00Z/11
+LAST	P1104	940
+LAST	P136	Q5891
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thiruphalithangal"
+LAST	Lml	"തിരിഫലിതങ്ങൾ"
+LAST	Den	"Malayalam-language humour published by Litmus"
+LAST	Dml	"ലിറ്റ്മസ് പ്രസിദ്ധീകരിച്ച മലയാള ഹാസ്യസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thiruphalithangal"
+LAST	P2093	"Philipose Mar Chrysostom"
+LAST	P212	"9788126425884"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-10-01T00:00:00Z/11
+LAST	P1104	96
+LAST	P136	Q60548032
+LAST	P393	"5"
+CREATE
+LAST	Len	"Thiruthu"
+LAST	Lml	"തീര്ത്തു"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thiruthu"
+LAST	P2093	"N S Madhavan"
+LAST	P957	"8171306454"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-09-30T00:00:00Z/11
+LAST	P1104	88
+LAST	P136	Q49084
+LAST	P393	"10"
+CREATE
+LAST	Len	"Thiruvalluvarude Thirukkural Saram"
+LAST	Lml	"തിരുവള്ളുവരുടെ തിരുക്കുറൾ സാരം"
+LAST	Den	"Malayalam-language epics & myths published by Saikatham Books"
+LAST	Dml	"സൈകതം ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഇതിഹാസങ്ങളും പുരാണങ്ങളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thiruvalluvarude-thirukkural-saram"
+LAST	P2093	"Pandit N K Nair"
+LAST	P212	"9789389463507"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-06-11T00:00:00Z/11
+LAST	P1104	300
+LAST	P136	Q9134
+LAST	P393	"1"
+CREATE
+LAST	Len	"Tholkkilla Njan"
+LAST	Lml	"തോൽക്കില്ല ഞാൻ"
+LAST	Den	"Malayalam-language autobiography & biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tholkkilla-njan"
+LAST	P2093	"Tikaram Meena IAS"
+LAST	P212	"9789354324413"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-07-27T00:00:00Z/11
+LAST	P1104	168
+LAST	P136	Q36279
+LAST	P393	"3"
+CREATE
+LAST	Len	"Thonniyapoloru Puzha"
+LAST	Lml	"തോന്നിയപോലൊരു പുഴ"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thonniyapoloru-puzha"
+LAST	P2093	"Aryambika"
+LAST	P212	"9788126428595"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-06-28T00:00:00Z/11
+LAST	P1104	48
+LAST	P136	Q482
+LAST	P393	"2"
+CREATE
+LAST	Len	"Thonnyaaksharangal"
+LAST	Lml	"തോന്ന്യാക്ഷരങ്ങൾ"
+LAST	Den	"Malayalam-language autobiography & biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thonnyaaksharangal"
+LAST	P2093	"O. N. V. Kurup"
+LAST	P957	"8171303714"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-11-24T00:00:00Z/11
+LAST	P1104	56
+LAST	P136	Q36279
+LAST	P393	"7"
+CREATE
+LAST	Len	"Thoovanathumbikal - Print on Demand"
+LAST	Lml	"തൂവാനത്തുമ്പികൾ - പ്രിന്റ് ഓൺ ഡിമാൻഡ്"
+LAST	Den	"Malayalam-language screenplay published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള തിരക്കഥ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thoovanathumbikal"
+LAST	P2093	"P Padmarajan"
+LAST	P212	"9788126475728"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-06-30T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q103076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thoovanathumbikalum Mattu Thirakadhakalum"
+LAST	Lml	"തൂവാനത്തുമ്പികളും മറ്റു തിരക്കഥകളും"
+LAST	Den	"Malayalam-language screenplay published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള തിരക്കഥ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thoovanathumbikalum-mattu-thirakadhakalum"
+LAST	P2093	"P Padmarajan"
+LAST	P212	"9788126428410"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-09-22T00:00:00Z/11
+LAST	P1104	464
+LAST	P136	Q103076
+LAST	P393	"8"
+CREATE
+LAST	Len	"Thotta Charithram Kettittilla (keralam 60 Series)"
+LAST	Lml	"തോറ്റ ചരിത്രം കേട്ടിട്ടില്ല (കേരളം 60 സീരീസ്)"
+LAST	Den	"Malayalam-language history published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thotta-charithram-kettittilla"
+LAST	P2093	"George Pulikkan"
+LAST	P212	"9788126475070"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-02-04T00:00:00Z/11
+LAST	P1104	224
+LAST	P136	Q309
+LAST	P136	Q7163
+LAST	P393	"3"
+CREATE
+LAST	Len	"Thottappan"
+LAST	Lml	"തൊട്ടപ്പൻ"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thottappan"
+LAST	P2093	"Francis Noronha"
+LAST	P212	"9788126477029"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-06-30T00:00:00Z/11
+LAST	P1104	144
+LAST	P136	Q49084
+LAST	P393	"6"
+CREATE
+LAST	Len	"Thottichamari"
+LAST	Lml	"തൊട്ടിച്ചമറി"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thottichamari"
+LAST	P2093	"S. Girish Kumar"
+LAST	P212	"9789354329913"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-11-01T00:00:00Z/11
+LAST	P1104	232
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thottilile Vavaye Thotteennu Kittiyatha"
+LAST	Lml	"തൊട്ടിലില് വാവയെ തൊട്ടീന്നു കിട്ടിയതാ"
+LAST	Den	"Malayalam-language education & study aid published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള വിദ്യാഭ്യാസവും പഠനസഹായിയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thottilile-vavaye-thotteennu-kittiyatha"
+LAST	P2093	"Shimna Azeez"
+LAST	P212	"9789354824906"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-10-30T00:00:00Z/11
+LAST	P1104	272
+LAST	P136	Q336
+LAST	P437	Q193934
+LAST	P393	"7"
+CREATE
+LAST	Len	"Thottiyude Makan"
+LAST	Lml	"തോട്ടിയുടെ മകൻ"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thottiyude-makan"
+LAST	P2093	"Thakazhi Sivasankara Pillai"
+LAST	P212	"9788171306374"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-12-30T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q8261
+LAST	P393	"29"
+CREATE
+LAST	Len	"Thrikonamithi Padikkam"
+LAST	Lml	"ത്രികോണമിതി പഠിക്കാം"
+LAST	Den	"Malayalam-language mathematics published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഗണിത പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thrikonamithi-padikkam"
+LAST	P2093	"Madhu B"
+LAST	P957	"8126416505"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	64
+LAST	P136	Q395
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thulasihaaram Thiruvithamkoorile Kshetrangal"
+LAST	Lml	"തുളസിഹാരം തിരുവിതാംകൂറിലെ ക്ഷേത്രങ്ങൾ"
+LAST	Den	"Malayalam-language religion published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള മതം സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thuasihaaram-thiruvithamkoorile-kshetrangal"
+LAST	P2093	"Aswathy Thirunal Gouri Lakshmi Bai"
+LAST	P957	"8171309224"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2012-01-02T00:00:00Z/11
+LAST	P1104	311
+LAST	P136	Q9174
+LAST	P393	"3"
+CREATE
+LAST	Len	"Thudakkom Nenjidippode Ii"
+LAST	Lml	"തുടക്കോം നെഞ്ചിടിപ്പോടെ ഈ"
+LAST	Den	"Malayalam-language biography published by Saikatham Books"
+LAST	Dml	"സൈകതം ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ജീവചരിത്രം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thudakkom-nenjidippode-ii"
+LAST	P2093	"U. A. Khadar"
+LAST	P212	"9789389463477"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-06-19T00:00:00Z/11
+LAST	P1104	170
+LAST	P136	Q36279
+LAST	P393	"2"
+CREATE
+LAST	Len	"Thulavarshappacha"
+LAST	Lml	"തുലാവർഷപ്പച്ച"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thulavarshappacha"
+LAST	P2093	"Sugathakumari"
+LAST	P212	"9788171301584"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-12-16T00:00:00Z/11
+LAST	P1104	110
+LAST	P136	Q482
+LAST	P393	"14"
+CREATE
+LAST	Len	"Thunnalkkaran"
+LAST	Lml	"തുന്നൽക്കാരൻ"
+LAST	Den	"Malayalam-language story published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കഥ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thunnalkkaran"
+LAST	P2093	"Venugopal T P"
+LAST	P212	"9789354828041"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-05-31T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q49084
+LAST	P393	"3"
+CREATE
+LAST	Len	"Tibetan Buddhisathinte Patha : Sankatangal Avasanippichu Santhosham Kandetham"
+LAST	Lml	"ടിബറ്റൻ ബുദ്ധിസത്തിന്റെ പാത : സങ്കടങ്ങൾ അവസാനിപ്പിച്ച് സന്തോഷം കണ്ടെത്താൻ"
+LAST	Den	"Malayalam-language spirituality & mysticism published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആധ്യാത്മികതയും മിസ്റ്റിസിസവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tibetan-buddhisathinte-patha-sankatangal-avasanippichu-santhosham-kandetham"
+LAST	P2093	"H H The Dalai Lama"
+LAST	P212	"9788126473731"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-08-23T00:00:00Z/11
+LAST	P1104	296
+LAST	P136	Q168796
+LAST	P393	"1"
+CREATE
+LAST	Len	"Time Machine (mambazham)"
+LAST	Lml	"ടൈം മെഷീൻ (മാമ്പഴം)"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/time-machine-mambazham"
+LAST	P2093	"Wells H G"
+LAST	P212	"9788126441648"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-03-04T00:00:00Z/11
+LAST	P1104	62
+LAST	P136	Q131539
+LAST	P393	"2"
+CREATE
+LAST	Len	"Tintumon Jokes (tintumonodano Kali)"
+LAST	Lml	"ടിന്റുമോൻ ജോക്സ് (ടിന്റുമോനോടാണോ കാളി)"
+LAST	Den	"Malayalam-language humour published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഹാസ്യസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tintumon-jokes--tintumonodano-kali-"
+LAST	P2093	"Jeena Rajan (compiled By)"
+LAST	P957	"8126426373"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	92
+LAST	P136	Q60548032
+LAST	P393	"1"
+CREATE
+LAST	Len	"Tintumon Phalithangal"
+LAST	Lml	"ടിന്റുമോൻ ഫലിതങ്ങൾ"
+LAST	Den	"Malayalam-language humour published by Litmus"
+LAST	Dml	"ലിറ്റ്മസ് പ്രസിദ്ധീകരിച്ച മലയാള ഹാസ്യസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tintumon-phalithangal"
+LAST	P2093	"Jeena Rajan (compiled By)"
+LAST	P212	"9788126440320"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-03-07T00:00:00Z/11
+LAST	P1104	164
+LAST	P136	Q60548032
+LAST	P393	"1"
+CREATE
+LAST	Len	"Tippu Sulthan"
+LAST	Lml	"ടിപ്പു സുൽത്താൻ"
+LAST	Den	"Malayalam-language history published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tippu-sulthan"
+LAST	P2093	"P. K. Balakrishnan"
+LAST	P957	"8126414707"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-05-31T00:00:00Z/11
+LAST	P1104	212
+LAST	P136	Q309
+LAST	P136	Q36279
+LAST	P393	"14"
+CREATE
+LAST	Len	"Troll Troll Troll"
+LAST	Lml	"ട്രോള് ട്രോള് ട്രോള്"
+LAST	Den	"Malayalam-language humour published by Litmus"
+LAST	Dml	"ലിറ്റ്മസ് പ്രസിദ്ധീകരിച്ച മലയാള ഹാസ്യസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/troll-troll-troll"
+LAST	P2093	"Troll Malayalam & Icu"
+LAST	P212	"9788126467747"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-08-10T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q60548032
+LAST	P393	"1"
+CREATE
+LAST	Len	"Trotsky"
+LAST	Lml	"ട്രോട്സ്കി"
+LAST	Den	"Malayalam-language biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ജീവചരിത്രം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/trotsky"
+LAST	P2093	"P.M. Radhakrishnan"
+LAST	P212	"9789354826047"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-08-19T00:00:00Z/11
+LAST	P1104	352
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"Tuttu Journalist"
+LAST	Lml	"ടുട്ടു ജേര്ണലിസ്റ്"
+LAST	Den	"Malayalam-language children's literature published by Manorama Publication"
+LAST	Dml	"മനോരമ പബ്ലിക്കേഷൻ പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tuttu-journalist"
+LAST	P2093	"V H Nishad"
+LAST	P212	"9789389649505"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-12-10T00:00:00Z/11
+LAST	P1104	100
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Twinkle Rossayum Panthrandu Kamukanmarum"
+LAST	Lml	"ട്വിങ്കിലേ റോസ്സയും പന്ത്രണ്ടു കാമുകന്മാരും"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/twinkle-rossayum-panthrandu-kamukanmarum"
+LAST	P2093	"G. R. Indugopan"
+LAST	P212	"9789353901097"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-09-29T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q49084
+LAST	P437	Q193934
+LAST	P393	"7"
+CREATE
+LAST	Len	"U R Ananthamurthiyude Moonnu Novelukal"
+LAST	Lml	"ഉ ർ അനന്തമൂർത്തിയുടെ മൂന്നു നോവലുകൾ"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/u-r-ananthamurthiyude-moonnu-novelukal"
+LAST	P2093	"Ananthamurthi U R"
+LAST	P212	"9788126451432"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-04-15T00:00:00Z/11
+LAST	P1104	560
+LAST	P136	Q8261
+LAST	P136	Q20540385
+LAST	P393	"5"
+CREATE
+LAST	Len	"Uchira"
+LAST	Lml	"ഉച്ചിറ"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/uchira"
+LAST	P2093	"Madhavan Puracherry"
+LAST	P212	"9789354828133"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-06-30T00:00:00Z/11
+LAST	P1104	112
+LAST	P136	Q482
+LAST	P393	"4"
+CREATE
+LAST	Len	"Udakappola"
+LAST	Lml	"ഉദകപ്പോള"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/udakappola"
+LAST	P2093	"P Padmarajan"
+LAST	P212	"9788171304608"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-11-29T00:00:00Z/11
+LAST	P1104	144
+LAST	P136	Q8261
+LAST	P393	"21"
+CREATE
+LAST	Len	"Udara Rogangale Ozhivakkam"
+LAST	Lml	"ഉദര രോഗങ്ങൾ ഒഴിവാക്കാം"
+LAST	Den	"Malayalam-language health & fitness published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/udara-rogangale-ozhivakkam"
+LAST	P2093	"John Powathil"
+LAST	P212	"9788126439690"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-01-28T00:00:00Z/11
+LAST	P1104	149
+LAST	P136	Q12147
+LAST	P393	"1"
+CREATE
+LAST	Len	"Udararoga Chikitsarahasyangal"
+LAST	Lml	"ഉദരരോഗം ചികിത്സാരഹസ്യങ്ങൾ"
+LAST	Den	"Malayalam-language health & fitness published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/udararoga-chikitsarahasyangal"
+LAST	P2093	"Ulahannan T C"
+LAST	P957	"8124017921"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	246
+LAST	P136	Q12147
+LAST	P393	"1"
+CREATE
+LAST	Len	"Ujjayini"
+LAST	Lml	"ഉജ്ജയിനി"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ujjayini"
+LAST	P2093	"O. N. V. Kurup"
+LAST	P957	"8171303536"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-11-24T00:00:00Z/11
+LAST	P1104	198
+LAST	P136	Q482
+LAST	P393	"18"
+CREATE
+LAST	Len	"Ujwalamaya Athmeeya Chinthakal"
+LAST	Lml	"ഉജ്വലമായ ആത്മീയ ചിന്തകൾ"
+LAST	Den	"Malayalam-language self help published by Expressions a Self Publishing Service of DC Press"
+LAST	Dml	"എക്സ്പ്രഷൻസ് (ഡിസി പ്രസ്) പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ujwalamaya-athmeeya-chinthakal"
+LAST	P2093	"RT. Rev. Thomas Kumbukattu Cor Episcopo"
+LAST	P212	"9789385752933"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2018-10-30T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Ulchoodu"
+LAST	Lml	"ഉൾച്ചൂട്"
+LAST	Den	"Malayalam-language memoirs published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ulchoodu"
+LAST	P2093	"Sugathakumari"
+LAST	P212	"9788126477104"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-11-27T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q112983
+LAST	P393	"3"
+CREATE
+LAST	Len	"Ulkkadukal Ulayumbol"
+LAST	Lml	"ഉൽക്കാടുകൾ അലയുമ്പോൾ"
+LAST	Den	"Malayalam-language drama published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നാടകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ulkkadukal-ulayumbol"
+LAST	P2093	"C J John"
+LAST	P212	"9788124020371"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-11-24T00:00:00Z/11
+LAST	P1104	88
+LAST	P136	Q25379
+LAST	P393	"1"
+CREATE
+LAST	Len	"Ullilninnulla Uravakal"
+LAST	Lml	"ഉള്ളില്നിന്നുള്ള ഉറവകൾ"
+LAST	Den	"Malayalam-language autobiography & biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ullilninnulla-uravakal"
+LAST	P2093	"Sudha Murty"
+LAST	P212	"9789353902865"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-10-13T00:00:00Z/11
+LAST	P1104	182
+LAST	P136	Q36279
+LAST	P136	Q7553
+LAST	P393	"7"
+CREATE
+LAST	Len	"Ullitheeyalum Onpathinte Pattikayum"
+LAST	Lml	"ഉള്ളിത്തീയലും ഒൻപത്തിന്റെ പട്ടികയും"
+LAST	Den	"Malayalam-language short stories published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ullitheeyalum-onpathinte-pattikayum"
+LAST	P2093	"Priya A. S."
+LAST	P212	"9789354323874"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-08-31T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q49084
+LAST	P136	Q131539
+LAST	P393	"3"
+CREATE
+LAST	Len	"Ulloor Kavithakal Sampoornam (2 Volumes)"
+LAST	Lml	"ഉള്ളൂർ കവിതകൾ സമ്പൂര്ണം (2 വോളമീസ്)"
+LAST	Den	"Malayalam-language collections & selected works published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സമാഹാരങ്ങളും തിരഞ്ഞെടുത്ത കൃതികളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ulloor-kavithakal-sampoornam"
+LAST	P2093	"Ulloor S Parameswara Iyer"
+LAST	P212	"9788126428014"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-07-28T00:00:00Z/11
+LAST	P1104	1376
+LAST	P136	Q20540385
+LAST	P393	"3"
+CREATE
+LAST	Len	"Ullunaaraan Chicken Soup - Randaam Vattom"
+LAST	Lml	"ഉള്ളുണക്കാരാണ് ചിക്കൻ സൂപ്പ് - രണ്ടാം വട്ടത്തെ"
+LAST	Den	"Malayalam-language self help published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ullunaaraan-chicken-soup-randaam-vattom"
+LAST	P2093	"Jack Canfield"
+LAST	P957	"8126434961"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-06-01T00:00:00Z/11
+LAST	P1104	328
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Ummukulsunte Veedu Ii"
+LAST	Lml	"ഉമ്മുകുല്സുന്റെ വീട് ഈ"
+LAST	Den	"Malayalam-language short stories published by Saikatham Books"
+LAST	Dml	"സൈകതം ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ummukulsunte-veedu-ii"
+LAST	P2093	"Harikumar E"
+LAST	P212	"9789386222817"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-06-10T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q49084
+LAST	P393	"2"
+CREATE
+LAST	Len	"Unarthum Kathakal Valarthum Kathakal"
+LAST	Lml	"ഉണർത്തും കഥകൾ വളര്ത്തും കഥകൾ"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/unarthum-kathakal-valarthum-kathakal"
+LAST	P2093	"S. Sivadas"
+LAST	P212	"9789354822100"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-09-30T00:00:00Z/11
+LAST	P1104	208
+LAST	P136	Q131539
+LAST	P393	"3"
+CREATE
+LAST	Len	"Unarvinte Lahariyilekku"
+LAST	Lml	"ഉണർവിന്റെ ലഹരിയിലേക്കു"
+LAST	Den	"Malayalam-language literary criticism & study published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സാഹിത്യവിമർശന പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/unarvinte-lahariyilekku"
+LAST	P2093	"M. Gangadharan"
+LAST	P212	"9788126435111"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	262
+LAST	P136	Q58854
+LAST	P393	"1"
+CREATE
+LAST	Len	"Undanum Noolanum"
+LAST	Lml	"ഉണ്ടനും നൂലനും"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/undanum-noolanum"
+LAST	P2093	"Veerankutty"
+LAST	P212	"9788126451111"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-04-28T00:00:00Z/11
+LAST	P1104	92
+LAST	P136	Q131539
+LAST	P393	"5"
+CREATE
+LAST	Len	"Unnathavidhyabhyasam:oru Nayathanthranjante Vidyabhyasa Vichinthanangal"
+LAST	Lml	"ഉന്നതവിദ്യാഭ്യാസം:ഒരു നയതന്ത്രജ്ഞന്റെ വിദ്യാഭ്യാസ വിചിന്തനങ്ങൾ"
+LAST	Den	"Malayalam-language study published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/unnathavidhyabhyasam"
+LAST	P2093	"T. P. Sreenivasan"
+LAST	P212	"9789352826018"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-01-05T00:00:00Z/11
+LAST	P1104	248
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"Unnathavijayathinu Ezhu Vazhikal"
+LAST	Lml	"ഉന്നതവിജയത്തിനു ഏഴ് വഴികൾ"
+LAST	Den	"Malayalam-language self help published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/unnathavijayathinu-ezhu-vazhikal"
+LAST	P2093	"S Harikshore IAS"
+LAST	P212	"9788126467242"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-08-31T00:00:00Z/11
+LAST	P1104	154
+LAST	P136	Q3739522
+LAST	P393	"7"
+CREATE
+LAST	Len	"Unni Express Delheennu Muthassiveettilekku"
+LAST	Lml	"ഉണ്ണി എക്സ്പ്രസ്സ് ഡെൽഹീന്നു മുത്തശ്ശിവീട്ടിലേക്കു"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/unni-express-delheennu-muthassiveettilekku"
+LAST	P2093	"Shahina E K"
+LAST	P212	"9789352824618"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-10-13T00:00:00Z/11
+LAST	P1104	52
+LAST	P136	Q131539
+LAST	P393	"2"
+CREATE
+LAST	Len	"Unnikalkku Krishnakathakal"
+LAST	Lml	"ഉണ്ണികൾക്കു കൃഷ്ണകഥകൾ"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/unnikalkku-krishnakathakal"
+LAST	P2093	"Sumangala"
+LAST	P212	"9788126439942"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-07-30T00:00:00Z/11
+LAST	P1104	132
+LAST	P136	Q131539
+LAST	P393	"8"
+CREATE
+LAST	Len	"Unnikkathakal"
+LAST	Lml	"ഉണ്ണിക്കഥകൾ"
+LAST	Den	"Malayalam-language short stories published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/unnikkathakal"
+LAST	P2093	"Mali Madhavan Nair V"
+LAST	P212	"9788126412600"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-09-30T00:00:00Z/11
+LAST	P1104	104
+LAST	P136	Q49084
+LAST	P393	"5"
+CREATE
+LAST	Len	"Unnikuttante Lokam"
+LAST	Lml	"ഉണ്ണിക്കുട്ടന്റെ ലോകം"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/unnikkuttante-lokam-1"
+LAST	P2093	"Nandanar"
+LAST	P212	"9788126428946"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2026-01-20T00:00:00Z/11
+LAST	P1104	240
+LAST	P136	Q8261
+LAST	P393	"24"
+CREATE
+LAST	Len	"Upanayanavum Samavarthanavum"
+LAST	Lml	"ഉപനയനവും സമവാർത്തനവും"
+LAST	Den	"Malayalam-language memoirs published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/upanayanavum-samavarthanavum"
+LAST	P2093	"Akkitham Achuthan Namboothiri"
+LAST	P212	"9789354323072"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-08-18T00:00:00Z/11
+LAST	P1104	168
+LAST	P136	Q112983
+LAST	P393	"2"
+CREATE
+LAST	Len	"Upanishad Kathakal"
+LAST	Lml	"ഉപനിഷദ് കഥകൾ"
+LAST	Den	"Malayalam-language spirituality & mysticism published by Sadhana : an Imprint of DC Books"
+LAST	Dml	"സാധന (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ആധ്യാത്മികതയും മിസ്റ്റിസിസവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/upanishad-kathakal"
+LAST	P2093	"Kunhikuttan Ilayathu"
+LAST	P212	"9788126466191"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-03-30T00:00:00Z/11
+LAST	P1104	126
+LAST	P136	Q168796
+LAST	P393	"1"
+CREATE
+LAST	Len	"Upanishadasarasangraham"
+LAST	Lml	"ഉപനിഷദസരസംഗ്രഹം"
+LAST	Den	"Malayalam-language philosophy published by Sadhana : an Imprint of DC Books"
+LAST	Dml	"സാധന (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള തത്ത്വശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/upanishadasarasangraham"
+LAST	P2093	"Kunhikuttan Ilayathu"
+LAST	P212	"9788126476695"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-09-30T00:00:00Z/11
+LAST	P1104	296
+LAST	P136	Q5891
+LAST	P136	Q168796
+LAST	P393	"1"
+CREATE
+LAST	Len	"Upapandavam"
+LAST	Lml	"ഉപപാണ്ഡവം"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/upapandavam"
+LAST	P2093	"S. Ramakrishnan"
+LAST	P212	"9789354826610"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-05-26T00:00:00Z/11
+LAST	P1104	368
+LAST	P136	Q8261
+LAST	P393	"2"
+CREATE
+LAST	Len	"Upasana"
+LAST	Lml	"ഉപാസന"
+LAST	Den	"Malayalam-language religion published by Sadhana : an Imprint of DC Books"
+LAST	Dml	"സാധന (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള മതം സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/upasana"
+LAST	P2093	"Acharya Narendra Bhooshan"
+LAST	P212	"9788126443031"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-09-02T00:00:00Z/11
+LAST	P1104	112
+LAST	P136	Q9174
+LAST	P393	"1"
+CREATE
+LAST	Len	"Uppayude Pranayam-makan Ezhuthunnu"
+LAST	Lml	"ഉപ്പയുടെ പ്രണയം-മകൻ എഴുതുന്നു"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/uppayude-pranayam-makan-ezhuthunnu"
+LAST	P2093	"Surab"
+LAST	P212	"9789354321832"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-02-05T00:00:00Z/11
+LAST	P1104	56
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Uppu"
+LAST	Lml	"ഉപ്പു"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/uppu"
+LAST	P2093	"O. N. V. Kurup"
+LAST	P957	"8126404787"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-07-01T00:00:00Z/11
+LAST	P1104	115
+LAST	P136	Q482
+LAST	P393	"9"
+CREATE
+LAST	Len	"Upputharissu"
+LAST	Lml	"ഉപ്പുതരിസ്സു"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/upputharissu"
+LAST	P2093	"Muse Mary"
+LAST	P212	"9789354323393"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-04-10T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q482
+LAST	P393	"1"
+CREATE
+LAST	Len	"Uriyatum Kalathe Pennungal"
+LAST	Lml	"ഉരിയാടും കാലത്തേ പെണ്ണുങ്ങൾ"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/uriyatum-kalathe-pennungal-276347220677"
+LAST	P2093	"Arya Gopi"
+LAST	P212	"9789354322730"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-06-29T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q482
+LAST	P393	"2"
+CREATE
+LAST	Len	"Urul Pottal Undakunnath Enthukond (limited Edition)"
+LAST	Lml	"ഉരുൾ പൊട്ടൽ ഉണ്ടാകുന്നത് എന്തുകൊണ്ട് (ലിമിറ്റഡ് എഡിഷൻ)"
+LAST	Den	"Malayalam-language science published by DC Refernce : an Imprint of DC Books"
+LAST	Dml	"ഡിസി റഫറൻസ് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/urul-pottal-undakunnath-enthukond-limited-edition-107414215843"
+LAST	P2093	"N K Salim"
+LAST	P212	"9789353901691"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-08-20T00:00:00Z/11
+LAST	P1104	84
+LAST	P136	Q336
+LAST	P393	"1"
+CREATE
+LAST	Len	"Uruvam"
+LAST	Lml	"ഉരുവം"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/uruvam"
+LAST	P2093	"Amal"
+LAST	P212	"9789354829734"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-05-30T00:00:00Z/11
+LAST	P1104	184
+LAST	P136	Q49084
+LAST	P393	"3"
+CREATE
+LAST	Len	"Uthamapakam"
+LAST	Lml	"ഉത്തമപാകം"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/uthamapakam"
+LAST	P2093	"Ashokan"
+LAST	P212	"9789352827930"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-04-10T00:00:00Z/11
+LAST	P1104	240
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Utharasthreevadasiddhanthangal (print on Demand)"
+LAST	Lml	"ഉത്തരസ്ത്രീവാദസിദ്ധാന്തങ്ങൾ (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST	Den	"Malayalam-language essays published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഉപന്യാസങ്ങൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/utharasthreevadasiddhanthangal"
+LAST	P2093	"Mini Alice , Shimi Paul Baby"
+LAST	P212	"9789354821516"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-01-19T00:00:00Z/11
+LAST	P1104	368
+LAST	P136	Q35760
+LAST	P393	"1"
+CREATE
+LAST	Len	"Uthuppante Kinar"
+LAST	Lml	"ഉതുപ്പാന്റെ കിണർ"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/uthuppante-kinar"
+LAST	P2093	"Karoor Neelakanta Pillai"
+LAST	P212	"9789353909598"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-11-28T00:00:00Z/11
+LAST	P1104	126
+LAST	P136	Q131539
+LAST	P393	"5"
+CREATE
+LAST	Len	"Uyirbhoopadangal"
+LAST	Lml	"ഉയിർഭൂപടങ്ങൾ"
+LAST	Den	"Malayalam-language study published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/uyirbhoopadangal"
+LAST	P2093	"Rahul Radhakrishnan"
+LAST	P212	"9789354827631"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-12-30T00:00:00Z/11
+LAST	P1104	280
+LAST	P136	Q193495
+LAST	P393	"2"
+CREATE
+LAST	Len	"V S Kerala Vikasana Sankalppangal"
+LAST	Lml	"വി സ് കേരളം വികസന സങ്കൽപ്പങ്ങൾ"
+LAST	Den	"Malayalam-language politics published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള രാഷ്ട്രീയ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/v-s-kerala-vikasana-sankalppangal"
+LAST	P2093	"Achuthanandan V S"
+LAST	P212	"9788126427703"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-07-21T00:00:00Z/11
+LAST	P1104	272
+LAST	P136	Q7163
+LAST	P136	Q11042
+LAST	P393	"2"
+CREATE
+LAST	Len	"V Sinte Athmarekha"
+LAST	Lml	"വ സിന്റെ ആത്മരേഖ"
+LAST	Den	"Malayalam-language autobiography & biography published by Trissur Current Books"
+LAST	Dml	"തൃശൂർ കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/v-sinte-athmarekha"
+LAST	P2093	"P Jayanath"
+LAST	P212	"9788194953029"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-03-31T00:00:00Z/11
+LAST	P1104	474
+LAST	P136	Q36279
+LAST	P393	"2"
+CREATE
+LAST	Len	"Va Va Vayu"
+LAST	Lml	"വാ വാ വായു"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/va-va-vayu"
+LAST	P2093	"S. Sivadas"
+LAST	P212	"9789354822421"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-03-03T00:00:00Z/11
+LAST	P1104	64
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vaalnakshathrangal"
+LAST	Lml	"വാല്നക്ഷത്രങ്ങൾ"
+LAST	Den	"Malayalam-language science published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vaalnakshathrangal"
+LAST	P2093	"George Varghese"
+LAST	P212	"9788126464456"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-08-07T00:00:00Z/11
+LAST	P1104	152
+LAST	P136	Q336
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vaank"
+LAST	Lml	"വാങ്ക്"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vaank"
+LAST	P2093	"Unni R."
+LAST	P212	"9789352823055"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-08-31T00:00:00Z/11
+LAST	P1104	115
+LAST	P136	Q49084
+LAST	P393	"8"
+CREATE
+LAST	Len	"Vaasthu Lakshanamotha 50 Planukal"
+LAST	Lml	"വാസ്തു ലക്ഷണമൊത്ത 50 പ്ലാനുകൾ"
+LAST	Den	"Malayalam-language architecture & vasthu published by Manorama Publication"
+LAST	Dml	"മനോരമ പബ്ലിക്കേഷൻ പ്രസിദ്ധീകരിച്ച മലയാള വാസ്തുവിദ്യാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vaasthu-lakshanamotha-50-planukal"
+LAST	P2093	"Kanippayyur Krishnan Namboothiripad"
+LAST	P212	"9788189004507"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-12-07T00:00:00Z/11
+LAST	P1104	152
+LAST	P393	"11"
+CREATE
+LAST	Len	"Vadakaikku Oru Hrudayam"
+LAST	Lml	"വാടകയ്ക്ക് ഒരു ഹൃദയം"
+LAST	Den	"Malayalam-language novel published by Trissur Current Books"
+LAST	Dml	"തൃശൂർ കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vadakaikku-oru-hrudayam"
+LAST	P2093	"P Padmarajan"
+LAST	P212	"9788122609844"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-03-01T00:00:00Z/11
+LAST	P1104	278
+LAST	P136	Q8261
+LAST	P393	"6"
+CREATE
+LAST	Len	"Vadakkan Eithihyamala"
+LAST	Lml	"വടക്കൻ എഐതിഹ്യമാല"
+LAST	Den	"Malayalam-language epics & myths published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഇതിഹാസങ്ങളും പുരാണങ്ങളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vadakkan-eithihyamala"
+LAST	P2093	"Vanidas Elayavoor"
+LAST	P212	"9788126466757"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-10-27T00:00:00Z/11
+LAST	P1104	656
+LAST	P136	Q9134
+LAST	P393	"7"
+CREATE
+LAST	Len	"Vadakkankattinte Sammanangal"
+LAST	Lml	"വടക്കൻകാറ്റിന്റെ സമ്മാനങ്ങൾ"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vadakkankattinte-sammanangal"
+LAST	P2093	"Murali B"
+LAST	P212	"9789352824731"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-01-24T00:00:00Z/11
+LAST	P1104	72
+LAST	P136	Q131539
+LAST	P393	"2"
+CREATE
+LAST	Len	"Vadakkanpattu Kathakal(4 Volumes) - Print on Demand"
+LAST	Lml	"വടക്കന്പാട്ടു കഥകൾ(4 വോളമീസ്) - പ്രിന്റ് ഓൺ ഡിമാൻഡ്"
+LAST	Den	"Malayalam-language collections & selected works published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സമാഹാരങ്ങളും തിരഞ്ഞെടുത്ത കൃതികളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vadakkanpattu-kathakal"
+LAST	P2093	"Vishnu Nambutiri M V"
+LAST	P212	"9788126466153"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-02-20T00:00:00Z/11
+LAST	P1104	3000
+LAST	P136	Q20540385
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vagbhata Paithrukam"
+LAST	Lml	"വാഗ്ഭടാ പൈതൃകം"
+LAST	Den	"Malayalam-language health & fitness published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vagbhata-paithrukam"
+LAST	P2093	"Valiathan M S"
+LAST	P212	"9788126438907"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2012-01-10T00:00:00Z/11
+LAST	P1104	1008
+LAST	P136	Q12147
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vaitharani"
+LAST	Lml	"വൈതരണി"
+LAST	Den	"Malayalam-language drama published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നാടകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vaitharani"
+LAST	P2093	"T N Gopinathan Nair"
+LAST	P212	"9789387942059"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2018-04-17T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q25379
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vakkinetharunna Sooryan"
+LAST	Lml	"വാക്കിനെത്തരുന്ന  സൂര്യൻ"
+LAST	Den	"Malayalam-language astrology published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ജ്യോതിഷ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vakkinetharunna--sooryan"
+LAST	P2093	"Parappanangadi Unnikrishnappanicker"
+LAST	P212	"9789354323898"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-03-17T00:00:00Z/11
+LAST	P1104	232
+LAST	P136	Q34362
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vakkukal Chekkerunnitam"
+LAST	Lml	"വാക്കുകൾ ചേക്കേറുന്നിടം"
+LAST	Den	"Malayalam-language poetry published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vakkukal-chekkerunnitam"
+LAST	P2093	"Rosemary"
+LAST	P212	"9788124019092"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-02-20T00:00:00Z/11
+LAST	P1104	80
+LAST	P136	Q482
+LAST	P393	"2"
+CREATE
+LAST	Len	"Valamarvan Gazayil Ninnum Avalude Katha Parayunnu"
+LAST	Lml	"വളമാർവാൻ ഗാസയിൽ നിന്നും അവളുടെ കഥ പറയുന്നു"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/valamarvan-gazayil-ninnum-avalude-katha-parayunnu"
+LAST	P2093	"Rahim Kadavath"
+LAST	P212	"9788126436224"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2012-01-08T00:00:00Z/11
+LAST	P1104	52
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"Valappottukal"
+LAST	Lml	"വളപ്പൊട്ടുകൾ"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/valappottukal"
+LAST	P2093	"O. N. V. Kurup"
+LAST	P212	"9788126401451"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-08-02T00:00:00Z/11
+LAST	P1104	52
+LAST	P136	Q482
+LAST	P136	Q131539
+LAST	P393	"9"
+CREATE
+LAST	Len	"Vallatholinte Balakavithakal"
+LAST	Lml	"വള്ളത്തോളിന്റെ ബാലകവിതകൾ"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vallatholinte-balakavithakal"
+LAST	P2093	"Vallathol Narayana Menon"
+LAST	P212	"9789354325298"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-07-14T00:00:00Z/11
+LAST	P1104	104
+LAST	P136	Q482
+LAST	P393	"3"
+CREATE
+LAST	Len	"Valli"
+LAST	Lml	"വള്ളി"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/valli"
+LAST	P2093	"Sheela Tomy"
+LAST	P212	"9789352828906"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-08-25T00:00:00Z/11
+LAST	P1104	384
+LAST	P136	Q8261
+LAST	P393	"9"
+CREATE
+LAST	Len	"Valluvanatan Poorakkazhchakal"
+LAST	Lml	"വള്ളുവനാടൻ പൂരക്കാഴ്ചകൾ"
+LAST	Den	"Malayalam-language memoirs published by Litmus"
+LAST	Dml	"ലിറ്റ്മസ് പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/valluvanatan-poorakkazhchakal"
+LAST	P2093	"Alankode Leelakrishnan"
+LAST	P957	"8126414685"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-05-31T00:00:00Z/11
+LAST	P1104	88
+LAST	P136	Q112983
+LAST	P136	Q36192
+LAST	P393	"3"
+CREATE
+LAST	Len	"Valluvanattile Natan Pattukal"
+LAST	Lml	"വള്ളുവനാട്ടിലെ നാടൻ പാട്ടുകൾ"
+LAST	Den	"Malayalam-language folklore published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നാടോടിവിജ്ഞാനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/valluvanattile-natan-pattukal"
+LAST	P2093	"Sivasankaran M"
+LAST	P957	"8124012784"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	144
+LAST	P136	Q36192
+LAST	P393	"3"
+CREATE
+LAST	Len	"Vamana Mahapuranam (print on Demand)"
+LAST	Lml	"വാമന മഹാപുരാണം (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST	Den	"Malayalam-language epics & myths published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഇതിഹാസങ്ങളും പുരാണങ്ങളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vamana-mahapuranam"
+LAST	P2093	"Veda Vyasa"
+LAST	P212	"9788126465415"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-07-01T00:00:00Z/11
+LAST	P1104	336
+LAST	P136	Q9134
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vamsachihnangal"
+LAST	Lml	"വംശചിഹ്നങ്ങൾ"
+LAST	Den	"Malayalam-language politics published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള രാഷ്ട്രീയ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vamsachihnangal"
+LAST	P2093	"Parameswaran C R"
+LAST	P212	"9788126434053"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-12-08T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q7163
+LAST	P136	Q11042
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vamsavaliyute Chorakkinippukal"
+LAST	Lml	"വംശാവലിയുടെ ചോരക്കിനിപ്പുകൾ"
+LAST	Den	"Malayalam-language memoirs published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vamsavaliyute-chorakkinippukal"
+LAST	P2093	"U. A. Khadar"
+LAST	P212	"9788126428618"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P1104	75
+LAST	P136	Q112983
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vanaprastham"
+LAST	Lml	"വാനപ്രസ്ഥം"
+LAST	Den	"Malayalam-language short stories published by Trissur Current Books"
+LAST	Dml	"തൃശൂർ കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vanaprastham"
+LAST	P2093	"M T Vasudevan Nair"
+LAST	P212	"9788122611359"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-02-06T00:00:00Z/11
+LAST	P1104	96
+LAST	P136	Q49084
+LAST	P393	"2"
+CREATE
+LAST	Len	"Vandi Vandi Chavittuvandi"
+LAST	Lml	"വണ്ടി വണ്ടി ചവിട്ടുവണ്ടി"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vandi-vandi-chavittuvandi"
+LAST	P2093	"S. Sivadas"
+LAST	P212	"9789354823534"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-04-12T00:00:00Z/11
+LAST	P1104	56
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vangoginte Kamuki"
+LAST	Lml	"വാന്ഗോഗിന്റെ കാമുകി"
+LAST	Den	"Malayalam-language romance published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പ്രണയകഥ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vangoginte-kamuki"
+LAST	P2093	"Jacob Abraham"
+LAST	P212	"9789354824074"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-04-30T00:00:00Z/11
+LAST	P1104	192
+LAST	P136	Q858330
+LAST	P393	"7"
+CREATE
+LAST	Len	"Vanila Krushi"
+LAST	Lml	"വാനില കൃഷി"
+LAST	Den	"Malayalam-language agriculture & gardening published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കൃഷിയും തോട്ടപരിപാലനവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vanila-krushi"
+LAST	P2093	"Koshy John"
+LAST	P957	"8126405910"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	48
+LAST	P136	Q11451
+LAST	P393	"5"
+CREATE
+LAST	Len	"Vankadalile Thuzhavallakkar"
+LAST	Lml	"വെങ്കടലിലെ തുഴവെള്ളക്കാർ"
+LAST	Den	"Malayalam-language short stories published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vankadalile-thuzhavallakkar"
+LAST	P2093	"M T Vasudevan Nair"
+LAST	P957	"8182645336"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	83
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"Varaha Mahapuranam (print on Demand)"
+LAST	Lml	"വരാഹ മഹാപുരാണം (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST	Den	"Malayalam-language epics & myths published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഇതിഹാസങ്ങളും പുരാണങ്ങളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/varaha-mahapuranam"
+LAST	P2093	"Veda Vyasa"
+LAST	P212	"9788126465392"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-07-01T00:00:00Z/11
+LAST	P1104	714
+LAST	P136	Q9134
+LAST	P393	"1"
+CREATE
+LAST	Len	"Varanasi"
+LAST	Lml	"വാരാണസി"
+LAST	Den	"Malayalam-language novel published by Trissur Current Books"
+LAST	Dml	"തൃശൂർ കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/varanasi"
+LAST	P2093	"M T Vasudevan Nair"
+LAST	P957	"8122613675"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	177
+LAST	P136	Q8261
+LAST	P393	"12"
+CREATE
+LAST	Len	"Varayum Kuriyum"
+LAST	Lml	"വരയും കുറിയും"
+LAST	Den	"Malayalam-language art published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കലാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/varayum-kuriyum--97465431059"
+LAST	P2093	"Cartoonist Sudheernath"
+LAST	P212	"9788126474967"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-12-30T00:00:00Z/11
+LAST	P1104	400
+LAST	P136	Q36649
+LAST	P393	"1"
+CREATE
+LAST	Len	"Varikayano Himayugam"
+LAST	Lml	"വരികയാണോ ഹിമയുഗം"
+LAST	Den	"Malayalam-language science published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/varikayano-himayugam"
+LAST	P2093	"Hameed Khan"
+LAST	P212	"9788126405947"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	178
+LAST	P136	Q336
+LAST	P393	"4"
+CREATE
+LAST	Len	"Variyamkunnathu Kunjahammed Haji: Malabarkalapathile Kalapakarikal"
+LAST	Lml	"വാരിയംകുന്നത് കുഞ്ഞഹമ്മദ് ഹാജി: മലബാർകലാപത്തിലെ കലാപകാരികൾ"
+LAST	Den	"Malayalam-language history published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/variyamkunnathu-kunjahammed-haji-malabarkalapathile-kalapakarikal"
+LAST	P2093	"M. Gangadharan"
+LAST	P212	"9789353905439"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-03-30T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q309
+LAST	P393	"5"
+CREATE
+LAST	Len	"Varthamanakala Varthamanangal"
+LAST	Lml	"വർത്തമാനകാല വർത്തമാനങ്ങൾ"
+LAST	Den	"Malayalam-language essays published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഉപന്യാസങ്ങൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/varthamanakala-varthamanangal"
+LAST	P2093	"Anand"
+LAST	P212	"9789389445510"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-01-01T00:00:00Z/11
+LAST	P1104	112
+LAST	P136	Q35760
+LAST	P393	"1"
+CREATE
+LAST	Len	"Varu Vijayathilekku Kuthikkam"
+LAST	Lml	"വരൂ വിജയത്തിലേക്കു കുതിക്കാം"
+LAST	Den	"Malayalam-language self help published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/varu-vijayathilekku-kuthikkam"
+LAST	P2093	"B S Warrier"
+LAST	P212	"9789354829352"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-06-18T00:00:00Z/11
+LAST	P1104	352
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Varuvin Kanuvin - Keralathe Rasippicha Kala Kayika Prakatangal ( Keralam 60 Series )"
+LAST	Lml	"വരുവിൻ കാണുവിന് - കേരളത്തെ രസിപ്പിച്ച കല കായിക പ്രകടങ്ങൾ ( കേരളം 60 സീരീസ് )"
+LAST	Den	"Malayalam-language autobiography & biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/varuvin-kanuvin-keralathe-rasippicha-kalakayika-prakatanangal"
+LAST	P2093	"Alankode Leelakrishnan"
+LAST	P212	"9789386560667"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-04-27T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q36279
+LAST	P136	Q349
+LAST	P136	Q11042
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vasavadatha X"
+LAST	Lml	"വാസവദത്ത സ്"
+LAST	Den	"Malayalam-language novel published by Saikatham Books"
+LAST	Dml	"സൈകതം ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vasavadatha-x"
+LAST	P2093	"Sajil Sreedhar"
+LAST	P212	"9789389463170"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-06-19T00:00:00Z/11
+LAST	P1104	150
+LAST	P136	Q8261
+LAST	P393	"10"
+CREATE
+LAST	Len	"Vasthusasthram Oru Samagrapatanam"
+LAST	Lml	"വാസ്തുശാസ്ത്രം ഒരു സമഗ്രപഠനം"
+LAST	Den	"Malayalam-language architecture & vasthu published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള വാസ്തുവിദ്യാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vasthusasthram-oru-samagrapatanam"
+LAST	P2093	"P V Ouseph"
+LAST	P212	"9788126463466"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P1104	184
+LAST	P393	"2"
+CREATE
+LAST	Len	"Vastu - Adhunika Yugathil"
+LAST	Lml	"വസ്തു - ആധുനിക യുഗത്തിൽ"
+LAST	Den	"Malayalam-language astrology published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള ജ്യോതിഷ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vastu-adhunika-yugathil"
+LAST	P2093	"Niranjan Babu B"
+LAST	P212	"9788126410514"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-09-26T00:00:00Z/11
+LAST	P1104	182
+LAST	P136	Q34362
+LAST	P393	"6"
+CREATE
+LAST	Len	"Vastu : Manushyajeevithathil Disakalkulla Swadheenam"
+LAST	Lml	"വസ്തു : മനുഷ്യജീവിതത്തിൽ ദിശകൾക്കുള്ള സ്വാധീനം"
+LAST	Den	"Malayalam-language architecture & vasthu published by Sadhana : an Imprint of DC Books"
+LAST	Dml	"സാധന (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള വാസ്തുവിദ്യാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vastu-manushyajeevithathil-disakalkulla-swadheenam"
+LAST	P2093	"Niranjan Babu B"
+LAST	P212	"9788126417100"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-08-31T00:00:00Z/11
+LAST	P1104	118
+LAST	P393	"2"
+CREATE
+LAST	Len	"Vastu Prasnopanishath"
+LAST	Lml	"വാസ്തു പ്രസ്‌നോപനിഷത്"
+LAST	Den	"Malayalam-language architecture & vasthu published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള വാസ്തുവിദ്യാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vastu-prasnopanishath"
+LAST	P2093	"P V Ouseph"
+LAST	P212	"9788126474929"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-01-09T00:00:00Z/11
+LAST	P1104	100
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vastuvidya"
+LAST	Lml	"വാസ്തുവിദ്യ"
+LAST	Den	"Malayalam-language architecture & vasthu published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള വാസ്തുവിദ്യാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vastuvidya"
+LAST	P2093	"Cheruvally Narayanan Nambutiri"
+LAST	P212	"9788126417018"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-11-30T00:00:00Z/11
+LAST	P1104	176
+LAST	P393	"5"
+CREATE
+LAST	Len	"Vathil Thurannitta Nagarathil"
+LAST	Lml	"വാതിൽ തുറന്നിട്ട നഗരത്തിൽ"
+LAST	Den	"Malayalam-language memoirs published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vathil-thurannitta-nagarathil"
+LAST	P2093	"C V Balakrishnan"
+LAST	P212	"9788126453702"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-09-30T00:00:00Z/11
+LAST	P1104	176
+LAST	P136	Q112983
+LAST	P393	"3"
+CREATE
+LAST	Len	"Vattankuttiraman Padicha Ahararahasyangal"
+LAST	Lml	"വട്ടൻകുട്ടിരാമൻ പഠിച്ച ആഹാരരഹസ്യങ്ങൾ"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vattankuttiraman-padicha-ahararahasyangal"
+LAST	P2093	"S. Sivadas"
+LAST	P212	"9789354822582"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-03-03T00:00:00Z/11
+LAST	P1104	64
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vayu Mahapuranam (print on Demand)"
+LAST	Lml	"വായു മഹാപുരാണം (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST	Den	"Malayalam-language epics & myths published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഇതിഹാസങ്ങളും പുരാണങ്ങളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vayu-mahapuranam"
+LAST	P2093	"Veda Vyasa"
+LAST	P212	"9788126465316"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-07-01T00:00:00Z/11
+LAST	P1104	576
+LAST	P136	Q9134
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vazhimaattangal"
+LAST	Lml	"വഴിമാറ്റങ്ങൾ"
+LAST	Den	"Malayalam-language novel published by Manorama Publication"
+LAST	Dml	"മനോരമ പബ്ലിക്കേഷൻ പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vazhimaattangal"
+LAST	P2093	"Narayan"
+LAST	P212	"9789389649444"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-12-03T00:00:00Z/11
+LAST	P1104	276
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vazhipokkan"
+LAST	Lml	"വഴിപോക്കൻ"
+LAST	Den	"Malayalam-language travel & travelogue published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള യാത്രാവിവരണം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vazhipokkan"
+LAST	P2093	"Zacharia"
+LAST	P212	"9788126438884"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-12-18T00:00:00Z/11
+LAST	P1104	283
+LAST	P136	Q1072723
+LAST	P393	"4"
+CREATE
+LAST	Len	"Vazhthappetta Poocha"
+LAST	Lml	"വാഴ്ത്തപ്പെട്ട പൂച്ച"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vazhthappetta-poocha"
+LAST	P2093	"Gracy"
+LAST	P212	"9789386560209"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-11-30T00:00:00Z/11
+LAST	P1104	72
+LAST	P136	Q131539
+LAST	P393	"5"
+CREATE
+LAST	Len	"Vedamatham"
+LAST	Lml	"വേദമതം"
+LAST	Den	"Malayalam-language philosophy published by Sadhana : an Imprint of DC Books"
+LAST	Dml	"സാധന (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള തത്ത്വശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vedamatham"
+LAST	P2093	"Chandrasekharendra Saraswathi"
+LAST	P212	"9788126440412"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-06-01T00:00:00Z/11
+LAST	P1104	295
+LAST	P136	Q5891
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vedic Sooryanamaskaram"
+LAST	Lml	"വൈദിക സൂര്യനമസ്കാരം"
+LAST	Den	"Malayalam-language yoga published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള യോഗാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vedic-sooryanamaskaram"
+LAST	P2093	"Yogacharya Vincent Earthkottayil"
+LAST	P212	"9789354321269"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-03-25T00:00:00Z/11
+LAST	P1104	232
+LAST	P393	"1"
+CREATE
+LAST	Len	"Veedu Nalla Veedu"
+LAST	Lml	"വീട് നല്ല വീട്"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/veedu-nalla-veedu"
+LAST	P2093	"S. Sivadas"
+LAST	P212	"9789354822742"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-05-04T00:00:00Z/11
+LAST	P1104	60
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Veedu Nashtapetta Oru Kutty"
+LAST	Lml	"വീട് നഷ്ടപ്പെട്ട ഒരു കുട്ടി"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/veedu-nashtapetta-oru-kutty"
+LAST	P2093	"T. Padmanabhan"
+LAST	P212	"9788126401598"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-07-21T00:00:00Z/11
+LAST	P1104	80
+LAST	P136	Q49084
+LAST	P393	"4"
+CREATE
+LAST	Len	"Veedu Paniyan 50 Planukal"
+LAST	Lml	"വീടു പണിയാൻ 50 പ്ലാനുകൾ"
+LAST	Den	"Malayalam-language architecture & vasthu published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള വാസ്തുവിദ്യാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/veedu-paniyan-50-planukal"
+LAST	P2093	"Dileep Maniyeri"
+LAST	P212	"9788126474462"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-11-29T00:00:00Z/11
+LAST	P1104	192
+LAST	P393	"1"
+CREATE
+LAST	Len	"Veendum Amen"
+LAST	Lml	"വീണ്ടും ആമേൻ"
+LAST	Den	"Malayalam-language memoirs published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/veendum-amen-"
+LAST	P2093	"Sister Jesme"
+LAST	P212	"9788126477463"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2018-09-18T00:00:00Z/11
+LAST	P1104	168
+LAST	P136	Q112983
+LAST	P136	Q36279
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"Veeralipattu Valampirishanghu Kannadibimbam"
+LAST	Lml	"വീരാളിപ്പട്ടു വലംപിരിശംഘു കണ്ണാടിബിംബം"
+LAST	Den	"Malayalam-language folklore published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നാടോടിവിജ്ഞാനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/veeralipattu-valampirishanghu-kannadibimbam"
+LAST	P2093	"Balan Nambiar"
+LAST	P957	"8126453486"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-03-18T00:00:00Z/11
+LAST	P1104	230
+LAST	P136	Q36192
+LAST	P393	"1"
+CREATE
+LAST	Len	"Veettil Oru Adukkalathottam"
+LAST	Lml	"വീട്ടിൽ ഒരു അടുക്കളത്തോട്ടം"
+LAST	Den	"Malayalam-language agriculture & gardening published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള കൃഷിയും തോട്ടപരിപാലനവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/veettil-oru-adukkalathottam"
+LAST	P2093	"Seeri"
+LAST	P957	"8171306365"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-04-15T00:00:00Z/11
+LAST	P1104	88
+LAST	P136	Q11451
+LAST	P393	"7"
+CREATE
+LAST	Len	"Vegetarian Vibhavangal"
+LAST	Lml	"വെജിറ്റേറിയൻ വിഭവങ്ങൾ"
+LAST	Den	"Malayalam-language cookery published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vegetarian-vibhavangal"
+LAST	P2093	"Zubaida Obeid"
+LAST	P212	"9788126432448"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2008-01-01T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Velichenna-prakruthiyude Divyaoushadham"
+LAST	Lml	"വെളിച്ചെണ്ണ-പ്രകൃതിയുടെ ദിവ്യഔഷധം"
+LAST	Den	"Malayalam-language health & fitness published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/velichenna-prakruthiyude-divyaoushadham"
+LAST	P2093	"Bruce Fife"
+LAST	P212	"9789352826421"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-01-01T00:00:00Z/11
+LAST	P1104	200
+LAST	P136	Q12147
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vellam"
+LAST	Lml	"വെള്ളം"
+LAST	Den	"Malayalam-language science published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vellam"
+LAST	P2093	"Ajayakumar K C"
+LAST	P957	"8126404248"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2012-01-02T00:00:00Z/11
+LAST	P1104	100
+LAST	P136	Q336
+LAST	P393	"6"
+CREATE
+LAST	Len	"Vellappokathilum Mattu Pradhana Kathakalum"
+LAST	Lml	"വെള്ളപ്പൊക്കത്തിലും മറ്റു പ്രധാന കഥകളും"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vellappokathilum-mattu-pradhana-kathakalum"
+LAST	P2093	"Thakazhi Sivasankara Pillai"
+LAST	P212	"9788126405589"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-06-24T00:00:00Z/11
+LAST	P1104	108
+LAST	P136	Q49084
+LAST	P393	"14"
+CREATE
+LAST	Len	"Vellathooval Stephente Athmakatha"
+LAST	Lml	"വെള്ളത്തൂവൽ സ്റ്റീഫന്റെ ആത്മകഥ"
+LAST	Den	"Malayalam-language autobiography & biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vellathooval-stephente-athmakatha"
+LAST	P2093	"Vellathooval Stephen"
+LAST	P212	"9789354821714"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2026-02-18T00:00:00Z/11
+LAST	P1104	168
+LAST	P136	Q36279
+LAST	P393	"3"
+CREATE
+LAST	Len	"Velluvilikale Vijayangalaakkaam"
+LAST	Lml	"വെല്ലുവിളികളെ വിജയങ്ങളാക്കാം"
+LAST	Den	"Malayalam-language self help published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/velluvilikale-vijayangalaakkaam"
+LAST	P2093	"T R S Menon"
+LAST	P957	"8126438878"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-12-01T00:00:00Z/11
+LAST	P1104	112
+LAST	P136	Q3739522
+LAST	P393	"2"
+CREATE
+LAST	Len	"Venalchoodu"
+LAST	Lml	"വേനൽചൂട്"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/venalchoodu"
+LAST	P2093	"Defne Suman"
+LAST	P212	"9789354827815"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-07-27T00:00:00Z/11
+LAST	P1104	424
+LAST	P136	Q8261
+LAST	P136	Q7553
+LAST	P393	"1"
+CREATE
+LAST	Len	"Verutheyirikkal Enna Anandam"
+LAST	Lml	"വെറുതെയിരിക്കാൻ എന്നാ ആനന്ദം"
+LAST	Den	"Malayalam-language study published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/verutheyirikkal-enna-anandam"
+LAST	P2093	"P. S. Jayan"
+LAST	P212	"9789354320385"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-02-01T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vettakkaranum Virunnukaranum"
+LAST	Lml	"വേട്ടക്കാരനും വിരുന്നുകാരനും"
+LAST	Den	"Malayalam-language study published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vettakkaranum-virunnukaranum"
+LAST	P2093	"Anand"
+LAST	P957	"8126401265"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2026-03-11T00:00:00Z/11
+LAST	P1104	368
+LAST	P136	Q193495
+LAST	P393	"9"
+CREATE
+LAST	Len	"Vettuvazhi Kavithakal"
+LAST	Lml	"വെട്ടുവഴി കവിതകൾ"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vettuvazhi-kavithakal"
+LAST	P957	"8126435690"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-05-30T00:00:00Z/11
+LAST	P1104	88
+LAST	P136	Q482
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vey Raja Vey (keralam 60 Series)"
+LAST	Lml	"വെയ് രാജാ വെയ് (കേരളം 60 സീരീസ്)"
+LAST	Den	"Malayalam-language history published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vey-raja-vey"
+LAST	P2093	"Jayan Mangad"
+LAST	P212	"9788126475117"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-01-08T00:00:00Z/11
+LAST	P1104	104
+LAST	P136	Q309
+LAST	P136	Q11042
+LAST	P393	"1"
+CREATE
+LAST	Len	"Veyil Vazhikalile Salabhasancharangal"
+LAST	Lml	"വെയിൽ വഴികളിലെ ശലഭസഞ്ചാരങ്ങൾ"
+LAST	Den	"Malayalam-language memoirs published by Saikatham Books"
+LAST	Dml	"സൈകതം ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/veyil-vazhikalile-salabhasancharangal"
+LAST	P2093	"Sabeena M Sali"
+LAST	P212	"9789389463132"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-06-11T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q112983
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vibhajanangal"
+LAST	Lml	"വിഭജനങ്ങൾ"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vibhajanangal"
+LAST	P2093	"Anand"
+LAST	P212	"9788126411856"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2026-03-10T00:00:00Z/11
+LAST	P1104	220
+LAST	P136	Q8261
+LAST	P393	"7"
+CREATE
+LAST	Len	"Viddikalude Swargam"
+LAST	Lml	"വിഡ്ഢികളുടെ സ്വർഗം"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viddikalude-swargam"
+LAST	P2093	"Vaikom Muhammad Basheer"
+LAST	P957	"8171304907"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-06-26T00:00:00Z/11
+LAST	P1104	88
+LAST	P136	Q49084
+LAST	P393	"28"
+CREATE
+LAST	Len	"Videsath Uparipadanam"
+LAST	Lml	"വിദേശത്തോ ഉപരിപഠനം"
+LAST	Den	"Malayalam-language career guidance published by I Rank : an Imprint of DC Books"
+LAST	Dml	"ഐ റാങ്ക് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള തൊഴിൽ മാർഗ്ഗനിർദ്ദേശ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/videsath-uparipadanam"
+LAST	P2093	"Sethumadhavan T P"
+LAST	P212	"9788126440368"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P1104	270
+LAST	P136	Q282049
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vidhikkushesham - Oru (chara)vanithayude Velipeduthalukal"
+LAST	Lml	"വിധിക്കുശേഷം - ഒരു (ചാര)വനിതയുടെ വെളിപ്പെടുത്തലുകൾ"
+LAST	Den	"Malayalam-language memoirs published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vidhikkushesham---oru-charavanithayude-velipeduthalukal--68245935253"
+LAST	P2093	"Fauzia Hassan"
+LAST	P212	"9788126477470"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2018-10-01T00:00:00Z/11
+LAST	P1104	256
+LAST	P136	Q112983
+LAST	P136	Q36279
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vidyaabhaasa Prasnangal Innale Innu Naale"
+LAST	Lml	"വിദ്യാഭാസ പ്രശ്നങ്ങൾ ഇന്നലെ ഇന്ന് നാളെ"
+LAST	Den	"Malayalam-language society & culture published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സമൂഹവും സംസ്കാരവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vidyaabhyaasa-prasnangal-innale-innu-naale"
+LAST	P2093	"M V Pylee"
+LAST	P212	"9788124019245"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2012-01-09T00:00:00Z/11
+LAST	P1104	326
+LAST	P136	Q11042
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vidyarthikalkku 50 Upanyasangal"
+LAST	Lml	"വിദ്യാർത്ഥികൾക്ക്  50 ഉപന്യാസങ്ങൾ"
+LAST	Den	"Malayalam-language children's literature published by DC Refernce : an Imprint of DC Books"
+LAST	Dml	"ഡിസി റഫറൻസ് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vidyarthikalkku--50-upanyasangal"
+LAST	P2093	"Sreekumar C"
+LAST	P212	"9788126410743"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-10-30T00:00:00Z/11
+LAST	P1104	104
+LAST	P136	Q131539
+LAST	P136	Q35760
+LAST	P136	Q282049
+LAST	P393	"12"
+CREATE
+LAST	Len	"Vidyarthikalkkulla Upanyasangal"
+LAST	Lml	"വിദ്യാർത്ഥികൾക്കുള്ള ഉപന്യാസങ്ങൾ"
+LAST	Den	"Malayalam-language children's literature published by DC Refernce : an Imprint of DC Books"
+LAST	Dml	"ഡിസി റഫറൻസ് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vidyarthikalkkulla-upanyasangal"
+LAST	P2093	"Mohanan P K"
+LAST	P212	"9788126431465"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-10-31T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q131539
+LAST	P136	Q282049
+LAST	P393	"4"
+CREATE
+LAST	Len	"Vighneshwaran"
+LAST	Lml	"വിഘ്നേശ്വരൻ"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vighneshwaran"
+LAST	P2093	"Pottekkat S K"
+LAST	P212	"9789353900601"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-09-22T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q131539
+LAST	P393	"4"
+CREATE
+LAST	Len	"Vihitham"
+LAST	Lml	"വിഹിതം"
+LAST	Den	"Malayalam-language literary fiction published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vihitham"
+LAST	P2093	"Subhash Chandran"
+LAST	P212	"9788182677791"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-11-01T00:00:00Z/11
+LAST	P1104	72
+LAST	P136	Q6647667
+LAST	P393	"5"
+CREATE
+LAST	Len	"Vijayathilekkoru Thakkol"
+LAST	Lml	"വിജയത്തിലേക്കൊരു താക്കോൽ"
+LAST	Den	"Malayalam-language self help published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vijathilekkoru-thakkol"
+LAST	P2093	"B S Warrier"
+LAST	P212	"9788126435531"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-06-12T00:00:00Z/11
+LAST	P1104	174
+LAST	P136	Q3739522
+LAST	P393	"5"
+CREATE
+LAST	Len	"Vijayalakshmiyute Pranayakavithakal"
+LAST	Lml	"വിജയലക്ഷ്മിയുടെ പ്രണയകവിതകൾ"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vijayalakshmiyute-pranayakavithakal"
+LAST	P2093	"Vijayalakshmi"
+LAST	P212	"9789352821945"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2018-02-21T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q482
+LAST	P136	Q858330
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vijayapadham"
+LAST	Lml	"വിജയാപദം"
+LAST	Den	"Malayalam-language non fiction published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vijayapadham"
+LAST	P2093	"Debasish Chatterji"
+LAST	P212	"9788182663084"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-11-01T00:00:00Z/11
+LAST	P1104	100
+LAST	P136	Q213051
+LAST	P393	"4"
+CREATE
+LAST	Len	"Vijayathanthrangal"
+LAST	Lml	"വിജയതന്ത്രങ്ങൾ"
+LAST	Den	"Malayalam-language self help published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vijayathanthrangal"
+LAST	P2093	"S. Sivadas"
+LAST	P212	"9788126450831"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-10-30T00:00:00Z/11
+LAST	P1104	252
+LAST	P136	Q3739522
+LAST	P136	Q131539
+LAST	P393	"5"
+CREATE
+LAST	Len	"Vijayathilekku Irupathu Padikal"
+LAST	Lml	"വിജയത്തിലേക്ക് ഇരുപതു പടികൾ"
+LAST	Den	"Malayalam-language self help published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vijayathilekku-irupathu-padikal"
+LAST	P2093	"Geethalayam Geethakrishnan"
+LAST	P957	"8126437006"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2010-01-01T00:00:00Z/11
+LAST	P1104	172
+LAST	P136	Q3739522
+LAST	P393	"14"
+CREATE
+LAST	Len	"Vijayathinethra Rahasyangal"
+LAST	Lml	"വിജയത്തിനെത്ര രഹസ്യങ്ങൾ"
+LAST	Den	"Malayalam-language self help published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vijayathinethra-rahasyangal"
+LAST	P2093	"B S Warrier"
+LAST	P212	"9789353901257"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-06-29T00:00:00Z/11
+LAST	P1104	216
+LAST	P136	Q3739522
+LAST	P393	"2"
+CREATE
+LAST	Len	"Vijayathinte Blueprint"
+LAST	Lml	"വിജയത്തിന്റെ ബ്ലേപ്രിന്റ്"
+LAST	Den	"Malayalam-language self help published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vijayathinte-blueprint"
+LAST	P2093	"Vipin V Roldant"
+LAST	P212	"9788182679887"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-11-01T00:00:00Z/11
+LAST	P1104	180
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vijayicha Purushan Parajithanaya Kamukan"
+LAST	Lml	"വിജയിച്ച പുരുഷൻ പരാജിതനായ കാമുകൻ"
+LAST	Den	"Malayalam-language literary criticism & study published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സാഹിത്യവിമർശന പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vijayicha-purushan-parajithanaya-kamukan"
+LAST	P2093	"Santhosh Manichery"
+LAST	P212	"9788124020401"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-12-07T00:00:00Z/11
+LAST	P1104	112
+LAST	P136	Q58854
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vijayikkan Oru Masthishkam"
+LAST	Lml	"വിജയിക്കാൻ ഒരു മസ്തിഷ്‌കം"
+LAST	Den	"Malayalam-language self help published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vijayikkan-oru-masthishkam"
+LAST	P2093	"John Muzhuthet"
+LAST	P212	"9788194552635"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-03-31T00:00:00Z/11
+LAST	P1104	180
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vikrithi Viseshangal"
+LAST	Lml	"വികൃതി വിശേഷങ്ങൾ"
+LAST	Den	"Malayalam-language comics / graphic novels published by Saikatham Books"
+LAST	Dml	"സൈകതം ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കോമിക്സ് / ഗ്രാഫിക് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vikrithi-viseshangal"
+LAST	P2093	"Virodhabhasan"
+LAST	P212	"9788193733882"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-06-11T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q1004
+LAST	P136	Q725377
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vikruthikal Kusruthikal"
+LAST	Lml	"വികൃതികൾ കുസൃതികൾ"
+LAST	Den	"Malayalam-language humour published by Litmus"
+LAST	Dml	"ലിറ്റ്മസ് പ്രസിദ്ധീകരിച്ച മലയാള ഹാസ്യസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vikruthikal-kusruthikal"
+LAST	P2093	"Pamman"
+LAST	P212	"9788126441952"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-07-01T00:00:00Z/11
+LAST	P1104	224
+LAST	P136	Q60548032
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vilapayathra"
+LAST	Lml	"വിലാപയാത്ര"
+LAST	Den	"Malayalam-language novel published by Trissur Current Books"
+LAST	Dml	"തൃശൂർ കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vilapayathra"
+LAST	P2093	"M T Vasudevan Nair"
+LAST	P212	"9788122611366"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-05-31T00:00:00Z/11
+LAST	P1104	88
+LAST	P136	Q8261
+LAST	P393	"12"
+CREATE
+LAST	Len	"Vilapolimayude Nattumozhikal"
+LAST	Lml	"വിലപോളിമയുടെ നാട്ടുമൊഴികൾ"
+LAST	Den	"Malayalam-language agriculture & gardening published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള കൃഷിയും തോട്ടപരിപാലനവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vilapolimayude-nattumozhikal"
+LAST	P2093	"Paulson Tham"
+LAST	P212	"9789386560421"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-04-25T00:00:00Z/11
+LAST	P1104	192
+LAST	P136	Q11451
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vimarsakar Vidooshakar Viplavakarikal - Malayala Pathrapamkthiyute Charithram (keralam 60 Series)"
+LAST	Lml	"വിമര്ശകര് വിദൂഷകൻ വിപ്ലവകാരികൾ - മലയാള പത്രപംക്തിയുടെ ചരിത്രം (കേരളം 60 സീരീസ്)"
+LAST	Den	"Malayalam-language history published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vimarshakar-vidooshakar-viplavakarikal"
+LAST	P2093	"Rajendran N P"
+LAST	P212	"9788126474127"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-10-25T00:00:00Z/11
+LAST	P1104	432
+LAST	P136	Q309
+LAST	P136	Q11042
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vincent Vangogh , Paul Gaugin , Pablo Picasso"
+LAST	Lml	"വിൻസെന്റ് വാൻഗോഗ്   പോൾ ഗൗഗിന്   പാബ്ലോ പിക്കാസോ"
+LAST	Den	"Malayalam-language autobiography & biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vincent-vangogh--paul-gaugin--pablo-picasso"
+LAST	P2093	"P. K. Venugopal"
+LAST	P212	"9788126424849"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-01-01T00:00:00Z/11
+LAST	P1104	104
+LAST	P136	Q36279
+LAST	P393	"3"
+CREATE
+LAST	Len	"Vinjana Quiz"
+LAST	Lml	"വിജ്ഞാന ക്വിസ്"
+LAST	Den	"Malayalam-language general knowledge published by Saikatham Books"
+LAST	Dml	"സൈകതം ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പൊതുവിജ്ഞാന പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vinjana-quiz"
+LAST	P2093	"T R Jayakumari"
+LAST	P212	"9789389463002"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-06-12T00:00:00Z/11
+LAST	P1104	100
+LAST	P393	"1"
+CREATE
+LAST	Len	"Virus (invisible Empire)"
+LAST	Lml	"വൈറസ് (ഇൻവിസിൽ എംപിയെ)"
+LAST	Den	"Malayalam-language science published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/virus"
+LAST	P2093	"Pranay Lal"
+LAST	P212	"9789354825620"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-08-10T00:00:00Z/11
+LAST	P1104	344
+LAST	P136	Q336
+LAST	P136	Q7553
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"Visappu"
+LAST	Lml	"വിശപ്പു"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/visappu"
+LAST	P2093	"Vaikom Muhammad Basheer"
+LAST	P957	"8171302211"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-06-25T00:00:00Z/11
+LAST	P1104	88
+LAST	P136	Q8261
+LAST	P393	"26"
+CREATE
+LAST	Len	"Vishadangale Vida"
+LAST	Lml	"വിഷാദത്തെ വിട"
+LAST	Den	"Malayalam-language health & fitness published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vishadangale-vida"
+LAST	P2093	"Sukumaran P K"
+LAST	P212	"9788126475094"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-10-26T00:00:00Z/11
+LAST	P1104	112
+LAST	P136	Q12147
+LAST	P393	"2"
+CREATE
+LAST	Len	"Vishamazhayil Illathaya Mannum Manushyanum"
+LAST	Lml	"വിഷമഴയിൽ ഇല്ലാതായ മണ്ണും മനുഷ്യനും"
+LAST	Den	"Malayalam-language environment & nature published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പരിസ്ഥിതിയും പ്രകൃതിയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vishamazhayil-illathaya-mannum-manushyanum"
+LAST	P2093	"Raveendran N"
+LAST	P212	"9788126467228"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-06-29T00:00:00Z/11
+LAST	P1104	112
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vishnu Mahapuranam (print on Demand)"
+LAST	Lml	"വിഷ്ണു മഹാപുരാണം (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST	Den	"Malayalam-language epics & myths published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഇതിഹാസങ്ങളും പുരാണങ്ങളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vishnu-mahapuranam"
+LAST	P2093	"Veda Vyasa"
+LAST	P212	"9788126465309"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-07-01T00:00:00Z/11
+LAST	P1104	400
+LAST	P136	Q9134
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vishnu Sahasranamam"
+LAST	Lml	"വിഷ്ണു സഹസ്രനാമം"
+LAST	Den	"Malayalam-language spirituality & mysticism published by Saikatham Books"
+LAST	Dml	"സൈകതം ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആധ്യാത്മികതയും മിസ്റ്റിസിസവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vishnu-sahasranamam"
+LAST	P2093	"Ashitha"
+LAST	P212	"9789382909286"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-07-16T00:00:00Z/11
+LAST	P1104	320
+LAST	P136	Q168796
+LAST	P393	"1"
+CREATE
+LAST	Len	"Visuddha Sakhimar"
+LAST	Lml	"വിശുദ്ധ സഖിമാർ"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/visuddha-sakhimar"
+LAST	P2093	"Saheera Thangal"
+LAST	P212	"9789352827916"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-05-31T00:00:00Z/11
+LAST	P1104	230
+LAST	P136	Q8261
+LAST	P437	Q193934
+LAST	P393	"4"
+CREATE
+LAST	Len	"Visudha Nabiyude Jeevacharithra Katha"
+LAST	Lml	"വിശുദ്ധ നബിയുടെ ജീവചരിത്ര കഥ"
+LAST	Den	"Malayalam-language religion published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള മതം സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/visudha-nabiyude-jeevacharithra-kadha"
+LAST	P2093	"Kabeer M K"
+LAST	P957	"8126434031"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-08-31T00:00:00Z/11
+LAST	P1104	80
+LAST	P136	Q9174
+LAST	P393	"2"
+CREATE
+LAST	Len	"Visudhapapangalute India"
+LAST	Lml	"വിശുദ്ധപാപങ്ങളുടെ ഇന്ത്യ"
+LAST	Den	"Malayalam-language travel & travelogue published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള യാത്രാവിവരണം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/visudhapapangalute-india"
+LAST	P2093	"Arun Ezhuthachan"
+LAST	P212	"9789355499769"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-02-17T00:00:00Z/11
+LAST	P1104	248
+LAST	P136	Q1072723
+LAST	P393	"6"
+CREATE
+LAST	Len	"Viswamithran - [mambazham]"
+LAST	Lml	"വിശ്വാമിത്രൻ - [മാമ്പഴം]"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viswamithran-mambazham"
+LAST	P2093	"Ullala Babu"
+LAST	P212	"9788126430413"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-02-13T00:00:00Z/11
+LAST	P1104	92
+LAST	P136	Q131539
+LAST	P393	"3"
+CREATE
+LAST	Len	"Viswaroopam"
+LAST	Lml	"വിശ്വരൂപം"
+LAST	Den	"Malayalam-language screenplay published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള തിരക്കഥ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viswaroopam"
+LAST	P2093	"Kamal Haasan"
+LAST	P212	"9788126448920"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-11-07T00:00:00Z/11
+LAST	P1104	94
+LAST	P136	Q103076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Viswasahithya Darsanangal"
+LAST	Lml	"വിശ്വസാഹിത്യ ദര്ശനങ്ങള്"
+LAST	Den	"Malayalam-language literary criticism & study published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സാഹിത്യവിമർശന പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viswasahithya-darsanangal"
+LAST	P2093	"Nellickal Muraleedharan"
+LAST	P212	"9788171307586"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-07-29T00:00:00Z/11
+LAST	P1104	540
+LAST	P136	Q58854
+LAST	P393	"12"
+CREATE
+LAST	Len	"Viswasahithyaparyadanangal"
+LAST	Lml	"വിശ്വസാഹിത്യപര്യടനങ്ങൾ"
+LAST	Den	"Malayalam-language literary criticism & study published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സാഹിത്യവിമർശന പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viswasahithyaparyadanangal-39916288676"
+LAST	P2093	"P. K. Rajasekharan"
+LAST	P212	"9789352823093"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-11-30T00:00:00Z/11
+LAST	P1104	750
+LAST	P136	Q58854
+LAST	P437	Q193934
+LAST	P393	"2"
+CREATE
+LAST	Len	"Viswasahithyatharavali (12 Volumes) [print on Demand]"
+LAST	Lml	"വിശ്വാസ്യതരാവലി (12 വോളമീസ്) [പ്രിന്റ് ഓൺ ഡിമാൻഡ്]"
+LAST	Den	"Malayalam-language collections & selected works published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സമാഹാരങ്ങളും തിരഞ്ഞെടുത്ത കൃതികളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viswasahithyatharavali"
+LAST	P212	"9788126426584"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-02-04T00:00:00Z/11
+LAST	P136	Q20540385
+LAST	P393	"1"
+CREATE
+LAST	Len	"Viswasathinte Sareerasasthram"
+LAST	Lml	"വിശ്വാസത്തിന്റെ ശരീരശാസ്ത്രം"
+LAST	Den	"Malayalam-language science published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viswasathinte-sareerasasthram"
+LAST	P2093	"Jeevan Job Thomas"
+LAST	P957	"8126419245"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	95
+LAST	P136	Q336
+LAST	P393	"1"
+CREATE
+LAST	Len	"Viswavikhyaathamaaya Mooku"
+LAST	Lml	"വിശ്വവിഖ്യാതമായ മൂക്കു"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viswavikhyaathamaaya-mooku"
+LAST	P2093	"Vaikom Muhammad Basheer"
+LAST	P212	"9788126436149"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-08-25T00:00:00Z/11
+LAST	P1104	32
+LAST	P136	Q49084
+LAST	P393	"42"
+CREATE
+LAST	Len	"Viswavikyatha Theri"
+LAST	Lml	"വിശ്വവിഖ്യാത തെറി"
+LAST	Den	"Malayalam-language collections & selected works published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സമാഹാരങ്ങളും തിരഞ്ഞെടുത്ത കൃതികളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viswavikyatha-theri"
+LAST	P212	"9788126466641"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-04-16T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q20540385
+LAST	P393	"3"
+CREATE
+LAST	Len	"Vismayangalute Lokam"
+LAST	Lml	"വിസ്മയങ്ങളുടെ ലോകം"
+LAST	Den	"Malayalam-language science published by DC Refernce : an Imprint of DC Books"
+LAST	Dml	"ഡിസി റഫറൻസ് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viswayangalute-lokom"
+LAST	P2093	"Thomas P T"
+LAST	P212	"9788126434794"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P1104	136
+LAST	P136	Q336
+LAST	P393	"2"
+CREATE
+LAST	Len	"Vitavukal Enna Krishibhoomi"
+LAST	Lml	"വിടവുകൾ എന്നാ കൃഷിഭൂമി"
+LAST	Den	"Malayalam-language study published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vitavukal-enna-krishibhoomi"
+LAST	P2093	"Anand"
+LAST	P212	"9788126436293"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2026-03-10T00:00:00Z/11
+LAST	P1104	200
+LAST	P136	Q193495
+LAST	P393	"3"
+CREATE
+LAST	Len	"Vithakkunnavante Upama"
+LAST	Lml	"വിതക്കുന്നവന്റെ ഉപമ"
+LAST	Den	"Malayalam-language drama published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നാടകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vithakkunnavante-upama"
+LAST	P2093	"K V Sarathchandran"
+LAST	P212	"9788126477197"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2018-05-18T00:00:00Z/11
+LAST	P1104	96
+LAST	P136	Q25379
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vithin Mayajalangal"
+LAST	Lml	"വിത്തിന് മായാജാലങ്ങൾ"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vithin-mayajalangal"
+LAST	P2093	"S. Sivadas"
+LAST	P212	"9789354822902"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-03-04T00:00:00Z/11
+LAST	P1104	96
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Viva Goa"
+LAST	Lml	"വിവ ജോയ്"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viva-goa"
+LAST	P2093	"C V Balakrishnan"
+LAST	P212	"9788126438983"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2012-01-11T00:00:00Z/11
+LAST	P1104	102
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vivada Cinemakal"
+LAST	Lml	"വിവാദ സിനിമകൾ"
+LAST	Den	"Malayalam-language study published by Litmus"
+LAST	Dml	"ലിറ്റ്മസ് പ്രസിദ്ധീകരിച്ച മലയാള പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vivada-cinemakal"
+LAST	P2093	"Sajan Theruvappuzha"
+LAST	P212	"9788126464586"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-02-22T00:00:00Z/11
+LAST	P1104	286
+LAST	P136	Q193495
+LAST	P136	Q11424
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vivada Keralam-keralathe Ulacha Vivadasambhavangal (keralam 60 Series)"
+LAST	Lml	"വിവാദ കേരളം-കേരളത്തെ ഉലച്ച വിവാദസംഭാവങ്ങൾ (കേരളം 60 സീരീസ്)"
+LAST	Den	"Malayalam-language history published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vivada-keralam-keralathe-ulacha-vivadasambhavangal"
+LAST	P2093	"Anoop Parameswaran"
+LAST	P212	"9789386560360"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-03-23T00:00:00Z/11
+LAST	P1104	158
+LAST	P136	Q309
+LAST	P136	Q7163
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vivaravakasam"
+LAST	Lml	"വിവരാവകാശം"
+LAST	Den	"Malayalam-language law published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നിയമ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vivarakasam"
+LAST	P2093	"V V Giri"
+LAST	P212	"9788126430512"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-10-18T00:00:00Z/11
+LAST	P1104	110
+LAST	P136	Q7748
+LAST	P393	"4"
+CREATE
+LAST	Len	"Vivekanandan Sannyasiyum Manushyanum"
+LAST	Lml	"വിവേകാനന്ദൻ സംന്യാസിയും മനുഷ്യനും"
+LAST	Den	"Malayalam-language self help published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vivekanandan-sannyasiyum-manushyanum-120559101331"
+LAST	P2093	"Veerendrakumar M P"
+LAST	P212	"9788182677012"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-09-15T00:00:00Z/11
+LAST	P1104	1200
+LAST	P136	Q3739522
+LAST	P393	"5"
+CREATE
+LAST	Len	"Viyojippinte Vangmayagal"
+LAST	Lml	"വിയോജിപ്പിന്റെ വാങ്മയങ്ങൾ"
+LAST	Den	"Malayalam-language literary criticism & study published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സാഹിത്യവിമർശന പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/viyojippinte-vangmayagal"
+LAST	P2093	"Ramakrishnan E V"
+LAST	P212	"9789354320699"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-03-20T00:00:00Z/11
+LAST	P1104	143
+LAST	P136	Q58854
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vkn Phalithangal"
+LAST	Lml	"വീക്ന ഫലിതങ്ങൾ"
+LAST	Den	"Malayalam-language humour published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഹാസ്യസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vkn-phalithangal"
+LAST	P2093	"V K N"
+LAST	P212	"9788171306329"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-02-02T00:00:00Z/11
+LAST	P1104	72
+LAST	P136	Q60548032
+LAST	P393	"4"
+CREATE
+LAST	Len	"Vote Tharam Ottakam Tharanam"
+LAST	Lml	"വോട്ട് താരം ഒട്ടകം തരണം"
+LAST	Den	"Malayalam-language politics published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള രാഷ്ട്രീയ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vote-tharam-ottakam-tharanam"
+LAST	P2093	"George Pulikkan"
+LAST	P212	"9789352827145"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-04-18T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q7163
+LAST	P393	"2"
+CREATE
+LAST	Len	"Vrukka Rogangalkulla Pachakavidhikal"
+LAST	Lml	"വൃക്ക രോഗങ്ങൾക്കുള്ള പാചകവിധികൾ"
+LAST	Den	"Malayalam-language cookery published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vrukka-rogangalkulla-pachakavidhikal"
+LAST	P2093	"Jayanth Thomas Mathew"
+LAST	P212	"9788126466283"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-03-07T00:00:00Z/11
+LAST	P1104	174
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vruthamanjary"
+LAST	Lml	"വൃത്തമഞ്ജരി"
+LAST	Den	"Malayalam-language linguistics published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഭാഷാശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vruthamanjary"
+LAST	P2093	"A. R. Rajaraja Varma"
+LAST	P212	"9788126426836"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-06-29T00:00:00Z/11
+LAST	P1104	96
+LAST	P393	"9"
+CREATE
+LAST	Len	"Vruthanthangalum Kathakalum"
+LAST	Lml	"വൃത്താന്തങ്ങളും കഥകളും"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vruthanthangalum-kathakalum"
+LAST	P2093	"Anand"
+LAST	P212	"9788126465996"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-01-18T00:00:00Z/11
+LAST	P1104	288
+LAST	P136	Q49084
+LAST	P393	"4"
+CREATE
+LAST	Len	"Vyaasa Mahabharatham [6 Volumes]-print on Demand"
+LAST	Lml	"വ്യാസ മഹാഭാരതം [6 വോളമീസ്]-പ്രിന്റ് ഓൺ ഡിമാൻഡ്"
+LAST	Den	"Malayalam-language religion published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള മതം സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vyaasa-mahabharatham-6-volumes"
+LAST	P2093	"Vidwan K Prakasam"
+LAST	P212	"9788126421480"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-03-31T00:00:00Z/11
+LAST	P1104	7140
+LAST	P136	Q9174
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vyakarana Nikhandu"
+LAST	Lml	"വ്യാകരണ നിഘണ്ടു"
+LAST	Den	"Malayalam-language dictionary published by Institute of Fundamental Education and Research"
+LAST	Dml	"ഇൻസ്റ്റിറ്റ്യൂട്ട് ഓഫ് ഫണ്ടമെന്റൽ എജ്യുക്കേഷൻ ആൻഡ് റിസർച്ച് പ്രസിദ്ധീകരിച്ച മലയാള നിഘണ്ടു"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vyakarana-nikhandu"
+LAST	P2093	"Ravi Irinchayam"
+LAST	P957	"9383885068"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	530
+LAST	P136	Q23622
+LAST	P393	"3"
+CREATE
+LAST	Len	"Vyakthithwavikaasamantrangal"
+LAST	Lml	"വ്യക്തിത്വവികാസമാന്തരങ്ങൾ"
+LAST	Den	"Malayalam-language self help published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vyakthithwavikaasamantrangal"
+LAST	P2093	"Sudheendran C V"
+LAST	P957	"8126424060"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-06-29T00:00:00Z/11
+LAST	P1104	216
+LAST	P136	Q3739522
+LAST	P393	"8"
+CREATE
+LAST	Len	"Vyakulamathavinte Kannadikkoodu"
+LAST	Lml	"വ്യാകുലമാതാവിന്റെ കണ്ണാടിക്കൂടു"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vyakulamathavinte-kannadikkoodu"
+LAST	P2093	"V. J. James"
+LAST	P212	"9789354325021"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-12-30T00:00:00Z/11
+LAST	P1104	104
+LAST	P136	Q49084
+LAST	P393	"2"
+CREATE
+LAST	Len	"Vyasanasamuchayam"
+LAST	Lml	"വ്യസനസമുച്ചയം"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vyasanasamuchayam"
+LAST	P2093	"Amal"
+LAST	P212	"9788126465514"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-02-04T00:00:00Z/11
+LAST	P1104	256
+LAST	P136	Q8261
+LAST	P393	"2"
+CREATE
+LAST	Len	"Vyasanum Vighneswaranum"
+LAST	Lml	"വ്യാസനും വിഘ്നേശ്വരനും"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vyasanum-vigneswaranum"
+LAST	P2093	"Anand"
+LAST	P212	"9788171306770"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2026-03-11T00:00:00Z/11
+LAST	P1104	104
+LAST	P136	Q8261
+LAST	P393	"13"
+CREATE
+LAST	Len	"Vyathyastharaakaan"
+LAST	Lml	"വ്യത്യസ്തരാകാൻ"
+LAST	Den	"Malayalam-language self help published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vyathyastharaakaan"
+LAST	P2093	"Alexander Jacob IPS"
+LAST	P212	"9788126435296"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-07-11T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q3739522
+LAST	P393	"21"
+CREATE
+LAST	Len	"Wanderlust"
+LAST	Lml	"വെണ്ടർലാസ്റ്"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/wanderlust"
+LAST	P2093	"Chandramathi"
+LAST	P212	"9789353902407"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-01-11T00:00:00Z/11
+LAST	P1104	126
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"Wayanadan Ramayanam"
+LAST	Lml	"വയനാടൻ രാമായണം"
+LAST	Den	"Malayalam-language folklore published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നാടോടിവിജ്ഞാനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/wayanadan-ramayanam"
+LAST	P2093	"Azeez Tharuvana"
+LAST	P212	"9789354321672"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2023-10-31T00:00:00Z/11
+LAST	P1104	232
+LAST	P136	Q36192
+LAST	P393	"3"
+CREATE
+LAST	Len	"White Fang"
+LAST	Lml	"വൈറ്റ് ഫെങ്"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/white-fang"
+LAST	P2093	"Jack London"
+LAST	P212	"9789352829194"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-11-15T00:00:00Z/11
+LAST	P1104	294
+LAST	P136	Q8261
+LAST	P136	Q7553
+LAST	P393	"1"
+CREATE
+LAST	Len	"Window Seat"
+LAST	Lml	"വിൻഡോ സീറ്റ്"
+LAST	Den	"Malayalam-language children's literature published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/window-seat"
+LAST	P2093	"Haris Nenmeni"
+LAST	P212	"9789352821969"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-06-20T00:00:00Z/11
+LAST	P1104	176
+LAST	P136	Q131539
+LAST	P393	"4"
+CREATE
+LAST	Len	"Women Eaters"
+LAST	Lml	"വുമൺ ഏറ്റെർസ്"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/women-eaters"
+LAST	P2093	"V K Deepa"
+LAST	P212	"9789354821967"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-03-17T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q49084
+LAST	P393	"6"
+CREATE
+LAST	Len	"Ya Elaahee"
+LAST	Lml	"യാ ഇലാഹീ"
+LAST	Den	"Malayalam-language collections & selected works published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സമാഹാരങ്ങളും തിരഞ്ഞെടുത്ത കൃതികളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ya-elaahee"
+LAST	P2093	"Vaikom Muhammad Basheer"
+LAST	P957	"8171307558"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2026-02-26T00:00:00Z/11
+LAST	P1104	192
+LAST	P136	Q20540385
+LAST	P136	Q35760
+LAST	P393	"15"
+CREATE
+LAST	Len	"Yagaparichayam"
+LAST	Lml	"യാഗപരിചയം"
+LAST	Den	"Malayalam-language philosophy published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള തത്ത്വശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yagaparichayam"
+LAST	P2093	"Acharya Narendra Bhooshan"
+LAST	P212	"9788126443048"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2013-10-01T00:00:00Z/11
+LAST	P1104	254
+LAST	P136	Q5891
+LAST	P393	"1"
+CREATE
+LAST	Len	"Yahootharude Ithihasakathakal (print on Demand)"
+LAST	Lml	"യഹൂദരുടെ ഇതിഹാസകഥകൾ (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST	Den	"Malayalam-language epics & myths published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഇതിഹാസങ്ങളും പുരാണങ്ങളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yahootharude-ithihasakathakal"
+LAST	P212	"9788126476107"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-07-10T00:00:00Z/11
+LAST	P1104	1000
+LAST	P136	Q9134
+LAST	P393	"1"
+CREATE
+LAST	Len	"Yathra (nitya Chaithanya Yati)"
+LAST	Lml	"യാത്ര (നിത്യ ചൈതന്യ യതി)"
+LAST	Den	"Malayalam-language travel & travelogue published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള യാത്രാവിവരണം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yathra-1"
+LAST	P2093	"Nithyachaithanya Yathi"
+LAST	P212	"9788126464609"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-06-17T00:00:00Z/11
+LAST	P1104	288
+LAST	P136	Q1072723
+LAST	P393	"12"
+CREATE
+LAST	Len	"Yathra: Indian Charithra Smarakangaliloode"
+LAST	Lml	"യാത്ര: ഇന്ത്യൻ ചരിത്ര സ്മാരകങ്ങളിലൂടെ"
+LAST	Den	"Malayalam-language travel & travelogue published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള യാത്രാവിവരണം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yathra-indian-charithra-smarakangaliloode--95800309845"
+LAST	P2093	"Viswanath K"
+LAST	P212	"9788182676855"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-10-15T00:00:00Z/11
+LAST	P1104	190
+LAST	P136	Q1072723
+LAST	P393	"3"
+CREATE
+LAST	Len	"Yayati"
+LAST	Lml	"യയാതി"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yayati"
+LAST	P2093	"Khandekar V S"
+LAST	P957	"8126404566"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2026-01-12T00:00:00Z/11
+LAST	P1104	440
+LAST	P136	Q8261
+LAST	P393	"24"
+CREATE
+LAST	Len	"Ye Sham Ki Thanhayiyam"
+LAST	Lml	"യെ ശം കി തണ്ഹായിയം"
+LAST	Den	"Malayalam-language music published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള സംഗീത പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ye-sham-ki-thanhayiyam"
+LAST	P2093	"Madhavan A D"
+LAST	P212	"9788126433339"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	124
+LAST	P136	Q638
+LAST	P393	"1"
+CREATE
+LAST	Len	"Year Ender Current Affairs and Gk"
+LAST	Lml	"ഇയർ ടെൻഡർ കറന്റ് അഫാർസ് ആൻഡ് ജികെ"
+LAST	Den	"Malayalam-language general knowledge published by I Rank : an Imprint of DC Books"
+LAST	Dml	"ഐ റാങ്ക് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള പൊതുവിജ്ഞാന പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/year-ender-current-affairs-and-gk"
+LAST	P2093	"Prayag"
+LAST	P212	"9788126449699"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2014-02-27T00:00:00Z/11
+LAST	P1104	152
+LAST	P393	"1"
+CREATE
+LAST	Len	"Yennum Arogyavaanaayirikkaan"
+LAST	Lml	"എന്നും ആരോഗ്യവാനായിരിക്കാൻ"
+LAST	Den	"Malayalam-language health & fitness published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yennum-arogyavaanaayirikkaan"
+LAST	P2093	"Varghese P A"
+LAST	P212	"9788124018392"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2012-11-04T00:00:00Z/11
+LAST	P1104	108
+LAST	P136	Q12147
+LAST	P393	"2"
+CREATE
+LAST	Len	"Yesu Christhu (mahacharithamala)"
+LAST	Lml	"യേശു ക്രിസ്തു (മഹാചരിതമാല)"
+LAST	Den	"Malayalam-language autobiography & biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yesu-christhu"
+LAST	P2093	"N Gopinathan Nair"
+LAST	P957	"8126422378"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	92
+LAST	P136	Q36279
+LAST	P393	"2"
+CREATE
+LAST	Len	"Yesuvum Christuvum Irattakalayirunnu"
+LAST	Lml	"യേശുവും ക്രിസ്തുവും ഇരട്ടകളായിരുന്നു"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yesuvum-christuvum-irattakalayirunnu"
+LAST	P2093	"Vimeesh Maniyur"
+LAST	P212	"9789354322815"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-01-28T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q482
+LAST	P393	"2"
+CREATE
+LAST	Len	"Yoga Adisthanapadangal"
+LAST	Lml	"യോഗ  അടിസ്ഥാനപദങ്ങൾ"
+LAST	Den	"Malayalam-language health & fitness published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yoga-adisthanapadangal"
+LAST	P2093	"Yogacharya M R Balachandran"
+LAST	P212	"9788126449002"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2018-02-27T00:00:00Z/11
+LAST	P1104	94
+LAST	P136	Q12147
+LAST	P393	"4"
+CREATE
+LAST	Len	"Yoga Kuttikalkku"
+LAST	Lml	"യോഗ കുട്ടികൾക്കു"
+LAST	Den	"Malayalam-language self help published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yoga-kuttikalkku"
+LAST	P2093	"Yogacharya M R Balachandran"
+LAST	P212	"9788126465200"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-08-07T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q3739522
+LAST	P393	"2"
+CREATE
+LAST	Len	"Yoga Prakruti Chikitsa"
+LAST	Lml	"യോഗ പ്രകൃതി ചികിത്സാ"
+LAST	Den	"Malayalam-language health & fitness published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yoga-prakruti-chikitsa"
+LAST	P2093	"Yogacharya Govindhan Nair"
+LAST	P212	"9788171301522"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-05-13T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q12147
+LAST	P393	"20"
+CREATE
+LAST	Len	"Yoga : Sandhivatha Mukthikku"
+LAST	Lml	"യോഗ : സന്ധിവാത മുക്തിക്കു"
+LAST	Den	"Malayalam-language health & fitness published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yoga-sandhivatha-mukthikku"
+LAST	P2093	"Yogacharya M R Balachandran"
+LAST	P212	"9788126451401"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-01-12T00:00:00Z/11
+LAST	P1104	96
+LAST	P136	Q12147
+LAST	P393	"2"
+CREATE
+LAST	Len	"Yoga Sooryanamaskaram"
+LAST	Lml	"യോഗ സൂര്യനമസ്കാരം"
+LAST	Den	"Malayalam-language health & fitness published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yoga-sooryanamaskaram"
+LAST	P2093	"Yogacharya Vincent Earthkottayil"
+LAST	P212	"9788126435920"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-11-22T00:00:00Z/11
+LAST	P1104	126
+LAST	P136	Q12147
+LAST	P393	"4"
+CREATE
+LAST	Len	"Yoga Sthreesoundaryathinu"
+LAST	Lml	"യോഗ സ്ത്രീസൗന്ദര്യത്തിനു"
+LAST	Den	"Malayalam-language health & fitness published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yoga-sthreesoundaryathinu"
+LAST	P2093	"Yogacharya Vincent Earthkottayil"
+LAST	P212	"9788126435647"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-07-16T00:00:00Z/11
+LAST	P1104	230
+LAST	P136	Q12147
+LAST	P393	"2"
+CREATE
+LAST	Len	"Yogavidya"
+LAST	Lml	"യോഗവിദ്യ"
+LAST	Den	"Malayalam-language health & fitness published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yogavidya"
+LAST	P2093	"Yogacharya Govindhan Nair"
+LAST	P212	"9788171300211"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2022-04-30T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q12147
+LAST	P393	"27"
+CREATE
+LAST	Len	"Yokkoso: Japan Viseshangal"
+LAST	Lml	"യോക്കോസോ: ജപ്പാൻ വിശേഷങ്ങൾ"
+LAST	Den	"Malayalam-language travel & travelogue published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള യാത്രാവിവരണം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yokkoso-japan-viseshangal--"
+LAST	P2093	"Ambikasuthan Mangad"
+LAST	P212	"9789354320804"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-06-30T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q1072723
+LAST	P393	"4"
+CREATE
+LAST	Len	"Yoneebhashanangal"
+LAST	Lml	"യോനീഭാഷണങ്ങൾ"
+LAST	Den	"Malayalam-language study published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yoneebhashanangal"
+LAST	P2093	"Eve Ensler"
+LAST	P212	"9789354325502"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-04-19T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"Yudasinte Suvisesham-k R Meera"
+LAST	Lml	"യൂദാസിന്റെ സുവിശേഷം-കെ ർ മീര"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yudasinte-suvisesham"
+LAST	P2093	"K. R. Meera"
+LAST	P212	"9789352821549"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2026-03-10T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q8261
+LAST	P393	"15"
+CREATE
+LAST	Len	"Yuddakaalathe Nunakalum Marakkombile Kaakkayum"
+LAST	Lml	"യുദ്ധകാലത്തെ നുണകളും മരക്കൊമ്പിലെ കാക്കയും"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yuddakaalathe-nunakalum-marakkombile-kaakkayum"
+LAST	P2093	"Karunakaran"
+LAST	P212	"9788126435579"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	104
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Yuddhavum Mruthynjayavum"
+LAST	Lml	"യുദ്ധവും മൃത്യഞ്ജയവും"
+LAST	Den	"Malayalam-language memoirs published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yuddhavum-mruthynjayavum"
+LAST	P2093	"Santhan"
+LAST	P212	"9789354826795"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-07-31T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q112983
+LAST	P393	"4"
+CREATE
+LAST	Len	"Yudhanantharam"
+LAST	Lml	"യുദ്ധാനന്തരം"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yudhanantharam"
+LAST	P2093	"Rihan Rashid"
+LAST	P212	"9789354326974"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-12-27T00:00:00Z/11
+LAST	P1104	112
+LAST	P136	Q8261
+LAST	P136	Q182015
+LAST	P393	"2"
+CREATE
+LAST	Len	"Zen Budhakathakal"
+LAST	Lml	"സിങ് ബുദ്ധകഥകൾ"
+LAST	Den	"Malayalam-language spirituality & mysticism published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആധ്യാത്മികതയും മിസ്റ്റിസിസവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/zen-budhakathakal"
+LAST	P212	"9788126477043"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2018-03-21T00:00:00Z/11
+LAST	P1104	336
+LAST	P136	Q168796
+LAST	P393	"1"
+CREATE
+LAST	Len	"Zero Bulb"
+LAST	Lml	"സീറോ ബൾബ്"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/zero-bulb"
+LAST	P2093	"Sreejith Ariyallur"
+LAST	P212	"9789354322792"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-12-27T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q482
+LAST	P393	"3"
+CREATE
+LAST	Len	"Zytglogge"
+LAST	Lml	"സ്യ്റ്ഗ്ലോഗേ"
+LAST	Den	"Malayalam-language articles published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ലേഖനങ്ങൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/zytglogge"
+LAST	P2093	"Rajagopal Kammath A"
+LAST	P212	"9789353909390"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2021-03-25T00:00:00Z/11
+LAST	P1104	239
+LAST	P136	Q35760
+LAST	P393	"1"
