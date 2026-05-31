@@ -1,0 +1,139 @@
+CREATE
+LAST	Len	"Aachaaravedi"
+LAST	Lml	"ആചാരവെടി"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/AACHAARAVEDI"
+LAST	P2093	"John Samuel"
+LAST	P957	"8126431016"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	112
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"Aagolavatkaranavum Marxisavum"
+LAST	Lml	"ആഗോളവറ്റകരണവും മാർക്സിസവും"
+LAST	Den	"Malayalam-language politics published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള രാഷ്ട്രീയ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/AAGOLAVATKARANAVUM-MARXISAVUM"
+LAST	P2093	"Pearson N M"
+LAST	P957	"8124018855"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	248
+LAST	P136	Q7163
+LAST	P393	"1"
+CREATE
+LAST	Len	"Adiyidaraathe"
+LAST	Lml	"അടിയിടാറാതെ"
+LAST	Den	"Malayalam-language autobiography & biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ADIYIDARAATHE"
+LAST	P2093	"Kalamandalam Kesavan"
+LAST	P957	"8126429208"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-07-15T00:00:00Z/11
+LAST	P1104	190
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"Agnisalabhangal"
+LAST	Lml	"അഗ്നിശലഭങ്ങൾ"
+LAST	Den	"Malayalam-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/AGNISALABHANGAL"
+LAST	P2093	"O. N. V. Kurup"
+LAST	P212	"9788126421220"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2020-09-03T00:00:00Z/11
+LAST	P1104	95
+LAST	P136	Q482
+LAST	P393	"5"
+CREATE
+LAST	Len	"Aksharaslokaratnavali"
+LAST	Lml	"അക്ഷരശ്ലോകാരത്തിനാവലി"
+LAST	Den	"Malayalam-language study published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/AKSHARASLOKARATNAVALI"
+LAST	P2093	"Kamalamma G"
+LAST	P212	"9788124016664"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2011-01-04T00:00:00Z/11
+LAST	P1104	248
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"Alanju Nadakkunnavan"
+LAST	Lml	"അലഞ്ഞു നടക്കുന്നവൻ"
+LAST	Den	"Malayalam-language spirituality & mysticism published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആധ്യാത്മികതയും മിസ്റ്റിസിസവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ALANJU-NADAKKUNNAVAN"
+LAST	P2093	"Kahlil Gibran"
+LAST	P212	"9788126432738"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-09-21T00:00:00Z/11
+LAST	P1104	64
+LAST	P136	Q168796
+LAST	P393	"3"
+CREATE
+LAST	Len	"Amithavannam"
+LAST	Lml	"അമിതവണ്ണം"
+LAST	Den	"Malayalam-language health & fitness published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/AMITHAVANNAM"
+LAST	P2093	"Gopinatha Pillai T M"
+LAST	P212	"9788126426157"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P1104	120
+LAST	P136	Q12147
+LAST	P393	"2"
+CREATE
+LAST	Len	"Ananthapuri Noottaandukaliloote"
+LAST	Lml	"അനന്തപുരി നൂറ്റാണ്ടുകളിലൂടെ"
+LAST	Den	"Malayalam-language history published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ANANTHAPURI-NOOTTAANDUKALILOOTE"
+LAST	P2093	"Sivasankaran Nair K"
+LAST	P957	"8126432209"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2017-12-07T00:00:00Z/11
+LAST	P1104	208
+LAST	P136	Q309
+LAST	P393	"2"
+CREATE
+LAST	Len	"Anantharam"
+LAST	Lml	"അനന്തരം"
+LAST	Den	"Malayalam-language screenplay published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള തിരക്കഥ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ANANTHARAM"
+LAST	P2093	"Adoor Gopalakrishnan"
+LAST	P212	"9788126434091"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	142
+LAST	P136	Q103076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Ananthathayilekku Oru Paatha"
+LAST	Lml	"അനന്തതയിലേക്ക് ഒരു പാത"
+LAST	Den	"Malayalam-language autobiography & biography published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ANANTHATHAYILEKKU-ORU-PAATHA"
+LAST	P2093	"George Gheverghese Joseph"
+LAST	P212	"9788126429714"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	240
+LAST	P136	Q36279
+LAST	P393	"1"
