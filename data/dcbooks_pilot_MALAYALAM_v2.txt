@@ -1,0 +1,140 @@
+CREATE
+LAST	Len	"103 Ganithathathwangal, Sidhaanthangal, Saastranjar"
+LAST	Lml	"103 ഗണിതതത്വങ്ങൾ  സിദ്ധാന്തങ്ങൾ  ശാസ്ത്രഞ്ജർ"
+LAST	Den	"Malayalam-language mathematics published by Mambazham : an Imprint of DC Books"
+LAST	Dml	"മാമ്പഴം (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച മലയാള ഗണിത പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/103-ganithathathwangal-sidhaanthangal-saastranjar"
+LAST	P2093	"Shayan Sen"
+LAST	P957	"8126439068"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2012-11-22T00:00:00Z/11
+LAST	P1104	240
+LAST	P136	Q395
+LAST	P393	"1"
+CREATE
+LAST	Len	"1128IL Crime 27"
+LAST	Lml	"1128യിൽ ക്രൈം 27"
+LAST	Den	"Malayalam-language drama published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നാടകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/1128il-crime-27"
+LAST	P2093	"Thomas C. J."
+LAST	P212	"9788171309443"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-05-16T00:00:00Z/11
+LAST	P1104	78
+LAST	P136	Q25379
+LAST	P393	"33"
+CREATE
+LAST	Len	"125 Nombuthura Vibhavangal"
+LAST	Lml	"125 നോമ്പുതുറ വിഭവങ്ങൾ"
+LAST	Den	"Malayalam-language cookery published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/125-nombuthura-vibhavangal"
+LAST	P2093	"Zubaida Obeid"
+LAST	P212	"9788126451029"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2016-05-31T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q605076
+LAST	P393	"2"
+CREATE
+LAST	Len	"1857 Viplavathinte Druksaakshivivaranam"
+LAST	Lml	"1857 വിപ്ലവത്തിന്റെ ദൃക്‌സാക്ഷിവിവരണം"
+LAST	Den	"Malayalam-language history published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/1857-viplavathinte-druksaakshivivaranam"
+LAST	P2093	"Vishnu Bhatt Godsey"
+LAST	P957	"8126418168"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	173
+LAST	P136	Q309
+LAST	P393	"2"
+CREATE
+LAST	Len	"24 X 7 News Channel"
+LAST	Lml	"24 സ് 7 ന്യൂസ് ചാനൽ"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/24x7-news-channel"
+LAST	P2093	"Manoj Bharathi"
+LAST	P212	"9788126439744"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2025-08-31T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q8261
+LAST	P393	"2"
+CREATE
+LAST	Len	"25 Janapriya Krishikal"
+LAST	Lml	"25 ജനപ്രിയ കൃഷികൾ"
+LAST	Den	"Malayalam-language business & management published by Manorama Publication"
+LAST	Dml	"മനോരമ പബ്ലിക്കേഷൻ പ്രസിദ്ധീകരിച്ച മലയാള ബിസിനസും മാനേജ്മെന്റും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/25-janapriya-krishikal"
+LAST	P2093	"Dr.d.shinekumar"
+LAST	P212	"9789383197781"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2014-06-06T00:00:00Z/11
+LAST	P1104	324
+LAST	P136	Q4830453
+LAST	P393	"1"
+CREATE
+LAST	Len	"366 Sufidina Sookthamgal"
+LAST	Lml	"366 സുഫിദിന സൂക്തങ്ങൾ"
+LAST	Den	"Malayalam-language short stories published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/366-sufidina-sookthamgal"
+LAST	P2093	"Hashim E M"
+LAST	P212	"9789352824304"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2018-10-24T00:00:00Z/11
+LAST	P1104	192
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"50 Thikanjavarkkulla Arogyasamrakshanam"
+LAST	Lml	"50 തികഞ്ഞവർക്കുള്ള ആരോഗ്യസംരക്ഷണം"
+LAST	Den	"Malayalam-language health & fitness published by Olive"
+LAST	Dml	"ഒലിവ് പ്രസിദ്ധീകരിച്ച മലയാള ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/50-thikanjavarkkulla-arogyasamrakshanam"
+LAST	P2093	"John Powathil"
+LAST	P212	"9789382934172"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2019-06-19T00:00:00Z/11
+LAST	P1104	130
+LAST	P136	Q12147
+LAST	P393	"1"
+CREATE
+LAST	Len	"56 Satragali"
+LAST	Lml	"56 സതൃങ്ങളി"
+LAST	Den	"Malayalam-language short stories published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/56-satragali"
+LAST	P2093	"M P Narayanapillai"
+LAST	P957	"8171308686"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	107
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"9MM Baretta"
+LAST	Lml	"9മ്മ ബ്രെട്ട"
+LAST	Den	"Malayalam-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച മലയാള നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/9mm-baretta"
+LAST	P2093	"Vinod Krishna"
+LAST	P212	"9789356433168"
+LAST	P407	Q36236
+LAST	P495	Q668
+LAST	P577	+2024-09-24T00:00:00Z/11
+LAST	P1104	496
+LAST	P136	Q8261
+LAST	P393	"5"
