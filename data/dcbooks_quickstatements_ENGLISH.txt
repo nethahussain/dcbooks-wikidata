@@ -1,0 +1,4330 @@
+CREATE
+LAST	Len	"100 Greatest Love Poems"
+LAST	Lml	"100 ഗ്രീറ്റ്സ്റ് ലവ് പോകേംസ്"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/100-greatest-love-poems"
+LAST	P212	"9789390918072"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	160
+LAST	P393	"1"
+CREATE
+LAST	Len	"English Gurunathan"
+LAST	Lml	"ഇംഗ്ലീഷ് ഗുരുനാഥൻ"
+LAST	Den	"English-language reference published by I Rank : an Imprint of DC Books"
+LAST	Dml	"ഐ റാങ്ക് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് റഫറൻസ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ENGLISH-GURUNAATHAN"
+LAST	P2093	"Vettom Mani"
+LAST	P212	"9788126424054"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2023-01-19T00:00:00Z/11
+LAST	P1104	616
+LAST	P136	Q13136
+LAST	P393	"9"
+CREATE
+LAST	Len	"The End of the Day"
+LAST	Lml	"ദി എൻഡ് ഓഫ് ദി ഡേ"
+LAST	Den	"English-language poetry published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/THE-END-OF-THE-DAY"
+LAST	P2093	"O. N. V. Kurup"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	54
+LAST	P136	Q482
+LAST	P393	"1"
+CREATE
+LAST	Len	"A Burning"
+LAST	Lml	"എ ബർണിങ്"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/a-burning"
+LAST	P2093	"Megha Majumdar"
+LAST	P212	"9780670093793"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-02-12T00:00:00Z/11
+LAST	P1104	293
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"A Fire in the Night"
+LAST	Lml	"എ ഫയർ ഇൻ ദി നൈറ്റ്"
+LAST	Den	"English-language children's literature published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/a-fire-in-the-night"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9789353334680"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-05-13T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"A Modern Moms Kitchen*"
+LAST	Lml	"എ മോഡേൺ മോൻസ് കിച്ചൻ*"
+LAST	Den	"English-language cookery published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/a-modern-moms-kitchen"
+LAST	P2093	"Lizbeth Renjith"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-12-08T00:00:00Z/11
+LAST	P1104	140
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"A Murder is Announced"
+LAST	Lml	"എ മുർഡർ ഈസ് അന്നൗൻസ്ഡ്"
+LAST	Den	"English-language novel published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/a-murder-is-announced"
+LAST	P2093	"Agatha Christie"
+LAST	P212	"9780008196554"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1950-02-02T00:00:00Z/11
+LAST	P1104	310
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"A Promised Land"
+LAST	Lml	"എ പ്രോമിസ്ഡ്‌ ലാൻഡ്"
+LAST	Den	"English-language autobiography & biography published by Viking"
+LAST	Dml	"വൈക്കിംഗ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/a-promised-land"
+LAST	P2093	"Barack Obama"
+LAST	P212	"9780241491515"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-11-15T00:00:00Z/11
+LAST	P1104	751
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"A Shadow of the Past"
+LAST	Lml	"എ ഷാഡോ ഓഫ് ദി പാസ്ററ്"
+LAST	Den	"English-language non fiction published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/a-shadow-of-the-past"
+LAST	P2093	"Mehru Jaffer"
+LAST	P212	"9789390652488"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	129
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"A Simple Way of Learning English"
+LAST	Lml	"എ സിമ്പിൾ വായ് ഓഫ് ലീർണിങ് ഇംഗ്ലീഷ്"
+LAST	Den	"English-language academics published by I Rank : an Imprint of DC Books"
+LAST	Dml	"ഐ റാങ്ക് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് അക്കാദമിക് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/a-simple-way-of-learning-english"
+LAST	P2093	"Bitter C Mukkolakkal"
+LAST	P212	"9788126451470"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-01-01T00:00:00Z/11
+LAST	P1104	80
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"A Southern Music the Karnatik Story"
+LAST	Lml	"എ സൗത്തേൺ മ്യൂസിക് ദി കർണാടിക് സ്റ്റോറി"
+LAST	Den	"English-language art published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കലാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/a-southern-music-the-karnatik-story"
+LAST	P2093	"T M Krishna"
+LAST	P212	"9789351777403"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2016-07-13T00:00:00Z/11
+LAST	P1104	608
+LAST	P136	Q36649
+LAST	P393	"1"
+CREATE
+LAST	Len	"A Time for Mercy"
+LAST	Lml	"എ ടൈം ഫോർ മേഴ്‌സി"
+LAST	Den	"English-language novel published by Hodder & Stoughton"
+LAST	Dml	"ഹോഡർ ആൻഡ് സ്റ്റോട്ടൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/a-time-for-mercy-385132541125"
+LAST	P2093	"John Grisham"
+LAST	P212	"9781529342338"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-06-17T00:00:00Z/11
+LAST	P1104	464
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Al Arabian Novel Factory"
+LAST	Lml	"അൽ അറേബ്യൻ നോവൽ ഫാക്ടറി"
+LAST	Den	"English-language literary fiction published by Juggernaut"
+LAST	Dml	"ജഗർനോട്ട് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/al-arabian-novel-factory"
+LAST	P2093	"Benyamin"
+LAST	P212	"9789353450663"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-11-30T00:00:00Z/11
+LAST	P1104	155
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Aladdins Magic Lamp and Other Stories From Arabian Nights"
+LAST	Lml	"അൽഅദ്ദിന്സ് മാജിക് ലാംപ് ആൻഡ് അദർ സ്റ്റോറീസ് ഫ്രം അറേബ്യൻ നെറ്സ്"
+LAST	Den	"English-language short stories published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/aladdins-magic-lamp-and-other-stories-from-arabian-nights"
+LAST	P2093	"Shilpa Sara Sam"
+LAST	P212	"9789387169043"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2023-07-29T00:00:00Z/11
+LAST	P1104	210
+LAST	P136	Q49084
+LAST	P136	Q131539
+LAST	P393	"2"
+CREATE
+LAST	Len	"Aleph [english]"
+LAST	Lml	"ലഫ് [ഇംഗ്ലീഷ്]"
+LAST	Den	"English-language novel published by Harper Collins Publishers"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പബ്ലിഷേഴ്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/aleph-english"
+LAST	P2093	"Paulo Coelho"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2011-01-09T00:00:00Z/11
+LAST	P1104	320
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"3"
+CREATE
+LAST	Len	"All Roads Lead to Ganga"
+LAST	Lml	"ഓൾ റോഡ്സ് ലീഡ് ടോ ഗംഗ"
+LAST	Den	"English-language children's literature published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/all-roads-lead-to-ganga"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129112132"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2008-01-16T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"An Era of Darkness the British Empire in India"
+LAST	Lml	"ആൻ ഏറെ ഓഫ് ഡാർക്നെസ്സ് ദി ബ്രിട്ടീഷ് എംപിയെ ഇൻ ഇന്ത്യ"
+LAST	Den	"English-language non fiction published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/an-era-of-darkness-the-british-empire-in-india"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9789383064656"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2016-07-13T00:00:00Z/11
+LAST	P1104	333
+LAST	P136	Q213051
+LAST	P393	"New"
+CREATE
+LAST	Len	"An Ordinary Person's Guide to Empire"
+LAST	Lml	"ആൻ ഓർഡിനറി പേഴ്സൺ'സ് ഗൈഡ് ടോ എംപിയെ"
+LAST	Den	"English-language non fiction published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/an-ordinary-persons-guide-to-empire"
+LAST	P2093	"Arundhati Roy"
+LAST	P212	"9780143419310"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2006-07-06T00:00:00Z/11
+LAST	P1104	317
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"An Unborn Desire"
+LAST	Lml	"ആൻ ഉൺബോൺ ഡിസൈർ"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/an-unborn-desire"
+LAST	P2093	"Ananya Mukherjee"
+LAST	P957	"9391256201"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"An Underground Walk"
+LAST	Lml	"ആൻ ഉണ്ടർഗ്രൗണ്ട വാക്"
+LAST	Den	"English-language children's literature published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/an-underground-walk"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9789353334284"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-06-11T00:00:00Z/11
+LAST	P1104	208
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Another Time Another Place"
+LAST	Lml	"മറ്റൊരു ടൈം മറ്റൊരു പ്ലസ്"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/another-time-another-place"
+LAST	P2093	"Chandni Sengupta"
+LAST	P957	"9389967791"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	195
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Around the World in Eighty Days"
+LAST	Lml	"അരൌന്ദ് ദി വേൾഡ് ഇൻ ഈഘട്ടി ഡേയ്സ്"
+LAST	Den	"English-language novel published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/around-the-world-in-eighty-days"
+LAST	P2093	"Jules Verne"
+LAST	P212	"9789352822539"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-04-24T00:00:00Z/11
+LAST	P1104	256
+LAST	P136	Q8261
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"At Bertrams Hotel"
+LAST	Lml	"അറ്റ് ബെർട്രാൻസ്‌ ഹോട്ടൽ"
+LAST	Den	"English-language literary fiction published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/at-bertrams-hotel"
+LAST	P2093	"Agatha Christie"
+LAST	P212	"9780008196615"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1965-07-08T00:00:00Z/11
+LAST	P1104	265
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Azadi: Freedom Fascism Fiction"
+LAST	Lml	"അസ്അദി: ഫ്രീഡം ഫാസ്‌സിസം ഫിക്ഷൻ"
+LAST	Den	"English-language non fiction published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/azadi-freedom-fascism-fiction"
+LAST	P2093	"Arundhati Roy"
+LAST	P212	"9780670094417"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-09-03T00:00:00Z/11
+LAST	P1104	243
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Badass Habits"
+LAST	Lml	"ബദാസ് ഹാബിറ്സ്"
+LAST	Den	"English-language self help published by John Murray"
+LAST	Dml	"ജോൺ മുറെ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/badass-habits"
+LAST	P2093	"Jen Sincero"
+LAST	P212	"9781529367140"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-24T00:00:00Z/11
+LAST	P1104	242
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Bare Necessities"
+LAST	Lml	"ബാരെ നെൿസിറ്റീസ്"
+LAST	Den	"English-language self help published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/bare-necessities"
+LAST	P2093	"Sahar Mansoor"
+LAST	P212	"9780143451174"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	338
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Bbc Sports Report"
+LAST	Lml	"ബിബിസി സ്പോർട്സ് റിപ്പോർട്ട്"
+LAST	Den	"English-language sports published by Bloomsbury"
+LAST	Dml	"ബ്ലൂംസ്ബറി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കായിക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/bbc-sports-report"
+LAST	P2093	"Pat Murphy"
+LAST	P212	"9781472994226"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-10-20T00:00:00Z/11
+LAST	P1104	296
+LAST	P136	Q349
+LAST	P393	"1"
+CREATE
+LAST	Len	"Becoming (english)"
+LAST	Lml	"ബികോമിങ് (ഇംഗ്ലീഷ്)"
+LAST	Den	"English-language autobiography & biography published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ആത്മകഥയും ജീവചരിത്രവും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/becoming"
+LAST	P2093	"Michelle Obama"
+LAST	P212	"9780241982976"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-06-26T00:00:00Z/11
+LAST	P1104	448
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"Bhagwaan Ke Pakwaan"
+LAST	Lml	"ഭഗവാൻ കെ പക്വമാണ്"
+LAST	Den	"English-language cookery published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/bhagwaan-ke-pakwaan-"
+LAST	P212	"9780143444626"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-04-16T00:00:00Z/11
+LAST	P1104	176
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Bhima - Lone Warrior"
+LAST	Lml	"ഭീമൻ - ലോൺ വാരിയർ"
+LAST	Den	"English-language literary fiction published by Harper Collins India"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/bhima-lone-warrior"
+LAST	P2093	"M T Vasudevan Nair"
+LAST	P212	"9789350297599"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2013-08-14T00:00:00Z/11
+LAST	P1104	373
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Bhog Naivedya : Food Offerings to the Gods"
+LAST	Lml	"ഭോഗ നൈവേദ്യ : ഫുഡ് ഓഫറിങ്സ് ടോ ദി ഗോഡ്സ്"
+LAST	Den	"English-language cookery published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/bhog-naivedya--food-offerings-to-the-gods"
+LAST	P2093	"Sujata Shukla Rajan"
+LAST	P212	"9788129144584"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	273
+LAST	P136	Q605076
+LAST	P136	Q9174
+LAST	P393	"1"
+CREATE
+LAST	Len	"Big Money Energy"
+LAST	Lml	"ബിഗ് മണിയായി എനർജി"
+LAST	Den	"English-language business & management published by John Murray"
+LAST	Dml	"ജോൺ മുറെ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബിസിനസും മാനേജ്മെന്റും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/big-money-energy"
+LAST	P2093	"Ryan Serhant"
+LAST	P212	"9781529344394"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-24T00:00:00Z/11
+LAST	P1104	227
+LAST	P136	Q4830453
+LAST	P393	"1"
+CREATE
+LAST	Len	"Blue Moon a Jack Reacher Novel"
+LAST	Lml	"ബ്ലൂ മൂൺ എ ജാക്ക് റീഷെർ നോവൽ"
+LAST	Den	"English-language novel published by Bantam Books"
+LAST	Dml	"ബാന്റം ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/blue-moon-a-jack-reacher-novel"
+LAST	P2093	"Lee Child"
+LAST	P212	"9781787630277"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-02-20T00:00:00Z/11
+LAST	P1104	384
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Body and Blood"
+LAST	Lml	"ബോഡി ആൻഡ് ബ്ലഡ്"
+LAST	Den	"English-language literary fiction published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/body-and-blood"
+LAST	P2093	"Benyamin"
+LAST	P212	"9789353578114"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-07-01T00:00:00Z/11
+LAST	P1104	229
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Boys Will Be Boys"
+LAST	Lml	"ബോയ്സ് വിൽ ബി ബോയ്സ്"
+LAST	Den	"English-language poetry published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/boys-will-be-boys"
+LAST	P2093	"Ruskin Bond"
+LAST	P957	"9390918987"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	144
+LAST	P136	Q482
+LAST	P393	"1"
+CREATE
+LAST	Len	"Broken Republic Three Essays"
+LAST	Lml	"ബ്രോക്കൻ റിപ്പബ്ലിക്ക് ത്രീ എസ്സേയ്‌സ്"
+LAST	Den	"English-language non fiction published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/broken-republic-three-essays"
+LAST	P2093	"Arundhati Roy"
+LAST	P212	"9780143419334"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2011-03-02T00:00:00Z/11
+LAST	P1104	188
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Buried Thoughts-one Life, Many Stories"
+LAST	Lml	"ബുറൈദ്‌ തൗഘ്റ്സ്-ഒന്നു ലൈഫ്  മെനി സ്റ്റോറീസ്"
+LAST	Den	"English-language memoirs published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/buried-thoughts-one-life-many-stories"
+LAST	P2093	"Joseph Annamkutty Jose"
+LAST	P212	"9788126477401"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2025-08-25T00:00:00Z/11
+LAST	P1104	312
+LAST	P136	Q112983
+LAST	P437	Q193934
+LAST	P393	"23"
+CREATE
+LAST	Len	"Calypso Christmas"
+LAST	Lml	"കാലിപ്സോ ക്രിസ്മസ്"
+LAST	Den	"English-language children's literature published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/calypso-christmas"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9789353334307"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-05-07T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q131539
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"Cherry Blossom"
+LAST	Lml	"ചെറി ബ്ലോസോചം"
+LAST	Den	"English-language novel published by Expressions a Self Publishing Service of DC Press"
+LAST	Dml	"എക്സ്പ്രഷൻസ് (ഡിസി പ്രസ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/cherry-blossom"
+LAST	P2093	"Abel Johnson Thundil"
+LAST	P212	"9789385752483"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-01-10T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"City of Bones"
+LAST	Lml	"സിറ്റി ഓഫ് ബോണസ്"
+LAST	Den	"English-language novel published by Walker Books"
+LAST	Dml	"വാക്കർ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/city-of-bones-english"
+LAST	P2093	"Cassandra Clare"
+LAST	P212	"9781406307627"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2008-07-21T00:00:00Z/11
+LAST	P1104	528
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"Cmat a Gateway to Dream Mba"
+LAST	Lml	"ക്മത് എ ഗേറ്റ്വേ ടോ ഡ്രീം മ്പ"
+LAST	Den	"English-language reference published by I Rank : an Imprint of DC Books"
+LAST	Dml	"ഐ റാങ്ക് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് റഫറൻസ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/cmat-a-gateway-to-dream-mba"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1970-01-01T00:00:00Z/11
+LAST	P1104	272
+LAST	P136	Q13136
+LAST	P393	"1"
+CREATE
+LAST	Len	"Collected Essays and Interviews 1998-2012"
+LAST	Lml	"കല്ലെക്ടഡ് എസ്സേയ്‌സ് ആൻഡ് ഇന്റർവ്യൂസ് 1998-2012"
+LAST	Den	"English-language non fiction published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/collected-essays-and-interviews-1998-2012"
+LAST	P2093	"Arundhati Roy"
+LAST	P212	"9780143420583"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2013-01-01T00:00:00Z/11
+LAST	P1104	2000
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Collector Bro: the Quixotic 'thallals' of a Civil Servant"
+LAST	Lml	"കളക്ടർ ബ്രോ: ദി ക്വിസൊറ്റിക് 'തള്ളല്സ്' ഓഫ് എ സിവിൽ സെർവാന്റ"
+LAST	Den	"English-language memoirs published by Notion Press"
+LAST	Dml	"നോഷൻ പ്രസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/collector-bro-the-quixotic-thallals-of-a-civil-servant"
+LAST	P2093	"Prasanth Nair IAS"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-15T00:00:00Z/11
+LAST	P1104	220
+LAST	P136	Q112983
+LAST	P393	"1"
+CREATE
+LAST	Len	"Colouring the Enchanted Forest - to Make You Smile"
+LAST	Lml	"ളറിങ് ദി എന്റച്ഛന്റേഡ് ഫോറെസ്റ് - ടോ മാകെ യു സ്മൈലി"
+LAST	Den	"English-language art published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കലാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/colouring-the-enchanted-forest-to-make-you-smile"
+LAST	P2093	"Sacheendran Karadka"
+LAST	P212	"9789386680815"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-09-08T00:00:00Z/11
+LAST	P1104	48
+LAST	P136	Q36649
+LAST	P393	"1"
+CREATE
+LAST	Len	"Colouring the Life of Water -to Get Rid of Stress"
+LAST	Lml	"ളറിങ് ദി ലൈഫ് ഓഫ് വാട്ടർ -ടോ ഗെറ്റ് റൈഡ് ഓഫ് സ്ട്രെസ്"
+LAST	Den	"English-language art published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കലാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/colouring-the-life-of-water-to-get-rid-of-stress"
+LAST	P2093	"Sacheendran Karadka"
+LAST	P212	"9789386680792"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-08-31T00:00:00Z/11
+LAST	P1104	50
+LAST	P136	Q36649
+LAST	P393	"1"
+CREATE
+LAST	Len	"Confessions of a Girl-next-door"
+LAST	Lml	"കോൺഫെഷൻസ് ഓഫ് എ ഗേൾ-നെക്സ്റ്റ്-ഡോർ"
+LAST	Den	"English-language novel published by Mira"
+LAST	Dml	"മിറ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/confessions-of-a-girl-next-door"
+LAST	P2093	"Jackie Braun"
+LAST	P212	"9788184748468"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-02-01T00:00:00Z/11
+LAST	P1104	252
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Confessions of a Thug"
+LAST	Lml	"കോൺഫെഷൻസ് ഓഫ് എ തഗ്"
+LAST	Den	"English-language novel published by India Book Distributors"
+LAST	Dml	"ഇന്ത്യ ബുക്ക് ഡിസ്ട്രിബ്യൂട്ടേഴ്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/confessions-of-a-thug"
+LAST	P2093	"Philip Meadows Taylor"
+LAST	P212	"9789387585119"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-06-12T00:00:00Z/11
+LAST	P1104	600
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Customer to Human"
+LAST	Lml	"കസ്റ്റമർ ടോ ഹ്യൂമൻ"
+LAST	Den	"English-language business & management published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബിസിനസും മാനേജ്മെന്റും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/customer-to-human"
+LAST	P2093	"Murali Balaraman"
+LAST	P212	"9780670095650"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	327
+LAST	P136	Q4830453
+LAST	P393	"1"
+CREATE
+LAST	Len	"Darklands"
+LAST	Lml	"ഡാർക്‌ലാൻഡ്‌സ്"
+LAST	Den	"English-language literary fiction published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/darklands"
+LAST	P2093	"Arnav Das Sharma"
+LAST	P212	"9780143439929"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	248
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Death on the Nile"
+LAST	Lml	"ഡെപ്ത് ഓൺ ദി നൈൽ"
+LAST	Den	"English-language novel published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/death-on-the-nile"
+LAST	P2093	"Agatha Christie"
+LAST	P212	"9780007527557"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1937-09-20T00:00:00Z/11
+LAST	P1104	416
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Delhi a Soliloquy"
+LAST	Lml	"ഡൽഹി എ സോളിലൊക്യുയ"
+LAST	Den	"English-language literary fiction published by Westland"
+LAST	Dml	"വെസ്റ്റ്‌ലാൻഡ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/delhi-a-soliloquy-english"
+LAST	P2093	"M. Mukundan"
+LAST	P212	"9789389648263"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2011-09-13T00:00:00Z/11
+LAST	P1104	537
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Delhi, in Thy Name: the Many Legends That Make a City"
+LAST	Lml	"ഡൽഹി  ഇൻ തൈ നെയിം: ദി മെനി ലെജന്ഡ്സ് ദാറ്റ് മാകെ എ സിറ്റി"
+LAST	Den	"English-language history published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/delhi-in-thy-name-the-many-legends-that-make-a-city"
+LAST	P2093	"Adrija Roychowdhary"
+LAST	P957	"9355200390"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	209
+LAST	P136	Q309
+LAST	P393	"1"
+CREATE
+LAST	Len	"Dharma"
+LAST	Lml	"ധര്മ"
+LAST	Den	"English-language epics & myths published by Westland"
+LAST	Dml	"വെസ്റ്റ്‌ലാൻഡ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇതിഹാസങ്ങളും പുരാണങ്ങളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/dharma"
+LAST	P2093	"Amish"
+LAST	P212	"9789389648881"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-17T00:00:00Z/11
+LAST	P1104	198
+LAST	P136	Q9134
+LAST	P393	"1"
+CREATE
+LAST	Len	"Diary of a Wimpy Kid - Box of 14 Books (books 1 - 13 + Diy Book)"
+LAST	Lml	"ഡയറി ഓഫ് എ വൈഎംപി കിഡ് - ബോക്സ് ഓഫ് 14 ബുക്ക്സ് (ബുക്ക്സ് 1 - 13 + ദിയ ബുക്ക്)"
+LAST	Den	"English-language children's literature published by Puffin"
+LAST	Dml	"പഫിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/diary-of-a-wimpy-kid---box-of-14-books"
+LAST	P2093	"Jeff Kinney"
+LAST	P212	"9780241567418"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-10-18T00:00:00Z/11
+LAST	P1104	2600
+LAST	P136	Q131539
+LAST	P136	Q1004
+LAST	P136	Q725377
+LAST	P393	"1"
+CREATE
+LAST	Len	"Diary of a Wimpy Kid Big Shot"
+LAST	Lml	"ഡയറി ഓഫ് എ വൈഎംപി കിഡ് ബിഗ് ഷോട്ട്"
+LAST	Den	"English-language children's literature published by Puffin"
+LAST	Dml	"പഫിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/diary-of-a-wimpy-kid-big-shot"
+LAST	P2093	"Jeff Kinney"
+LAST	P212	"9780241454145"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-10-26T00:00:00Z/11
+LAST	P1104	217
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Dictionary of Essential Synonyms and Antonyms"
+LAST	Lml	"ഡിക്ഷണറി ഓഫ് എസ്സെന്റില് സ്യനോണിമസ് ആൻഡ് ആന്റണിക്സ്"
+LAST	Den	"English-language non fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/dictionary-of-essential-synonyms-and-antonyms"
+LAST	P2093	"Masood Ishaq"
+LAST	P212	"9789390547081"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	425
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Digital Photographer's Handbook"
+LAST	Lml	"ഡിജിറ്റൽ ഫോട്ടോഗ്രാഫർ'സ് ഹാൻഡ്‌ബുക്"
+LAST	Den	"English-language art published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കലാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/digital-photographers-handbook"
+LAST	P2093	"Tom Ang"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2016-03-08T00:00:00Z/11
+LAST	P1104	408
+LAST	P136	Q36649
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Digital Photographer's Handbook (lead Title)"
+LAST	Lml	"ഡിജിറ്റൽ ഫോട്ടോഗ്രാഫർ'സ് ഹാൻഡ്‌ബുക് (ലീഡ് ടൈറ്റിൽ)"
+LAST	Den	"English-language art published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കലാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/digital-photographers-handbook-lead-title"
+LAST	P2093	"Tom Ang"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-01-28T00:00:00Z/11
+LAST	P1104	408
+LAST	P136	Q36649
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Dracula (mango)"
+LAST	Lml	"ഡ്രാക്കുള (മംഗോ)"
+LAST	Den	"English-language novel published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/dracula-362237819160"
+LAST	P2093	"Bram Stoker"
+LAST	P212	"9789352822775"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-07-30T00:00:00Z/11
+LAST	P1104	300
+LAST	P136	Q8261
+LAST	P136	Q131539
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"Dragon in the Tunnel"
+LAST	Lml	"ഡ്രാഗൺ ഇൻ ദി ട്യുന്നേൽ"
+LAST	Den	"English-language children's literature published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/dragon-in-the-tunnel"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129149183"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-11-23T00:00:00Z/11
+LAST	P1104	126
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Drdo Institutions That Shaped Modern India"
+LAST	Lml	"ദൃഡ ഇന്സ്ടിട്യൂഷൻസ് ദാറ്റ് ഷെപേഡ് മോഡേൺ ഇന്ത്യ"
+LAST	Den	"English-language business & management published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബിസിനസും മാനേജ്മെന്റും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/drdo-institutions-that-shaped-modern-india"
+LAST	P2093	"Ravi Kumar Gupta"
+LAST	P212	"9789390356720"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-23T00:00:00Z/11
+LAST	P1104	215
+LAST	P136	Q4830453
+LAST	P393	"1"
+CREATE
+LAST	Len	"Dune"
+LAST	Lml	"ഡൂൺ"
+LAST	Den	"English-language novel published by Hachette Book Group"
+LAST	Dml	"ഹാഷെറ്റ് ബുക്ക് ഗ്രൂപ്പ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/dune--50436466821"
+LAST	P2093	"Frank Herbert"
+LAST	P212	"9780340960196"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1965-03-24T00:00:00Z/11
+LAST	P1104	577
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Ethnic Kerala Dishes"
+LAST	Lml	"എത്നിക് കേരളം ഡിഷസ്"
+LAST	Den	"English-language cookery published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ethnic-kerala-dishes"
+LAST	P2093	"Suma Sivadas"
+LAST	P212	"9788126464289"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-07-31T00:00:00Z/11
+LAST	P1104	182
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Eyes of the Cat"
+LAST	Lml	"എയെസ് ഓഫ് ദി കാട്"
+LAST	Den	"English-language children's literature published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/eyes-of-the-cat"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129148049"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-07-13T00:00:00Z/11
+LAST	P1104	124
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Fables From the Animal Kingdom"
+LAST	Lml	"ഫാബ്‌ലെസ് ഫ്രം ദി ആനിമൽ കിങ്ഡം"
+LAST	Den	"English-language short stories published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/fables-from-the-animal-kingdom"
+LAST	P212	"9789352829019"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2023-07-27T00:00:00Z/11
+LAST	P1104	288
+LAST	P136	Q49084
+LAST	P136	Q131539
+LAST	P393	"2"
+CREATE
+LAST	Len	"False Allies : India's Maharajas in the Age of Ravi Varma"
+LAST	Lml	"ഫാൾസ് ആലിസ് : ഇന്ത്യ'സ് മഹാരാജാസ് ഇൻ ദി അജ് ഓഫ്‌ രവി വർമ്മ"
+LAST	Den	"English-language history published by Juggernaut"
+LAST	Dml	"ജഗർനോട്ട് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/false-allies-indias-maharajas-in-the-age-of-ravi-varma"
+LAST	P2093	"Manu S. Pillai"
+LAST	P212	"9789391165895"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-09-24T00:00:00Z/11
+LAST	P1104	530
+LAST	P136	Q309
+LAST	P393	"1"
+CREATE
+LAST	Len	"Five Point Someone"
+LAST	Lml	"ഫൈവ് പോയിന്റ് സോമേനോനെ"
+LAST	Den	"English-language indian fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇന്ത്യൻ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/five-point-someone"
+LAST	P2093	"Chetan Bhagat"
+LAST	P212	"9788129135490"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-06-19T00:00:00Z/11
+LAST	P1104	267
+LAST	P393	"1"
+CREATE
+LAST	Len	"Flavours Across the World*"
+LAST	Lml	"ഫ്ലാവോഴ്സ് അക്രോസ്സ് ദി വേൾഡ്*"
+LAST	Den	"English-language cookery published by DC Life"
+LAST	Dml	"ഡിസി ലൈഫ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/flavours-across-the-world"
+LAST	P2093	"Lisa Joji"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-11-03T00:00:00Z/11
+LAST	P1104	64
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Francis Itty Cora (english)"
+LAST	Lml	"ഫ്രാൻസിസ് ഇട്ടി കോര (ഇംഗ്ലീഷ്)"
+LAST	Den	"English-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/francis-itty-cora-english"
+LAST	P2093	"T. D. Ramakrishnan"
+LAST	P212	"9789353902568"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-01-06T00:00:00Z/11
+LAST	P1104	350
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Fraternity Eternal"
+LAST	Lml	"ഫ്രറ്റേർണിറ്റി ഏറെർനാൽ"
+LAST	Den	"English-language memoirs published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/fraternity-eternal"
+LAST	P2093	"Retnaraj Sushil Raj"
+LAST	P212	"9789354821806"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-19T00:00:00Z/11
+LAST	P1104	344
+LAST	P136	Q112983
+LAST	P393	"1"
+CREATE
+LAST	Len	"Gandhi Before India"
+LAST	Lml	"ഗാന്ധി ബിഫോർ ഇന്ത്യ"
+LAST	Den	"English-language non fiction published by Allen Lane"
+LAST	Dml	"അലൻ ലെയ്ൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/gandhi-before-india"
+LAST	P2093	"Ramachandra Guha"
+LAST	P212	"9780670083879"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2013-09-05T00:00:00Z/11
+LAST	P1104	688
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Get Out of Your Own Way"
+LAST	Lml	"ഗെറ്റ് ഔട്ട് ഓഫ് യുവർ ടൗണ് വായ്"
+LAST	Den	"English-language self help published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/get-out-of-your-own-way"
+LAST	P2093	"Mark Goulston Philip Goldberg"
+LAST	P212	"9789390260164"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	164
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Gods Without Men"
+LAST	Lml	"ഗോഡ്സ് വിതൗട് മെൻ"
+LAST	Den	"English-language novel published by Hamish Hamilton"
+LAST	Dml	"ഹാമിഷ് ഹാമിൽട്ടൺ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/gods-without-men"
+LAST	P2093	"Hari Kunzru"
+LAST	P212	"9780241145319"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-03-01T00:00:00Z/11
+LAST	P1104	400
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Golden English for Class - 10"
+LAST	Lml	"ഗോൾഡൻ ഇംഗ്ലീഷ് ഫോർ ക്ലാസ് - 10"
+LAST	Den	"English-language academics published by New Age"
+LAST	Dml	"ന്യൂ ഏജ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് അക്കാദമിക് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/golden-english-for-class---10-"
+LAST	P2093	"Dahiya"
+LAST	P212	"9788122449570"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-05-11T00:00:00Z/11
+LAST	P1104	330
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"Golden Mathematics for Class- X"
+LAST	Lml	"ഗോൾഡൻ മാത്തമാറ്റിക്സ് ഫോർ ക്ലാസ്- സ്"
+LAST	Den	"English-language academics published by New Age"
+LAST	Dml	"ന്യൂ ഏജ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് അക്കാദമിക് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/golden-mathematics-for-class--x"
+LAST	P2093	"Hari Kishan"
+LAST	P212	"9788122437645"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-01-06T00:00:00Z/11
+LAST	P1104	345
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"Gopal's Gully"
+LAST	Lml	"ഗോപാൽ'സ് കുളി"
+LAST	Den	"English-language literary fiction published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/gopals-gully"
+LAST	P2093	"Zarin Virji"
+LAST	P212	"9780143451907"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	142
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Greatest Essays"
+LAST	Lml	"ഗ്രീറ്റ്സ്റ് എസ്സേയ്‌സ്"
+LAST	Den	"English-language essays published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഉപന്യാസങ്ങൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/greatest-essays"
+LAST	P957	"9389967910"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	541
+LAST	P136	Q35760
+LAST	P393	"1"
+CREATE
+LAST	Len	"Guinness World Records 2022"
+LAST	Lml	"ഗിന്നസ് വേൾഡ് റെക്കോർഡ്‌സ് 2022"
+LAST	Den	"English-language reference published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് റഫറൻസ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/guinness-world-records"
+LAST	P2093	"Guinness World Records"
+LAST	P212	"9781913484118"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-10-30T00:00:00Z/11
+LAST	P1104	256
+LAST	P136	Q13136
+LAST	P393	"1"
+CREATE
+LAST	Len	"Guyton & Hall Textbook of Medical Physiology"
+LAST	Lml	"ഗുയ്ടോൻ &amp; ഹാൾ റെസ്റ്ബുക് ഓഫ് മെഡിക്കൽ പഹൈസിയോളജി"
+LAST	Den	"English-language academics published by Elsevier"
+LAST	Dml	"എൽസെവിയർ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് അക്കാദമിക് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/guyton"
+LAST	P2093	"Vaz"
+LAST	P212	"9788131244661"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2016-04-06T00:00:00Z/11
+LAST	P1104	1175
+LAST	P136	Q193495
+LAST	P393	"2"
+CREATE
+LAST	Len	"Hamnet"
+LAST	Lml	"ഹാംലെറ്"
+LAST	Den	"English-language literary fiction published by Hachette India"
+LAST	Dml	"ഹാഷെറ്റ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/hamnet"
+LAST	P2093	"Maggie O'farrell"
+LAST	P212	"9781472223821"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	372
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Hangwoman Everyone Loves a Good Hanging"
+LAST	Lml	"ഹാങ്‌വമാണ് എവെരിക്കോണേ ലോവേസ് എ ഗുഡ് ഹാങ്ങിങ്"
+LAST	Den	"English-language novel published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/hangwoman-everyone-loves-a-good-hanging"
+LAST	P2093	"K. R. Meera"
+LAST	P212	"9780143424697"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2014-08-03T00:00:00Z/11
+LAST	P1104	435
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Harry Potter and the Cursed Child- Pb"
+LAST	Lml	"ഹാരി പോട്ടർ ആൻഡ് ദി കസേഡ് ചൈൽഡ്- പ്പ്"
+LAST	Den	"English-language novel published by Hachette India"
+LAST	Dml	"ഹാഷെറ്റ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/harry-potter-and-the-cursed-child--pb"
+LAST	P2093	"J K Rowling"
+LAST	P212	"9780751565362"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2016-07-31T00:00:00Z/11
+LAST	P1104	338
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Hema Malini Beyond the Dream Girl"
+LAST	Lml	"ഹേമ മാലിനി ബീയോണ്ട് ദി ഡ്രീം ഗേൾ"
+LAST	Den	"English-language art published by Harper Collins India"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കലാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/hema-malini-beyond-the-dream-girl"
+LAST	P2093	"Ram Kamal Mukherjee"
+LAST	P212	"9789352773220"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-07-11T00:00:00Z/11
+LAST	P1104	256
+LAST	P136	Q36649
+LAST	P393	"1"
+CREATE
+LAST	Len	"Higher Education in India: Politics and Policies"
+LAST	Lml	"ഹയർ എഡ്യൂക്കേഷൻ ഇൻ ഇന്ത്യ: പൊളിറ്റിക്സ് ആൻഡ് പോളിസിസ്"
+LAST	Den	"English-language study published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/higher-education-in-india-politics-and-policies"
+LAST	P2093	"Dr.v.sivadasan"
+LAST	P212	"9789353901868"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-12-10T00:00:00Z/11
+LAST	P1104	208
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"Hippie"
+LAST	Lml	"ഹിപ്പിക്"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/hippie-english"
+LAST	P2093	"Paulo Coelho"
+LAST	P212	"9780143448723"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-02-01T00:00:00Z/11
+LAST	P1104	279
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P136	Q36279
+LAST	P393	"New"
+CREATE
+LAST	Len	"Honour"
+LAST	Lml	"ഹൊനൗർ"
+LAST	Den	"English-language novel published by Viking"
+LAST	Dml	"വൈക്കിംഗ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/honour-"
+LAST	P2093	"Elif Shafak"
+LAST	P212	"9780670784837"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2013-02-28T00:00:00Z/11
+LAST	P1104	342
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"How Deepak Parekh Grew Hdfc Group Exponentially"
+LAST	Lml	"ഹൌ ദീപക് പരേഖ് ഗ്രീവ ഹദഫ്ക് ഗ്രൂപ്പ് സ്‌പോൺണ്ടില്ല്യ"
+LAST	Den	"English-language business & management published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബിസിനസും മാനേജ്മെന്റും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/how-deepak-parekh-grew-hdfc-group-exponentially"
+LAST	P212	"9789390547104"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-23T00:00:00Z/11
+LAST	P1104	147
+LAST	P136	Q4830453
+LAST	P393	"1"
+CREATE
+LAST	Len	"How Harsh Mariawala Groomed Marico"
+LAST	Lml	"ഹൌ ഹർഷ് മരിയാവാല ഗ്രൂമെദ് മാറിക്കോ"
+LAST	Den	"English-language business & management published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബിസിനസും മാനേജ്മെന്റും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/how-harsh-mariawala-groomed-marico"
+LAST	P212	"9789390260232"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-23T00:00:00Z/11
+LAST	P1104	146
+LAST	P136	Q4830453
+LAST	P393	"1"
+CREATE
+LAST	Len	"How to Develop Self Confidence & Influence People"
+LAST	Lml	"ഹൌ ടോ ഡെവലപ്പ് സെല്ഫ് കോൺഫിഡൻസ് &amp; ഇൻഫ്ലുൻസ പീപ്പിൾ"
+LAST	Den	"English-language self help published by Adarsh Books"
+LAST	Dml	"ആദർശ് ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/how-to-develop-self-confidence"
+LAST	P2093	"Dale Carnegie"
+LAST	P212	"9788183631303"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-07-01T00:00:00Z/11
+LAST	P1104	218
+LAST	P136	Q3739522
+LAST	P437	Q193934
+LAST	P393	"new"
+CREATE
+LAST	Len	"How to Tackle Civil Service"
+LAST	Lml	"ഹൌ ട്ടോ ടാക്കളെ സിവിൽ സർവീസ്"
+LAST	Den	"English-language self help published by I Rank : an Imprint of DC Books"
+LAST	Dml	"ഐ റാങ്ക് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/how-to-tackle-civil-service"
+LAST	P2093	"Ashok B"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2013-12-02T00:00:00Z/11
+LAST	P1104	134
+LAST	P136	Q3739522
+LAST	P393	"2"
+CREATE
+LAST	Len	"Ibps Rrb Po and Clerk: Mock Test Papers"
+LAST	Lml	"ഇപ്പ്സ് റാബി പോ ആൻഡ് ക്ലാർക്ക്: മോക്ക് ടെസ്റ്റ് പപെര്സ്"
+LAST	Den	"English-language non fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ibps-rrb-po-and-clerk-mock-test-papers-183978484986"
+LAST	P2093	"Adda247"
+LAST	P212	"9789353337940"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	309
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Ikigai - English"
+LAST	Lml	"ഇകിഗൈ - ഇംഗ്ലീഷ്"
+LAST	Den	"English-language self help published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ikigai"
+LAST	P2093	"Hector Gracia"
+LAST	P212	"9781786330895"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2016-07-27T00:00:00Z/11
+LAST	P1104	194
+LAST	P136	Q3739522
+LAST	P393	"new"
+CREATE
+LAST	Len	"India From Midnight to the Millennium and Beyond"
+LAST	Lml	"ഇന്ത്യ ഫ്രം മിഡ്‌നെറ് ടോ ദി മില്ലേനിയം ആൻഡ് ബീയോണ്ട്"
+LAST	Den	"English-language non fiction published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/india-from-midnight-to-the-millennium-and-beyond"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9780143103240"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1997-08-21T00:00:00Z/11
+LAST	P1104	389
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"India Shastra: Reflections on the Nation in Our Time"
+LAST	Lml	"ഇന്ത്യ ശാസ്ത്ര: റിഫ്ലക്ഷൻസ് ഓൺ ദി നേഷൻ ഇൻ ഔർ ടൈം"
+LAST	Den	"English-language history published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/india-shastra-reflections-on-the-nation-in-our-time"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9789387561090"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-07-15T00:00:00Z/11
+LAST	P1104	473
+LAST	P136	Q309
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Indian Foreign Service : Charms and Challenges"
+LAST	Lml	"ഇന്ത്യൻ ഫോറേറ്റിങ്ങ് സർവീസ് : ചാർസ് ആൻഡ് ചെല്ലെങ്സ്"
+LAST	Den	"English-language memoirs published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/indian-foreign-service-charms-and-challenges"
+LAST	P2093	"T. P. Sreenivasan"
+LAST	P212	"9789354826092"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-09-06T00:00:00Z/11
+LAST	P1104	144
+LAST	P136	Q112983
+LAST	P393	"2"
+CREATE
+LAST	Len	"Indian Writings in English (ba English Literature Mg Uty)"
+LAST	Lml	"ഇന്ത്യൻ വറൈറ്റിങ്സ് ഇൻ ഇംഗ്ലീഷ് (ബ ഇംഗ്ലീഷ് ലിറ്ററർ എംജി ഉറ്റി)"
+LAST	Den	"English-language academics published by MG Uty"
+LAST	Dml	"എംജി യൂണിവേഴ്സിറ്റി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് അക്കാദമിക് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/indian-writings-in-english-ba-english-literature-mg-uty--"
+LAST	P2093	"Vimala Anna Jacob"
+LAST	P212	"9789389199024"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-06-09T00:00:00Z/11
+LAST	P1104	165
+LAST	P136	Q193495
+LAST	P393	"140"
+CREATE
+LAST	Len	"India’s Money Heist, the Chelembra Bank Robbery"
+LAST	Lml	"ഇന്ത്യ’സ് മണിയായി ഹെയ്സട്  ദി ചേലേമ്പ്ര ബാങ്ക് റോബ്ബറി"
+LAST	Den	"English-language crime thrillers published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ക്രൈം ത്രില്ലർ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/indias-money-heist--the-chelembra-bank-robbery"
+LAST	P2093	"Anirban Bhattacharyya"
+LAST	P212	"9780143457817"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-08-20T00:00:00Z/11
+LAST	P1104	304
+LAST	P136	Q182015
+LAST	P393	"1"
+CREATE
+LAST	Len	"Indus Basin Uninterrupted"
+LAST	Lml	"ഇന്ഡസ് ബേസിൻ യൂണിന്റെറുപ്റ്റഡ്"
+LAST	Den	"English-language history published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/indus-basin-uninterrupted"
+LAST	P2093	"Uttam Kumar Sinha"
+LAST	P212	"9780670094486"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	353
+LAST	P136	Q309
+LAST	P393	"1"
+CREATE
+LAST	Len	"Into the Water"
+LAST	Lml	"ഇൻട്രോ ദി വാട്ടർ"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/into-the-water"
+LAST	P2093	"Paula Hawkins"
+LAST	P212	"9781784162245"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-01-20T00:00:00Z/11
+LAST	P1104	431
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"New"
+CREATE
+LAST	Len	"Isro Institutions That Shaped Modern India"
+LAST	Lml	"ഇസ്രോ ഇന്സ്ടിട്യൂഷൻസ് ദാറ്റ് ഷെപേഡ് മോഡേൺ ഇന്ത്യ"
+LAST	Den	"English-language business & management published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബിസിനസും മാനേജ്മെന്റും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/isro-institutions-that-shaped-modern-india"
+LAST	P2093	"Ajey Lele"
+LAST	P212	"9789390356560"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-23T00:00:00Z/11
+LAST	P1104	141
+LAST	P136	Q4830453
+LAST	P393	"1"
+CREATE
+LAST	Len	"It Happens for a Reason"
+LAST	Lml	"ഇറ്റ് ഹാപ്പെൻസ് ഫോർ എ റീസോൺ"
+LAST	Den	"English-language novel published by Westland"
+LAST	Dml	"വെസ്റ്റ്‌ലാൻഡ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/it-happens-for-a-reason"
+LAST	P2093	"Preeti Shenoy"
+LAST	P212	"9789384030742"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2014-06-01T00:00:00Z/11
+LAST	P1104	261
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"It Starts With Us"
+LAST	Lml	"ഇറ്റ് സ്റ്റേറ്റ്സ് വിത്ത് അസ്"
+LAST	Den	"English-language romance published by Simon & Schuster"
+LAST	Dml	"സൈമൺ ആൻഡ് ഷസ്റ്റർ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പ്രണയകഥ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/it-starts-with-us"
+LAST	P2093	"Colleen Hoover"
+LAST	P212	"9781398518179"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-10-20T00:00:00Z/11
+LAST	P1104	352
+LAST	P136	Q858330
+LAST	P393	"1"
+CREATE
+LAST	Len	"It’s a Wonderful Life: Roads to Happiness"
+LAST	Lml	"ഇറ്റ്’സ് എ വണ്ടർഫുൾ ലൈഫ്: റോഡ്സ് ടോ ഹാപ്പിനെസ്സ്"
+LAST	Den	"English-language children's literature published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/its-a-wonderful-life-roads-to-happiness"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9789390652402"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-04-10T00:00:00Z/11
+LAST	P1104	149
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Jasmine Days"
+LAST	Lml	"ജാസ്മിനെ ഡേയ്സ്"
+LAST	Den	"English-language literary fiction published by Juggernaut"
+LAST	Dml	"ജഗർനോട്ട് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/jasmine-days-1824459371"
+LAST	P2093	"Benyamin"
+LAST	P212	"9789353450748"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-06-30T00:00:00Z/11
+LAST	P1104	296
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Jaya Ganga"
+LAST	Lml	"ജയാ ഗംഗ"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/jaya-ganga"
+LAST	P2093	"Vijay Singh"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-05T00:00:00Z/11
+LAST	P1104	208
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Karps Cell Biology"
+LAST	Lml	"കർപ്സ് സെൽ ബിയോളജി"
+LAST	Den	"English-language art published by Wiley India"
+LAST	Dml	"വൈലി ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കലാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/karps-cell-biology-"
+LAST	P2093	"Karp G"
+LAST	P212	"9781119454175"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-08-08T00:00:00Z/11
+LAST	P1104	882
+LAST	P136	Q36649
+LAST	P136	Q193495
+LAST	P393	"8"
+CREATE
+LAST	Len	"Khaki in Dust Storm"
+LAST	Lml	"കാക്കി ഇൻ ദുഷ്ട സ്റ്റോർ"
+LAST	Den	"English-language biography published by Bloomsbury"
+LAST	Dml	"ബ്ലൂംസ്ബറി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ജീവചരിത്രം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/khaki-in-dust-storm"
+LAST	P2093	"Amod K Kanth"
+LAST	P212	"9789388630870"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-01-30T00:00:00Z/11
+LAST	P1104	331
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"Kuttiedathi and Other Stories"
+LAST	Lml	"കുട്ടിയേടത്തി ആൻഡ് അദർ സ്റ്റോറീസ്"
+LAST	Den	"English-language collections & selected works published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സമാഹാരങ്ങളും തിരഞ്ഞെടുത്ത കൃതികളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/kuttiedathi-and-other-stories"
+LAST	P2093	"M T Vasudevan Nair"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	190
+LAST	P136	Q20540385
+LAST	P393	"1"
+CREATE
+LAST	Len	"Ladies Coupe- English"
+LAST	Lml	"ലേഡീസ് കോപ്പേ- ഇംഗ്ലീഷ്"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ladies-coupe--english"
+LAST	P2093	"Anita Nair"
+LAST	P212	"9780141005959"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-06-09T00:00:00Z/11
+LAST	P1104	422
+LAST	P136	Q8261
+LAST	P393	"new"
+CREATE
+LAST	Len	"Legends of the Hill"
+LAST	Lml	"ലെജന്ഡ്സ് ഓഫ് ദി ഹിൽ"
+LAST	Den	"English-language poetry published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/legends-of-the-hill"
+LAST	P2093	"Ruskin Bond"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-05T00:00:00Z/11
+LAST	P1104	104
+LAST	P136	Q482
+LAST	P393	"1"
+CREATE
+LAST	Len	"Lights! Wedding! Ludhiana!"
+LAST	Lml	"ലിറ്റ്! വെഡിങ്! ലുധിയാന!"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/lights-wedding-ludhiana"
+LAST	P2093	"Jas Kohli"
+LAST	P957	"9355200129"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-05T00:00:00Z/11
+LAST	P1104	193
+LAST	P136	Q6647667
+LAST	P136	Q60548032
+LAST	P393	"1"
+CREATE
+LAST	Len	"Listening to Grasshoppers"
+LAST	Lml	"ലിസ്റ്റനിങ് ടോ ഗ്രാസ്‌ഷോപ്പേഴ്‌സ്"
+LAST	Den	"English-language non fiction published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/listening-to-grasshoppers-english"
+LAST	P2093	"Arundhati Roy"
+LAST	P212	"9780143419297"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2009-04-12T00:00:00Z/11
+LAST	P1104	262
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Litanies of Dutch Battery"
+LAST	Lml	"ലിറ്റൻഐഎസ് ഓഫ് ഡച് ബാറ്ററി"
+LAST	Den	"English-language literary fiction published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/litanies-of-dutch-battery-english"
+LAST	P2093	"N S Madhavan"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2010-03-24T00:00:00Z/11
+LAST	P1104	312
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Love Virtually"
+LAST	Lml	"ലവ് വിറ്റ്‌അള്ളി"
+LAST	Den	"English-language novel published by Quercus"
+LAST	Dml	"ക്വെർക്കസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/love-virtually"
+LAST	P2093	"Daniel"
+LAST	P212	"9780857050953"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-02-08T00:00:00Z/11
+LAST	P1104	288
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Mafia Premier League"
+LAST	Lml	"മാഫിയ പ്രീമിയർ ലീഗ്"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/mafia-premier-league"
+LAST	P2093	"K.vijayakarthikeyan"
+LAST	P957	"9391256317"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-05T00:00:00Z/11
+LAST	P1104	162
+LAST	P136	Q6647667
+LAST	P136	Q182015
+LAST	P393	"1"
+CREATE
+LAST	Len	"Mahabharata for Children"
+LAST	Lml	"മഹാഭാരതം ഫോർ ചിൽഡ്രൻ"
+LAST	Den	"English-language short stories published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/mahabharata-for-children"
+LAST	P2093	"Prema Jayakumar"
+LAST	P212	"9789353900328"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2023-07-29T00:00:00Z/11
+LAST	P1104	256
+LAST	P136	Q49084
+LAST	P393	"2"
+CREATE
+LAST	Len	"Making Excellence a Habit"
+LAST	Lml	"മേക്കിങ് എസ്‌സില്ലെന്സ് എ ഹാബിറ്"
+LAST	Den	"English-language biography published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ജീവചരിത്രം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/making-excellence-a-habit"
+LAST	P2093	"V Mohan"
+LAST	P212	"9780670094530"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	194
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"Mango Book of Alphabets"
+LAST	Lml	"മംഗോ ബുക്ക് ഓഫ് ആല്ഫബെറ്സ്"
+LAST	Den	"English-language children's literature published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/mango-book-of-alphabets"
+LAST	P212	"9789354827662"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2025-06-17T00:00:00Z/11
+LAST	P1104	28
+LAST	P136	Q131539
+LAST	P393	"2"
+CREATE
+LAST	Len	"Marriage: 100 Stories Around India’s Favourite Ritual"
+LAST	Lml	"മാര്യേജ്: 100 സ്റ്റോറീസ് അരൌന്ദ് ഇന്ത്യ’സ് ഫാവോയറിന്റെ റിറ്ല്"
+LAST	Den	"English-language non fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/marriage-100-stories-around-indias-favourite-ritual"
+LAST	P2093	"Devdutt Pattanaik"
+LAST	P212	"9789353338442"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	220
+LAST	P136	Q213051
+LAST	P136	Q9134
+LAST	P393	"1"
+CREATE
+LAST	Len	"Mindful Zen Habits"
+LAST	Lml	"മൈന്ഡഫുൾ സിങ് ഹാബിറ്സ്"
+LAST	Den	"English-language self help published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/mindful-zen-habits"
+LAST	P2093	"Marc Reklau & Manuel Villa"
+LAST	P212	"9788129144904"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	155
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Mistress"
+LAST	Lml	"മിസ്ട്രസ്"
+LAST	Den	"English-language novel published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/mistress"
+LAST	P2093	"Anita Nair"
+LAST	P212	"9780143424765"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P1104	428
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Momentous Challenges in Two Decades"
+LAST	Lml	"മൊമെന്റ്സ് ചെല്ലെങ്സ് ഇൻ ടു ഡെക്കഡെസ്"
+LAST	Den	"English-language memoirs published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/momentous-challenges-in-two-decades"
+LAST	P2093	"K. T. Thomas"
+LAST	P212	"9789354828225"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-09-15T00:00:00Z/11
+LAST	P1104	190
+LAST	P136	Q112983
+LAST	P393	"1"
+CREATE
+LAST	Len	"Moustache"
+LAST	Lml	"മൗസ്റ്റാക്കി"
+LAST	Den	"English-language indian fiction published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇന്ത്യൻ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/moustache"
+LAST	P2093	"S. Hareesh"
+LAST	P212	"9789353576028"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-07-01T00:00:00Z/11
+LAST	P1104	331
+LAST	P393	"1"
+CREATE
+LAST	Len	"Muruga the Lord of War the God of Wisdom"
+LAST	Lml	"മുരുക ദി ലോർഡ് ഓഫ് വാർ ദി ഗോഡ് ഓഫ് വിസദോം"
+LAST	Den	"English-language epics & myths published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇതിഹാസങ്ങളും പുരാണങ്ങളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/muruga-the-lord-of-war-the-god-of-wisdom"
+LAST	P2093	"Anand Balasubramanian"
+LAST	P212	"9788129144959"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	277
+LAST	P136	Q9134
+LAST	P393	"1"
+CREATE
+LAST	Len	"My Life - a Blessed Journey"
+LAST	Lml	"മൈ ലൈഫ് - എ ബ്ലെസ്സഡ് ജേർണേ"
+LAST	Den	"English-language memoirs published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/my-life---a-blessed-journey"
+LAST	P2093	"Mathew Parackal"
+LAST	P212	"9788193403013"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-09-26T00:00:00Z/11
+LAST	P1104	320
+LAST	P136	Q112983
+LAST	P393	"1"
+CREATE
+LAST	Len	"My Life in Red and White . My Autobiography"
+LAST	Lml	"മൈ ലൈഫ് ഇൻ റെഡ് ആൻഡ് വൈറ്റ് . മൈ ഓട്ടോബീയോഗ്രാഫ്യ്"
+LAST	Den	"English-language book published by Weidenfeld & Nicolson"
+LAST	Dml	"വൈഡൻഫെൽഡ് ആൻഡ് നിക്കോൾസൺ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/my-life-in-red-and-white--my-autobiography"
+LAST	P2093	"Arsene Wenger"
+LAST	P212	"9781474618267"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	340
+LAST	P393	"1"
+CREATE
+LAST	Len	"My Seditious Heart"
+LAST	Lml	"മൈ സിഡിറ്റിസ് ഹാർട്ട്"
+LAST	Den	"English-language essays published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഉപന്യാസങ്ങൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/my-seditious-heart-"
+LAST	P2093	"Arundhati Roy"
+LAST	P212	"9780670092499"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-06-06T00:00:00Z/11
+LAST	P1104	1032
+LAST	P136	Q35760
+LAST	P393	"1"
+CREATE
+LAST	Len	"My Suitcase Heart"
+LAST	Lml	"മൈ സുഇടക്കേസ്‌ ഹാർട്ട്"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/my-suitcase-heart"
+LAST	P2093	"Deepti Singh Gupta"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-05T00:00:00Z/11
+LAST	P1104	142
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"My Wisdom Book"
+LAST	Lml	"മൈ വിസദോം ബുക്ക്"
+LAST	Den	"English-language spirituality & mysticism published by Red Panda"
+LAST	Dml	"റെഡ് പാണ്ട പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ആധ്യാത്മികതയും മിസ്റ്റിസിസവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/my-wisdom-book"
+LAST	P2093	"Swami Mukundananda"
+LAST	P212	"9789391234263"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-10-22T00:00:00Z/11
+LAST	P1104	108
+LAST	P136	Q168796
+LAST	P393	"1"
+CREATE
+LAST	Len	"Nature Colouring Book - Anti Stress"
+LAST	Lml	"നേച്ചർ ളറിങ് ബുക്ക് - ആന്റി സ്ട്രെസ്"
+LAST	Den	"English-language art published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കലാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/nature-colouring-book-anti-stress"
+LAST	P2093	"Sacheendran Karadka"
+LAST	P212	"9789386680822"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-08-16T00:00:00Z/11
+LAST	P1104	50
+LAST	P136	Q36649
+LAST	P393	"1"
+CREATE
+LAST	Len	"No Straight Thing Was Made"
+LAST	Lml	"നോ സ്ട്രൈറ് തിങ് വാസ് മ്മടെ"
+LAST	Den	"English-language psychology published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് മനഃശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/no-straight-thing-was-made"
+LAST	P2093	"Urvashi Bahuguna"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	183
+LAST	P136	Q9418
+LAST	P393	"1"
+CREATE
+LAST	Len	"No Way in"
+LAST	Lml	"നോ വേ ഇൻ"
+LAST	Den	"English-language literary fiction published by Bloomsbury"
+LAST	Dml	"ബ്ലൂംസ്ബറി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/no-way-in"
+LAST	P2093	"Udayan Mukherjee"
+LAST	P212	"9789393715500"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-10-20T00:00:00Z/11
+LAST	P1104	254
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Now That You're Rich Lets Fall in Love!"
+LAST	Lml	"നൗ ദാറ്റ് യു'റീ റിച്ച ലേത് ഫാൾ ഇൻ ലവ്!"
+LAST	Den	"English-language novel published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/now-that-youre-rich-lets-fall-in-love"
+LAST	P2093	"Durjoy Datta"
+LAST	P212	"9780143421610"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2011-02-01T00:00:00Z/11
+LAST	P1104	218
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"O V Vijayan Selected Fiction"
+LAST	Lml	"ഓ വി വിജയൻ സെലെക്ടഡ് ഫിക്ഷൻ"
+LAST	Den	"English-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/o-v-vijayan-selected-fiction"
+LAST	P2093	"O V Vijayan"
+LAST	P212	"9780670881154"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2000-02-01T00:00:00Z/11
+LAST	P1104	650
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Oh Yes, I'm Single! and So is My Girlfriend!"
+LAST	Lml	"ഓ എസ്  ഐ'എം സിംഗിൾ! ആൻഡ് സൊ ഈസ് മൈ ഗിർൾഫ്രണ്ട്‌!"
+LAST	Den	"English-language novel published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/oh-yes-im-single-and-so-is-my-girlfriend"
+LAST	P2093	"Durjoy Datta"
+LAST	P212	"9780143421580"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2011-01-05T00:00:00Z/11
+LAST	P1104	245
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"On Citizenship"
+LAST	Lml	"ഓൺ സിറ്റിസൺഷിപ്"
+LAST	Den	"English-language politics &government published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് രാഷ്ട്രീയവും ഭരണവും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/on-citizenship"
+LAST	P212	"9788194937289"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-24T00:00:00Z/11
+LAST	P1104	162
+LAST	P393	"1"
+CREATE
+LAST	Len	"On the Banks of the Mayyazhi"
+LAST	Lml	"ഓൺ ദി ബാങ്ക്സ് ഓഫ് ദി മയ്യഴി"
+LAST	Den	"English-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/on-the-banks-of-the-mayyazhi"
+LAST	P2093	"M. Mukundan"
+LAST	P212	"9788126449798"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2014-02-20T00:00:00Z/11
+LAST	P1104	240
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"One Night @ the Call Center"
+LAST	Lml	"ഒന്നു നൈറ്റ് @ ദി കാൾ സെന്റർ"
+LAST	Den	"English-language novel published by Rupa and Company"
+LAST	Dml	"രൂപ ആൻഡ് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/one-night-at-the-call-center"
+LAST	P2093	"Chetan Bhagat"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-01-10T00:00:00Z/11
+LAST	P1104	276
+LAST	P136	Q8261
+LAST	P393	"97"
+CREATE
+LAST	Len	"One Part Woman"
+LAST	Lml	"ഒന്നു പാർട്ട് വേമം"
+LAST	Den	"English-language novel published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/one-part-woman"
+LAST	P2093	"Category :"
+LAST	P212	"9780670086511"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2013-12-11T00:00:00Z/11
+LAST	P1104	248
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Operating System Principles"
+LAST	Lml	"ഓപ്പറേറ്റിംഗ് സിസ്റ്റം പ്രിൻസിപ്പൽസ്"
+LAST	Den	"English-language computer & internet published by Wiley India"
+LAST	Dml	"വൈലി ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കമ്പ്യൂട്ടറും ഇന്റർനെറ്റും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/operating-system-principles-"
+LAST	P2093	"Silberschatz A."
+LAST	P212	"9788126509621"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-02-19T00:00:00Z/11
+LAST	P1104	920
+LAST	P136	Q193495
+LAST	P393	"7"
+CREATE
+LAST	Len	"Origin"
+LAST	Lml	"ഒറിജിൻ"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/origin"
+LAST	P2093	"Dan Brown"
+LAST	P212	"9780552174169"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-10-03T00:00:00Z/11
+LAST	P1104	541
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"New"
+CREATE
+LAST	Len	"Oru Geishayude Ormakkurippukal"
+LAST	Lml	"ഒരു ജിഷയുടെ ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	Den	"English-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/oru-geishayude-ormakkurippukal"
+LAST	P2093	"Arthur Golden"
+LAST	P212	"9788126464470"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-08-20T00:00:00Z/11
+LAST	P1104	472
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Our Impossible Love"
+LAST	Lml	"ഔർ ഇമ്പോസ്സിബിലെ ലവ്"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/our-impossible-love"
+LAST	P2093	"Durjoy Datta"
+LAST	P212	"9780143424611"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-02-01T00:00:00Z/11
+LAST	P1104	289
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Owls in the Family"
+LAST	Lml	"ഓഡൽസ് ഇൻ ദി ഫാമിലി"
+LAST	Den	"English-language children's literature published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/owls-in-the-family"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129149893"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-05-14T00:00:00Z/11
+LAST	P1104	136
+LAST	P136	Q131539
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"Pandavapuram - English"
+LAST	Lml	"പാണ്ഡവപുരം - ഇംഗ്ലീഷ്"
+LAST	Den	"English-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/pandavapuram-english"
+LAST	P2093	"Sethu"
+LAST	P212	"9788126435456"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2025-06-19T00:00:00Z/11
+LAST	P1104	176
+LAST	P136	Q8261
+LAST	P393	"2"
+CREATE
+LAST	Len	"Pangat, a Feast"
+LAST	Lml	"പേങ്ങാട്  എ ഫെയ്സ്റ്"
+LAST	Den	"English-language cookery published by Hachette India"
+LAST	Dml	"ഹാഷെറ്റ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/pangat-a-feast"
+LAST	P212	"9789388322911"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-11-20T00:00:00Z/11
+LAST	P1104	320
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Pantheon"
+LAST	Lml	"പന്തേൺ"
+LAST	Den	"English-language novel published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/pantheon"
+LAST	P2093	"Sam Bourne"
+LAST	P212	"9780007413645"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-10-16T00:00:00Z/11
+LAST	P1104	432
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Pardayude Rashtreeyam"
+LAST	Lml	"പർദയുടെ രാഷ്ട്രീയം"
+LAST	Den	"English-language study published by Mathrubhumi Books"
+LAST	Dml	"മാതൃഭൂമി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/pardayude-rashtreeyam"
+LAST	P2093	"Hameed Chennamangalur"
+LAST	P212	"9789389869132"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-02-26T00:00:00Z/11
+LAST	P1104	208
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"Pax Indica: India and the World of the 21ST Century"
+LAST	Lml	"പാക്സ് ഇന്ഡികയെ: ഇന്ത്യ ആൻഡ് ദി വേൾഡ് ഓഫ് ദി 21സ്റ് സെഞ്ച്വറി"
+LAST	Den	"English-language non fiction published by Allen Lane"
+LAST	Dml	"അലൻ ലെയ്ൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/pax-indica"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9780143420187"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2013-06-20T00:00:00Z/11
+LAST	P1104	456
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Peter Pan (mango)"
+LAST	Lml	"പീറ്റർ പാൻ (മംഗോ)"
+LAST	Den	"English-language novel published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/peter-pan-mango-368378246720"
+LAST	P2093	"Barrie J M"
+LAST	P212	"9789352823505"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-07-30T00:00:00Z/11
+LAST	P1104	144
+LAST	P136	Q8261
+LAST	P136	Q131539
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"Phantoms in the Brain"
+LAST	Lml	"ഫൺടോംസ്‌ ഇൻ ദി ബ്രെയിൻ"
+LAST	Den	"English-language architecture & vasthu published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് വാസ്തുവിദ്യാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/phantoms-in-the-brain-"
+LAST	P2093	"V S Ramachandran"
+LAST	P212	"9780007253890"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2006-10-17T00:00:00Z/11
+LAST	P1104	352
+LAST	P393	"1"
+CREATE
+LAST	Len	"Poovan Banana and Other Stories"
+LAST	Lml	"പൂവൻ ബനാന ആൻഡ് അദർ സ്റ്റോറീസ്"
+LAST	Den	"English-language collections & selected works published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സമാഹാരങ്ങളും തിരഞ്ഞെടുത്ത കൃതികളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/poovan-banana-and-other-stories"
+LAST	P2093	"Vaikom Muhammad Basheer"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	248
+LAST	P136	Q20540385
+LAST	P393	"1"
+CREATE
+LAST	Len	"Pradeep's Stellar Series-mcqs in Physics Vol.i& Ii(neet)"
+LAST	Lml	"പ്രദീപ്'സ് സ്റ്റെല്ലാർ സീരീസ്-എംസിഖ്‌സ് ഇൻ ഫിസിക്സ് വോൾ.ഐ&amp; ഈ(നെറ്റ്)"
+LAST	Den	"English-language academics published by Pradeep'S STELLAR SERIES-MCQS IN PHYSICS VOL.I& II(NEET)"
+LAST	Dml	"Pradeep'S STELLAR SERIES-MCQS IN PHYSICS VOL.I& II(NEET) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് അക്കാദമിക് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/pradeeps-stellar-series-mcqs-in-physics-voli-"
+LAST	P2093	"Gomber"
+LAST	P212	"9789388875066"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-05-03T00:00:00Z/11
+LAST	P1104	650
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"Pride, Prejudice and Punditry: the Essential Shashi Tharoor"
+LAST	Lml	"പ്രൈഡ്  പ്രെജുഡീസ് ആൻഡ് പൂണ്ടിത്ര്യ: ദി എസ്സെന്റില് ശശി തരൂർ"
+LAST	Den	"English-language literary fiction published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/pride-prejudice-and-punditry-the-essential-shashi-tharoor"
+LAST	P2093	"Shashi Tharoor"
+LAST	P957	"9390652278"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-11T00:00:00Z/11
+LAST	P1104	574
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Psc English"
+LAST	Lml	"സ്പി ഇംഗ്ലീഷ്"
+LAST	Den	"English-language self help published by Manorama Publication"
+LAST	Dml	"മനോരമ പബ്ലിക്കേഷൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/psc-english-548332681672"
+LAST	P2093	"Sajikumar Pattazhi"
+LAST	P212	"9788194229926"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-08-15T00:00:00Z/11
+LAST	P1104	360
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Psc Most Frequently Repeated 5000 General English Questions"
+LAST	Lml	"സ്പി മോസ്റ്റ് ഫ്രേക്യുമെന്റലി റിപീറ്ഡ് 5000 ജനറൽ ഇംഗ്ലീഷ് കുഎസ്ടിഒന്സ്"
+LAST	Den	"English-language reference published by I Rank : an Imprint of DC Books"
+LAST	Dml	"ഐ റാങ്ക് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് റഫറൻസ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/psc-most-frequently-repeated-5000-general-english-questions"
+LAST	P2093	"Sukumar"
+LAST	P212	"9788126443307"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-12-24T00:00:00Z/11
+LAST	P1104	416
+LAST	P136	Q13136
+LAST	P393	"3"
+CREATE
+LAST	Len	"Quest for a Stable Afghanistan"
+LAST	Lml	"ക്യുസ്റ് ഫോർ എ സ്റ്റെൽ അഫ്ഘാനിസ്ഥാൻ"
+LAST	Den	"English-language politics published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് രാഷ്ട്രീയ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/quest-for-a-stable-afghanistan"
+LAST	P2093	"Sujeet Sarkar"
+LAST	P212	"9789391256357"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-11T00:00:00Z/11
+LAST	P1104	311
+LAST	P136	Q7163
+LAST	P393	"1"
+CREATE
+LAST	Len	"Quichotte (english)"
+LAST	Lml	"ക്വിച്ചോട്ടെ (ഇംഗ്ലീഷ്)"
+LAST	Den	"English-language literary fiction published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/quichotte"
+LAST	P2093	"Salman Rushdie"
+LAST	P212	"9780143453444"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	390
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Ramayana for Children"
+LAST	Lml	"രാമായണം ഫോർ ചിൽഡ്രൻ"
+LAST	Den	"English-language short stories published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ramayana-for-children"
+LAST	P2093	"Saraswathy Rajagopalan"
+LAST	P212	"9789353903770"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-26T00:00:00Z/11
+LAST	P1104	272
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"Recipes for All Occasions - Part 1"
+LAST	Lml	"റെസിപ്പീസ് ഫോർ ഓൾ ഒക്കാഷൻസ് - പാർട്ട് 1"
+LAST	Den	"English-language cookery published by Self Published"
+LAST	Dml	"സ്വയം പ്രസിദ്ധീകരണം പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/recipes-for-all-occasions-part-1"
+LAST	P2093	"MRS B F Varughese"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2008-06-11T00:00:00Z/11
+LAST	P1104	372
+LAST	P136	Q605076
+LAST	P393	"9"
+CREATE
+LAST	Len	"Recipes for All Occasions - Part 2"
+LAST	Lml	"റെസിപ്പീസ് ഫോർ ഓൾ ഒക്കാഷൻസ് - പാർട്ട് 2"
+LAST	Den	"English-language cookery published by Self Published"
+LAST	Dml	"സ്വയം പ്രസിദ്ധീകരണം പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/recipes-for-all-occasions-part-2"
+LAST	P2093	"MRS B F Varughese"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2004-10-13T00:00:00Z/11
+LAST	P1104	360
+LAST	P136	Q605076
+LAST	P393	"5"
+CREATE
+LAST	Len	"Recipes for All Occasions - Part 3"
+LAST	Lml	"റെസിപ്പീസ് ഫോർ ഓൾ ഒക്കാഷൻസ് - പാർട്ട് 3"
+LAST	Den	"English-language cookery published by Self Published"
+LAST	Dml	"സ്വയം പ്രസിദ്ധീകരണം പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/recipes-for-all-occasions-part-3"
+LAST	P2093	"MRS B F Varughese"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-06-21T00:00:00Z/11
+LAST	P1104	330
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Redemption"
+LAST	Lml	"റിഡെംപ്ഷൻ"
+LAST	Den	"English-language novel published by Pan Macmillan"
+LAST	Dml	"പാൻ മാക്മില്ലൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/redemption"
+LAST	P2093	"David Baldacci"
+LAST	P212	"9781509874415"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-07-16T00:00:00Z/11
+LAST	P1104	656
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Reframing Finance"
+LAST	Lml	"റീഫ്രെമിങ് ഫിനാൻസ്"
+LAST	Den	"English-language business & management published by Bloomsbury"
+LAST	Dml	"ബ്ലൂംസ്ബറി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബിസിനസും മാനേജ്മെന്റും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/reframing-finance"
+LAST	P212	"9789354358531"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-10-17T00:00:00Z/11
+LAST	P1104	200
+LAST	P136	Q4830453
+LAST	P393	"1"
+CREATE
+LAST	Len	"Reverse Swing"
+LAST	Lml	"റിവേഴ്സ് സ്വിങ്"
+LAST	Den	"English-language novel published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/reverse-swing"
+LAST	P2093	"K.N. Raghavan"
+LAST	P212	"9789356430068"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2023-12-30T00:00:00Z/11
+LAST	P1104	232
+LAST	P136	Q8261
+LAST	P393	"2"
+CREATE
+LAST	Len	"Revolution Twenty 20 Love Corruption Ambition"
+LAST	Lml	"റിവൊല്യൂഷൻ ട്വന്റി 20 ലവ് കോർപ്ഷൻ അംബിഷൻ"
+LAST	Den	"English-language novel published by Rupa and Company"
+LAST	Dml	"രൂപ ആൻഡ് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/revolution-twenty-20-love-corruption-ambition"
+LAST	P2093	"Chetan Bhagat"
+LAST	P212	"9788129135537"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-02-01T00:00:00Z/11
+LAST	P1104	296
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Riot"
+LAST	Lml	"റിയോട്"
+LAST	Den	"English-language indian fiction published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇന്ത്യൻ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/riot"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9780143030904"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2003-09-30T00:00:00Z/11
+LAST	P1104	288
+LAST	P393	"1"
+CREATE
+LAST	Len	"Ripples of Reveries (print on Demand)"
+LAST	Lml	"റിപ്പ്‌ലെസ് ഓഫ് റെവെറൈസ് (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST	Den	"English-language literature published by Expressions a Self Publishing Service of DC Press"
+LAST	Dml	"എക്സ്പ്രഷൻസ് (ഡിസി പ്രസ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ripples-of-reveries"
+LAST	P2093	"Tanya Maria Antony"
+LAST	P212	"9789354829048"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-07-21T00:00:00Z/11
+LAST	P1104	80
+LAST	P393	"1"
+CREATE
+LAST	Len	"Rising to the China Challenge: Winning Through Strategic Patience and Economic Growth"
+LAST	Lml	"റൈസിംഗ് ടോ ദി ചൈന ചെല്ലെങ്ങെ: വിന്നിങ് ത്രൂ സ്ട്രാറ്റജിക് പറ്റീൻസ് ആൻഡ് ഇക്കണോമിക് ജിറൗത്"
+LAST	Den	"English-language current affairs published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ആനുകാലിക സംഭവങ്ങൾ സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/rising-to-the-china-challenge-winning-through-strategic-patience-and-economic-growth"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	176
+LAST	P393	"1"
+CREATE
+LAST	Len	"Roads to New Delhi"
+LAST	Lml	"റോഡ്സ് ടോ ന്യൂ ഡൽഹി"
+LAST	Den	"English-language poetry published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/roads-to-new-delhi"
+LAST	P2093	"Ruskin Bond"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-05T00:00:00Z/11
+LAST	P1104	104
+LAST	P136	Q482
+LAST	P393	"1"
+CREATE
+LAST	Len	"Robinson Crusoe (mango)"
+LAST	Lml	"റോബിൻസൺ ക്രൂസോഈ (മംഗോ)"
+LAST	Den	"English-language novel published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/robinson-crusoe-mango-51398661970"
+LAST	P2093	"Daniel Defoe"
+LAST	P212	"9789352822577"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-04-30T00:00:00Z/11
+LAST	P1104	384
+LAST	P136	Q8261
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"Roses Are Blood Red"
+LAST	Lml	"റോസ്സ് ഏറെ ബ്ലഡ് റെഡ്"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/roses-are-blood-red"
+LAST	P2093	"Novoneel Chakraborty"
+LAST	P212	"9780143449508"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-03-06T00:00:00Z/11
+LAST	P1104	280
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Royal"
+LAST	Lml	"റോയൽ"
+LAST	Den	"English-language novel published by Pan Macmillan"
+LAST	Dml	"പാൻ മാക്മില്ലൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/royal"
+LAST	P2093	"Danielle Steel"
+LAST	P212	"9781529040913"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-09-01T00:00:00Z/11
+LAST	P1104	272
+LAST	P136	Q8261
+LAST	P136	Q309
+LAST	P393	"1"
+CREATE
+LAST	Len	"Santas Bag of Stories"
+LAST	Lml	"സാന്റസ് ബാഗ് ഓഫ് സ്റ്റോറീസ്"
+LAST	Den	"English-language short stories published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/santas-bag-of-stories"
+LAST	P2093	"Sangeetha Puthiyedath"
+LAST	P212	"9789353901684"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-12-20T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"Sattvik Cooking: Modern Avatars of Vedic Foods"
+LAST	Lml	"സാറ്റ്‌വിക് കുക്കിംഗ്: മോഡേൺ അവറ്റർസ് ഓഫ്‌ വൈദിക ഫുഡ്സ്"
+LAST	Den	"English-language cookery published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/sattvik-cooking-modern-avatars-of-vedic-foods"
+LAST	P2093	"Hansaji J Yogendra"
+LAST	P957	"9390918855"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	320
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Science of Uncertainty"
+LAST	Lml	"സയൻസ് ഓഫ് ഉന്സര്ടിന്റി"
+LAST	Den	"English-language literature published by Expressions a Self Publishing Service of DC Press"
+LAST	Dml	"എക്സ്പ്രഷൻസ് (ഡിസി പ്രസ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/science-of-uncertainty"
+LAST	P2093	"Thanumalaya Arumugam"
+LAST	P212	"9789354323409"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-08-06T00:00:00Z/11
+LAST	P1104	200
+LAST	P393	"1"
+CREATE
+LAST	Len	"Sea of Poppies"
+LAST	Lml	"സീ ഓഫ് പോപ്പിസ്"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/sea-of-poppies"
+LAST	P2093	"Amitav Ghosh"
+LAST	P212	"9780143424703"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2009-03-05T00:00:00Z/11
+LAST	P1104	515
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Selected Works [sanjayan]"
+LAST	Lml	"സെലെക്ടഡ് വോർക്സ് [സഞ്ജയൻ]"
+LAST	Den	"English-language articles & jottings published by Tharjuma Books"
+LAST	Dml	"തർജുമ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ലേഖനങ്ങളും കുറിപ്പുകളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/selected-works-sanjayan"
+LAST	P2093	"Sanjayan"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2009-05-18T00:00:00Z/11
+LAST	P1104	80
+LAST	P136	Q35760
+LAST	P393	"1"
+CREATE
+LAST	Len	"Show Business: a Novel"
+LAST	Lml	"ഷോ ബിസിനസ്: എ നോവൽ"
+LAST	Den	"English-language indian fiction published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇന്ത്യൻ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/show-business"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9780140154641"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2000-10-14T00:00:00Z/11
+LAST	P1104	310
+LAST	P393	"1"
+CREATE
+LAST	Len	"Singing in the Dark"
+LAST	Lml	"സിംഗിംഗ് ഇൻ ദി ഡാർക്ക്"
+LAST	Den	"English-language poetry published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കവിത"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/singing-in-the-dark"
+LAST	P2093	"Satchidanandan"
+LAST	P212	"9780670094479"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-10-28T00:00:00Z/11
+LAST	P1104	359
+LAST	P136	Q482
+LAST	P393	"1"
+CREATE
+LAST	Len	"Sleep Smarter"
+LAST	Lml	"സ്ലീപ് സ്മാർട്ടർ"
+LAST	Den	"English-language self help published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/sleep-smarter"
+LAST	P2093	"Zoe Mckey"
+LAST	P957	"9390547377"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-02T00:00:00Z/11
+LAST	P1104	108
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Snow"
+LAST	Lml	"സ്നോഡ"
+LAST	Den	"English-language novel published by Faber & Faber"
+LAST	Dml	"ഫേബർ ആൻഡ് ഫേബർ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/snow"
+LAST	P2093	"Orhan Pamuk"
+LAST	P212	"9780571222995"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2004-02-04T00:00:00Z/11
+LAST	P1104	436
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Stepping Beyond Khaki"
+LAST	Lml	"സ്റ്റെപ്പിംഗ് ബീയോണ്ട് കാക്കി"
+LAST	Den	"English-language biography published by Bloomsbury"
+LAST	Dml	"ബ്ലൂംസ്ബറി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ജീവചരിത്രം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/stepping-beyond-khaki"
+LAST	P2093	"Annamalai K"
+LAST	P212	"9789389449853"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-01-29T00:00:00Z/11
+LAST	P1104	234
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"Study Abroad"
+LAST	Lml	"സ്റ്റഡി അബ്രോഡ്"
+LAST	Den	"English-language education & study aid published by I Rank : an Imprint of DC Books"
+LAST	Dml	"ഐ റാങ്ക് (ഡിസി ബുക്സ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് വിദ്യാഭ്യാസവും പഠനസഹായിയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/study-abroad"
+LAST	P2093	"Sethumadhavan T P"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1970-01-01T00:00:00Z/11
+LAST	P1104	168
+LAST	P393	"1"
+CREATE
+LAST	Len	"Susegad"
+LAST	Lml	"സുസ്‌ഗഡ്‌"
+LAST	Den	"English-language self help published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/susegad"
+LAST	P2093	"Clyde D' Souza"
+LAST	P212	"9780670094578"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	228
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Sycamore Row : the Sequel to a Time to Kill"
+LAST	Lml	"സിസമോറി രൗ : ദി സെക്യുഎൽ ടോ എ ടൈം ടോ കില്"
+LAST	Den	"English-language novel published by Hodder & Stoughton"
+LAST	Dml	"ഹോഡർ ആൻഡ് സ്റ്റോട്ടൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/sycamore-row-the-sequel-to-a-time-to-kill"
+LAST	P2093	"John Grisham"
+LAST	P212	"9781444779554"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2013-10-26T00:00:00Z/11
+LAST	P1104	400
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Symphony of Verse (english Literature Sem-iii Mg Uty)"
+LAST	Lml	"സിംഫണി ഓഫ് വേർസ് (ഇംഗ്ലീഷ് ലിറ്ററർ ശേം-ഇയ്യ്‌ എംജി ഉറ്റി)"
+LAST	Den	"English-language academics published by MG Uty"
+LAST	Dml	"എംജി യൂണിവേഴ്സിറ്റി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് അക്കാദമിക് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/symphony-of-verse-english-literature-sem-iii-mg-uty-"
+LAST	P2093	"Rohini Nair"
+LAST	P212	"9789389495676"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-03-04T00:00:00Z/11
+LAST	P1104	112
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"Tales of Wit and Wisdom"
+LAST	Lml	"റ്റേഴ്‌സ് ഓഫ് വൈറ് ആൻഡ് വിസ്ഡഓം"
+LAST	Den	"English-language short stories published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tales-of-wit-and-wisdom"
+LAST	P212	"9789389445350"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2023-07-21T00:00:00Z/11
+LAST	P1104	240
+LAST	P136	Q49084
+LAST	P136	Q131539
+LAST	P393	"2"
+CREATE
+LAST	Len	"Teaching Basic Design in Architecture"
+LAST	Lml	"ടീച്ചിങ് ബേസിക് ഡിസൈൻ ഇൻ ആർക്കിടെക്ചർ"
+LAST	Den	"English-language architecture & vasthu published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് വാസ്തുവിദ്യാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/teaching-basic-design-in-architecture"
+LAST	P2093	"Miki Desai"
+LAST	P212	"9789354825385"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-08-27T00:00:00Z/11
+LAST	P1104	184
+LAST	P393	"1"
+CREATE
+LAST	Len	"Tharawad"
+LAST	Lml	"തറവാട്"
+LAST	Den	"English-language novel published by Expressions a Self Publishing Service of DC Press"
+LAST	Dml	"എക്സ്പ്രഷൻസ് (ഡിസി പ്രസ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tharawad"
+LAST	P2093	"K Raghavan Pillai"
+LAST	P212	"9789385752209"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-02-28T00:00:00Z/11
+LAST	P1104	240
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Tharoorosaurus"
+LAST	Lml	"തരൂരോത്സുലും"
+LAST	Den	"English-language non fiction published by Viking"
+LAST	Dml	"വൈക്കിംഗ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tharoorosaurus-shasi-tharoor"
+LAST	P2093	"Shashi Tharoor"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-09-01T00:00:00Z/11
+LAST	P1104	319
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Alchemist"
+LAST	Lml	"ദി അൽഷെമിസ്റ്"
+LAST	Den	"English-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-alchemist"
+LAST	P2093	"Paulo Coelho"
+LAST	P212	"9780008283643"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-07-11T00:00:00Z/11
+LAST	P1104	183
+LAST	P136	Q8261
+LAST	P393	"10"
+CREATE
+LAST	Len	"The Algebra of Infinite Justice"
+LAST	Lml	"ദി അൽജിബ്ര ഓഫ് ഇൻഫിനിറ്റി ജസ്റ്റിസ്"
+LAST	Den	"English-language non fiction published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-algebra-of-infinite-justice"
+LAST	P2093	"Arundhati Roy"
+LAST	P212	"9780143419280"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2001-02-01T00:00:00Z/11
+LAST	P1104	252
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Archer"
+LAST	Lml	"ദി ആർച്ചെറി"
+LAST	Den	"English-language literary fiction published by Viking"
+LAST	Dml	"വൈക്കിംഗ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-archer"
+LAST	P2093	"Paulo Coelho"
+LAST	P212	"9780670095209"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-11-13T00:00:00Z/11
+LAST	P1104	130
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Automobile"
+LAST	Lml	"ദി ഓട്ടോമൊബൈൽ"
+LAST	Den	"English-language biography published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ജീവചരിത്രം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-automobile"
+LAST	P2093	"Gautam Sen"
+LAST	P212	"9780670092246"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	284
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Battle of Belonging: on Nationalism, Patriotism, and What It Means to Be Indian"
+LAST	Lml	"ദി ബാറ്റ്‌ലെ ഓഫ് ബെലോഞ്ചിങ്: ഓൺ നാഷണലിസം  പാട്രിയോട്ടിസം  ആൻഡ് വാട്ട് ഇറ്റ് മീൻസ് ടോ ബേ ഇന്ത്യൻ"
+LAST	Den	"English-language politics published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് രാഷ്ട്രീയ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-battle-of-belonging-on-nationalism-patriotism-and-what-it-means-to-be-indian"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9788194735380"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-10-31T00:00:00Z/11
+LAST	P1104	448
+LAST	P136	Q7163
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Beast of Buckingham Palace"
+LAST	Lml	"ദി ബീസ്റ് ഓഫ് ബക്കിങ്ഹാം പാലസ്"
+LAST	Den	"English-language novel published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-beast-of-buckingham-palace"
+LAST	P2093	"David Walliams"
+LAST	P212	"9780008389659"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-06-04T00:00:00Z/11
+LAST	P1104	464
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Bells Are Ringing in Haridwar Three Novellas"
+LAST	Lml	"ദി ബെല്സ് ഏറെ റിങ്ങിങ് ഇൻ ഹരിദ്വാർ ത്രീ നോവെല്ലസ്"
+LAST	Den	"English-language literary fiction published by Ratna Books"
+LAST	Dml	"രത്ന ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-bells-are-ringing-in-haridwar-three-novellas"
+LAST	P2093	"M. Mukundan"
+LAST	P212	"9789352903283"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-05-20T00:00:00Z/11
+LAST	P1104	218
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Bengal Book"
+LAST	Lml	"ദി ബംഗാൾ ബുക്ക്"
+LAST	Den	"English-language history published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-bengal-book"
+LAST	P2093	"Dola Mitra"
+LAST	P957	"9355200382"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-08T00:00:00Z/11
+LAST	P1104	282
+LAST	P136	Q309
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Best Mistakes of My Life"
+LAST	Lml	"ദി ബേസ്ഡ് മിസ്ടകെസ് ഓഫ് മൈ ലൈഫ്"
+LAST	Den	"English-language art published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കലാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-best-mistakes-of-my-life-"
+LAST	P2093	"Sanjay Khan"
+LAST	P212	"9780670090723"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-06-12T00:00:00Z/11
+LAST	P1104	288
+LAST	P136	Q36649
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Book of Ichigo Ichie"
+LAST	Lml	"ദി ബുക്ക് ഓഫ് ഇചിഗോ ഈച്ചയെ"
+LAST	Den	"English-language self help published by Hachette India"
+LAST	Dml	"ഹാഷെറ്റ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-book-of-ichigo-ichie"
+LAST	P2093	"Hector Gracia"
+LAST	P212	"9781529401295"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-06-15T00:00:00Z/11
+LAST	P1104	196
+LAST	P136	Q3739522
+LAST	P393	"new"
+CREATE
+LAST	Len	"The Book of Indian Ghosts"
+LAST	Lml	"ദി ബുക്ക് ഓഫ് ഇന്ത്യൻ ഖോസ്റ്സ്"
+LAST	Den	"English-language indian fiction published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇന്ത്യൻ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-book-of-indian-ghosts"
+LAST	P2093	"Riksundar Banerjee"
+LAST	P212	"9789390652266"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	264
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Boy With a Broken Heart"
+LAST	Lml	"ദി ബോയ് വിത്ത് എ ബ്രോക്കൻ ഹാർട്ട്"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-boy-with-a-broken-heart"
+LAST	P2093	"Durjoy Datta"
+LAST	P212	"9780143426585"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-02-01T00:00:00Z/11
+LAST	P1104	327
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Burning Maze the Trials of Apollo Book 3"
+LAST	Lml	"ദി ബർണിങ് മെസി ദി ട്രിയൽസ് ഓഫ്‌ അപ്പോളോ ബുക്ക് 3"
+LAST	Den	"English-language novel published by Puffin Books"
+LAST	Dml	"പഫിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-burning-maze-the-trials-of-apollo-book-3"
+LAST	P2093	"Rick Riordan"
+LAST	P212	"9780141364018"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-06-11T00:00:00Z/11
+LAST	P1104	448
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Call of the Wild"
+LAST	Lml	"ദി കാൾ ഓഫ് ദി വൈൽഡ്"
+LAST	Den	"English-language novel published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-call-of-the-wild"
+LAST	P2093	"Jack London"
+LAST	P212	"9789353903404"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-02-05T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Case of the Counterfeit Currency"
+LAST	Lml	"ദി കേസ് ഓഫ് ദി കൗണ്ടെർഫെയ്‌ത് റൺസി"
+LAST	Den	"English-language novel published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-case-of-the-counterfeit-currency"
+LAST	P2093	"Shraddha Sahi"
+LAST	P212	"9789352823031"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-09-10T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q8261
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Champak Story Box: Volume 1"
+LAST	Lml	"ദി ചാമ്പക്ക സ്റ്റോറി ബോക്സ്: വോളിയം 1"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-champak-story-box-volume-1"
+LAST	P2093	"Champak"
+LAST	P957	"9391256139"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Champak Story Box: Volume 2"
+LAST	Lml	"ദി ചാമ്പക്ക സ്റ്റോറി ബോക്സ്: വോളിയം 2"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-champak-story-box-volume-2"
+LAST	P2093	"Champak"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Champak Story Box: Volume 3"
+LAST	Lml	"ദി ചാമ്പക്ക സ്റ്റോറി ബോക്സ്: വോളിയം 3"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-champak-story-box-volume-3"
+LAST	P2093	"Champak"
+LAST	P957	"9391256295"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Cock is the Culprit"
+LAST	Lml	"ദി കോക്ക് ഈസ് ദി സുൽപ്രിറ്"
+LAST	Den	"English-language novel published by Westland"
+LAST	Dml	"വെസ്റ്റ്‌ലാൻഡ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-cock-is-the-culprit-event-special"
+LAST	P2093	"Unni R."
+LAST	P212	"9789389648201"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-08-25T00:00:00Z/11
+LAST	P1104	120
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Coming Bad Days"
+LAST	Lml	"ദി കമിങ് ബാഡ് ഡേയ്സ്"
+LAST	Den	"English-language literary fiction published by Daunt Books"
+LAST	Dml	"ഡോണ്ട് ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-coming-bad-days"
+LAST	P2093	"Sarah Bernstein"
+LAST	P212	"9781911547907"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	265
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Dharma Forest"
+LAST	Lml	"ദി ധർമ ഫോറെസ്റ്"
+LAST	Den	"English-language epics & myths published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇതിഹാസങ്ങളും പുരാണങ്ങളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-dharma-forest"
+LAST	P2093	"Keerthik Sasidharan"
+LAST	P212	"9780143448860"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-17T00:00:00Z/11
+LAST	P1104	519
+LAST	P136	Q9134
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Discomfort of Evening"
+LAST	Lml	"ദി ഡിസ്‌കഫോട് ഓഫ് എവെനിംഗ്"
+LAST	Den	"English-language literary fiction published by Faber & Faber"
+LAST	Dml	"ഫേബർ ആൻഡ് ഫേബർ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-discomfort-of-evening"
+LAST	P2093	"Marieke Lucas Rijneveld"
+LAST	P212	"9780571349364"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-08-01T00:00:00Z/11
+LAST	P1104	282
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Doctor and the Saint"
+LAST	Lml	"ദി ഡോക്ടർ ആൻഡ് ദി സൈന്റ്റ്"
+LAST	Den	"English-language non fiction published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-doctor-and-the-saint-english"
+LAST	P2093	"Arundhati Roy"
+LAST	P212	"9780143447726"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2014-05-09T00:00:00Z/11
+LAST	P1104	165
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Don’t-diet Plan: a No-nonsense Guide to Weight Loss"
+LAST	Lml	"ദി ഡോൺ’ടി-ഡിറ്റ് പ്ലാൻ: എ നോ-നോണ്സെന്സ് ഗൈഡ് ടോ വെഇഘ്ട് ലോസ്"
+LAST	Den	"English-language health & fitness published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ആരോഗ്യവും ക്ഷമതയും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-dont-diet-plan-a-no-nonsense-guide-to-weight-loss"
+LAST	P2093	"Kavita Devgan"
+LAST	P957	"9391256414"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	249
+LAST	P136	Q12147
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Elephant, the Tiger and the Cell Phone: Reflectons on India in the 21ST Century"
+LAST	Lml	"ദി എലെഫന്റ്റ്  ദി ടൈഗർ ആൻഡ് ദി സെൽ ഫോൺ: റിഫ്ലക്ടൻസ് ഓൺ ഇന്ത്യ ഇൻ ദി 21സ്റ് സെഞ്ച്വറി"
+LAST	Den	"English-language non fiction published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-elephant-the-tiger-cellphone"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9780143418948"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-07-15T00:00:00Z/11
+LAST	P1104	405
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"The End of October"
+LAST	Lml	"ദി എൻഡ് ഓഫ് ഒക്ടോബര്"
+LAST	Den	"English-language novel published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-end-of-october"
+LAST	P2093	"Lawrence Wright"
+LAST	P212	"9781787634213"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-04-18T00:00:00Z/11
+LAST	P1104	380
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The End of Time"
+LAST	Lml	"ദി എൻഡ് ഓഫ് ടൈം"
+LAST	Den	"English-language literary fiction published by Westland"
+LAST	Dml	"വെസ്റ്റ്‌ലാൻഡ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-end-of-time"
+LAST	P2093	"Yogesh Chandra"
+LAST	P212	"9789391234188"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-10-22T00:00:00Z/11
+LAST	P1104	283
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Final Confession (print on Demand)"
+LAST	Lml	"ദി ഫൈനൽ കോൺഫെഷൻ (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST	Den	"English-language novel published by Expressions a Self Publishing Service of DC Press"
+LAST	Dml	"എക്സ്പ്രഷൻസ് (ഡിസി പ്രസ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-final-confession"
+LAST	P2093	"Femitha Rachel"
+LAST	P212	"9789384786632"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-12-17T00:00:00Z/11
+LAST	P1104	152
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Find-outers (15 Tiles Box Set)"
+LAST	Lml	"ദി ഫിന്ദ്-ഔട്ടർസ് (15 ടൈൽസ് ബോക്സ് സെറ്റ്)"
+LAST	Den	"English-language novel published by Hachette India"
+LAST	Dml	"ഹാഷെറ്റ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-find-outers-15-tiles-box-set-"
+LAST	P2093	"Enid Blyton"
+LAST	P212	"9781444955316"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-02-05T00:00:00Z/11
+LAST	P1104	240
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Fountainhead"
+LAST	Lml	"ദി ഫൗണ്ടൈൻഹെഡ്"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-fountainhead"
+LAST	P2093	"Ayn Rand"
+LAST	P212	"9780141188621"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1970-01-01T00:00:00Z/11
+LAST	P1104	752
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Fourth Lion"
+LAST	Lml	"ദി ഫൗർത്ത ലയൺ"
+LAST	Den	"English-language non fiction published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-fourth-lion"
+LAST	P2093	"Venu Madhav Govindu"
+LAST	P212	"9789390652327"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	282
+LAST	P136	Q213051
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Girl of My Dreams"
+LAST	Lml	"ദി ഗേൾ ഓഫ് മൈ ഡ്രീംസ്"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-girl-of-my-dreams"
+LAST	P2093	"Durjoy Datta"
+LAST	P212	"9780143424628"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2016-08-03T00:00:00Z/11
+LAST	P1104	279
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The God of Small Things"
+LAST	Lml	"ദി ഗോഡ് ഓഫ് സ്മാൾ തിങ്ങ്സ്"
+LAST	Den	"English-language indian fiction published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇന്ത്യൻ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-god-of-small-things-english"
+LAST	P2093	"Arundhati Roy"
+LAST	P212	"9780143028574"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1997-03-17T00:00:00Z/11
+LAST	P1104	340
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Great Indian Novel"
+LAST	Lml	"ദി ഗ്രേറ്റ് ഇന്ത്യൻ നോവൽ"
+LAST	Den	"English-language indian fiction published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇന്ത്യൻ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-great-indian-novel-english"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9780143420088"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2014-07-09T00:00:00Z/11
+LAST	P1104	619
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Hindu Way: an Introduction to Hinduism"
+LAST	Lml	"ദി ഹിന്ദു വായ്: ആൻ ഇൻട്രൊഡക്ഷൻ ടോ ഹിന്ദുയിസം"
+LAST	Den	"English-language non fiction published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-hindu-way-an-introduction-to-hinduism"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9789388292856"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-01-02T00:00:00Z/11
+LAST	P1104	305
+LAST	P136	Q213051
+LAST	P136	Q5891
+LAST	P393	"New"
+CREATE
+LAST	Len	"The Hound of the Baskervilles"
+LAST	Lml	"ദി ഹൊഉണ്ട ഓഫ് ദി ഭാസ്കർവില്ലെസ്"
+LAST	Den	"English-language novel published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-hound-of-the-baskervilles---407071351850"
+LAST	P2093	"Arthur Conan Doyle"
+LAST	P212	"9789352822751"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-07-25T00:00:00Z/11
+LAST	P1104	164
+LAST	P136	Q8261
+LAST	P136	Q131539
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Indian Pantry"
+LAST	Lml	"ദി ഇന്ത്യൻ പാന്ററി"
+LAST	Den	"English-language cookery published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-indian-pantry-501899786665"
+LAST	P2093	"Vir Sanghvi"
+LAST	P212	"9780143440178"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-06-13T00:00:00Z/11
+LAST	P1104	272
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Jungle Book (mango)"
+LAST	Lml	"ദി ജംഗ്‌ലെ ബുക്ക് (മംഗോ)"
+LAST	Den	"English-language novel published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-jungle-book-mango"
+LAST	P2093	"Rudyard Kipling"
+LAST	P212	"9789352822515"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-04-30T00:00:00Z/11
+LAST	P1104	184
+LAST	P136	Q8261
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Lagoon Pb"
+LAST	Lml	"ദി ലഗൂൺ പിബി"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-lagoon"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129145277"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-25T00:00:00Z/11
+LAST	P1104	152
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Laughing Skull"
+LAST	Lml	"ദി ലൗകിങ് സ്കുളിൽ"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-laughing-skull"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129142191"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-25T00:00:00Z/11
+LAST	P1104	134
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Legends of Khasak"
+LAST	Lml	"ദി ലെജന്ഡ്സ് ഓഫ് ഖസാഖ്"
+LAST	Den	"English-language literary fiction published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-legends-of-khasak"
+LAST	P2093	"O V Vijayan"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2008-02-13T00:00:00Z/11
+LAST	P1104	208
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Longest Kiss"
+LAST	Lml	"ദി ലോങ്സ്റ് കിസ്"
+LAST	Den	"English-language biography published by Westland"
+LAST	Dml	"വെസ്റ്റ്‌ലാൻഡ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ജീവചരിത്രം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-longest-kiss"
+LAST	P2093	"Kishwar Desai"
+LAST	P212	"9789389152470"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-17T00:00:00Z/11
+LAST	P1104	442
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Man Who Was Kipling"
+LAST	Lml	"ദി മാന് വൈക്കോ വാസ് കിപ്ലിംഗ്"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-man-who-was-kipling"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129148513"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-25T00:00:00Z/11
+LAST	P1104	160
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Merry Adventures of Robin Hood"
+LAST	Lml	"ദി മെറി അഡ്‌വെന്റർസ് ഓഫ് റോബിൻ ഹൂദ്"
+LAST	Den	"English-language novel published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-merry-adventures-of-robin-hood"
+LAST	P2093	"Howard Pyle"
+LAST	P212	"9789352822553"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-04-24T00:00:00Z/11
+LAST	P1104	376
+LAST	P136	Q8261
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Midnight Line"
+LAST	Lml	"ദി മിഡ്‌നെറ് ലൈൻ"
+LAST	Den	"English-language novel published by Random House"
+LAST	Dml	"റാൻഡം ഹൗസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-midnight-line-english"
+LAST	P2093	"Lee Child"
+LAST	P212	"9780593078174"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-07-10T00:00:00Z/11
+LAST	P1104	400
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Ministry of Utmost Happiness"
+LAST	Lml	"ദി മിനിസ്ട്രി ഓഫ് ഉറ്റമോസ്‌റ് ഹാപ്പിനെസ്സ്"
+LAST	Den	"English-language literary fiction published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-ministry-of-utmost-happiness"
+LAST	P2093	"Arundhati Roy"
+LAST	P212	"9780143442769"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-06-05T00:00:00Z/11
+LAST	P1104	445
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Murder of Roger Ackroyd"
+LAST	Lml	"ദി മുർഡർ ഓഫ്‌ റോജർ ഏക്കറോയ്ഡ്"
+LAST	Den	"English-language novel published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-murder-of-roger-ackroyd"
+LAST	P2093	"Agatha Christie"
+LAST	P212	"9780007527526"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1926-07-07T00:00:00Z/11
+LAST	P1104	304
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Museum of Desire"
+LAST	Lml	"ദി മ്യൂസിയം ഓഫ് ഡിസൈർ"
+LAST	Den	"English-language novel published by Century Publications"
+LAST	Dml	"സെഞ്ച്വറി പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-museum-of-desire"
+LAST	P2093	"Jonathan Kellerman"
+LAST	P212	"9781780899046"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-08-05T00:00:00Z/11
+LAST	P1104	368
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Museum of Innocence"
+LAST	Lml	"ദി മ്യൂസിയം ഓഫ് ഇന്നൊസെന്സ"
+LAST	Den	"English-language novel published by Faber & Faber"
+LAST	Dml	"ഫേബർ ആൻഡ് ഫേബർ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-museum-of-innocence"
+LAST	P2093	"Orhan Pamuk"
+LAST	P212	"9780571237029"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-02-03T00:00:00Z/11
+LAST	P1104	733
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The New World Disorder and the Indian Imperative"
+LAST	Lml	"ദി ന്യൂ വേൾഡ് ഡിസോർഡർ ആൻഡ് ദി ഇന്ത്യൻ ഇമ്പേറടിവെ"
+LAST	Den	"English-language indian literature published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇന്ത്യൻ സാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-new-world-disorder-and-the-indian-imperative"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9788194233732"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-07-01T00:00:00Z/11
+LAST	P1104	292
+LAST	P136	Q213051
+LAST	P136	Q7163
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Other Side of This Life"
+LAST	Lml	"ദി അദർ സൈഡ് ഓഫ് ദിസ് ലൈഫ്"
+LAST	Den	"English-language articles & jottings published by Expressions a Self Publishing Service of DC Press"
+LAST	Dml	"എക്സ്പ്രഷൻസ് (ഡിസി പ്രസ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ലേഖനങ്ങളും കുറിപ്പുകളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-other-side-of-this-life"
+LAST	P2093	"Nisha Jose"
+LAST	P212	"9789385752766"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-03-15T00:00:00Z/11
+LAST	P1104	214
+LAST	P136	Q35760
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Other Woman"
+LAST	Lml	"ദി അദർ വേമം"
+LAST	Den	"English-language novel published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-other-woman"
+LAST	P2093	"Daniel Silva"
+LAST	P212	"9780008318598"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-06-12T00:00:00Z/11
+LAST	P1104	496
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Paradoxical Prime Minister"
+LAST	Lml	"ദി പാരഡോക്സികൾ പ്രിമേ മിനിസ്റ്റർ"
+LAST	Den	"English-language non fiction published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-paradoxical-prime-minister-382126976167"
+LAST	P2093	"Shashi Tharoor"
+LAST	P212	"9789388292177"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-10-26T00:00:00Z/11
+LAST	P1104	504
+LAST	P136	Q213051
+LAST	P136	Q7163
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Paradoxical Watchman (print on Demand)"
+LAST	Lml	"ദി പാരഡോക്സികൾ വാച്ച്മാൻ (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST	Den	"English-language literature published by Expressions a Self Publishing Service of DC Press"
+LAST	Dml	"എക്സ്പ്രഷൻസ് (ഡിസി പ്രസ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-paradoxical-watchman"
+LAST	P2093	"Arjun R"
+LAST	P212	"9789354822681"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-08T00:00:00Z/11
+LAST	P1104	84
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Penguin Book of Classical Indian Love Stories and Lyrics"
+LAST	Lml	"ദി പെൺകിന് ബുക്ക് ഓഫ് ക്ലാസിക്കൽ ഇന്ത്യൻ ലവ് സ്റ്റോറീസ് ആൻഡ് ലിറിക്‌സ്"
+LAST	Den	"English-language book published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-penguin-book-of-classical-indian-love-stories-and-lyrics"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9780143432128"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-25T00:00:00Z/11
+LAST	P1104	262
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Perfect Murder Pb"
+LAST	Lml	"ദി പെർഫെക്റ്റ് മുർഡർ പിബി"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-perfect-murder"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129144973"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-25T00:00:00Z/11
+LAST	P1104	175
+LAST	P393	"1"
+CREATE
+LAST	Len	"The President is Missing"
+LAST	Lml	"ദി പ്രസിഡന്റ് ഈസ് മിസ്സിംഗ്"
+LAST	Den	"English-language novel published by Arrow Books"
+LAST	Dml	"ആരോ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-president-is-missing-english"
+LAST	P212	"9781787460171"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-11-08T00:00:00Z/11
+LAST	P1104	544
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Prospect of Flowers"
+LAST	Lml	"ദി പ്രോസ്പെക്ട ഓഫ് ഫ്‌ലോർസ്"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-prospect-of-flowers"
+LAST	P2093	"Ruskin Bond"
+LAST	P957	"8129142104"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-25T00:00:00Z/11
+LAST	P1104	152
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Psychology of Patriot"
+LAST	Lml	"ദി സൈക്കോളജി ഓഫ് പാട്രിയോട്"
+LAST	Den	"English-language politics published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് രാഷ്ട്രീയ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-psychology-of-patriot"
+LAST	P2093	"Saket Suman"
+LAST	P957	"9391256392"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-08T00:00:00Z/11
+LAST	P1104	226
+LAST	P136	Q7163
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Regimental Myna"
+LAST	Lml	"ദി റെജിമെന്റൽ മൈന"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-regimental-myna-318305984128"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129147493"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	135
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Rembrandt Affair"
+LAST	Lml	"ദി റെംബ്രാന്ഡഡ് അഫ്ഫാർ"
+LAST	Den	"English-language novel published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-rembrandt-affair"
+LAST	P2093	"Daniel Silva"
+LAST	P212	"9780241954270"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-02-02T00:00:00Z/11
+LAST	P1104	480
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Right Choice"
+LAST	Lml	"ദി റൈറ്റ് ചോയ്സ്"
+LAST	Den	"English-language study published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പഠനം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-right-choice"
+LAST	P2093	"Shiv Shivakumar"
+LAST	P212	"9780670095698"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	277
+LAST	P136	Q193495
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Rise of Sivagami: Bahubali Before the Beginning Book- I"
+LAST	Lml	"ദി റൈസ് ഓഫ് ശിവഗാമി: ബാഹുബലി  ബിഫോർ ദി ബേഗിനിങ് ബുക്ക്- ഐ"
+LAST	Den	"English-language novel published by Westland"
+LAST	Dml	"വെസ്റ്റ്‌ലാൻഡ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-rise-of-sivagami-bahubali--before-the-beginning-book--i-352245093161"
+LAST	P2093	"Anand Neelakantan"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2017-02-01T00:00:00Z/11
+LAST	P1104	474
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Rock Babas and Other Stories"
+LAST	Lml	"ദി റോക്ക് ബാബാസ് ആൻഡ് അദർ സ്റ്റോറീസ്"
+LAST	Den	"English-language short stories published by Westland"
+LAST	Dml	"വെസ്റ്റ്‌ലാൻഡ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-rock-babas-and-other-stories"
+LAST	P2093	"Ameya Prabhu"
+LAST	P212	"9789389152500"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-17T00:00:00Z/11
+LAST	P1104	293
+LAST	P136	Q49084
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Rupa Book of Ruskin Bond`s Himalayan Tales"
+LAST	Lml	"ദി രൂപ ബുക്ക് ഓഫ് റസ്കിന് ബോണ്ട്`സ് ഹിമാലയൻ റ്റേഴ്‌സ്"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-rupa-book-of-ruskin-bonds-himalayan-tales"
+LAST	P2093	"Ruskin Bond"
+LAST	P957	"8129101440"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	144
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Rupa Book of Shikar Stories"
+LAST	Lml	"ദി രൂപ ബുക്ക് ഓഫ് ശിക്കാർ സ്റ്റോറീസ്"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-rupa-book-of-shikar-stories"
+LAST	P2093	"Ruskin Bond"
+LAST	P957	"8129103583"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	142
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Rupa Book of Snappy Surprises"
+LAST	Lml	"ദി രൂപ ബുക്ക് ഓഫ് സ്‌നാപ്പി സർപ്രൈസസ്"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-rupa-book-of-snappy-surprises"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129110701"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	172
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Rupa Book of Traveller"
+LAST	Lml	"ദി രൂപ ബുക്ക് ഓഫ് ട്രാവെള്ളേർ"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-rupa-book-of-traveller"
+LAST	P2093	"Ruskin Bond"
+LAST	P957	"8129102994"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	199
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Rupa Laughter Omnibus.."
+LAST	Lml	"ദി രൂപ ലൗഗ്റ്റർ ഓംനിബസ്.."
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-rupa-laughter-omnibus"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129106087"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	192
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Secret Princess"
+LAST	Lml	"ദി സെക്രെറ്റ് പ്രിൻസസ്"
+LAST	Den	"English-language novel published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-secret-princess"
+LAST	P2093	"Jessica Har"
+LAST	P212	"9788184748451"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-02-01T00:00:00Z/11
+LAST	P1104	254
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Shape of the Beast: Conversations With Arundhati Roy"
+LAST	Lml	"ദി ഷേപ്പ് ഓഫ് ദി ബീസ്റ്: കോൺവെർസേഷൻസ് വിത്ത് അരുന്ധതി റോയ്"
+LAST	Den	"English-language non fiction published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോൺ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-shape-of-the-beast-conversations-with-arundhati-roy"
+LAST	P2093	"Arundhati Roy"
+LAST	P212	"9780143419303"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2008-02-01T00:00:00Z/11
+LAST	P1104	330
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Shudras Vision for a New Path"
+LAST	Lml	"ദി ശൂദ്രസ് വിഷൻ ഫോർ എ ന്യൂ പാത"
+LAST	Den	"English-language philosophy published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് തത്ത്വശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-shudras-vision-for-a-new-path"
+LAST	P2093	"Kancha Ilaiah Shepherd"
+LAST	P212	"9780670092987"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	232
+LAST	P136	Q5891
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Silent Patient (english)"
+LAST	Lml	"ദി സൈലന്റ് പടൈന്റ്‌ (ഇംഗ്ലീഷ്)"
+LAST	Den	"English-language novel published by Orion Books"
+LAST	Dml	"ഓറിയോൺ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-silent-patient-english"
+LAST	P2093	"Alex Michaelides"
+LAST	P212	"9781409181637"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-05-27T00:00:00Z/11
+LAST	P1104	352
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Struggles to Do Good"
+LAST	Lml	"ദി സ്ടര്ഗ്ഗലീസ് ടോ ദോ ഗുഡ്"
+LAST	Den	"English-language memoirs published by Self Published"
+LAST	Dml	"സ്വയം പ്രസിദ്ധീകരണം പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഓർമ്മക്കുറിപ്പുകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-struggles-to-do-good"
+LAST	P2093	"George Mathew"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-04-06T00:00:00Z/11
+LAST	P1104	240
+LAST	P136	Q112983
+LAST	P393	"2"
+CREATE
+LAST	Len	"The Thursday Murder Club"
+LAST	Lml	"ദി തുര്സ്ടായ് മുർഡർ ക്ലബ്"
+LAST	Den	"English-language book published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-thursday-murder-club"
+LAST	P2093	"Richard Osman"
+LAST	P212	"9780241988268"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	389
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Tides of Memory"
+LAST	Lml	"ദി ടൈഡ്സ് ഓഫ് മെമ്മറി"
+LAST	Den	"English-language novel published by Harper Collins Publishers"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പബ്ലിഷേഴ്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-tides-of-memory"
+LAST	P2093	"Sidney Sheldon"
+LAST	P212	"9780007533015"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2013-08-16T00:00:00Z/11
+LAST	P1104	400
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Tiger in the Tunnel (pb)"
+LAST	Lml	"ദി ടൈഗർ ഇൻ ദി ട്യുന്നേൽ (പിബി)"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-tiger-in-the-tunnel"
+LAST	P2093	"Ruskin Bond"
+LAST	P957	"9353333695"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	228
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Two Lost Mountains"
+LAST	Lml	"ദി ടു ലോസ്റ്റ് മൗണ്ടൈൻസ്"
+LAST	Den	"English-language literary fiction published by Orion Books"
+LAST	Dml	"ഓറിയോൺ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-two-lost-mountains"
+LAST	P2093	"Matthew Reilly"
+LAST	P212	"9781409194408"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-24T00:00:00Z/11
+LAST	P1104	418
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Tyrant's Tomb the Trials of Apollo Book 4"
+LAST	Lml	"ദി ടൈറന്റ്'സ് ടോംബ് ദി ട്രിയൽസ് ഓഫ്‌ അപ്പോളോ ബുക്ക് 4"
+LAST	Den	"English-language novel published by Puffin Books"
+LAST	Dml	"പഫിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-tyrants-tomb-the-trials-of-apollo-book-4"
+LAST	P2093	"Rick Riordan"
+LAST	P212	"9780141364049"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-06-04T00:00:00Z/11
+LAST	P1104	480
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Valkyries"
+LAST	Lml	"ദി വാല്കയറിസ്"
+LAST	Den	"English-language novel published by Harper Collins India"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-valkyries-english"
+LAST	P2093	"Paulo Coelho"
+LAST	P212	"9788172235406"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1996-03-17T00:00:00Z/11
+LAST	P1104	245
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Vigil"
+LAST	Lml	"ദി വിജിൽ"
+LAST	Den	"English-language literary fiction published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-vigil"
+LAST	P2093	"Sarah Joseph"
+LAST	P212	"9789350298176"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2014-05-20T00:00:00Z/11
+LAST	P1104	272
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Violence in Our Bones"
+LAST	Lml	"ദി വിയലിൻസ് ഇൻ ഔർ ബോണസ്"
+LAST	Den	"English-language science published by Aleph Book Company"
+LAST	Dml	"അലെഫ് ബുക്ക് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ശാസ്ത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-violence-in-our-bones"
+LAST	P2093	"Neera Chandhoke"
+LAST	P212	"9789390652426"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-11T00:00:00Z/11
+LAST	P1104	242
+LAST	P136	Q336
+LAST	P393	"1"
+CREATE
+LAST	Len	"The White Tiger and Other Stories"
+LAST	Lml	"ദി വൈറ്റ് ടൈഗർ ആൻഡ് അദർ സ്റ്റോറീസ്"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-white-tiger-and-other-stories"
+LAST	P2093	"Ruskin Bond"
+LAST	P957	"8129142074"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	152
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Wonderful Wizard of Oz"
+LAST	Lml	"ദി വണ്ടര്ഫുള് വിസാർഡ് ഓഫ് ഓസ്"
+LAST	Den	"English-language novel published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-wonderful-wizard-of-oz-425979553256"
+LAST	P2093	"Lyman Frank Baum"
+LAST	P212	"9789352822492"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2018-04-30T00:00:00Z/11
+LAST	P1104	152
+LAST	P136	Q8261
+LAST	P136	Q131539
+LAST	P437	Q193934
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Worlds Best Boyfriend"
+LAST	Lml	"ദി വരൾഡ്‌സ് ബേസ്ഡ് ബോയ്‌ഫ്രണ്ട്‌"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-worlds-best-boyfriend"
+LAST	P2093	"Durjoy Datta"
+LAST	P212	"9780143424635"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-01-01T00:00:00Z/11
+LAST	P1104	288
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"The Zoya Factor"
+LAST	Lml	"ദി സോയ ഫാക്ടർ"
+LAST	Den	"English-language novel published by Westland"
+LAST	Dml	"വെസ്റ്റ്‌ലാൻഡ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/the-zoya-factor"
+LAST	P2093	"Anuja Chauhan"
+LAST	P212	"9789385724831"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2008-02-05T00:00:00Z/11
+LAST	P1104	457
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Thing in a Upper Room (pb)"
+LAST	Lml	"തിങ് ഇൻ എ അപ്പർ റൂം (പിബി)"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/thing-in-a-upper-room"
+LAST	P2093	"Ruskin Bond"
+LAST	P957	"9353334888"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	200
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"This Book Could Fix Your Life"
+LAST	Lml	"ദിസ് ബുക്ക് കുല്ദ് ഫിക്സ് യുവർ ലൈഫ്"
+LAST	Den	"English-language self help published by John Murray"
+LAST	Dml	"ജോൺ മുറെ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/this-book-could-fix-your-life"
+LAST	P2093	"Helen Thomson"
+LAST	P212	"9781529311365"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-24T00:00:00Z/11
+LAST	P1104	328
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Threat Vector"
+LAST	Lml	"തൃത് വെക്റ്റർ"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/threat-vector"
+LAST	P2093	"Mark Greaney"
+LAST	P212	"9780718198121"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-06-20T00:00:00Z/11
+LAST	P1104	710
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Through the Open Window"
+LAST	Lml	"ത്രൂ ദി ഓപ്പൺ വിന്ഡോ"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/through-the-open-window"
+LAST	P2093	"Vaishali Hamlai"
+LAST	P957	"9391256368"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	210
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Till the Last Breath"
+LAST	Lml	"ടൈൽ ദി ലിസ്റ് ബ്രീത്"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/till-the-last-breath"
+LAST	P2093	"Durjoy Datta"
+LAST	P212	"9780143421573"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-01-02T00:00:00Z/11
+LAST	P1104	247
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Timeless Fairy Tales"
+LAST	Lml	"ടൈംലൈസ് ഫെയറി റ്റേഴ്‌സ്"
+LAST	Den	"English-language short stories published by Mango"
+LAST	Dml	"മാംഗോ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/timeless-fairy-tales"
+LAST	P2093	"Gowri Rekha"
+LAST	P212	"9789353901011"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2023-07-27T00:00:00Z/11
+LAST	P1104	240
+LAST	P136	Q49084
+LAST	P393	"2"
+CREATE
+LAST	Len	"To Meet the Almighty (print on Demand)"
+LAST	Lml	"ടോ മീറ്റ് ദി അല്മികറ്റി (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST	Den	"English-language novel published by Expressions a Self Publishing Service of DC Press"
+LAST	Dml	"എക്സ്പ്രഷൻസ് (ഡിസി പ്രസ്) പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/to-meet-the-almighty"
+LAST	P2093	"Abraham P J"
+LAST	P212	"9789384786823"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2016-02-22T00:00:00Z/11
+LAST	P1104	144
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Tomb of God"
+LAST	Lml	"ടോംബ് ഓഫ് ഗോഡ്"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tomb-of-god"
+LAST	P2093	"Victor Ghoshe"
+LAST	P212	"9789389967708"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	312
+LAST	P393	"1"
+CREATE
+LAST	Len	"Too Much Trouble"
+LAST	Lml	"ടൂ മുച്ച് ട്രയൽ"
+LAST	Den	"English-language children's literature published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബാലസാഹിത്യം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/too-much-trouble"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129109255"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	72
+LAST	P136	Q131539
+LAST	P393	"1"
+CREATE
+LAST	Len	"Tragic Idiom"
+LAST	Lml	"ട്രാജിക് ഇടിയോം"
+LAST	Den	"English-language politics published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് രാഷ്ട്രീയ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/tragic-idiom"
+LAST	P2093	"O V Vijayan"
+LAST	P212	"9788126412358"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-01-01T00:00:00Z/11
+LAST	P1104	261
+LAST	P136	Q7163
+LAST	P393	"1"
+CREATE
+LAST	Len	"Trailblazers of the Travancore Plantations: Cheers to Unsung Heroes"
+LAST	Lml	"ട്രെയ്ലബ്ലാസ്റ്റ്സ് ഓഫ് ദി ട്രാവൻകറേ പ്ലാന്റഷന്സ്: ചീര്സ് ടോ ഉന്സുങ് ഹീറോസ്"
+LAST	Den	"English-language history published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചരിത്ര പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/trailblazers-of-the-travancore-plantations"
+LAST	P2093	"Sunitha Srinivasan"
+LAST	P212	"9789354325724"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2024-06-29T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q309
+LAST	P393	"4"
+CREATE
+LAST	Len	"Two States"
+LAST	Lml	"ടു സ്റ്റാറ്റസ്"
+LAST	Den	"English-language novel published by Rupa and Company"
+LAST	Dml	"രൂപ ആൻഡ് കമ്പനി പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/two-states"
+LAST	P2093	"Chetan Bhagat"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2012-01-10T00:00:00Z/11
+LAST	P1104	270
+LAST	P136	Q8261
+LAST	P393	"45"
+CREATE
+LAST	Len	"Two Stories"
+LAST	Lml	"ടു സ്റ്റോറീസ്"
+LAST	Den	"English-language short stories published by Tharjuma Books"
+LAST	Dml	"തർജുമ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ചെറുകഥകൾ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/two-stories"
+LAST	P2093	"M T Vasudevan Nair"
+LAST	P212	"9788190895804"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2009-10-05T00:00:00Z/11
+LAST	P1104	128
+LAST	P136	Q49084
+LAST	P393	"1"
+CREATE
+LAST	Len	"Uparwali Chai"
+LAST	Lml	"ഉപരിവാളി ചെയ്ത"
+LAST	Den	"English-language cookery published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പാചക പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/uparwali-chai"
+LAST	P2093	"Pamela Timms"
+LAST	P212	"9780143428695"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-11-13T00:00:00Z/11
+LAST	P1104	224
+LAST	P136	Q605076
+LAST	P393	"1"
+CREATE
+LAST	Len	"Upgrde Yourself"
+LAST	Lml	"ഉപഗ്രടെ യൗർസെൽഫ്"
+LAST	Den	"English-language self help published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/upgrde-yourself"
+LAST	P2093	"Thibaut Meurisse"
+LAST	P957	"9390918251"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-11-06T00:00:00Z/11
+LAST	P1104	123
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"Varanasi [english]"
+LAST	Lml	"വാരാണസി [ഇംഗ്ലീഷ്]"
+LAST	Den	"English-language literary fiction published by Orient Blackswan"
+LAST	Dml	"ഓറിയന്റ് ബ്ലാക്സ്വാൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/varanasi-english"
+LAST	P2093	"M T Vasudevan Nair"
+LAST	P212	"9788125051787"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2013-07-02T00:00:00Z/11
+LAST	P1104	200
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Vastuvidya in Contemporary Housing"
+LAST	Lml	"വാസ്തുവിദ്യ ഇൻ കോൺടെംപോററി ഹോക്‌സിംഗ്"
+LAST	Den	"English-language architecture & vasthu published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് വാസ്തുവിദ്യാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/vastuvidya-in-contemporary-housing"
+LAST	P2093	"Manoj S Nair"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+1970-01-01T00:00:00Z/11
+LAST	P1104	112
+LAST	P393	"1"
+CREATE
+LAST	Len	"Walk the Wire"
+LAST	Lml	"വാക് ദി വിരേ"
+LAST	Den	"English-language novel published by Macmillan"
+LAST	Dml	"മാക്മില്ലൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/walk-the-wire"
+LAST	P2093	"David Baldacci"
+LAST	P212	"9781509874521"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2020-04-04T00:00:00Z/11
+LAST	P1104	422
+LAST	P136	Q8261
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"War of Lanka (ram Chandra Series Book 4)"
+LAST	Lml	"വേ ഓഫ് ലങ്ക (റാം ചന്ദ്ര സീരീസ് ബുക്ക് 4)"
+LAST	Den	"English-language epics & myths published by Harper Collins India"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇതിഹാസങ്ങളും പുരാണങ്ങളും"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/war-of-lanka"
+LAST	P2093	"Amish Tripathi"
+LAST	P212	"9789356291522"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-10-05T00:00:00Z/11
+LAST	P1104	500
+LAST	P136	Q9134
+LAST	P393	"1"
+CREATE
+LAST	Len	"Ways of Seeing"
+LAST	Lml	"വേസ് ഓഫ് സീയിങ്"
+LAST	Den	"English-language art published by Penguin Books"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് കലാ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/ways-of-seeing-english"
+LAST	P2093	"John Berger"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2009-04-21T00:00:00Z/11
+LAST	P1104	176
+LAST	P136	Q36649
+LAST	P136	Q213051
+LAST	P393	"1"
+CREATE
+LAST	Len	"Wealth and Success : Maximize Your Potential Through the Power of Your Subconscious Mind to Create"
+LAST	Lml	"വെല്ത് ആൻഡ് സൂസിക്സ് : മാക്സിമൈസി യുവർ പൊറ്റന്റില് ത്രൂ ദി പവർ ഓഫ് യുവർ സുബ്‌കോണ്സസിസ് മൈൻഡ് ടോ ക്രീറ്റ"
+LAST	Den	"English-language self help published by Manjul Publishing"
+LAST	Dml	"മഞ്ജുൽ പബ്ലിഷിംഗ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സ്വയംസഹായ പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/wealth-and-success--maximize-your-potential-through-the-power-of-your-subconscious-mind-to-create-"
+LAST	P2093	"Joseph Murphy"
+LAST	P212	"9788183226073"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-02-04T00:00:00Z/11
+LAST	P1104	225
+LAST	P136	Q3739522
+LAST	P393	"1"
+CREATE
+LAST	Len	"When Only Love Remains"
+LAST	Lml	"വ്തെൻ ഒൺലി ലവ് റിമൈൻസ്"
+LAST	Den	"English-language novel published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/when-only-love-remains"
+LAST	P2093	"Durjoy Datta"
+LAST	P212	"9780143422648"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2014-06-20T00:00:00Z/11
+LAST	P1104	178
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"When the Clock Strikes Thirteen"
+LAST	Lml	"വ്തെൻ ദി ക്ലോക്ക് സ്ട്രിക്സ് തിർടീന്"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/when-the-clock-strikes-thirteen"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129148797"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	150
+LAST	P393	"1"
+CREATE
+LAST	Len	"Where the Ceder Blooms"
+LAST	Lml	"വ്തെരെ ദി കേഡർ ബ്ലൂംസ്"
+LAST	Den	"English-language novel published by Current Books"
+LAST	Dml	"കറന്റ് ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/where-the-ceder-blooms"
+LAST	P2093	"George Onakkoor"
+LAST	P212	"9789354823282"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2022-03-04T00:00:00Z/11
+LAST	P1104	232
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"White Clouds Green Mountains"
+LAST	Lml	"വൈറ്റ് ക്‌ളൗഡ്‌സ് ഗ്രീൻ മൗണ്ടൈൻസ്"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/white-clouds-green-mountains"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129142337"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	132
+LAST	P393	"1"
+CREATE
+LAST	Len	"Who Kissed Me in the Dark"
+LAST	Lml	"വൈക്കോ കിസ്സഡ് മി ഇൻ ദി ഡാർക്ക്"
+LAST	Den	"English-language literary fiction published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് സാഹിത്യ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/who-kissed-me-in-the-dark"
+LAST	P2093	"Ruskin Bond"
+LAST	P212	"9788129135940"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-06-24T00:00:00Z/11
+LAST	P1104	144
+LAST	P136	Q6647667
+LAST	P393	"1"
+CREATE
+LAST	Len	"Why Not Me ?"
+LAST	Lml	"വൈ നോട മി ?"
+LAST	Den	"English-language biography published by Harper Collins"
+LAST	Dml	"ഹാർപ്പർ കോളിൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ജീവചരിത്രം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/why-not-me"
+LAST	P2093	"Anubhav Agrawal"
+LAST	P212	"9789390279852"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-04T00:00:00Z/11
+LAST	P1104	182
+LAST	P136	Q36279
+LAST	P393	"1"
+CREATE
+LAST	Len	"Wisdom for Start-ups From Grown-ups"
+LAST	Lml	"വിസദോം ഫോർ സ്റ്റാർട്ട്-ഉപ്സ് ഫ്രം ജിറൗണ്-ഉപ്സ്"
+LAST	Den	"English-language business & management published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ബിസിനസും മാനേജ്മെന്റും സംബന്ധിച്ച പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/wisdom-for-start-ups-from-grown-ups"
+LAST	P212	"9780670091539"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-02-16T00:00:00Z/11
+LAST	P1104	202
+LAST	P136	Q4830453
+LAST	P393	"1"
+CREATE
+LAST	Len	"Wish I Could Tell You"
+LAST	Lml	"വിഷ് ഐ കുല്ദ് തെല്ല് യു"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/wish-i-could-tell-you"
+LAST	P2093	"Durjoy Datta"
+LAST	P212	"9780143448334"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2019-01-01T00:00:00Z/11
+LAST	P1104	246
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Yajamaananum Naaykkalum Mattu Aesopukathakalum"
+LAST	Lml	"യജമാനനും നായ്ക്കളും മറ്റു അഈസോപ്പുകഥകളും"
+LAST	Den	"English-language novel published by DC Books"
+LAST	Dml	"ഡിസി ബുക്സ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yajamaananum-naaykkalum-mattu-aesopukathakalum"
+LAST	P2093	"Malayattoor Ramakrishnan"
+LAST	P212	"9788126434213"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-06-01T00:00:00Z/11
+LAST	P1104	250
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Yellow Lights of Death"
+LAST	Lml	"യെൽലോ ലിറ്റ് ഓഫ് ഡെത്ത്"
+LAST	Den	"English-language indian fiction published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് ഇന്ത്യൻ ഫിക്ഷൻ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yellow-lights-of-death"
+LAST	P2093	"Benyamin"
+LAST	P212	"9780143420897"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2015-04-16T00:00:00Z/11
+LAST	P1104	394
+LAST	P393	"1"
+CREATE
+LAST	Len	"Yoga a Love Story"
+LAST	Lml	"യോഗ എ ലവ് സ്റ്റോറി"
+LAST	Den	"English-language book published by Rupa Publications"
+LAST	Dml	"രൂപ പബ്ലിക്കേഷൻസ് പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് പുസ്തകം"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/yoga-a-love-story"
+LAST	P2093	"Douglas W Davis"
+LAST	P212	"9789390260201"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2021-07-02T00:00:00Z/11
+LAST	P1104	242
+LAST	P393	"1"
+CREATE
+LAST	Len	"You Were My Crush Till You Said You Love Me"
+LAST	Lml	"യു വെറെ മൈ ക്രഷ് ടൈൽ യു സൈദ് യു ലൗ മി"
+LAST	Den	"English-language novel published by Penguin"
+LAST	Dml	"പെൻഗ്വിൻ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/you-were-my-crush-till-you-said-you-love-me"
+LAST	P2093	"Durjoy Datta"
+LAST	P212	"9780143421559"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2011-02-08T00:00:00Z/11
+LAST	P1104	215
+LAST	P136	Q8261
+LAST	P393	"1"
+CREATE
+LAST	Len	"Your Dreams Are Mine Now"
+LAST	Lml	"യുവർ ഡ്രീംസ് ഏറെ മിനി നൗ"
+LAST	Den	"English-language novel published by Penguin Books India"
+LAST	Dml	"പെൻഗ്വിൻ ബുക്സ് ഇന്ത്യ പ്രസിദ്ധീകരിച്ച ഇംഗ്ലീഷ് നോവൽ"
+LAST	P31	Q7725634	S854	"https://dcbookstore.com/books/your-dreams-are-mine-now"
+LAST	P2093	"Ravinder Singh"
+LAST	P212	"9780143423003"
+LAST	P407	Q1860
+LAST	P495	Q668
+LAST	P577	+2014-11-20T00:00:00Z/11
+LAST	P1104	240
+LAST	P136	Q8261
+LAST	P393	"1"
