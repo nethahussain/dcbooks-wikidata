@@ -134,6 +134,17 @@ python3 link_authors_wikidata.py
 
 This searches all 1,761 unique authors against Wikidata's API, caches results in `author_qid_cache.json`, and adds a `P50_QID (author Wikidata ID)` column to the Excel file. Takes ~10 minutes on first run; subsequent runs use the cache.
 
+## QuickStatements upload files
+
+The cleaned dataset is split by language for safe upload (QuickStatements **V1** format, tab-separated):
+
+| File | Books | Status |
+|------|------:|--------|
+| `data/dcbooks_quickstatements_MALAYALAM.txt` | 3,310 | Ready for bulk upload — zero title matches against existing Wikidata items |
+| `data/dcbooks_quickstatements_ENGLISH.txt` | 311 | Held for title review — likely already exist on Wikidata as translations/reprints |
+
+Each book uses `P2093` (author name string) so authors upload without needing QIDs, includes only checksum-valid ISBNs (`P212`/`P957`), and carries multi-value `P136` genres and `P437` binding format where known. The 20 books already on Wikidata (matched by ISBN) were removed during dedup.
+
 ## Wikidata integration
 
 Before uploading:
