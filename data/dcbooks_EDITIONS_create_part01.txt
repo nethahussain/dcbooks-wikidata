@@ -1,0 +1,5488 @@
+CREATE
+LAST|Len|"Kannaatikkatal"
+LAST|Lml|"കണ്ണാടിക്കടൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kannaatikkatal"
+LAST|P2093|"C V Balakrishnan"
+LAST|P212|"9788171307562"
+LAST|P407|Q36236
+LAST|P577|+2025-11-29T00:00:00Z/11
+LAST|P1104|80
+LAST|P393|"6"
+LAST|P629|Q139999379
+CREATE
+LAST|Len|"Kandalkadukal"
+LAST|Lml|"കണ്ടൽക്കാടുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kandalkadukal"
+LAST|P2093|"Suresh Mannarasala"
+LAST|P212|"9789352828821"
+LAST|P407|Q36236
+LAST|P577|+2019-06-06T00:00:00Z/11
+LAST|P1104|240
+LAST|P393|"1"
+LAST|P629|Q139999372
+CREATE
+LAST|Len|"Kamaroopi"
+LAST|Lml|"കാമരൂപി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kamaroopi"
+LAST|P2093|"Ananthamurthi U R"
+LAST|P957|"8126402695"
+LAST|P407|Q36236
+LAST|P577|+2021-03-13T00:00:00Z/11
+LAST|P1104|96
+LAST|P393|"2"
+LAST|P629|Q139999358
+CREATE
+LAST|Len|"Kalpakavadi Inn Ruchikal"
+LAST|Lml|"കല്പകവാടി ഇന്ന് രുചികൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalpakavadi-inn-ruchikal"
+LAST|P2093|"Latha Cherian"
+LAST|P212|"9788126466825"
+LAST|P407|Q36236
+LAST|P577|+2016-05-31T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"1"
+LAST|P629|Q139999349
+CREATE
+LAST|Len|"Kangaruvinte Nattil (print on Demand)"
+LAST|Lml|"കങ്കാരുവിന്റെ നാട്ടിൽ (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kangaruvinte-nattil"
+LAST|P2093|"KS Nair"
+LAST|P212|"9789354320163"
+LAST|P407|Q36236
+LAST|P577|+2021-01-18T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"1"
+LAST|P629|Q139999375
+CREATE
+LAST|Len|"Kalirogangalum Prathividhikalum"
+LAST|Lml|"കാലിരോഗങ്ങളും പ്രതിവിധികളും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalirogangalum-prathividhikalum"
+LAST|P2093|"Mohanan P V"
+LAST|P212|"9788126450732"
+LAST|P407|Q36236
+LAST|P577|+2014-07-29T00:00:00Z/11
+LAST|P1104|236
+LAST|P393|"2"
+LAST|P629|Q139999343
+CREATE
+LAST|Len|"Kadalinte Daham"
+LAST|Lml|"കടലിന്റെ ദാഹം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadalinte-daham"
+LAST|P2093|"P. K. Parakkadavu"
+LAST|P212|"9789354329883"
+LAST|P407|Q36236
+LAST|P577|+2023-07-28T00:00:00Z/11
+LAST|P1104|88
+LAST|P393|"3"
+LAST|P629|Q139999310
+CREATE
+LAST|Len|"Kailasayathra"
+LAST|Lml|"കൈലാസയാത്ര"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kailasayathra"
+LAST|P2093|"Sri Swami Tapovanam"
+LAST|P212|"9788182676152"
+LAST|P407|Q36236
+LAST|P577|+2018-07-12T00:00:00Z/11
+LAST|P1104|220
+LAST|P393|"2"
+LAST|P629|Q139999326
+CREATE
+LAST|Len|"Jimmy Padippicha Padangal"
+LAST|Lml|"ജിമ്മി പേടിപ്പിച്ച പടങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jimmy-padippicha-padangal"
+LAST|P2093|"George Padanilam"
+LAST|P212|"9789352827565"
+LAST|P407|Q36236
+LAST|P577|+2019-03-06T00:00:00Z/11
+LAST|P1104|224
+LAST|P393|"1"
+LAST|P629|Q139999284
+CREATE
+LAST|Len|"Kadhakal"
+LAST|Lml|"കഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadhakal"
+LAST|P2093|"Dileep V"
+LAST|P212|"9789386222619"
+LAST|P407|Q36236
+LAST|P577|+2019-06-11T00:00:00Z/11
+LAST|P1104|260
+LAST|P393|"1"
+LAST|P629|Q139999320
+CREATE
+LAST|Len|"Kalvariyile Kalpapadapam"
+LAST|Lml|"കാൽവരിയിലെ കാല്പാപദപം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalvariyile-kalpapadapam"
+LAST|P2093|"Kainikkara Padmanabha Pillai"
+LAST|P212|"9788126409952"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|118
+LAST|P393|"1"
+LAST|P629|Q139999351
+CREATE
+LAST|Len|"Kanalkkattakal"
+LAST|Lml|"കാണൽക്കട്ടകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanalkkattakal"
+LAST|P2093|"Chemmanam Chacko"
+LAST|P212|"9788126453344"
+LAST|P407|Q36236
+LAST|P577|+2015-03-02T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"1"
+LAST|P629|Q139999367
+CREATE
+LAST|Len|"Kadalinte Manam"
+LAST|Lml|"കടലിന്റെ മനം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadalinte-manam"
+LAST|P2093|"Mathews P F"
+LAST|P212|"9789354322426"
+LAST|P407|Q36236
+LAST|P577|+2024-09-30T00:00:00Z/11
+LAST|P1104|328
+LAST|P393|"5"
+LAST|P437|Q193934
+LAST|P629|Q139999311
+CREATE
+LAST|Len|"Kabeer Sookthangal"
+LAST|Lml|"കബീർ സൂക്തങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kabeer-sookthangal"
+LAST|P2093|"Santh Vivekdas Acharya"
+LAST|P212|"9788126466252"
+LAST|P407|Q36236
+LAST|P577|+2016-06-29T00:00:00Z/11
+LAST|P1104|80
+LAST|P393|"1"
+LAST|P629|Q139999305
+CREATE
+LAST|Len|"Kalvariyile Kalpapadavam"
+LAST|Lml|"കാൽവരിയിലെ കാല്പാപദവം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalvariyile-kalpapadavam"
+LAST|P2093|"Thomas C. J."
+LAST|P212|"9788126427086"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"1"
+LAST|P629|Q139999352
+CREATE
+LAST|Len|"Kalayute Kavithakal"
+LAST|Lml|"കലയുടെ കവിതകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalayute-kavithakal"
+LAST|P2093|"Kala Savithri"
+LAST|P212|"9789353900212"
+LAST|P407|Q36236
+LAST|P577|+2019-10-16T00:00:00Z/11
+LAST|P1104|136
+LAST|P393|"1"
+LAST|P629|Q139999340
+CREATE
+LAST|Len|"Kachikkurukkiya Dale Carnegie"
+LAST|Lml|"കാച്ചിക്കുറുക്കിയ ഡെയ്ൽ കാർണേജിഎ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kachikkurukkiya-dale-carnegie"
+LAST|P2093|"Dale Carnegie"
+LAST|P212|"9789354320446"
+LAST|P407|Q36236
+LAST|P577|+2021-05-01T00:00:00Z/11
+LAST|P1104|384
+LAST|P393|"1"
+LAST|P629|Q139999306
+CREATE
+LAST|Len|"Kalapathinte Nirangal"
+LAST|Lml|"കലാപത്തിന്റെ നിറങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalapathinte-nirangal"
+LAST|P2093|"Sudhir Kakar"
+LAST|P212|"9789354821455"
+LAST|P407|Q36236
+LAST|P577|+2022-02-15T00:00:00Z/11
+LAST|P1104|376
+LAST|P393|"1"
+LAST|P629|Q139999336
+CREATE
+LAST|Len|"Kalvariyilekku Veendum"
+LAST|Lml|"കാല്വരിയിലേക്കു വീണ്ടും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalvariyilekku-veendum"
+LAST|P2093|"Perumpadavom Sreedharan"
+LAST|P212|"9789354328916"
+LAST|P407|Q36236
+LAST|P577|+2025-10-20T00:00:00Z/11
+LAST|P1104|160
+LAST|P393|"2"
+LAST|P629|Q139999353
+CREATE
+LAST|Len|"Kadamattam Chitta"
+LAST|Lml|"കടമറ്റം ചിട്ട"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadamattam-chitta"
+LAST|P2093|"Jose Panachippuram"
+LAST|P212|"9788126433186"
+LAST|P407|Q36236
+LAST|P577|+2011-11-28T00:00:00Z/11
+LAST|P1104|62
+LAST|P393|"1"
+LAST|P629|Q139999318
+CREATE
+LAST|Len|"Kanikaprapancham"
+LAST|Lml|"കണികപ്രപഞ്ചം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanikaprapancham"
+LAST|P2093|"Sasidharan G K"
+LAST|P957|"8126425601"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|376
+LAST|P393|"1"
+LAST|P629|Q139999377
+CREATE
+LAST|Len|"Kaadinu Kaaval"
+LAST|Lml|"കാടിന് കാവൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaadinu-kaaval"
+LAST|P2093|"Sugathakumari"
+LAST|P212|"9788126433742"
+LAST|P407|Q36236
+LAST|P577|+2023-04-21T00:00:00Z/11
+LAST|P1104|230
+LAST|P393|"6"
+LAST|P629|Q139999301
+CREATE
+LAST|Len|"Kaliveedu"
+LAST|Lml|"കളിവീട്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaliveedu"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P957|"8126404159"
+LAST|P407|Q36236
+LAST|P577|+2026-01-15T00:00:00Z/11
+LAST|P1104|48
+LAST|P393|"18"
+LAST|P629|Q139999344
+CREATE
+LAST|Len|"Jyothirlinga Kshethrangal"
+LAST|Lml|"ജ്യോതിർലിംഗം ക്ഷേത്രങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jyothirlinga-kshethrangal"
+LAST|P2093|"Rajendran P G"
+LAST|P957|"8126436042"
+LAST|P407|Q36236
+LAST|P577|+2014-12-01T00:00:00Z/11
+LAST|P1104|80
+LAST|P393|"2"
+LAST|P629|Q139999288
+CREATE
+LAST|Len|"Kanamethumillathe"
+LAST|Lml|"കണമേതുമില്ലാതെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanamethumillathe"
+LAST|P2093|"Baby Sam Saamuel"
+LAST|P212|"9789353902032"
+LAST|P407|Q36236
+LAST|P577|+2024-02-29T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"9"
+LAST|P629|Q139999369
+CREATE
+LAST|Len|"Kanathavunnavar"
+LAST|Lml|"കാണാതാവുന്നവർ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanathavunnavar"
+LAST|P2093|"Hrushikesan P.B"
+LAST|P212|"9789354825811"
+LAST|P407|Q36236
+LAST|P577|+2023-07-28T00:00:00Z/11
+LAST|P1104|64
+LAST|P393|"2"
+LAST|P629|Q139999370
+CREATE
+LAST|Len|"Jyothisham Nithyajeevithathil"
+LAST|Lml|"ജ്യോതിഷം നിത്യജീവിതത്തിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jyothisham-nithyajeevithathil-253858665741"
+LAST|P2093|"Ravindran Kalarickal"
+LAST|P212|"9789386025531"
+LAST|P407|Q36236
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"1"
+LAST|P629|Q139999292
+CREATE
+LAST|Len|"Kanalukal"
+LAST|Lml|"കനലുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanalukal"
+LAST|P2093|"Sandor Marai"
+LAST|P212|"9788126436514"
+LAST|P407|Q36236
+LAST|P577|+2012-08-08T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"1"
+LAST|P629|Q139999368
+CREATE
+LAST|Len|"Kanchanaseetha"
+LAST|Lml|"കാഞ്ചനസീത"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanchanaseetha"
+LAST|P2093|"Sreekantan Nair C N"
+LAST|P957|"8126411945"
+LAST|P407|Q36236
+LAST|P577|+2025-10-30T00:00:00Z/11
+LAST|P1104|84
+LAST|P393|"2"
+LAST|P629|Q139999371
+CREATE
+LAST|Len|"K S Chithra : Anubhavam Orma Yathra"
+LAST|Lml|"കെ സ് ചിത്ര : അനുഭവം ഓര്മ യാത്ര"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/k-s-chithra--anubhavam-orma-yathra"
+LAST|P2093|"Tony Cchittettukalam"
+LAST|P212|"9789381788141"
+LAST|P407|Q36236
+LAST|P577|+2019-02-12T00:00:00Z/11
+LAST|P1104|200
+LAST|P393|"1"
+LAST|P629|Q139999295
+CREATE
+LAST|Len|"Jyothishmathy Noottandu Panchangam 1925-2025"
+LAST|Lml|"ജ്യോതിഷ്മതി നൂറ്റാണ്ടു പഞ്ചാംഗം 1925-2025"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jyothishmathy-noottandu-panchangam-1925-2025"
+LAST|P2093|"Puliyoor Mohanan Namboodhiri"
+LAST|P957|"8126412410"
+LAST|P407|Q36236
+LAST|P577|+2016-01-01T00:00:00Z/11
+LAST|P1104|1472
+LAST|P393|"17"
+LAST|P629|Q139999294
+CREATE
+LAST|Len|"Kalppanikkaran"
+LAST|Lml|"കൽപ്പണിക്കാരൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalppanikkaran"
+LAST|P2093|"Ashokan Charuvil"
+LAST|P212|"9788126474387"
+LAST|P407|Q36236
+LAST|P577|+2016-11-23T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"1"
+LAST|P629|Q139999350
+CREATE
+LAST|Len|"Kambaramayananm"
+LAST|Lml|"കമ്പരാമായണൻഎം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kambaramayanam"
+LAST|P2093|"Kambar"
+LAST|P212|"9788126441938"
+LAST|P407|Q36236
+LAST|P577|+2013-07-02T00:00:00Z/11
+LAST|P1104|224
+LAST|P393|"1"
+LAST|P629|Q139999361
+CREATE
+LAST|Len|"K-tet and C-tet Winner (category 3)"
+LAST|Lml|"കെ-റെഡ് ആൻഡ് സി-റെഡ് വിന്നർ (കാറ്റഗറി 3)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/k-tet-and-c-tet-winner-3"
+LAST|P212|"9788126451333"
+LAST|P407|Q36236
+LAST|P577|+2014-08-11T00:00:00Z/11
+LAST|P1104|670
+LAST|P393|"1"
+LAST|P629|Q139999298
+CREATE
+LAST|Len|"Jigsaw Puzzle; Englandilekkoru Kalayathra"
+LAST|Lml|"ജിഗസൗ പുസ്ലെ; ഇംഗ്ലണ്ടിലേക്കൊരു കളയാത്ര"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jigsaw-puzzle-englandilekkoru-kalayathra"
+LAST|P2093|"Kavitha Balakrishnan"
+LAST|P212|"9789389445732"
+LAST|P407|Q36236
+LAST|P577|+2019-11-20T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"1"
+LAST|P629|Q139999283
+CREATE
+LAST|Len|"Kanakkine Pedikkenda - Thomas P T"
+LAST|Lml|"കണക്കിനെ പേടിക്കേണ്ട - തോമസ് പി ടി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanakkine-pedikkenda---thomas-p-t"
+LAST|P2093|"Thomas P T"
+LAST|P957|"8124018146"
+LAST|P407|Q36236
+LAST|P577|+2017-02-03T00:00:00Z/11
+LAST|P1104|168
+LAST|P393|"3"
+LAST|P629|Q139999364
+CREATE
+LAST|Len|"Jyothisasthrathinu Oru Amukham"
+LAST|Lml|"ജ്യോതിശാസ്ത്രത്തിനു ഒരു ആമുഖം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jyothisasthrathinu-oru-amukham"
+LAST|P2093|"Manoj M Swami"
+LAST|P957|"8126424591"
+LAST|P407|Q36236
+LAST|P577|+2009-08-25T00:00:00Z/11
+LAST|P1104|100
+LAST|P393|"1"
+LAST|P629|Q139999289
+CREATE
+LAST|Len|"Kambadavukalippattu"
+LAST|Lml|"കമ്പാടവുകളിപ്പാട്ടു"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kambadavukalippattu"
+LAST|P2093|"Vattappara Appu Asan"
+LAST|P212|"9789353902667"
+LAST|P407|Q36236
+LAST|P577|+2022-04-28T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"1"
+LAST|P629|Q139999360
+CREATE
+LAST|Len|"Kadalsamghukal"
+LAST|Lml|"കടൽസംഘുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadalsamghukal"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P212|"9788126442423"
+LAST|P407|Q36236
+LAST|P577|+2020-09-01T00:00:00Z/11
+LAST|P1104|88
+LAST|P393|"3"
+LAST|P629|Q139999315
+CREATE
+LAST|Len|"Kaathal : Malayalathile Dalith Kavithakal"
+LAST|Lml|"കാതൽ : മലയാളത്തിലെ ദളിത് കവിതകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaathal-malayalathile-dalith-kavithakal"
+LAST|P2093|"Santhosh O K"
+LAST|P212|"9788126435890"
+LAST|P407|Q36236
+LAST|P1104|176
+LAST|P393|"1"
+LAST|P629|Q139999304
+CREATE
+LAST|Len|"Kangarunrutham"
+LAST|Lml|"കങ്കാരുനൃത്തം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kangarunrutham"
+LAST|P2093|"Ashokan Charuvil"
+LAST|P957|"8126411317"
+LAST|P407|Q36236
+LAST|P577|+2014-03-17T00:00:00Z/11
+LAST|P1104|140
+LAST|P393|"7"
+LAST|P629|Q139999374
+CREATE
+LAST|Len|"Kaichumma"
+LAST|Lml|"കൈച്ചുമ്മ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaichumma"
+LAST|P2093|"Sabi Thekkeppuram"
+LAST|P212|"9789354324864"
+LAST|P407|Q36236
+LAST|P577|+2022-03-12T00:00:00Z/11
+LAST|P1104|192
+LAST|P393|"1"
+LAST|P629|Q139999324
+CREATE
+LAST|Len|"Kalaapam"
+LAST|Lml|"കലാപം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalaapam"
+LAST|P2093|"Shashi Tharoor"
+LAST|P957|"8126407123"
+LAST|P407|Q36236
+LAST|P577|+2019-01-01T00:00:00Z/11
+LAST|P1104|296
+LAST|P393|"3"
+LAST|P629|Q139999333
+CREATE
+LAST|Len|"Jesus in Blue Jeans"
+LAST|Lml|"ജെസുസ് ഇൻ ബ്ലൂ ജീൻസ്‌"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jesus-in-blue-jeans"
+LAST|P2093|"Laurie Beth Jones"
+LAST|P212|"9788126433902"
+LAST|P407|Q36236
+LAST|P577|+2015-12-08T00:00:00Z/11
+LAST|P1104|216
+LAST|P393|"1"
+LAST|P629|Q139999282
+CREATE
+LAST|Len|"Kadal Muthu"
+LAST|Lml|"കടൽ മുത്ത്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadal-muthu"
+LAST|P2093|"Andrews A"
+LAST|P212|"9788126417568"
+LAST|P407|Q36236
+LAST|P577|+2020-11-01T00:00:00Z/11
+LAST|P1104|111
+LAST|P393|"2"
+LAST|P629|Q139999308
+CREATE
+LAST|Len|"Kalothsava Natakangal"
+LAST|Lml|"കലോത്സവ നാടകങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalothsava-natakangal"
+LAST|P2093|"Radhakrishnan Aduthila"
+LAST|P212|"9788126452224"
+LAST|P407|Q36236
+LAST|P577|+2014-11-10T00:00:00Z/11
+LAST|P1104|230
+LAST|P393|"1"
+LAST|P629|Q139999348
+CREATE
+LAST|Len|"Kadinte Sangeetham"
+LAST|Lml|"കാടിന്റെ സംഗീതം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadinte-sangeetham"
+LAST|P2093|"Sarah Joseph"
+LAST|P212|"9788126409495"
+LAST|P407|Q36236
+LAST|P577|+2018-04-30T00:00:00Z/11
+LAST|P1104|130
+LAST|P393|"4"
+LAST|P629|Q139999321
+CREATE
+LAST|Len|"Kaikkumbilile Vellavum Kannadiyude Kazhchayum"
+LAST|Lml|"കൈക്കുമ്പിളിൽ വെള്ളവും കണ്ണാടിയുടെ കാഴ്ചയും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaikkumbilile-vellavum-kannadiyude-kazhchayum"
+LAST|P2093|"M. Mukundan"
+LAST|P212|"9789352827695"
+LAST|P407|Q36236
+LAST|P577|+2023-04-21T00:00:00Z/11
+LAST|P1104|212
+LAST|P393|"3"
+LAST|P629|Q139999325
+CREATE
+LAST|Len|"Kaal Noottandu"
+LAST|Lml|"കാൽ നൂറ്റാണ്ട്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaal-noottandu"
+LAST|P2093|"Cherian Philip"
+LAST|P212|"9789354820687"
+LAST|P407|Q36236
+LAST|P577|+2022-05-05T00:00:00Z/11
+LAST|P1104|408
+LAST|P393|"3"
+LAST|P629|Q139999302
+CREATE
+LAST|Len|"Kamanayude Rasathanthram"
+LAST|Lml|"കാമനയുടെ രസതന്ത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kamanayude-rasathanthram"
+LAST|P2093|"Tejpal Tarun J"
+LAST|P212|"9788126428311"
+LAST|P407|Q36236
+LAST|P577|+2015-07-15T00:00:00Z/11
+LAST|P1104|496
+LAST|P393|"1"
+LAST|P629|Q139999357
+CREATE
+LAST|Len|"Jnaniyude Savidhathil"
+LAST|Lml|"ജ്ഞാനിയുടെ സവിധത്തിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jnaniyude-savidhathil"
+LAST|P2093|"Sadhguru"
+LAST|P957|"8126411082"
+LAST|P407|Q36236
+LAST|P577|+2024-05-30T00:00:00Z/11
+LAST|P1104|352
+LAST|P393|"7"
+LAST|P629|Q139999285
+CREATE
+LAST|Len|"Kadum Camerayum"
+LAST|Lml|"കാടും ക്യാമറയും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadum-camerayum-504279118918"
+LAST|P2093|"NA Naseer"
+LAST|P212|"9788182676664"
+LAST|P407|Q36236
+LAST|P577|+2017-02-01T00:00:00Z/11
+LAST|P1104|190
+LAST|P393|"3"
+LAST|P629|Q139999323
+CREATE
+LAST|Len|"Kadaltheerathu"
+LAST|Lml|"കടൽത്തീരത്ത്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadaltheerathu"
+LAST|P2093|"O V Vijayan"
+LAST|P957|"8171301037"
+LAST|P407|Q36236
+LAST|P577|+2026-01-15T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"27"
+LAST|P629|Q139999316
+CREATE
+LAST|Len|"Kalichu Rasikkan Kuttikkalikal"
+LAST|Lml|"കളിച്ചു രസിക്കാൻ കുട്ടിക്കളികൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalichu-rasikkan-kuttikkalikal"
+LAST|P2093|"Sanil P Thomas"
+LAST|P212|"9788126465897"
+LAST|P407|Q36236
+LAST|P577|+2025-08-25T00:00:00Z/11
+LAST|P1104|96
+LAST|P393|"3"
+LAST|P629|Q139999342
+CREATE
+LAST|Len|"Kalhanan"
+LAST|Lml|"കല്ഹാനാണ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalhanan"
+LAST|P2093|"Amal"
+LAST|P212|"9788126448944"
+LAST|P407|Q36236
+LAST|P577|+2022-04-11T00:00:00Z/11
+LAST|P1104|256
+LAST|P393|"2"
+LAST|P629|Q139999341
+CREATE
+LAST|Len|"K S Namboodiriyute Natakangal"
+LAST|Lml|"കെ സ് നമ്പൂതിരിയുടെ നാടകങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/k-s-namboodiriyute-natakangal"
+LAST|P2093|"K S Namboodiri"
+LAST|P212|"9788124018583"
+LAST|P407|Q36236
+LAST|P1104|356
+LAST|P393|"1"
+LAST|P629|Q139999296
+CREATE
+LAST|Len|"Kaada, Turki Valarthal"
+LAST|Lml|"കാട  ടർക്കി വളർത്താൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaada-turki-valarthal"
+LAST|P2093|"Mohanan P V"
+LAST|P212|"9788126424238"
+LAST|P407|Q36236
+LAST|P577|+2014-11-17T00:00:00Z/11
+LAST|P1104|94
+LAST|P393|"4"
+LAST|P629|Q139999299
+CREATE
+LAST|Len|"Kanjeem Kareem Kalikkam"
+LAST|Lml|"കഞ്ഞീം കരീം കളിക്കാം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanjeem-kareem-kalikkam"
+LAST|P2093|"Suma Sivadas"
+LAST|P212|"9789352821266"
+LAST|P407|Q36236
+LAST|P577|+2022-03-04T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"3"
+LAST|P629|Q139999378
+CREATE
+LAST|Len|"Kadalmayooram"
+LAST|Lml|"കടൽമയൂരം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadalmayooram"
+LAST|P2093|"Madhavikkutty"
+LAST|P212|"9788126423552"
+LAST|P407|Q36236
+LAST|P577|+2025-04-30T00:00:00Z/11
+LAST|P1104|84
+LAST|P393|"13"
+LAST|P629|Q139999312
+CREATE
+LAST|Len|"Kadalneelam"
+LAST|Lml|"കടൽനീളം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadalneelam"
+LAST|P2093|"Jayachandran Mokeri"
+LAST|P212|"9789354321009"
+LAST|P407|Q36236
+LAST|P577|+2023-04-21T00:00:00Z/11
+LAST|P1104|164
+LAST|P393|"4"
+LAST|P629|Q139999314
+CREATE
+LAST|Len|"Kanthikatha:ariyendathellam"
+LAST|Lml|"കാന്തികത:അറിയേണ്ടതെല്ലാം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanthikatha-ariyendathellam"
+LAST|P2093|"Sunitha Ganesh"
+LAST|P957|"8126418176"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|94
+LAST|P393|"1"
+LAST|P629|Q139999382
+CREATE
+LAST|Len|"Kalabhairavanum Mattu Kathakalum"
+LAST|Lml|"കാലഭൈരവനും മറ്റു കഥകളും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalabhairavanum-mattu-kathakalum"
+LAST|P2093|"T. Padmanabhan"
+LAST|P212|"9789353901929"
+LAST|P407|Q36236
+LAST|P577|+2021-12-14T00:00:00Z/11
+LAST|P1104|344
+LAST|P393|"2"
+LAST|P629|Q139999334
+CREATE
+LAST|Len|"Kanakkine Pedikkenda"
+LAST|Lml|"കണക്കിനെ പേടിക്കേണ്ട"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanakkine-pedikkenda"
+LAST|P2093|"Palliyara Sreedharan"
+LAST|P212|"9789389463255"
+LAST|P407|Q36236
+LAST|P577|+2019-07-17T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"1"
+LAST|P629|Q139999363
+CREATE
+LAST|Len|"Kairaliyude Katha"
+LAST|Lml|"കൈരളിയുടെ കഥ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kairaliyude-katha"
+LAST|P2093|"Krishna Pillai N"
+LAST|P957|"8126405090"
+LAST|P407|Q36236
+LAST|P577|+2023-04-28T00:00:00Z/11
+LAST|P1104|440
+LAST|P393|"12"
+LAST|P629|Q139999329
+CREATE
+LAST|Len|"Kaalam"
+LAST|Lml|"കാലം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaalam"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P212|"9789386429858"
+LAST|P407|Q36236
+LAST|P577|+2019-10-30T00:00:00Z/11
+LAST|P1104|320
+LAST|P393|"34"
+LAST|P437|Q193934
+LAST|P629|Q139999303
+CREATE
+LAST|Len|"Kanakkile Kurukuvazhikal"
+LAST|Lml|"കണക്കിലെ കുറുക്കുവഴികൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanakkile-kurukuvazhikal"
+LAST|P2093|"Bhaskaran C"
+LAST|P212|"9788126438990"
+LAST|P407|Q36236
+LAST|P577|+2012-01-11T00:00:00Z/11
+LAST|P1104|118
+LAST|P393|"1"
+LAST|P629|Q139999362
+CREATE
+LAST|Len|"Kannur Kotta"
+LAST|Lml|"കണ്ണൂർ കോട്ട"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kannur-kotta"
+LAST|P2093|"Balakrishnan K"
+LAST|P957|"8126421630"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|404
+LAST|P393|"2"
+LAST|P629|Q139999380
+CREATE
+LAST|Len|"Kakke Kakke Koodevide"
+LAST|Lml|"കാക്കേ കാക്കേ കൂടെവിടെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kakke-kakke-koodevide"
+LAST|P2093|"Anita Nair"
+LAST|P212|"9788182674196"
+LAST|P407|Q36236
+LAST|P577|+2018-01-08T00:00:00Z/11
+LAST|P1104|130
+LAST|P393|"2"
+LAST|P629|Q139999331
+CREATE
+LAST|Len|"Kaioppitta Vazhikal"
+LAST|Lml|"കൈയൊപ്പിട്ട വഴികൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaioppitta-vazhikal"
+LAST|P2093|"Divya S. Iyer"
+LAST|P212|"9789354820823"
+LAST|P407|Q36236
+LAST|P577|+2026-02-26T00:00:00Z/11
+LAST|P1104|136
+LAST|P393|"16"
+LAST|P629|Q139999327
+CREATE
+LAST|Len|"Jutha Bharatham"
+LAST|Lml|"ജൂത ഭാരതം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jutha-bharatham"
+LAST|P2093|"Abraham Benhur"
+LAST|P212|"9789354821134"
+LAST|P407|Q36236
+LAST|P577|+2024-02-29T00:00:00Z/11
+LAST|P1104|384
+LAST|P393|"4"
+LAST|P629|Q139999287
+CREATE
+LAST|Len|"Joseph Pulikunnel Kalahavum Viswasavum"
+LAST|Lml|"ജോസഫ് പുലിക്കുന്നേൽ കലഹവും വിശ്വാസവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/joseph-pulikunnel-kalahavum-viswasavum"
+LAST|P2093|"Joseph Pulikunnel"
+LAST|P212|"9789352825844"
+LAST|P407|Q36236
+LAST|P577|+2018-12-10T00:00:00Z/11
+LAST|P1104|608
+LAST|P393|"1"
+LAST|P629|Q139999286
+CREATE
+LAST|Len|"Kadinu Nadukkoru Maram"
+LAST|Lml|"കാടിന് നടുക്കൊരു മരം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadinu-nadukkoru-maram"
+LAST|P2093|"Devadas V M"
+LAST|P212|"9789354329968"
+LAST|P407|Q36236
+LAST|P577|+2021-10-05T00:00:00Z/11
+LAST|P1104|192
+LAST|P393|"2"
+LAST|P437|Q193934
+LAST|P629|Q139999322
+CREATE
+LAST|Len|"Kallayi Kadalayi Kattayi"
+LAST|Lml|"കല്ലായി കടലായി കട്ടായി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kallayi-kadalayi-kattayi"
+LAST|P2093|"S. Sivadas"
+LAST|P212|"9789354823855"
+LAST|P407|Q36236
+LAST|P577|+2022-04-12T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"1"
+LAST|P629|Q139999347
+CREATE
+LAST|Len|"Kakki Kakkayam - Adiyantharavasthayile Keralam"
+LAST|Lml|"കാക്കി കക്കയം - അടിയന്തരാവസ്ഥയിലെ കേരളം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kakki-kakkayam-adiyantharavasthayile-keralam"
+LAST|P2093|"K P Sethunath"
+LAST|P212|"9789386680075"
+LAST|P407|Q36236
+LAST|P577|+2025-06-30T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"2"
+LAST|P629|Q139999332
+CREATE
+LAST|Len|"Kanakkinte Oru Kaippusthakam"
+LAST|Lml|"കണക്കിന്റെ ഒരു കൈപ്പുസ്തകം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanakkinte-oru-kaippusthakam"
+LAST|P2093|"Palliyara Sreedharan"
+LAST|P212|"9788126465255"
+LAST|P407|Q36236
+LAST|P577|+2021-05-03T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"2"
+LAST|P629|Q139999366
+CREATE
+LAST|Len|"Kalasrushtiyude Uravidam"
+LAST|Lml|"കലാസൃഷ്ടിയുടെ ഉറവിടം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalasrushtiyude-uravidam"
+LAST|P2093|"Martin Heidegger"
+LAST|P212|"9788126449644"
+LAST|P407|Q36236
+LAST|P577|+2014-01-02T00:00:00Z/11
+LAST|P1104|95
+LAST|P393|"1"
+LAST|P629|Q139999338
+CREATE
+LAST|Len|"Kadakkattupathumma"
+LAST|Lml|"കടക്കാട്ടുപാത്തുമ്മ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadakkattupathumma"
+LAST|P2093|"Nafeesa Koloth Thayyil"
+LAST|P212|"9789354825606"
+LAST|P407|Q36236
+LAST|P577|+2022-04-12T00:00:00Z/11
+LAST|P1104|168
+LAST|P393|"1"
+LAST|P629|Q139999307
+CREATE
+LAST|Len|"Kallan Pavithran"
+LAST|Lml|"കള്ളൻ പവിത്രൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kallan-pavithran"
+LAST|P2093|"P Padmarajan"
+LAST|P212|"9788126477418"
+LAST|P407|Q36236
+LAST|P577|+2018-08-29T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"2"
+LAST|P437|Q193934
+LAST|P629|Q139999346
+CREATE
+LAST|Len|"Kakkadinte Puravrutham"
+LAST|Lml|"കക്കാടിന്റെ പുരാവൃത്തം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kakkadinte-puravrutham"
+LAST|P2093|"Sunil Upasana"
+LAST|P212|"9788126450015"
+LAST|P407|Q36236
+LAST|P577|+2014-04-14T00:00:00Z/11
+LAST|P1104|210
+LAST|P393|"1"
+LAST|P629|Q139999330
+CREATE
+LAST|Len|"Kantharipponnu"
+LAST|Lml|"കാന്താരിപ്പോന്നു"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kantharipponnu"
+LAST|P2093|"Sivadas Poyilkavu"
+LAST|P212|"9788126473878"
+LAST|P407|Q36236
+LAST|P577|+2017-04-03T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"2"
+LAST|P629|Q139999381
+CREATE
+LAST|Len|"Jyothishabodhini"
+LAST|Lml|"ജ്യോതിശാബോധിനി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jyothishabodhini"
+LAST|P2093|"Velloor G Sivasankaran Nair"
+LAST|P957|"8126414510"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|220
+LAST|P393|"1"
+LAST|P629|Q139999291
+CREATE
+LAST|Len|"Kanakkinte Kilivathil"
+LAST|Lml|"കണക്കിന്റെ കിളിവാതിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanakkinte-kilivathil"
+LAST|P2093|"Palliyara Sreedharan"
+LAST|P957|"8126433868"
+LAST|P407|Q36236
+LAST|P577|+2021-05-04T00:00:00Z/11
+LAST|P1104|70
+LAST|P393|"2"
+LAST|P629|Q139999365
+CREATE
+LAST|Len|"K Saraswathiyammayude Kathakal Sampoornam"
+LAST|Lml|"കെ സരസ്വതിയമ്മയുടെ കഥകൾ സമ്പൂര്ണം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/k-saraswathiyammayude-kathakal-sampoornam"
+LAST|P2093|"K. Saraswathy Amma"
+LAST|P212|"9788126440696"
+LAST|P407|Q36236
+LAST|P577|+2020-10-12T00:00:00Z/11
+LAST|P1104|872
+LAST|P393|"2"
+LAST|P629|Q139999297
+CREATE
+LAST|Len|"Kalladuppukal - Malayaliyude Marunna Adukkala (keralam 60 Series)"
+LAST|Lml|"കല്ലടുപ്പുകൾ - മലയാളിയുടെ മാറുന്ന അടുക്കള (കേരളം 60 സീരീസ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalladuppukal-malayaliyude-marunna-adukkala"
+LAST|P2093|"Jyothish V R"
+LAST|P212|"9789352820115"
+LAST|P407|Q36236
+LAST|P577|+2017-09-19T00:00:00Z/11
+LAST|P1104|190
+LAST|P393|"1"
+LAST|P629|Q139999345
+CREATE
+LAST|Len|"Kamasoothram"
+LAST|Lml|"കാമസൂത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kamasoothram"
+LAST|P2093|"Vatsyayanan"
+LAST|P957|"8171300340"
+LAST|P407|Q36236
+LAST|P1104|118
+LAST|P393|"26"
+LAST|P629|Q139999359
+CREATE
+LAST|Len|"Kamamohitham"
+LAST|Lml|"കാമമോഹിതം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kamamohitham"
+LAST|P2093|"C V Balakrishnan"
+LAST|P212|"9788171306084"
+LAST|P407|Q36236
+LAST|P577|+2026-02-19T00:00:00Z/11
+LAST|P1104|100
+LAST|P393|"9"
+LAST|P629|Q139999356
+CREATE
+LAST|Len|"Kanya - Mariya"
+LAST|Lml|"കന്യ - മാറിയ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kanya-mariya"
+LAST|P2093|"Lajo Jose"
+LAST|P212|"9789354822803"
+LAST|P407|Q36236
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P1104|176
+LAST|P393|"12"
+LAST|P437|Q193934
+LAST|P629|Q139999383
+CREATE
+LAST|Len|"Kamala Harris"
+LAST|Lml|"കമല ഹാരിസ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kamala-harris"
+LAST|P2093|"Hansa Makhijani Jain"
+LAST|P212|"9789354828270"
+LAST|P407|Q36236
+LAST|P577|+2022-09-21T00:00:00Z/11
+LAST|P1104|164
+LAST|P393|"1"
+LAST|P629|Q139999355
+CREATE
+LAST|Len|"Kadaltheerathum Kattu Paranja Kathayum"
+LAST|Lml|"കടൽത്തീരത്തും കട്ട് പറഞ്ഞ കഥയും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadaltheerathum-kattu-paranja-kathayum"
+LAST|P2093|"O V Vijayan"
+LAST|P212|"9789352826865"
+LAST|P407|Q36236
+LAST|P577|+2022-05-30T00:00:00Z/11
+LAST|P1104|212
+LAST|P393|"5"
+LAST|P629|Q139999317
+CREATE
+LAST|Len|"Kalavum Krishiyum"
+LAST|Lml|"കാലവും കൃഷിയും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalavum-krishiyum"
+LAST|P2093|"Chandran Nellekkad"
+LAST|P212|"9788194834861"
+LAST|P407|Q36236
+LAST|P577|+2021-03-31T00:00:00Z/11
+LAST|P1104|96
+LAST|P393|"1"
+LAST|P629|Q139999339
+CREATE
+LAST|Len|"Kani Paniyunna Kaserakal"
+LAST|Lml|"കണി പണിയുന്ന കസേരകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kani-paniyunna-kaserakal"
+LAST|P2093|"Francis Noronha"
+LAST|P212|"9789354829369"
+LAST|P407|Q36236
+LAST|P577|+2024-01-24T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"4"
+LAST|P629|Q139999376
+CREATE
+LAST|Len|"Jyothisha Sasthrarahasyangal"
+LAST|Lml|"ജ്യോതിഷ ശാസ്ത്രരഹസ്യങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jyothisha-sasthrarahasyangal"
+LAST|P2093|"Mohanachandran Vellayani K"
+LAST|P212|"9789354321405"
+LAST|P407|Q36236
+LAST|P577|+2025-06-10T00:00:00Z/11
+LAST|P1104|320
+LAST|P393|"3"
+LAST|P629|Q139999290
+CREATE
+LAST|Len|"Kadethu Kaduvayethu Njanethu"
+LAST|Lml|"കടുത്തു കടുവയേതു ഞാനിതു"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadethu-kaduvayethu-njanethu--236916764473"
+LAST|P2093|"NA Naseer"
+LAST|P212|"9788182673267"
+LAST|P407|Q36236
+LAST|P577|+2017-01-04T00:00:00Z/11
+LAST|P1104|172
+LAST|P393|"2"
+LAST|P629|Q139999319
+CREATE
+LAST|Len|"Kadalassupakkikal"
+LAST|Lml|"കടലാസ്സുപാക്കികൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kadalassupakkikal"
+LAST|P2093|"Raj Nair"
+LAST|P212|"9789353906498"
+LAST|P407|Q36236
+LAST|P577|+2023-08-31T00:00:00Z/11
+LAST|P1104|376
+LAST|P393|"3"
+LAST|P629|Q139999309
+CREATE
+LAST|Len|"Kalarippayattile Kanakkukal Kalariprayogaprakaram"
+LAST|Lml|"കളരിപ്പയറ്റിലെ കണക്കുകൾ കളറിപ്രയോഗപ്രകാരം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalarippayattile-kanakkukal-kalariprayogaprakaram"
+LAST|P2093|"Valappil Karunan Gurukkal"
+LAST|P212|"9789352823765"
+LAST|P407|Q36236
+LAST|P577|+2026-01-30T00:00:00Z/11
+LAST|P1104|288
+LAST|P393|"8"
+LAST|P629|Q139999337
+CREATE
+LAST|Len|"Kamakkarkkidakom (fifty Shades Darker)"
+LAST|Lml|"കമക്കാർക്കിടക്കം (ഫിഫ്റ്റി ഷാവേസ് ദർക്കർ)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kamakkarkkidakom"
+LAST|P2093|"E L James"
+LAST|P212|"9788126466221"
+LAST|P407|Q36236
+LAST|P577|+2016-03-08T00:00:00Z/11
+LAST|P1104|560
+LAST|P393|"1"
+LAST|P629|Q139999354
+CREATE
+LAST|Len|"Kandu Padhichaal Kanakku Eluppam"
+LAST|Lml|"കണ്ടു പഠിച്ചാൽ കണക്കു എളുപ്പം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kandu-padhichaal-kanakku-eluppam"
+LAST|P2093|"Madhavan Pallatheri"
+LAST|P212|"9788189004293"
+LAST|P407|Q36236
+LAST|P577|+2016-12-14T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"8"
+LAST|P629|Q139999373
+CREATE
+LAST|Len|"Jyothishasidhantha Visakalanangal"
+LAST|Lml|"ജ്യോതിഷസിദ്ധാന്ത വിശകലനങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/jyothishasidhantha-visakalanangal"
+LAST|P2093|"Mohanachandran Vellayani K"
+LAST|P212|"9788124020166"
+LAST|P407|Q36236
+LAST|P577|+2015-08-25T00:00:00Z/11
+LAST|P1104|248
+LAST|P393|"1"
+LAST|P629|Q139999293
+CREATE
+LAST|Len|"Kaadine Chennu Thodumpol"
+LAST|Lml|"കാടിനെ ചെന്ന് തൊടുമ്പോൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaadine-chennu-thodumpol"
+LAST|P2093|"NA Naseer"
+LAST|P212|"9788182680302"
+LAST|P407|Q36236
+LAST|P577|+2014-01-08T00:00:00Z/11
+LAST|P1104|230
+LAST|P393|"8"
+LAST|P629|Q139999300
+CREATE
+LAST|Len|"Kalam Kathakal"
+LAST|Lml|"കാലം കഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kalam-kathakal"
+LAST|P2093|"Vineetha M.C"
+LAST|P212|"9788126466429"
+LAST|P407|Q36236
+LAST|P577|+2023-03-30T00:00:00Z/11
+LAST|P1104|96
+LAST|P393|"7"
+LAST|P629|Q139999335
+CREATE
+LAST|Len|"Pradhamalakshyam Kandethuka"
+LAST|Lml|"പ്രഥമലക്ഷ്യം കണ്ടെത്തുക"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pradhamalakshyam-kandethuka"
+LAST|P2093|"Stephen R Covey"
+LAST|P212|"9788126425082"
+LAST|P407|Q36236
+LAST|P577|+2013-04-02T00:00:00Z/11
+LAST|P1104|446
+LAST|P393|"2"
+LAST|P629|Q140000346
+CREATE
+LAST|Len|"Pradhanamanthri - Vairudhyangalude Nayakan"
+LAST|Lml|"പ്രധാനമന്ത്രി - വൈരുധ്യങ്ങളുടെ നായകൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pradhanamanthri-vairudhyangalude-nayakan"
+LAST|P2093|"Shashi Tharoor"
+LAST|P212|"9788126477388"
+LAST|P407|Q36236
+LAST|P577|+2019-01-15T00:00:00Z/11
+LAST|P1104|596
+LAST|P393|"1"
+LAST|P629|Q140000347
+CREATE
+LAST|Len|"Prakashasamshleshanam"
+LAST|Lml|"പ്രകാശസംശ്ലേഷണം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prakashasamshleshanam"
+LAST|P2093|"Ajithkumar N"
+LAST|P212|"9789387169593"
+LAST|P407|Q36236
+LAST|P577|+2021-04-16T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"2"
+LAST|P629|Q140000351
+CREATE
+LAST|Len|"Psc Code Master - 3"
+LAST|Lml|"സ്പി കോഡ് മാസ്റ്റർ - 3"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-code-master-3"
+LAST|P2093|"Sunil John S"
+LAST|P212|"9788126475421"
+LAST|P407|Q36236
+LAST|P577|+2018-02-28T00:00:00Z/11
+LAST|P1104|256
+LAST|P393|"2"
+LAST|P629|Q140000407
+CREATE
+LAST|Len|"Psc Gk Question Bank"
+LAST|Lml|"സ്പി ജികെ കുഎസ്ടിഒന് ബാങ്ക്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-gk-question-bank"
+LAST|P2093|"NGK Nair"
+LAST|P212|"9789383197033"
+LAST|P407|Q36236
+LAST|P577|+2013-06-01T00:00:00Z/11
+LAST|P1104|300
+LAST|P393|"1"
+LAST|P629|Q140000412
+CREATE
+LAST|Len|"Prempatta"
+LAST|Lml|"പ്രെമ്പറ്റ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prem-patta"
+LAST|P2093|"Vaikom Muhammad Basheer"
+LAST|P212|"9788126402403"
+LAST|P407|Q36236
+LAST|P577|+2026-02-27T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"14"
+LAST|P629|Q140000394
+CREATE
+LAST|Len|"Pranavayu"
+LAST|Lml|"പ്രാണവായു"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pranavayu"
+LAST|P2093|"Ambikasuthan Mangad"
+LAST|P212|"9789354828652"
+LAST|P407|Q36236
+LAST|P577|+2024-08-24T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"3"
+LAST|P629|Q140000364
+CREATE
+LAST|Len|"Punarjanmam"
+LAST|Lml|"പുനർജ്ജന്മം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/punarjanmam"
+LAST|P2093|"Swami Abhedananda"
+LAST|P957|"8126417595"
+LAST|P407|Q36236
+LAST|P577|+2008-01-01T00:00:00Z/11
+LAST|P1104|84
+LAST|P393|"1"
+LAST|P629|Q140000429
+CREATE
+LAST|Len|"Puranakathapusthakam"
+LAST|Lml|"പുരാണകഥാപുസ്തകം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/puranakathapusthakam"
+LAST|P212|"9788126450688"
+LAST|P407|Q36236
+LAST|P577|+2014-05-12T00:00:00Z/11
+LAST|P1104|34
+LAST|P393|"1"
+LAST|P629|Q140000437
+CREATE
+LAST|Len|"Pradhirodhaparamparyam Indiankavithayil"
+LAST|Lml|"പ്രധിരോധപരമ്പര്യം ഇന്ത്യൻകവിതയിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pradhirodhaparamparyam-indiankavithayil"
+LAST|P2093|"K Sachidanandan"
+LAST|P212|"9789386222602"
+LAST|P407|Q36236
+LAST|P577|+2019-06-11T00:00:00Z/11
+LAST|P1104|100
+LAST|P393|"1"
+LAST|P629|Q140000348
+CREATE
+LAST|Len|"Pracheenakeralathinte Vanijyabandhangal"
+LAST|Lml|"പ്രാചീനകേരളത്തിന്റെ വാണിജ്യബന്ധങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pracheenakeralathinte-vanijyabandhangal"
+LAST|P2093|"Velayudhan Panikkassery"
+LAST|P212|"9789352823918"
+LAST|P407|Q36236
+LAST|P577|+2025-09-22T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"3"
+LAST|P629|Q140000343
+CREATE
+LAST|Len|"Prof. P.j. Kurien : Anubhavavum Anumodhanavum"
+LAST|Lml|"പ്രൊഫ്. പി.ജെ. കുരിയൻ : അനുഭവവും അനുമോദനവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prof-pj-kurien-anubhavavum-anumodhanavum"
+LAST|P2093|"Edited BY Abraham Mathew"
+LAST|P212|"9789356433830"
+LAST|P407|Q36236
+LAST|P577|+2022-11-12T00:00:00Z/11
+LAST|P1104|368
+LAST|P393|"1"
+LAST|P629|Q140000403
+CREATE
+LAST|Len|"Post Truth Television"
+LAST|Lml|"പോസ്റ്റ് ട്രൂത് ടെലിവിഷൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/post-truth-television"
+LAST|P2093|"T.K. Santhoshkumar"
+LAST|P212|"9789354822964"
+LAST|P407|Q36236
+LAST|P577|+2023-02-27T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"2"
+LAST|P629|Q140000333
+CREATE
+LAST|Len|"Purana Kathasagaram"
+LAST|Lml|"പുരാണ കഥാസാഗരം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/purana-kathasagaram"
+LAST|P212|"9788126476091"
+LAST|P407|Q36236
+LAST|P577|+2017-07-10T00:00:00Z/11
+LAST|P1104|1000
+LAST|P393|"1"
+LAST|P629|Q140000436
+CREATE
+LAST|Len|"Purampokkupadal"
+LAST|Lml|"പുറംപോക്കുപാടൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/purampokkupadal"
+LAST|P2093|"T M Krishna"
+LAST|P212|"9789352823932"
+LAST|P407|Q36236
+LAST|P577|+1970-01-20T00:00:00Z/11
+LAST|P1104|160
+LAST|P393|"1"
+LAST|P629|Q140000435
+CREATE
+LAST|Len|"Premabhajanam Devadoothi"
+LAST|Lml|"പ്രേമഭാജനം ദേവദൂതി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/premabhajanam-devadoothil"
+LAST|P2093|"K. Saraswathy Amma"
+LAST|P212|"9788126440436"
+LAST|P407|Q36236
+LAST|P577|+2013-07-01T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"1"
+LAST|P629|Q140000395
+CREATE
+LAST|Len|"Premanagaram"
+LAST|Lml|"പ്രേമാനഗരം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/premanagaram"
+LAST|P2093|"Bineesh Puthuppanam"
+LAST|P212|"9789354821875"
+LAST|P407|Q36236
+LAST|P577|+2026-02-18T00:00:00Z/11
+LAST|P1104|152
+LAST|P393|"35"
+LAST|P629|Q140000397
+CREATE
+LAST|Len|"Psc Last Grade Exam - Rapid"
+LAST|Lml|"സ്പി ലിസ്റ് ഗ്രേഡ് എക്സാം - റാപിഡ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-last-grade-exam-rapid"
+LAST|P2093|"Sukumar"
+LAST|P212|"9788126451623"
+LAST|P407|Q36236
+LAST|P577|+2014-09-29T00:00:00Z/11
+LAST|P1104|358
+LAST|P393|"1"
+LAST|P629|Q140000413
+CREATE
+LAST|Len|"Prathyaksham"
+LAST|Lml|"പ്രത്യക്ഷം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prathyaksham"
+LAST|P2093|"Rajagopalan E P"
+LAST|P212|"9789353909451"
+LAST|P407|Q36236
+LAST|P577|+2021-02-01T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"1"
+LAST|P629|Q140000384
+CREATE
+LAST|Len|"Prameham Apakatakaramaya Rogam"
+LAST|Lml|"പ്രമേഹം അപകടകരമായ രോഗം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prameham-apakatakaramaya-rogam"
+LAST|P2093|"Johny J Kannampilly"
+LAST|P212|"9789353900861"
+LAST|P407|Q36236
+LAST|P577|+2023-02-27T00:00:00Z/11
+LAST|P1104|130
+LAST|P393|"3"
+LAST|P629|Q140000362
+CREATE
+LAST|Len|"Psc Last Grade Vinjana Padavukal"
+LAST|Lml|"സ്പി ലിസ്റ് ഗ്രേഡ് വിജ്ഞാന പടവുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-last-grade-vinjana-padavukal"
+LAST|P2093|"I Rank Research Team"
+LAST|P212|"9788126449583"
+LAST|P407|Q36236
+LAST|P577|+2014-01-01T00:00:00Z/11
+LAST|P1104|504
+LAST|P393|"1"
+LAST|P629|Q140000416
+CREATE
+LAST|Len|"Pulinelli Station"
+LAST|Lml|"പുളിനെല്ലി സ്റ്റേഷൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pulinelli-station"
+LAST|P2093|"Ashokan Charuvil"
+LAST|P212|"9789353902278"
+LAST|P407|Q36236
+LAST|P577|+2020-01-15T00:00:00Z/11
+LAST|P1104|190
+LAST|P393|"1"
+LAST|P629|Q140000425
+CREATE
+LAST|Len|"Punchiriyode Jeevikkan"
+LAST|Lml|"പുഞ്ചിരിയോടെ ജീവിക്കാൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/punchiriyode-jeevikkan"
+LAST|P2093|"Nathan P R"
+LAST|P212|"9789389445947"
+LAST|P407|Q36236
+LAST|P577|+2019-09-20T00:00:00Z/11
+LAST|P1104|152
+LAST|P393|"1"
+LAST|P437|Q193934
+LAST|P629|Q140000432
+CREATE
+LAST|Len|"Pouranika Jyothisham"
+LAST|Lml|"പൗരാണിക ജ്യോതിഷം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pouranika-jyothisham"
+LAST|P2093|"Peethambaran N"
+LAST|P212|"9788126448760"
+LAST|P407|Q36236
+LAST|P577|+2013-11-06T00:00:00Z/11
+LAST|P1104|110
+LAST|P393|"1"
+LAST|P629|Q140000337
+CREATE
+LAST|Len|"Psc Driver Grade - 2 (ldv/hdv)"
+LAST|Lml|"സ്പി ഡ്രൈവർ ഗ്രേഡ് - 2 (ലട്വ/ഹദ്വ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-driver-grade-2"
+LAST|P212|"9788126452934"
+LAST|P407|Q36236
+LAST|P577|+2015-01-20T00:00:00Z/11
+LAST|P1104|296
+LAST|P393|"1"
+LAST|P629|Q140000410
+CREATE
+LAST|Len|"Prayamakunilla Njan"
+LAST|Lml|"പ്രായമാകുന്നില്ല ഞാൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prayamakunilla-njan"
+LAST|P2093|"Unni Balakrishnan"
+LAST|P212|"9789354328374"
+LAST|P407|Q36236
+LAST|P577|+2021-09-13T00:00:00Z/11
+LAST|P1104|768
+LAST|P393|"1"
+LAST|P629|Q140000391
+CREATE
+LAST|Len|"Psc Code Master - 4"
+LAST|Lml|"സ്പി കോഡ് മാസ്റ്റർ - 4"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-code-master-4"
+LAST|P2093|"Sunil John S"
+LAST|P212|"9789353909338"
+LAST|P407|Q36236
+LAST|P577|+2020-11-04T00:00:00Z/11
+LAST|P1104|278
+LAST|P393|"1"
+LAST|P629|Q140000408
+CREATE
+LAST|Len|"Psc Previous Question Papers Work Book"
+LAST|Lml|"സ്പി പ്രീവിയസ് കുഎസ്ടിഒന് പപെര്സ് വർക്ക് ബുക്ക്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-previous-question-papers-work-book"
+LAST|P212|"9788126449439"
+LAST|P407|Q36236
+LAST|P577|+2014-01-01T00:00:00Z/11
+LAST|P1104|560
+LAST|P393|"1"
+LAST|P629|Q140000421
+CREATE
+LAST|Len|"Punarapi"
+LAST|Lml|"പുനരപി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/punarapi"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P212|"9788126434411"
+LAST|P407|Q36236
+LAST|P577|+2020-09-01T00:00:00Z/11
+LAST|P1104|80
+LAST|P393|"4"
+LAST|P629|Q140000428
+CREATE
+LAST|Len|"Pracheena India"
+LAST|Lml|"പ്രാചീന ഇന്ത്യ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pracheena-india"
+LAST|P2093|"Sharma R S"
+LAST|P212|"9788126417544"
+LAST|P407|Q36236
+LAST|P577|+2024-02-28T00:00:00Z/11
+LAST|P1104|344
+LAST|P393|"9"
+LAST|P629|Q140000341
+CREATE
+LAST|Len|"Pramehathe Akattinirtham"
+LAST|Lml|"പ്രമേഹത്തെ അകറ്റിനിർത്താൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pramehathe-akattinirtham"
+LAST|P2093|"T M Gopinatha Pillai"
+LAST|P212|"9788124020708"
+LAST|P407|Q36236
+LAST|P577|+2016-09-28T00:00:00Z/11
+LAST|P1104|264
+LAST|P393|"1"
+LAST|P629|Q140000363
+CREATE
+LAST|Len|"Pullikkaruppan"
+LAST|Lml|"പുള്ളിക്കറുപ്പാണ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pullikkaruppan"
+LAST|P2093|"Madhusanker Meenakshi"
+LAST|P212|"9789354821530"
+LAST|P407|Q36236
+LAST|P577|+2026-02-27T00:00:00Z/11
+LAST|P1104|336
+LAST|P393|"2"
+LAST|P629|Q140000426
+CREATE
+LAST|Len|"Postmortem Table"
+LAST|Lml|"പോസ്റ്മോർട്ടൻ ടേബിൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/postmortem-table"
+LAST|P2093|"Shirley Vasu"
+LAST|P212|"9788126420933"
+LAST|P407|Q36236
+LAST|P577|+2026-02-20T00:00:00Z/11
+LAST|P1104|184
+LAST|P393|"21"
+LAST|P629|Q140000335
+CREATE
+LAST|Len|"Prakasham Kathayum Karyangalum"
+LAST|Lml|"പ്രകാശം കഥയും കാര്യങ്ങളും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prakasham-kathayum-karyangalum"
+LAST|P2093|"Seema Sreelayam"
+LAST|P957|"8126415452"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|108
+LAST|P393|"1"
+LAST|P629|Q140000350
+CREATE
+LAST|Len|"Pranthavathkrutharute Misiha : Dr.c.c.prasad"
+LAST|Lml|"പ്രാന്തവത്കൃതരുടെ മിശിഹാ : ദൃ.സി.സി.പ്രസാദ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pranthavathkrutharute-misiha--drccprasad"
+LAST|P2093|"Orna Krishnankutty"
+LAST|P212|"9789353906566"
+LAST|P407|Q36236
+LAST|P577|+2021-02-22T00:00:00Z/11
+LAST|P1104|264
+LAST|P393|"1"
+LAST|P629|Q140000379
+CREATE
+LAST|Len|"Pravachakante Vazhi"
+LAST|Lml|"പ്രവാചകന്റെ വഴി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pravachakante-vazhi"
+LAST|P2093|"O V Vijayan"
+LAST|P212|"9788171302581"
+LAST|P407|Q36236
+LAST|P577|+2022-02-19T00:00:00Z/11
+LAST|P1104|244
+LAST|P393|"16"
+LAST|P629|Q140000387
+CREATE
+LAST|Len|"Pranayapadangal"
+LAST|Lml|"പ്രണയപദങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pranayapadangal"
+LAST|P2093|"V R Sudheesh"
+LAST|P212|"9789352826285"
+LAST|P407|Q36236
+LAST|P577|+2023-05-30T00:00:00Z/11
+LAST|P1104|216
+LAST|P393|"2"
+LAST|P629|Q140000370
+CREATE
+LAST|Len|"Pradhamachikithsa"
+LAST|Lml|"പ്രഥമചികിത്സ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pradhamachikithsa"
+LAST|P2093|"Barbara Cleaver"
+LAST|P957|"8126419369"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|288
+LAST|P393|"2"
+LAST|P629|Q140000345
+CREATE
+LAST|Len|"Pulliyan"
+LAST|Lml|"പുലിയാണ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pulliyan"
+LAST|P2093|"Soman Kataloor"
+LAST|P212|"9789356430129"
+LAST|P407|Q36236
+LAST|P577|+2024-10-17T00:00:00Z/11
+LAST|P1104|240
+LAST|P393|"6"
+LAST|P629|Q140000427
+CREATE
+LAST|Len|"Psc English Topper"
+LAST|Lml|"സ്പി ഇംഗ്ലീഷ് ടോപ്പേർ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-english-topper"
+LAST|P2093|"Sajikumar Pattazhi"
+LAST|P212|"9789386025111"
+LAST|P407|Q36236
+LAST|P577|+2016-06-01T00:00:00Z/11
+LAST|P1104|344
+LAST|P393|"1"
+LAST|P629|Q140000411
+CREATE
+LAST|Len|"Psc Last Grade Munvarsha Chodyapaper Workbook"
+LAST|Lml|"സ്പി ലിസ്റ് ഗ്രേഡ് മുന്വര്ഷ ചോദ്യപേപ്പർ വരഃബൂക്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-last-grade-munvarsha-chodyapaper-workbook"
+LAST|P212|"9788126450824"
+LAST|P407|Q36236
+LAST|P577|+2014-06-16T00:00:00Z/11
+LAST|P1104|432
+LAST|P393|"1"
+LAST|P629|Q140000414
+CREATE
+LAST|Len|"Praacheena Lokacharitram"
+LAST|Lml|"പ്രാചീന ലോകചരിത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/praacheena-lokacharitram"
+LAST|P2093|"Herodotus"
+LAST|P957|"8126435437"
+LAST|P407|Q36236
+LAST|P577|+2012-01-03T00:00:00Z/11
+LAST|P1104|728
+LAST|P393|"1"
+LAST|P629|Q140000339
+CREATE
+LAST|Len|"Pulijanmam"
+LAST|Lml|"പുലിജന്മം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pulijanmam"
+LAST|P2093|"N Prabhakaran"
+LAST|P957|"8126423315"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|45
+LAST|P393|"1"
+LAST|P629|Q140000423
+CREATE
+LAST|Len|"Pravasam"
+LAST|Lml|"പ്രവാസം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pravasam"
+LAST|P2093|"M. Mukundan"
+LAST|P212|"9788126419890"
+LAST|P407|Q36236
+LAST|P577|+2024-05-31T00:00:00Z/11
+LAST|P1104|432
+LAST|P393|"17"
+LAST|P629|Q140000388
+CREATE
+LAST|Len|"Psc Nirantharam Aavarthikkunna 10000 Chodyangal"
+LAST|Lml|"സ്പി നിരന്തരം ആവർത്തിക്കുന്ന 10000 ചോദ്യങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-nirantharam-aavarthikkunna-10000-chodyangal-203085316316"
+LAST|P2093|"Sukumar"
+LAST|P212|"9788126441747"
+LAST|P407|Q36236
+LAST|P577|+2019-12-16T00:00:00Z/11
+LAST|P1104|560
+LAST|P393|"8"
+LAST|P629|Q140000418
+CREATE
+LAST|Len|"Pregnency Cookery"
+LAST|Lml|"പ്രേഗ്നെൻസി കൂലേരി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pregnency-cookery"
+LAST|P2093|"Lilly Babu Jose"
+LAST|P212|"9788126453153"
+LAST|P407|Q36236
+LAST|P577|+2015-02-24T00:00:00Z/11
+LAST|P1104|96
+LAST|P393|"1"
+LAST|P629|Q140000393
+CREATE
+LAST|Len|"Pranayachingam (fifty Shades Freed)"
+LAST|Lml|"പ്രണയചിങ്ങം (ഫിഫ്റ്റി ഷാവേസ് ഫരീദ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pranayachingam"
+LAST|P2093|"E L James"
+LAST|P212|"9788126473847"
+LAST|P407|Q36236
+LAST|P577|+2016-09-28T00:00:00Z/11
+LAST|P1104|640
+LAST|P393|"1"
+LAST|P629|Q140000365
+CREATE
+LAST|Len|"Positive Biriyani-2"
+LAST|Lml|"പോസിറ്റീവ് ബിരിയാണി-2"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/positive-biriyani-2"
+LAST|P2093|"Aji Mathew Koloothra"
+LAST|P212|"9789354322068"
+LAST|P407|Q36236
+LAST|P577|+2023-09-30T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"2"
+LAST|P629|Q140000331
+CREATE
+LAST|Len|"Pracheena Keralasamoohavum Jaathivyavasthayum"
+LAST|Lml|"പ്രാചീന കേരളസമൂഹവും ജാതിവ്യവസ്ഥയും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pracheena-keralasamoohavum-jaathivyavasthayum"
+LAST|P2093|"Shyamala P"
+LAST|P212|"9789390234431"
+LAST|P407|Q36236
+LAST|P577|+2020-11-18T00:00:00Z/11
+LAST|P1104|406
+LAST|P393|"1"
+LAST|P629|Q140000342
+CREATE
+LAST|Len|"Pranayapathaka"
+LAST|Lml|"പ്രണയപതാക"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pranayapathaka"
+LAST|P2093|"Neethu C Subrahmanyan"
+LAST|P212|"9789354829611"
+LAST|P407|Q36236
+LAST|P577|+2022-10-25T00:00:00Z/11
+LAST|P1104|72
+LAST|P393|"2"
+LAST|P629|Q140000371
+CREATE
+LAST|Len|"Pulimurugan: a Roar in the Boxoffice"
+LAST|Lml|"പുലിമുരുഗൻ: എ റോർ ഇൻ ദി ബോസ്‌ഓഫീസ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pulimurugan-a-roar-in-the-boxoffice"
+LAST|P2093|"T Arunkumar"
+LAST|P212|"9788124020890"
+LAST|P407|Q36236
+LAST|P577|+2017-04-07T00:00:00Z/11
+LAST|P1104|96
+LAST|P393|"1"
+LAST|P629|Q140000424
+CREATE
+LAST|Len|"Punnapravayalarum Keralacharithravum"
+LAST|Lml|"പുന്നപ്രവയലാരും കേരളചരിത്രവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/punnapravayalarum-keralacharithravum"
+LAST|P2093|"A Sreedhara Menon"
+LAST|P212|"9788171309764"
+LAST|P407|Q36236
+LAST|P577|+2021-04-16T00:00:00Z/11
+LAST|P1104|80
+LAST|P393|"3"
+LAST|P437|Q193934
+LAST|P629|Q140000433
+CREATE
+LAST|Len|"Pravasikalude Pusthakam"
+LAST|Lml|"പ്രവാസികളുടെ പുസ്തകം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pravasikalude-pusthakam"
+LAST|P2093|"N P Hafiz Mohammed"
+LAST|P212|"9788126474042"
+LAST|P407|Q36236
+LAST|P577|+2021-08-30T00:00:00Z/11
+LAST|P1104|400
+LAST|P393|"2"
+LAST|P629|Q140000389
+CREATE
+LAST|Len|"Prakashavarshangal"
+LAST|Lml|"പ്രകാശവര്ഷങ്ങള്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prakashavarshangal"
+LAST|P2093|"Prem Prakash"
+LAST|P212|"9788126451753"
+LAST|P407|Q36236
+LAST|P577|+2021-02-01T00:00:00Z/11
+LAST|P1104|238
+LAST|P393|"1"
+LAST|P629|Q140000353
+CREATE
+LAST|Len|"Prakasham Illanjappol"
+LAST|Lml|"പ്രകാശം ഇല്ലാഞ്ഞപ്പോൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prakasham-illanjappol"
+LAST|P2093|"Ashapoornadevi"
+LAST|P212|"9788126427178"
+LAST|P407|Q36236
+LAST|P577|+2010-08-23T00:00:00Z/11
+LAST|P1104|88
+LAST|P393|"2"
+LAST|P629|Q140000349
+CREATE
+LAST|Len|"Pravachakanmarute Randampusthakam"
+LAST|Lml|"പ്രവാചകന്മാരുടെ രണ്ടാംപുസ്തകം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pravachakanmarute-randampusthakam"
+LAST|P2093|"Benyamin"
+LAST|P212|"9788126440474"
+LAST|P407|Q36236
+LAST|P577|+2025-02-28T00:00:00Z/11
+LAST|P1104|224
+LAST|P393|"13"
+LAST|P629|Q140000386
+CREATE
+LAST|Len|"Prakruthi Paristhiti Daridryam Jalam Oorjam"
+LAST|Lml|"പ്രകൃതി പരിസ്ഥിതി ദാരിദ്ര്യം ജലം ഊര്ജം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prakruthi-paristhiti-daridryam-jalam-oorjam"
+LAST|P2093|"Anand"
+LAST|P212|"9788126415359"
+LAST|P407|Q36236
+LAST|P577|+2026-02-28T00:00:00Z/11
+LAST|P1104|108
+LAST|P393|"2"
+LAST|P629|Q140000358
+CREATE
+LAST|Len|"Psc Code Master - Ii"
+LAST|Lml|"സ്പി കോഡ് മാസ്റ്റർ - ഈ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-code-master-ii"
+LAST|P2093|"Sunil John S"
+LAST|P212|"9789352827312"
+LAST|P407|Q36236
+LAST|P577|+2018-02-26T00:00:00Z/11
+LAST|P1104|256
+LAST|P393|"6"
+LAST|P629|Q140000409
+CREATE
+LAST|Len|"Pravaachaka Jeevithathinte Ounnathyam"
+LAST|Lml|"പ്രവാചക ജീവിതത്തിന്റെ ഔന്നത്യം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pravaachaka-jeevithathinte-ounnathyam"
+LAST|P2093|"Abdul Kadir M S"
+LAST|P957|"8126433809"
+LAST|P407|Q36236
+LAST|P577|+2015-09-12T00:00:00Z/11
+LAST|P1104|159
+LAST|P393|"1"
+LAST|P629|Q140000385
+CREATE
+LAST|Len|"Psc Super Memory Tips"
+LAST|Lml|"സ്പി സൂപ്പർ മെമ്മറി ടിപ്സ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-super-memory-tips"
+LAST|P2093|"Sunil John S"
+LAST|P212|"9789352822140"
+LAST|P407|Q36236
+LAST|P577|+2018-03-30T00:00:00Z/11
+LAST|P1104|416
+LAST|P393|"1"
+LAST|P629|Q140000422
+CREATE
+LAST|Len|"Pralayananthara Manavikatha: Sabarimalayute Paschathalathil"
+LAST|Lml|"പ്രളയണന്തറ മാനവികത: ശബരിമലയുടെ പശ്ചാത്തലത്തിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pralayananthara-manavikatha-sabarimalayute-paschathalathil"
+LAST|P2093|"B. Rajeevan"
+LAST|P212|"9788126477555"
+LAST|P407|Q36236
+LAST|P577|+2018-12-24T00:00:00Z/11
+LAST|P1104|152
+LAST|P393|"1"
+LAST|P629|Q140000359
+CREATE
+LAST|Len|"Pranayopanishath"
+LAST|Lml|"പ്രണയോപനിഷത്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pranayopanishath"
+LAST|P2093|"V. J. James"
+LAST|P212|"9788126464784"
+LAST|P407|Q36236
+LAST|P577|+2026-03-09T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"7"
+LAST|P629|Q140000378
+CREATE
+LAST|Len|"Prakruthi Kshobhangal"
+LAST|Lml|"പ്രകൃതി ക്ഷോഭങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prakruthi-kshobhangal"
+LAST|P2093|"Suresh Mannarasala"
+LAST|P212|"9789352820450"
+LAST|P407|Q36236
+LAST|P577|+2017-10-31T00:00:00Z/11
+LAST|P1104|176
+LAST|P393|"1"
+LAST|P629|Q140000357
+CREATE
+LAST|Len|"Prakruthi Janadhipathyam Swathanthryam"
+LAST|Lml|"പ്രകൃതി ജനാധിപത്യം സ്വാതന്ത്ര്യം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prakruthi-janadhipathyam-swathanthryam"
+LAST|P2093|"K Venu"
+LAST|P212|"9788126476633"
+LAST|P407|Q36236
+LAST|P577|+2018-03-28T00:00:00Z/11
+LAST|P1104|360
+LAST|P393|"2"
+LAST|P629|Q140000356
+CREATE
+LAST|Len|"Positive Imaging"
+LAST|Lml|"പോസിറ്റീവ് ഇമേജിങ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/positive-imaging"
+LAST|P2093|"Norman Vincent Peale"
+LAST|P212|"9789353904869"
+LAST|P407|Q36236
+LAST|P577|+2020-05-15T00:00:00Z/11
+LAST|P1104|246
+LAST|P393|"1"
+LAST|P629|Q140000332
+CREATE
+LAST|Len|"Psc Code Master"
+LAST|Lml|"സ്പി കോഡ് മാസ്റ്റർ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-code-master"
+LAST|P2093|"Sunil John S"
+LAST|P212|"9789352827299"
+LAST|P407|Q36236
+LAST|P577|+2018-02-27T00:00:00Z/11
+LAST|P1104|240
+LAST|P393|"9"
+LAST|P629|Q140000406
+CREATE
+LAST|Len|"Prakrithiyil Ninnum Padikkam"
+LAST|Lml|"പ്രകൃതിയിൽ നിന്നും പഠിക്കാം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prakrithiyil-ninnum-padikkam"
+LAST|P2093|"S. Sivadas"
+LAST|P212|"9789354823374"
+LAST|P407|Q36236
+LAST|P577|+2022-03-04T00:00:00Z/11
+LAST|P1104|56
+LAST|P393|"1"
+LAST|P629|Q140000354
+CREATE
+LAST|Len|"Punyam Aham"
+LAST|Lml|"പുണ്യം അഹം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/punyam-aham"
+LAST|P2093|"Raj Nair"
+LAST|P212|"9788124019894"
+LAST|P407|Q36236
+LAST|P577|+2014-12-29T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"1"
+LAST|P629|Q140000434
+CREATE
+LAST|Len|"Pottekkaattinte Kathakal"
+LAST|Lml|"പൊറ്റെക്കാട്ടിന്റെ കഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pottekkaattinte-kathakal"
+LAST|P2093|"Pottekkat S K"
+LAST|P212|"9788126433384"
+LAST|P407|Q36236
+LAST|P577|+2011-11-30T00:00:00Z/11
+LAST|P1104|688
+LAST|P393|"1"
+LAST|P629|Q140000336
+CREATE
+LAST|Len|"Pralayathil Keralathinte Kai Pidichavar"
+LAST|Lml|"പ്രളയത്തിൽ കേരളത്തിന്റെ കൈ പിടിച്ചവർ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pralayathil-keralathinte-kai-pidichavar"
+LAST|P2093|"Rejimon Kuttappan"
+LAST|P212|"9788194229940"
+LAST|P407|Q36236
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P1104|130
+LAST|P393|"1"
+LAST|P629|Q140000361
+CREATE
+LAST|Len|"Pravasiyude Kurippukal"
+LAST|Lml|"പ്രവാസിയുടെ കുറിപ്പുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pravasiyude-kurippukal"
+LAST|P2093|"Babu Bharadwaj"
+LAST|P212|"9788182651074"
+LAST|P407|Q36236
+LAST|P577|+2013-01-10T00:00:00Z/11
+LAST|P1104|264
+LAST|P393|"1"
+LAST|P629|Q140000390
+CREATE
+LAST|Len|"Prethavahanam"
+LAST|Lml|"പ്രേതാവഹണം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prethavahanam"
+LAST|P2093|"P. K. Venugopal"
+LAST|P212|"9789354827525"
+LAST|P407|Q36236
+LAST|P577|+2022-09-02T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"1"
+LAST|P629|Q140000400
+CREATE
+LAST|Len|"Pourathwavum Desakkoorum"
+LAST|Lml|"പൗരത്വവും ദേശക്കൂറും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pourathwavum-desakkoorum"
+LAST|P2093|"Pinarayi Vijayan"
+LAST|P212|"9789353903978"
+LAST|P407|Q36236
+LAST|P577|+2020-03-10T00:00:00Z/11
+LAST|P1104|168
+LAST|P393|"1"
+LAST|P629|Q140000338
+CREATE
+LAST|Len|"Premalekhanam"
+LAST|Lml|"പ്രേമലേഖനം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/premalekhanam-1"
+LAST|P2093|"Vaikom Muhammad Basheer"
+LAST|P212|"9788126436132"
+LAST|P407|Q36236
+LAST|P577|+2026-02-19T00:00:00Z/11
+LAST|P1104|58
+LAST|P393|"66"
+LAST|P629|Q140000396
+CREATE
+LAST|Len|"Priyaruchikal"
+LAST|Lml|"പ്രിയരുചികൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/priyaruchikal"
+LAST|P2093|"Lilly Babu Jose"
+LAST|P212|"9788126439706"
+LAST|P407|Q36236
+LAST|P577|+2014-09-16T00:00:00Z/11
+LAST|P1104|238
+LAST|P393|"2"
+LAST|P629|Q140000402
+CREATE
+LAST|Len|"Psc Last Grade Pareeksapadana Sahayi"
+LAST|Lml|"സ്പി ലിസ്റ് ഗ്രേഡ് പരീക്‌സപദാന സഹായി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-last-grade-pareeksapadana-sahayi"
+LAST|P212|"9789386680693"
+LAST|P407|Q36236
+LAST|P577|+2017-08-07T00:00:00Z/11
+LAST|P1104|544
+LAST|P393|"1"
+LAST|P629|Q140000415
+CREATE
+LAST|Len|"Prayogasabdatharavali"
+LAST|Lml|"പ്രയോഗശബ്ദതാരാവലി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prayogasabdatharavali"
+LAST|P2093|"Sreekanteswaram G. Padmanabha Pillai"
+LAST|P212|"9788126441273"
+LAST|P407|Q36236
+LAST|P577|+2013-05-24T00:00:00Z/11
+LAST|P1104|1264
+LAST|P393|"1"
+LAST|P629|Q140000392
+CREATE
+LAST|Len|"Pranayathinte Rajakumari"
+LAST|Lml|"പ്രണയത്തിന്റെ രാജകുമാരി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pranayathinte-rajakumari"
+LAST|P2093|"Merrily Weisbord"
+LAST|P212|"9788184234329"
+LAST|P407|Q36236
+LAST|P577|+2019-07-15T00:00:00Z/11
+LAST|P1104|420
+LAST|P393|"1"
+LAST|P629|Q140000372
+CREATE
+LAST|Len|"Punathilinte Yathrakal"
+LAST|Lml|"പുനത്തിലിന്റെ യാത്രകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/punathilinte-yathrakal"
+LAST|P2093|"Punathil Kunhabdulla"
+LAST|P212|"9788126439102"
+LAST|P407|Q36236
+LAST|P577|+2022-02-24T00:00:00Z/11
+LAST|P1104|280
+LAST|P393|"3"
+LAST|P629|Q140000431
+CREATE
+LAST|Len|"Practical Wisdom - Ii"
+LAST|Lml|"പ്രാക്ടിക്കൽ വിസദോം - ഈ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/practical-wisdom---ii"
+LAST|P2093|"Kochouseph Chittilappilly"
+LAST|P212|"9789383197064"
+LAST|P407|Q36236
+LAST|P577|+2019-10-23T00:00:00Z/11
+LAST|P1104|184
+LAST|P393|"1"
+LAST|P629|Q140000344
+CREATE
+LAST|Len|"Priyapaachakam"
+LAST|Lml|"പ്രിയപാചകം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/priyapaachakam"
+LAST|P2093|"Deepa Gopakumar"
+LAST|P212|"9788126436538"
+LAST|P407|Q36236
+LAST|P577|+2012-12-11T00:00:00Z/11
+LAST|P1104|168
+LAST|P393|"1"
+LAST|P629|Q140000401
+CREATE
+LAST|Len|"Prathinayakan"
+LAST|Lml|"പ്രതിനായകൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prathinayakan"
+LAST|P2093|"Balachandran Chullikkad"
+LAST|P212|"9788126432158"
+LAST|P407|Q36236
+LAST|P577|+2016-08-30T00:00:00Z/11
+LAST|P1104|80
+LAST|P393|"4"
+LAST|P629|Q140000383
+CREATE
+LAST|Len|"Pralayaseshippukal (limited Edition)"
+LAST|Lml|"പ്രളയശേഷിപ്പുകൾ (ലിമിറ്റഡ് എഡിഷൻ)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pralayaseshippukal-limited-edition"
+LAST|P2093|"Joshy Mary Varghese"
+LAST|P212|"9789353906825"
+LAST|P407|Q36236
+LAST|P577|+2023-06-30T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"2"
+LAST|P629|Q140000360
+CREATE
+LAST|Len|"Pranayavum Mattu Nombarangalum"
+LAST|Lml|"പ്രണയവും മറ്റു നൊമ്പരങ്ങളും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pranayavum-mattu-nombarangalum-134363714776"
+LAST|P2093|"Ashok Chopra"
+LAST|P212|"9789352829095"
+LAST|P407|Q36236
+LAST|P577|+2021-01-19T00:00:00Z/11
+LAST|P1104|272
+LAST|P393|"1"
+LAST|P629|Q140000373
+CREATE
+LAST|Len|"Prasrayam"
+LAST|Lml|"പരാശ്രയം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prasrayam"
+LAST|P2093|"Athmaraman"
+LAST|P212|"9789353908157"
+LAST|P407|Q36236
+LAST|P577|+2021-06-22T00:00:00Z/11
+LAST|P1104|200
+LAST|P393|"1"
+LAST|P437|Q193934
+LAST|P629|Q140000381
+CREATE
+LAST|Len|"Positive Biriyani-1"
+LAST|Lml|"പോസിറ്റീവ് ബിരിയാണി-1"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/positive-biriyani-1-178760645068"
+LAST|P2093|"Aji Mathew Koloothra"
+LAST|P212|"9789352824564"
+LAST|P407|Q36236
+LAST|P577|+2023-10-20T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"2"
+LAST|P629|Q140000330
+CREATE
+LAST|Len|"Psc Prayogika Ganitham"
+LAST|Lml|"സ്പി പ്രായോഗിക ഗണിതം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-prayogika-ganitham"
+LAST|P2093|"Palliyara Sreedharan"
+LAST|P212|"9788126451241"
+LAST|P407|Q36236
+LAST|P577|+2017-06-21T00:00:00Z/11
+LAST|P1104|452
+LAST|P393|"2"
+LAST|P629|Q140000420
+CREATE
+LAST|Len|"Pranayajeevitham: Destoyevskyute Pranayanubhavangalum Jeevithavum"
+LAST|Lml|"പ്രണയജീവിതം: ടെസ്റ്റോയെവ്സ്കയുടെ പ്രണയനുഭവങ്ങളും ജീവിതവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pranayajeevitham-destoyevskyute-pranayanubhavangalum-jeevithavum-226461655046"
+LAST|P2093|"Venu V Desam"
+LAST|P212|"9789352823741"
+LAST|P407|Q36236
+LAST|P577|+2018-08-29T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"1"
+LAST|P437|Q193934
+LAST|P629|Q140000367
+CREATE
+LAST|Len|"Psc Pareekshakalkku Priyappetta Chodyangal"
+LAST|Lml|"സ്പി പരീക്ഷകൾക്ക് പ്രിയപ്പെട്ട ചോദ്യങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-pareekshakalkku-priyappetta-chodyangal"
+LAST|P2093|"Jaikar Thalayolapparambu"
+LAST|P212|"9788126475520"
+LAST|P407|Q36236
+LAST|P577|+2017-06-12T00:00:00Z/11
+LAST|P1104|232
+LAST|P393|"1"
+LAST|P629|Q140000419
+CREATE
+LAST|Len|"Prathimayum Kilipennum"
+LAST|Lml|"പ്രതിമയും കിളിപെണ്ണും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prathimayum-kilipennum"
+LAST|P2093|"Sreedharan N Bella"
+LAST|P212|"9788126426607"
+LAST|P407|Q36236
+LAST|P577|+2017-11-24T00:00:00Z/11
+LAST|P1104|47
+LAST|P393|"2"
+LAST|P629|Q140000382
+CREATE
+LAST|Len|"Punarvayanakalile Marxism"
+LAST|Lml|"പുനര്വായനകളിലെ മാർക്സിസം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/punarvayanakalile-marxism"
+LAST|P2093|"Sreekumar T T"
+LAST|P212|"9789387169531"
+LAST|P407|Q36236
+LAST|P577|+2021-09-07T00:00:00Z/11
+LAST|P1104|190
+LAST|P393|"2"
+LAST|P629|Q140000430
+CREATE
+LAST|Len|"Psc Aavarthikkunna 1000 Malayala Bhasha Chodyangal"
+LAST|Lml|"സ്പി ആവർത്തിക്കുന്ന 1000 മലയാള ഭാഷ ചോദ്യങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-aavathikkunna-1000-malayala-bhasha-chodyangal"
+LAST|P2093|"Sukumar"
+LAST|P212|"9788126442454"
+LAST|P407|Q36236
+LAST|P577|+2019-11-15T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"5"
+LAST|P629|Q140000404
+CREATE
+LAST|Len|"Prapanchamahakatha"
+LAST|Lml|"പ്രപഞ്ചമഹാകാത്ത"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prapanchamahakatha"
+LAST|P2093|"Bill Bryson"
+LAST|P212|"9788126422036"
+LAST|P407|Q36236
+LAST|P577|+2023-08-31T00:00:00Z/11
+LAST|P1104|580
+LAST|P393|"6"
+LAST|P629|Q140000380
+CREATE
+LAST|Len|"Prethabhoomi"
+LAST|Lml|"പ്രേതഭൂമി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prethabhoomi"
+LAST|P2093|"Sadasivan M P"
+LAST|P212|"9789354826818"
+LAST|P407|Q36236
+LAST|P577|+2022-09-02T00:00:00Z/11
+LAST|P1104|136
+LAST|P393|"1"
+LAST|P629|Q140000399
+CREATE
+LAST|Len|"Psc Lp/up School Assistant"
+LAST|Lml|"സ്പി ലിപ്/അപ്പ് സ്കൂൾ അസിസ്റ്റന്റ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/psc-lp-up-school-assistant"
+LAST|P212|"9788126451883"
+LAST|P407|Q36236
+LAST|P577|+2014-10-11T00:00:00Z/11
+LAST|P1104|814
+LAST|P393|"1"
+LAST|P629|Q140000417
+CREATE
+LAST|Len|"Pranayakamasoothram-ayiram Ummakal"
+LAST|Lml|"പ്രണയകാമസൂത്രം-ആയിരം ഉമ്മകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pranayakamasoothram-ayiram-ummakal"
+LAST|P2093|"Chandrika C S"
+LAST|P212|"9789352824366"
+LAST|P407|Q36236
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P1104|124
+LAST|P393|"3"
+LAST|P629|Q140000369
+CREATE
+LAST|Len|"Prabhavarmayude Kavithakal"
+LAST|Lml|"പ്രഭാവര്മയുടെ കവിതകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/prabhavarmayude-kavithakal"
+LAST|P2093|"Prabha Varma"
+LAST|P212|"9789354324628"
+LAST|P407|Q36236
+LAST|P577|+2025-07-22T00:00:00Z/11
+LAST|P1104|640
+LAST|P393|"1"
+LAST|P629|Q140000340
+CREATE
+LAST|Len|"Pretha Savari"
+LAST|Lml|"പ്രീത സവാരി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pretha-savari"
+LAST|P2093|"Rajeev Sivasankar"
+LAST|P212|"9789354826931"
+LAST|P407|Q36236
+LAST|P577|+2022-08-02T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"2"
+LAST|P629|Q140000398
+CREATE
+LAST|Len|"Postman"
+LAST|Lml|"പോസ്റ്മാൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/postman"
+LAST|P2093|"Benyamin"
+LAST|P212|"9789352823840"
+LAST|P407|Q36236
+LAST|P577|+2025-01-29T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"10"
+LAST|P437|Q193934
+LAST|P629|Q140000334
+CREATE
+LAST|Len|"Pranayikkathavare Thirichariyanullla Margangal"
+LAST|Lml|"പ്രണയിക്കാത്തവരെ തിരിച്ചറിയാനുള്ള മാര്ഗങ്ങള്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/pranayikkathavare-thirichariyanullla-margangal"
+LAST|P2093|"M Basheer"
+LAST|P212|"9789354329869"
+LAST|P407|Q36236
+LAST|P577|+2022-01-27T00:00:00Z/11
+LAST|P1104|136
+LAST|P393|"3"
+LAST|P629|Q140000374
+CREATE
+LAST|Len|"Achan Kombathe"
+LAST|Lml|"അച്ഛൻ കൊമ്പത്തെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/achan-kombathe"
+LAST|P2093|"Ponkunnam Varkey"
+LAST|P212|"9789354326370"
+LAST|P407|Q36236
+LAST|P577|+2023-07-28T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"3"
+LAST|P629|Q139998357
+CREATE
+LAST|Len|"Adbhutha Raamaayanam"
+LAST|Lml|"അദ്‌ഭുത രാമായണം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adbhutha-raamaayanam"
+LAST|P2093|"Peethambaran N"
+LAST|P957|"8126435666"
+LAST|P407|Q36236
+LAST|P577|+2015-05-08T00:00:00Z/11
+LAST|P1104|192
+LAST|P393|"1"
+LAST|P629|Q139998366
+CREATE
+LAST|Len|"Adhyapakar Ariyendathellam"
+LAST|Lml|"അധ്യാപകർ അറിയേണ്ടതെല്ലാം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhyapakar-ariyendathellam"
+LAST|P2093|"Paul C Varghese"
+LAST|P212|"9788126449880"
+LAST|P407|Q36236
+LAST|P577|+2023-06-29T00:00:00Z/11
+LAST|P1104|232
+LAST|P393|"3"
+LAST|P629|Q139998378
+CREATE
+LAST|Len|"Ambilithadaakavum Mattu Panchathanthra Kathakalum"
+LAST|Lml|"അമ്പിളിതടാകവും മറ്റു പഞ്ചതന്ത്ര കഥകളും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/ambilithadaakavum-mattu-panchathanthra-kathakalum"
+LAST|P2093|"Arun George M"
+LAST|P212|"9788126434190"
+LAST|P407|Q36236
+LAST|P577|+2012-03-08T00:00:00Z/11
+LAST|P1104|132
+LAST|P393|"1"
+LAST|P629|Q139998443
+CREATE
+LAST|Len|"Adhyaatma Ramayanam"
+LAST|Lml|"അദ്ധ്യാത്‌മ രാമായണം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhyaatma-ramayanam"
+LAST|P2093|"Thunchath Ezhuthachan"
+LAST|P212|"9788126464197"
+LAST|P407|Q36236
+LAST|P577|+2015-06-22T00:00:00Z/11
+LAST|P1104|296
+LAST|P393|"1"
+LAST|P629|Q139998376
+CREATE
+LAST|Len|"Agrajikalude Jeevithangal"
+LAST|Lml|"അഗ്രജകളുടെ ജീവിതങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/agrajikalude-jeevithangal"
+LAST|P2093|"Sankaranarayanan Paleri"
+LAST|P212|"9789354820304"
+LAST|P407|Q36236
+LAST|P577|+2022-03-25T00:00:00Z/11
+LAST|P1104|228
+LAST|P393|"1"
+LAST|P629|Q139998408
+CREATE
+LAST|Len|"Alankarangalillathe"
+LAST|Lml|"അലങ്കാരങ്ങളില്ലാതെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alankarangalillathe"
+LAST|P2093|"Sameera Saneesh"
+LAST|P212|"9789353906320"
+LAST|P407|Q36236
+LAST|P577|+2021-02-05T00:00:00Z/11
+LAST|P1104|109
+LAST|P393|"2"
+LAST|P629|Q139998423
+CREATE
+LAST|Len|"Adhunika Indiayude Silpikal ( Makers of Modern India )"
+LAST|Lml|"ആധുനിക ഇന്ത്യയുടെ ശില്പികൾ ( മേക്കേഴ്‌സ് ഓഫ് മോഡേൺ ഇന്ത്യ )"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhunika-indiayude-silpikal"
+LAST|P2093|"Ramachandra Guha"
+LAST|P212|"9789352820153"
+LAST|P407|Q36236
+LAST|P577|+2025-11-29T00:00:00Z/11
+LAST|P1104|576
+LAST|P393|"3"
+LAST|P629|Q139998372
+CREATE
+LAST|Len|"Agni Mahapuranam - 2 Volumes (print on Demand)"
+LAST|Lml|"അഗ്നി മഹാപുരാണം - 2 വോളമീസ് (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/agni-mahapuranam"
+LAST|P2093|"Veda Vyasa"
+LAST|P212|"9788126465354"
+LAST|P407|Q36236
+LAST|P577|+2017-07-01T00:00:00Z/11
+LAST|P1104|1074
+LAST|P393|"1"
+LAST|P629|Q139998398
+CREATE
+LAST|Len|"Amen Amen"
+LAST|Lml|"ആമീൻ ആമീൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/amen-amen"
+LAST|P2093|"C V Balakrishnan"
+LAST|P212|"9788126409006"
+LAST|P407|Q36236
+LAST|P577|+2025-07-15T00:00:00Z/11
+LAST|P1104|76
+LAST|P393|"3"
+LAST|P629|Q139998444
+CREATE
+LAST|Len|"Ambalamani"
+LAST|Lml|"അമ്പലമണി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/ambalamani"
+LAST|P2093|"Sugathakumari"
+LAST|P212|"9788171302048"
+LAST|P407|Q36236
+LAST|P577|+2025-11-25T00:00:00Z/11
+LAST|P1104|148
+LAST|P393|"25"
+LAST|P629|Q139998441
+CREATE
+LAST|Len|"Algebra"
+LAST|Lml|"അൽജിബ്ര"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/algebra"
+LAST|P2093|"Madhu B"
+LAST|P212|"9788126438976"
+LAST|P407|Q36236
+LAST|P577|+2012-01-11T00:00:00Z/11
+LAST|P1104|122
+LAST|P393|"1"
+LAST|P629|Q139998426
+CREATE
+LAST|Len|"Abhijnana Sakunthalam"
+LAST|Lml|"അഭിജ്ഞാന ശാകുന്തളം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/abhijnana-sakunthalam"
+LAST|P2093|"Kalidasa"
+LAST|P957|"8126415487"
+LAST|P407|Q36236
+LAST|P1104|148
+LAST|P393|"6"
+LAST|P629|Q139998352
+CREATE
+LAST|Len|"Alayadikkunna Vakku"
+LAST|Lml|"അലയടിക്കുന്ന വാക്ക്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alayadikkuunna-vakku"
+LAST|P2093|"Sunil P Ilayidam"
+LAST|P212|"9789352826926"
+LAST|P407|Q36236
+LAST|P577|+2023-12-30T00:00:00Z/11
+LAST|P1104|320
+LAST|P393|"6"
+LAST|P629|Q139998424
+CREATE
+LAST|Len|"African Gothrakathakal"
+LAST|Lml|"ആഫ്രിക്കൻ ഗോത്രകഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/african-gothrakathakal"
+LAST|P212|"9788126476084"
+LAST|P407|Q36236
+LAST|P577|+2017-07-10T00:00:00Z/11
+LAST|P1104|1000
+LAST|P393|"1"
+LAST|P629|Q139998397
+CREATE
+LAST|Len|"Amaravathy Subtreasury"
+LAST|Lml|"അമരാവതി സുബ്ട്രീസുരി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/amaravathy-subtreasury"
+LAST|P2093|"Sreemoolanagaram Mohan"
+LAST|P212|"9788124008980"
+LAST|P407|Q36236
+LAST|P1104|117
+LAST|P393|"2"
+LAST|P629|Q139998439
+CREATE
+LAST|Len|"Agnisalabhangal- Dr Sathidevi"
+LAST|Lml|"അഗ്നിശലഭങ്ങൾ- ദൃ സതീദേവി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/agnisalabhangal-dr-sathidevi"
+LAST|P2093|"Sathidevi"
+LAST|P212|"9789354820441"
+LAST|P407|Q36236
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P1104|168
+LAST|P393|"4"
+LAST|P629|Q139998402
+CREATE
+LAST|Len|"Alkkoottathil Thaniye"
+LAST|Lml|"ആൾക്കൂട്ടത്തിൽ തനിയെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alkkoottathil-thaniye"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P212|"9788126477081"
+LAST|P407|Q36236
+LAST|P577|+2025-10-13T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"8"
+LAST|P629|Q139998433
+CREATE
+LAST|Len|"Adoor Sarvajaneenathayude Drasyethihasom"
+LAST|Lml|"അടൂർ സാര്വജനീനതയുടെ ട്രസ്റയേതിഹാസനം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adoor-sarvajaneenathayude-drasyethihasom"
+LAST|P2093|"Sajil Sreedhar"
+LAST|P212|"9789389463200"
+LAST|P407|Q36236
+LAST|P577|+2019-08-06T00:00:00Z/11
+LAST|P1104|140
+LAST|P393|"1"
+LAST|P437|Q193934
+LAST|P629|Q139998390
+CREATE
+LAST|Len|"Adiyantharavastha - Kirathavazchayute 21 Masangal"
+LAST|Lml|"അടിയന്തരാവസ്ഥ - കിരാതവാഴ്ചയുടെ 21 മാസങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adiyantharavastha--kirathavazchayute-21-masangal"
+LAST|P2093|"Sebastian Joseph"
+LAST|P212|"9789354323744"
+LAST|P407|Q36236
+LAST|P577|+2025-06-10T00:00:00Z/11
+LAST|P1104|342
+LAST|P393|"6"
+LAST|P629|Q139998386
+CREATE
+LAST|Len|"Adhunikatha Innevide?"
+LAST|Lml|"ആധുനികത ഇന്നെവിടെ?"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhunikatha-innevide"
+LAST|P2093|"M. Mukundan"
+LAST|P212|"9788187474968"
+LAST|P407|Q36236
+LAST|P577|+2019-06-11T00:00:00Z/11
+LAST|P1104|100
+LAST|P393|"1"
+LAST|P629|Q139998375
+CREATE
+LAST|Len|"Adukkalayilninnu Arangathekku"
+LAST|Lml|"അടുക്കളയിൽനിന്ന് അരങ്ങത്തേക്ക്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adukkalayilninnu-arangathekku"
+LAST|P2093|"Bhattathiripad V T"
+LAST|P212|"9788171303649"
+LAST|P407|Q36236
+LAST|P577|+2025-07-22T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"27"
+LAST|P629|Q139998391
+CREATE
+LAST|Len|"Adyathe Chiri"
+LAST|Lml|"ആദ്യത്തെ ചിരി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adyathe-chiri"
+LAST|P2093|"P Kishor"
+LAST|P212|"9789354322501"
+LAST|P407|Q36236
+LAST|P577|+2021-04-09T00:00:00Z/11
+LAST|P1104|152
+LAST|P393|"2"
+LAST|P629|Q139998395
+CREATE
+LAST|Len|"Alibaba in Wonderland"
+LAST|Lml|"അല്ബാബാ ഇൻ വണ്ടർലാൻഡ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alibaba-in-wonderland"
+LAST|P2093|"Punathil Kunhabdulla"
+LAST|P212|"9789381788479"
+LAST|P407|Q36236
+LAST|P577|+2019-06-18T00:00:00Z/11
+LAST|P1104|80
+LAST|P393|"1"
+LAST|P629|Q139998428
+CREATE
+LAST|Len|"Alliyambalkkadavu (keralam 60 Series)"
+LAST|Lml|"അല്ലിയാമ്പൽക്കടവ് (കേരളം 60 സീരീസ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alliyambalkkadavu"
+LAST|P2093|"Sudeesh V R"
+LAST|P212|"9788126475148"
+LAST|P407|Q36236
+LAST|P577|+2017-01-03T00:00:00Z/11
+LAST|P1104|106
+LAST|P393|"1"
+LAST|P629|Q139998435
+CREATE
+LAST|Len|"Agraharakathakal"
+LAST|Lml|"അഗ്രഹാരകഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/agraharakathakal"
+LAST|P2093|"T.K. Sankaranarayanan"
+LAST|P212|"9789354822643"
+LAST|P407|Q36236
+LAST|P577|+2022-06-29T00:00:00Z/11
+LAST|P1104|232
+LAST|P393|"1"
+LAST|P629|Q139998407
+CREATE
+LAST|Len|"Adi"
+LAST|Lml|"അടി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adi"
+LAST|P2093|"Shinilal .v"
+LAST|P212|"9789354824333"
+LAST|P407|Q36236
+LAST|P577|+2024-09-30T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"5"
+LAST|P629|Q139998382
+CREATE
+LAST|Len|"Acharukal"
+LAST|Lml|"അച്ചാറുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/acharukal"
+LAST|P2093|"Lilly Babu Jose"
+LAST|P212|"9788126432417"
+LAST|P407|Q36236
+LAST|P577|+2012-10-09T00:00:00Z/11
+LAST|P1104|88
+LAST|P393|"2"
+LAST|P629|Q139998359
+CREATE
+LAST|Len|"Adhyathma Ramayanam - Deluxe Edition"
+LAST|Lml|"അദ്ധ്യാത്മ രാമായണം  - ഡീലക്സി എഡിഷൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhyathma-ramayanam-hb"
+LAST|P2093|"Thunchath Ezhuthachan"
+LAST|P957|"8171300146"
+LAST|P407|Q36236
+LAST|P577|+2025-06-30T00:00:00Z/11
+LAST|P1104|576
+LAST|P393|"46"
+LAST|P629|Q139998380
+CREATE
+LAST|Len|"Akashavattan"
+LAST|Lml|"ആകാശവേട്ടൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/akashavattan"
+LAST|P2093|"Asok AR"
+LAST|P212|"9789354324178"
+LAST|P407|Q36236
+LAST|P577|+2021-07-01T00:00:00Z/11
+LAST|P1104|152
+LAST|P393|"1"
+LAST|P629|Q139998416
+CREATE
+LAST|Len|"Alayunna Joothan"
+LAST|Lml|"അലയുന്ന ജൂതൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alayunna-joothan"
+LAST|P2093|"Eugene Sue"
+LAST|P212|"9788126423286"
+LAST|P407|Q36236
+LAST|P577|+2025-08-29T00:00:00Z/11
+LAST|P1104|140
+LAST|P393|"3"
+LAST|P629|Q139998425
+CREATE
+LAST|Len|"Adivasi Puravritham"
+LAST|Lml|"ആദിവാസി പുരാവൃത്തം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adivasi-puravritham"
+LAST|P2093|"Kumaran Vayaleri"
+LAST|P957|"8126415657"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|114
+LAST|P393|"1"
+LAST|P629|Q139998385
+CREATE
+LAST|Len|"Ajnathakamukiyude Avasanathe Kathu"
+LAST|Lml|"അജ്ഞാതകാമുകിയുടെ അവസാനത്തെ കത്ത്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/ajnathakamukiyude-avasanathe-kathu"
+LAST|P2093|"Stefan Zweig"
+LAST|P212|"9788126423453"
+LAST|P407|Q36236
+LAST|P577|+2013-08-08T00:00:00Z/11
+LAST|P1104|74
+LAST|P393|"2"
+LAST|P629|Q139998412
+CREATE
+LAST|Len|"Agnichirakil Ananthathayilekku"
+LAST|Lml|"അഗ്നിചിറകിൽ അനന്തതയിലേക്ക്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/agnichirakil-ananthathayilekku"
+LAST|P2093|"P V Alby"
+LAST|P212|"9788126464906"
+LAST|P407|Q36236
+LAST|P577|+2019-11-27T00:00:00Z/11
+LAST|P1104|118
+LAST|P393|"4"
+LAST|P629|Q139998399
+CREATE
+LAST|Len|"Alohari Anandham"
+LAST|Lml|"ആളോഹരി ആനന്ദം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alohari-anandham"
+LAST|P2093|"Sarah Joseph"
+LAST|P212|"9788122613230"
+LAST|P407|Q36236
+LAST|P577|+2020-11-26T00:00:00Z/11
+LAST|P1104|348
+LAST|P393|"3"
+LAST|P629|Q139998436
+CREATE
+LAST|Len|"Adhikaram (v.k.n)"
+LAST|Lml|"അധികാരം (വി.കെ.ണ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhikaram"
+LAST|P2093|"V K N"
+LAST|P212|"9788171305322"
+LAST|P407|Q36236
+LAST|P577|+2025-11-25T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"15"
+LAST|P629|Q139998367
+CREATE
+LAST|Len|"Adhyathma Ramayanam (aakhyanam)"
+LAST|Lml|"അദ്ധ്യാത്മ രാമായണം (ആഖ്യാനം)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhyathma-ramayanam--aakhyanam-"
+LAST|P2093|"Thunchath Ezhuthachan"
+LAST|P957|"8126424931"
+LAST|P407|Q36236
+LAST|P577|+2024-07-24T00:00:00Z/11
+LAST|P1104|1056
+LAST|P393|"8"
+LAST|P629|Q139998379
+CREATE
+LAST|Len|"Ajayyanaya Arjunan"
+LAST|Lml|"അജയ്യനായ അർജുനൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/ajayyanaya-arjunan"
+LAST|P2093|"Debashis Chatterjee"
+LAST|P212|"9789389869392"
+LAST|P407|Q36236
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P1104|143
+LAST|P393|"1"
+LAST|P629|Q139998411
+CREATE
+LAST|Len|"Alicinte Albutha Rogam (senior Citizen Edition)"
+LAST|Lml|"ആലീസിന്റെ അത്ഭുത രോഗം (സീനിയർ സിറ്റിസൺ എഡിഷൻ)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alicinte-albutha-rogam-senior-citizen-edition"
+LAST|P2093|"B Ekbal"
+LAST|P212|"9788126405442"
+LAST|P407|Q36236
+LAST|P577|+2022-09-15T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"3"
+LAST|P629|Q139998430
+CREATE
+LAST|Len|"Acropolis"
+LAST|Lml|"അക്രോപോളിസ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/acropolis"
+LAST|P2093|"Sebastian Paul"
+LAST|P212|"9789353903206"
+LAST|P407|Q36236
+LAST|P577|+2020-02-13T00:00:00Z/11
+LAST|P1104|156
+LAST|P393|"1"
+LAST|P629|Q139998362
+CREATE
+LAST|Len|"Allahuvinte Namathil"
+LAST|Lml|"അല്ലാഹുവിന്റെ നാമത്തിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/allahuvinte-namathil"
+LAST|P2093|"Muni Narayanaprasad"
+LAST|P212|"9789354329951"
+LAST|P407|Q36236
+LAST|P577|+2023-06-27T00:00:00Z/11
+LAST|P1104|280
+LAST|P393|"2"
+LAST|P629|Q139998434
+CREATE
+LAST|Len|"Abhinnam"
+LAST|Lml|"അഭിന്നം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/abhinnam"
+LAST|P2093|"Divakaran Vishnumangalam"
+LAST|P212|"9789354822391"
+LAST|P407|Q36236
+LAST|P577|+2021-11-18T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"1"
+LAST|P629|Q139998354
+CREATE
+LAST|Len|"Aayiram Katamkathakal"
+LAST|Lml|"ആയിരം കടംകഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aayiram-katamkathakal"
+LAST|P2093|"Velayudhan Panikkassery"
+LAST|P957|"8124007195"
+LAST|P407|Q36236
+LAST|P577|+2016-08-17T00:00:00Z/11
+LAST|P1104|74
+LAST|P393|"7"
+LAST|P629|Q139998348
+CREATE
+LAST|Len|"Adhikarathinte Sadhyathakal"
+LAST|Lml|"അധികാരത്തിന്റെ സാദ്ധ്യതകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhikarathinte-sadhyathakal"
+LAST|P2093|"Amruth G. Kumar"
+LAST|P212|"9789354825033"
+LAST|P407|Q36236
+LAST|P577|+2022-06-17T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"2"
+LAST|P629|Q139998368
+CREATE
+LAST|Len|"Akasapanth"
+LAST|Lml|"ആകാശപാന്ഥ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/akasapanth"
+LAST|P2093|"Nandan ."
+LAST|P212|"9789354822032"
+LAST|P407|Q36236
+LAST|P577|+2022-04-01T00:00:00Z/11
+LAST|P1104|108
+LAST|P393|"1"
+LAST|P629|Q139998414
+CREATE
+LAST|Len|"Ammacheenthukal"
+LAST|Lml|"അമ്മച്ചീന്തുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/ammacheenthukal"
+LAST|P2093|"Echmukkutty"
+LAST|P212|"9789354325267"
+LAST|P407|Q36236
+LAST|P577|+2022-01-14T00:00:00Z/11
+LAST|P1104|320
+LAST|P393|"2"
+LAST|P629|Q139998451
+CREATE
+LAST|Len|"Abeesagin"
+LAST|Lml|"അബീശഗിൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/abeesagin"
+LAST|P2093|"Benyamin"
+LAST|P212|"9788126441471"
+LAST|P407|Q36236
+LAST|P577|+2026-01-30T00:00:00Z/11
+LAST|P1104|96
+LAST|P393|"20"
+LAST|P629|Q139998350
+CREATE
+LAST|Len|"Agnisparsam"
+LAST|Lml|"അഗ്നിസ്പർശം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/agnisparsam"
+LAST|P2093|"Pandit Rajmani Tigunait"
+LAST|P212|"9789352824342"
+LAST|P407|Q36236
+LAST|P577|+2019-01-04T00:00:00Z/11
+LAST|P1104|288
+LAST|P393|"1"
+LAST|P629|Q139998403
+CREATE
+LAST|Len|"Adhunika India Charithram : Mathsarapareekshakalkkum Vidhyarthikalkkum Vendi"
+LAST|Lml|"ആധുനിക ഇന്ത്യ ചരിത്രം : മത്സരപരീക്ഷകൾക്കും വിദ്യാർത്ഥികൾക്കും വേണ്ടി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhunika-india-charithram--mathsarapareekshakalkkum-vidhyarthikalkkum-vendi"
+LAST|P2093|"Rajesh Mangalassery"
+LAST|P212|"9789354829710"
+LAST|P407|Q36236
+LAST|P577|+2022-10-18T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"1"
+LAST|P629|Q139998371
+CREATE
+LAST|Len|"Adhunikananthara Malayala Sahithya Vimarsanam Iii"
+LAST|Lml|"ആധുനികാനന്തര മലയാള സാഹിത്യ വിമർശനം ഇയ്യ്‌"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhunikananthara-malayala-sahithya-vimarsanam-iii"
+LAST|P2093|"Shaji Jacob"
+LAST|P212|"9789386222732"
+LAST|P407|Q36236
+LAST|P577|+2019-04-19T00:00:00Z/11
+LAST|P1104|170
+LAST|P393|"3"
+LAST|P629|Q139998374
+CREATE
+LAST|Len|"Alpha"
+LAST|Lml|"ആൽഫ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alpha"
+LAST|P2093|"T. D. Ramakrishnan"
+LAST|P212|"9788126439119"
+LAST|P407|Q36236
+LAST|P577|+2026-01-28T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"18"
+LAST|P629|Q139998437
+CREATE
+LAST|Len|"Acid Frames"
+LAST|Lml|"ആസിഡ് ഫ്രെയിംസ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/acid-frames"
+LAST|P2093|"Balan Vengara"
+LAST|P212|"9789352827978"
+LAST|P407|Q36236
+LAST|P577|+2019-04-25T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"1"
+LAST|P629|Q139998361
+CREATE
+LAST|Len|"Adutha Bell - Malayala Professional Natakavediyude Kuthippum Kithappum (keralam 60 Series)"
+LAST|Lml|"അടുത്ത ബെൽ - മലയാള പ്രൊഫഷണൽ നാടകവേദിയുടെ കുതിപ്പും കിതപ്പും (കേരളം 60 സീരീസ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adutha-bell-malayala-professional-natakavediyude-kuthippum-kithappum"
+LAST|P2093|"K Sreekumar"
+LAST|P212|"9789386560957"
+LAST|P407|Q36236
+LAST|P577|+2017-07-18T00:00:00Z/11
+LAST|P1104|336
+LAST|P393|"1"
+LAST|P629|Q139998393
+CREATE
+LAST|Len|"Agolavatkaranavum Marxisavum"
+LAST|Lml|"ആഗോളവറ്റകരണവും മാർക്സിസവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/agolavatkaranavum-marxisavum"
+LAST|P2093|"Pearson N M"
+LAST|P957|"8126415681"
+LAST|P407|Q36236
+LAST|P577|+2007-01-01T00:00:00Z/11
+LAST|P1104|248
+LAST|P393|"1"
+LAST|P629|Q139998406
+CREATE
+LAST|Len|"Akkapporinte Irupathu Nasrani Varshangal"
+LAST|Lml|"അക്കപ്പോരിന്റെ ഇരുപത്‌ നസ്രാണി വർഷങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/akkapporinte-irupathu-nasrani-varshangal"
+LAST|P2093|"Benyamin"
+LAST|P212|"9788126420865"
+LAST|P407|Q36236
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P1104|140
+LAST|P393|"21"
+LAST|P629|Q139998418
+CREATE
+LAST|Len|"Adakkavum Anakkavum"
+LAST|Lml|"അടക്കവും അനക്കവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adakkavum-anakkavum"
+LAST|P2093|"Sajay K V"
+LAST|P212|"9789352825301"
+LAST|P407|Q36236
+LAST|P577|+2018-11-28T00:00:00Z/11
+LAST|P1104|224
+LAST|P393|"1"
+LAST|P629|Q139998363
+CREATE
+LAST|Len|"Agniparvathangalude Thazhvarayil"
+LAST|Lml|"അഗ്നിപര്വതങ്ങളുടെ താഴ്‌വരയിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/agniparvathangalude-thazhvarayil"
+LAST|P2093|"Zacharia"
+LAST|P212|"9788126422487"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|76
+LAST|P393|"1"
+LAST|P629|Q139998400
+CREATE
+LAST|Len|"Adunna Kombile Padunna Pakshi"
+LAST|Lml|"ആടുന്ന കൊമ്പിലെ പാടുന്ന പക്ഷി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adunna-kombile-padunna-pakshi"
+LAST|P2093|"Kurian John Melamparambil"
+LAST|P212|"9789354322105"
+LAST|P407|Q36236
+LAST|P577|+2025-11-10T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"2"
+LAST|P629|Q139998392
+CREATE
+LAST|Len|"Adhyatma Ramayanam : Premium Edition"
+LAST|Lml|"ആധ്യാതിമ രാമായണം : പ്രീമിയം എഡിഷൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhyatma-ramayanam-premium-edition"
+LAST|P2093|"Thunchath Ezhuthachan"
+LAST|P212|"9788126467112"
+LAST|P407|Q36236
+LAST|P577|+2017-06-28T00:00:00Z/11
+LAST|P1104|560
+LAST|P393|"2"
+LAST|P629|Q139998381
+CREATE
+LAST|Len|"Ambalamani - Hb"
+LAST|Lml|"അമ്പലമണി - ഹബ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/ambalamani-hb"
+LAST|P2093|"Sugathakumari"
+LAST|P957|"8171302041"
+LAST|P407|Q36236
+LAST|P1104|150
+LAST|P393|"21"
+LAST|P629|Q139998442
+CREATE
+LAST|Len|"Algebra-polynomialukal"
+LAST|Lml|"അൽജിബ്ര-പോളിനോമിയലുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/algebra-polynomialukal"
+LAST|P2093|"Nair M R C"
+LAST|P212|"9789387169333"
+LAST|P407|Q36236
+LAST|P577|+2019-10-16T00:00:00Z/11
+LAST|P1104|174
+LAST|P393|"1"
+LAST|P629|Q139998427
+CREATE
+LAST|Len|"Aham Dravyasmi - Prapanchathinte Password"
+LAST|Lml|"അഹം ദ്രവ്യാസ്മി - പ്രപഞ്ചത്തിന്റെ പാസ്സ്‌വേർഡ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aham-dravyasmi-prapanchathinte-password"
+LAST|P2093|"Vaisakhan"
+LAST|P212|"9789352825240"
+LAST|P407|Q36236
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"4"
+LAST|P629|Q139998410
+CREATE
+LAST|Len|"Adaykka Raju Enna Ente Jeevitham"
+LAST|Lml|"അടയ്ക്ക രാജു എന്ന എന്റെ ജീവിതം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adaykka-raju-enna-ente-jeevitham"
+LAST|P2093|"Pallippuram Raju"
+LAST|P212|"9789354323607"
+LAST|P407|Q36236
+LAST|P577|+2021-02-18T00:00:00Z/11
+LAST|P1104|64
+LAST|P393|"1"
+LAST|P629|Q139998365
+CREATE
+LAST|Len|"Aesopu Kathakal"
+LAST|Lml|"അഈസോപ് കഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aesopu-kathakal"
+LAST|P2093|"Sankaranarayanan P I"
+LAST|P212|"9788126452804"
+LAST|P407|Q36236
+LAST|P577|+2023-05-30T00:00:00Z/11
+LAST|P1104|360
+LAST|P393|"23"
+LAST|P629|Q139998396
+CREATE
+LAST|Len|"Achananu Ente Desam"
+LAST|Lml|"അച്ഛനാണ് എന്റെ ദേശം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/achananu-ente-desam"
+LAST|P2093|"Sumithra Jayaprakash"
+LAST|P212|"9789354827945"
+LAST|P407|Q36236
+LAST|P577|+2022-08-09T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"1"
+LAST|P629|Q139998358
+CREATE
+LAST|Len|"Abhyudayam (2 Volumes)"
+LAST|Lml|"അഭ്യുദയം (2 വോളമീസ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/abhudayam"
+LAST|P2093|"Narendra Kohly"
+LAST|P212|"9788124013038"
+LAST|P407|Q36236
+LAST|P577|+2014-12-29T00:00:00Z/11
+LAST|P1104|1376
+LAST|P393|"2"
+LAST|P629|Q139998355
+CREATE
+LAST|Len|"Amma (kalamandalam Gopi)"
+LAST|Lml|"'അമ്മ (കലാമണ്ഡലം ഗോപി)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/amma-kalamandalam-gopi"
+LAST|P2093|"Kalamandalam Gopi"
+LAST|P212|"9789354820182"
+LAST|P407|Q36236
+LAST|P577|+2021-09-22T00:00:00Z/11
+LAST|P1104|150
+LAST|P393|"1"
+LAST|P629|Q139998449
+CREATE
+LAST|Len|"Alankaramatsya Paripalanam Vinodavum Vyavasayavum"
+LAST|Lml|"അലങ്കാരമത്സ്യ പരിപാലനം വിനോദവും വ്യവസായവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alankaramatsya-paripalanam-vinodavum-vyavasayavum"
+LAST|P2093|"Velayudhan T D"
+LAST|P212|"9788126418381"
+LAST|P407|Q36236
+LAST|P1104|192
+LAST|P393|"3"
+LAST|P629|Q139998422
+CREATE
+LAST|Len|"Adholoka Gayakan"
+LAST|Lml|"അധോലോക ഗായകൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adholoka-gayakan"
+LAST|P2093|"Vinu Abraham"
+LAST|P212|"9789388343435"
+LAST|P407|Q36236
+LAST|P577|+2019-05-10T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"1"
+LAST|P437|Q193934
+LAST|P629|Q139998369
+CREATE
+LAST|Len|"Alkkoottam"
+LAST|Lml|"ആൾക്കൂട്ടം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alkkoottam"
+LAST|P2093|"Anand"
+LAST|P957|"8171304397"
+LAST|P407|Q36236
+LAST|P577|+2025-06-30T00:00:00Z/11
+LAST|P1104|520
+LAST|P393|"19"
+LAST|P629|Q139998432
+CREATE
+LAST|Len|"Ambalam Palli Sthree"
+LAST|Lml|"അമ്പലം പള്ളി സ്ത്രീ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/ambalam-palli-sthree"
+LAST|P2093|"P. K. Parakkadavu"
+LAST|P212|"9789382934141"
+LAST|P407|Q36236
+LAST|P577|+2019-06-12T00:00:00Z/11
+LAST|P1104|80
+LAST|P393|"1"
+LAST|P629|Q139998440
+CREATE
+LAST|Len|"Adanjavathilukalkkumunpil"
+LAST|Lml|"അടഞ്ഞവാതിലുകൾക്കുമുന്പിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adanjavathilukalkkumunpil"
+LAST|P212|"9788126449118"
+LAST|P407|Q36236
+LAST|P577|+2022-06-06T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"2"
+LAST|P629|Q139998364
+CREATE
+LAST|Len|"Adiyor Mishiha Enna Novel"
+LAST|Lml|"അടിയൊരു മിശിഹാ എന്ന നോവൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adiyor-mishiha-enna-novel"
+LAST|P2093|"Vinoy Thomas"
+LAST|P212|"9789354821370"
+LAST|P407|Q36236
+LAST|P577|+2022-11-28T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"4"
+LAST|P629|Q139998387
+CREATE
+LAST|Len|"Abharana Nirmmanam"
+LAST|Lml|"ആഭരണ നിർമ്മാണം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/abharana-nirmmanam"
+LAST|P2093|"Radha Ajith"
+LAST|P212|"9788126463916"
+LAST|P407|Q36236
+LAST|P577|+2015-05-30T00:00:00Z/11
+LAST|P1104|134
+LAST|P393|"1"
+LAST|P629|Q139998351
+CREATE
+LAST|Len|"Americkakkethire Upajaapam"
+LAST|Lml|"അമേരിക്കക്കെതിരെ ഉപജാപം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/americkakkethire-upajaapam"
+LAST|P2093|"Philip Roth"
+LAST|P212|"9788126429240"
+LAST|P407|Q36236
+LAST|P577|+2012-10-09T00:00:00Z/11
+LAST|P1104|438
+LAST|P393|"1"
+LAST|P629|Q139998445
+CREATE
+LAST|Len|"Accupuncture Accupressure Chikithsavidhikal"
+LAST|Lml|"അസിക്യൂപ്‌നസർ അക്റസുപ്രീശൂരെ ചികിത്സാവിധികൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/accupuncture-accupressure-chikithsavidhikal-225985743260"
+LAST|P2093|"Rama Venkataraman"
+LAST|P212|"9789352822973"
+LAST|P407|Q36236
+LAST|P577|+2018-06-30T00:00:00Z/11
+LAST|P1104|160
+LAST|P393|"1"
+LAST|P437|Q193934
+LAST|P629|Q139998356
+CREATE
+LAST|Len|"Amma Elamkulam Manakkale Amma"
+LAST|Lml|"'അമ്മ ഏലംകുളം മനയ്ക്കലെ 'അമ്മ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/amma-elamkulam-manakkale-amma"
+LAST|P2093|"Venukkuttan Nair P K"
+LAST|P212|"9788126400133"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|63
+LAST|P393|"1"
+LAST|P629|Q139998448
+CREATE
+LAST|Len|"Akam Puram"
+LAST|Lml|"അകം പുറം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/akam-puram"
+LAST|P2093|"Sebastian Karickal"
+LAST|P212|"9789354828591"
+LAST|P407|Q36236
+LAST|P577|+2022-10-25T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"1"
+LAST|P629|Q139998413
+CREATE
+LAST|Len|"Adoor Gopalakrishnante Pathinonnu Thirakkathakal"
+LAST|Lml|"അടൂർ ഗോപാലകൃഷ്ണന്റെ പതിനൊന്നു തിരക്കഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adoor-gopalakrishnante-pathinonnu-thirakkathakal"
+LAST|P2093|"Adoor Gopalakrishnan"
+LAST|P212|"9788126439287"
+LAST|P407|Q36236
+LAST|P577|+2012-12-01T00:00:00Z/11
+LAST|P1104|1408
+LAST|P393|"1"
+LAST|P629|Q139998388
+CREATE
+LAST|Len|"Akkarmashi"
+LAST|Lml|"ഹാക്കര്മാഷി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/akkarmashi"
+LAST|P2093|"Sharankumar Limbale"
+LAST|P212|"9788182677128"
+LAST|P407|Q36236
+LAST|P577|+2012-01-01T00:00:00Z/11
+LAST|P1104|192
+LAST|P393|"9"
+LAST|P629|Q139998419
+CREATE
+LAST|Len|"Amaram Bhasha"
+LAST|Lml|"അമരം ഭാഷ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/amaram-bhasha"
+LAST|P2093|"Chandrasekharan Nair C K"
+LAST|P957|"8126414375"
+LAST|P407|Q36236
+LAST|P577|+2015-06-17T00:00:00Z/11
+LAST|P1104|232
+LAST|P393|"1"
+LAST|P629|Q139998438
+CREATE
+LAST|Len|"Ahalya"
+LAST|Lml|"അഹല്യ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/ahalya"
+LAST|P2093|"Rani Binoy"
+LAST|P212|"9789385752650"
+LAST|P407|Q36236
+LAST|P577|+2017-11-20T00:00:00Z/11
+LAST|P1104|140
+LAST|P393|"1"
+LAST|P629|Q139998409
+CREATE
+LAST|Len|"Alingam"
+LAST|Lml|"ആലിംഗനം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/alingam"
+LAST|P2093|"S. Girish Kumar"
+LAST|P212|"9789352824830"
+LAST|P407|Q36236
+LAST|P577|+2019-01-10T00:00:00Z/11
+LAST|P1104|272
+LAST|P393|"1"
+LAST|P629|Q139998431
+CREATE
+LAST|Len|"Agnisakshi"
+LAST|Lml|"അഗ്നിസാക്ഷി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/agnisaakshi-1"
+LAST|P2093|"Lalithambika Antharjanam"
+LAST|P212|"9788126427208"
+LAST|P407|Q36236
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P1104|136
+LAST|P393|"37"
+LAST|P629|Q139998401
+CREATE
+LAST|Len|"Abhilasham"
+LAST|Lml|"അഭിലാഷം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/abhilasham"
+LAST|P2093|"Angela Donovan"
+LAST|P212|"9789389445374"
+LAST|P407|Q36236
+LAST|P577|+2019-10-16T00:00:00Z/11
+LAST|P1104|247
+LAST|P393|"1"
+LAST|P629|Q139998353
+CREATE
+LAST|Len|"Akhilaloka Aaducompany"
+LAST|Lml|"അഖിലലോക ആടുകമ്പനി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/akhilaloka-aaducompany"
+LAST|P2093|"Majeed Syed"
+LAST|P212|"9789354823886"
+LAST|P407|Q36236
+LAST|P577|+2023-05-30T00:00:00Z/11
+LAST|P1104|72
+LAST|P393|"3"
+LAST|P629|Q139998417
+CREATE
+LAST|Len|"Al Hasan Muthal C V Raman Vare"
+LAST|Lml|"അൽ ഹസൻ മുതൽ സി വി രാമൻ വരെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/al-hasan-muthal-c-v-raman-vare"
+LAST|P2093|"S. Sivadas"
+LAST|P212|"9789386680631"
+LAST|P407|Q36236
+LAST|P577|+2022-02-26T00:00:00Z/11
+LAST|P1104|312
+LAST|P393|"5"
+LAST|P629|Q139998421
+CREATE
+LAST|Len|"Adhunika India"
+LAST|Lml|"ആധുനിക ഇന്ത്യ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhunika-india"
+LAST|P2093|"Bipan Chandra"
+LAST|P212|"9788126417537"
+LAST|P407|Q36236
+LAST|P577|+2025-12-22T00:00:00Z/11
+LAST|P1104|372
+LAST|P393|"14"
+LAST|P629|Q139998370
+CREATE
+LAST|Len|"Amma Urangunnilla"
+LAST|Lml|"'അമ്മ ഉറങ്ങുന്നില്ല"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/amma-urangunnilla"
+LAST|P2093|"Anuja Akathoottu"
+LAST|P212|"9788126477449"
+LAST|P407|Q36236
+LAST|P577|+2018-08-06T00:00:00Z/11
+LAST|P1104|64
+LAST|P393|"1"
+LAST|P629|Q139998450
+CREATE
+LAST|Len|"Akasathinu Chuvattil"
+LAST|Lml|"ആകാശത്തിനു ചുവട്ടിലെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/akasathinu-chuvattil"
+LAST|P2093|"M. Mukundan"
+LAST|P212|"9788171303199"
+LAST|P407|Q36236
+LAST|P577|+2025-07-10T00:00:00Z/11
+LAST|P1104|110
+LAST|P393|"14"
+LAST|P629|Q139998415
+CREATE
+LAST|Len|"Adhunika Jeevitha Vijayamanthrangal"
+LAST|Lml|"ആധുനിക ജീവിത വിജയമന്ത്രങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adhunika-jeevitha-vijayamanthrangal"
+LAST|P2093|"Varghese P A"
+LAST|P212|"9789390234097"
+LAST|P407|Q36236
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P1104|108
+LAST|P393|"1"
+LAST|P629|Q139998373
+CREATE
+LAST|Len|"Ammakkuttiyude Lokam"
+LAST|Lml|"അമ്മക്കുട്ടിയുടെ ലോകം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/ammakkuttiyude-lokam"
+LAST|P2093|"K A Beena"
+LAST|P212|"9788126465170"
+LAST|P407|Q36236
+LAST|P577|+2025-05-31T00:00:00Z/11
+LAST|P1104|80
+LAST|P393|"6"
+LAST|P629|Q139998452
+CREATE
+LAST|Len|"Agolavalkaranavum Adivasikalum"
+LAST|Lml|"ആഗോളവൽക്കരണവും ആദിവാസികളും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/agolavalkaranavum-adivasikalum"
+LAST|P2093|"Mathew Aerthayil"
+LAST|P212|"9788188779598"
+LAST|P407|Q36236
+LAST|P577|+2019-06-11T00:00:00Z/11
+LAST|P1104|100
+LAST|P393|"1"
+LAST|P629|Q139998404
+CREATE
+LAST|Len|"Aavilayile Sooryodayam"
+LAST|Lml|"ആവിലയിലെ സൂര്യോദയം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aavilayile-sooryodayam-"
+LAST|P2093|"M. Mukundan"
+LAST|P212|"9788171305872"
+LAST|P407|Q36236
+LAST|P577|+2025-01-31T00:00:00Z/11
+LAST|P1104|208
+LAST|P393|"13"
+LAST|P629|Q139998347
+CREATE
+LAST|Len|"Adimakeralathinte Adrushyacharithram"
+LAST|Lml|"അടിമകേരളത്തിന്റെ അധൃഷ്യചരിത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adimakeralathinte-adrushyacharithram"
+LAST|P2093|"Vinil Paul"
+LAST|P212|"9789354324055"
+LAST|P407|Q36236
+LAST|P577|+2026-01-30T00:00:00Z/11
+LAST|P1104|248
+LAST|P393|"11"
+LAST|P437|Q193934
+LAST|P629|Q139998383
+CREATE
+LAST|Len|"Adithyanum Radhayum Mattu Chilarum"
+LAST|Lml|"ആദിത്യനും രാധയും മറ്റു ചിലരും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/adithyanum-radhayum-mattu-chilarum"
+LAST|P2093|"M. Mukundan"
+LAST|P212|"9788171302321"
+LAST|P407|Q36236
+LAST|P577|+2024-05-31T00:00:00Z/11
+LAST|P1104|168
+LAST|P393|"14"
+LAST|P629|Q139998384
+CREATE
+LAST|Len|"Achuthamenon : Mukhammoodiyillathe"
+LAST|Lml|"അച്യുതമേനോൻ : മുഖംമൂടിയില്ലാതെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/achuthamenon-mukhammoodiyillathe"
+LAST|P2093|"Thekkumbhagom Mohan"
+LAST|P957|"8171302297"
+LAST|P407|Q36236
+LAST|P577|+2014-10-27T00:00:00Z/11
+LAST|P1104|126
+LAST|P393|"2"
+LAST|P629|Q139998360
+CREATE
+LAST|Len|"Aduvalarthal 100 Chodyangalum Utharangalum"
+LAST|Lml|"ആടുവളർത്തൽ 100 ചോദ്യങ്ങളും ഉത്തരങ്ങളും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aduvalarthal-100-chodyangalum-utharangalum"
+LAST|P2093|"Mohanan P V"
+LAST|P957|"8126416491"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|71
+LAST|P393|"1"
+LAST|P629|Q139998394
+CREATE
+LAST|Len|"Agolavatkaranavum Idinjupolinja Lokavum"
+LAST|Lml|"ആഗോളവറ്റകരണവും ഇടിഞ്ഞുപൊളിഞ്ഞ ലോകവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/agolavatkaranavum-idinjupolinja-lokavum"
+LAST|P2093|"N P Chekkutty"
+LAST|P212|"9789354321658"
+LAST|P407|Q36236
+LAST|P577|+2021-02-05T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"1"
+LAST|P629|Q139998405
+CREATE
+LAST|Len|"Al Arabian Novel Factory ( Single Title )"
+LAST|Lml|"അൽ അറേബ്യൻ നോവൽ ഫാക്ടറി ( സിംഗിൾ ടൈറ്റിൽ )"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/al-arabian-novel-factory--single-title"
+LAST|P2093|"Benyamin"
+LAST|P212|"9788126450787"
+LAST|P407|Q36236
+LAST|P577|+2024-09-30T00:00:00Z/11
+LAST|P1104|440
+LAST|P393|"14"
+LAST|P629|Q139998420
+CREATE
+LAST|Len|"Mukham"
+LAST|Lml|"മുഖം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MUKHAM"
+LAST|P2093|"Thaha Madai"
+LAST|P212|"9788126430932"
+LAST|P407|Q36236
+LAST|P577|+2011-09-13T00:00:00Z/11
+LAST|P1104|64
+LAST|P393|"1"
+LAST|P629|Q139998254
+CREATE
+LAST|Len|"Syndicate"
+LAST|Lml|"സിണ്ടിക്കേറ്റ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/SYNDICATE"
+LAST|P2093|"V K N"
+LAST|P957|"8126409460"
+LAST|P407|Q36236
+LAST|P577|+2025-07-23T00:00:00Z/11
+LAST|P1104|200
+LAST|P393|"6"
+LAST|P629|Q139998280
+CREATE
+LAST|Len|"Vishnu Sahasranaamam"
+LAST|Lml|"വിഷ്ണു സഹസ്രനാമം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/VISHNU-SAHASRANAAMAM"
+LAST|P2093|"Raju Poonjar"
+LAST|P212|"9788126433438"
+LAST|P407|Q36236
+LAST|P577|+2013-02-02T00:00:00Z/11
+LAST|P1104|180
+LAST|P393|"1"
+LAST|P629|Q139998297
+CREATE
+LAST|Len|"Sandhyakeerthanangal Sthothrangal"
+LAST|Lml|"സന്ധ്യകീർത്തനങ്ങൾ സ്തോത്രങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/SANDHYAKEERTHANANGAL-STHOTHRANGAL"
+LAST|P2093|"Aravindan K.S. Mangalam"
+LAST|P212|"9789352823727"
+LAST|P407|Q36236
+LAST|P577|+2025-06-10T00:00:00Z/11
+LAST|P1104|280
+LAST|P393|"2"
+LAST|P629|Q139998275
+CREATE
+LAST|Len|"Aadhunika Vichaarasilppikal"
+LAST|Lml|"ആധുനിക വിചാരശില്പികൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aadhunika-vichaarasilppikal"
+LAST|P2093|"George K M"
+LAST|P212|"9788126429073"
+LAST|P407|Q36236
+LAST|P577|+2018-12-18T00:00:00Z/11
+LAST|P1104|100
+LAST|P393|"2"
+LAST|P629|Q139998310
+CREATE
+LAST|Len|"Mayilppeeli"
+LAST|Lml|"മയിൽ‌പ്പീലി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MAYILPPEELI"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P212|"9788126421237"
+LAST|P407|Q36236
+LAST|P577|+2025-05-31T00:00:00Z/11
+LAST|P1104|84
+LAST|P393|"6"
+LAST|P629|Q139998251
+CREATE
+LAST|Len|"Aanayute Valarthumrugamanu Pappan"
+LAST|Lml|"ആനയുടെ വളർത്തുമൃഗമാണ് പാപ്പാൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aanayute-valarthumrugamanu-paappan"
+LAST|P2093|"Vimeesh Maniyur"
+LAST|P957|"8126439254"
+LAST|P407|Q36236
+LAST|P577|+2012-12-01T00:00:00Z/11
+LAST|P1104|84
+LAST|P393|"1"
+LAST|P629|Q139998330
+CREATE
+LAST|Len|"Thudakkakaarkulla Paachakam"
+LAST|Lml|"തുടക്കകാർക്കുള്ള പാചകം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/THUDAKKAKAARKULLA-PAACHAKAM"
+LAST|P2093|"Lilly Babu Jose"
+LAST|P212|"9788126431649"
+LAST|P407|Q36236
+LAST|P577|+2014-10-18T00:00:00Z/11
+LAST|P1104|152
+LAST|P393|"2"
+LAST|P629|Q139998285
+CREATE
+LAST|Len|"Aadima Indiacharithram"
+LAST|Lml|"ആദിമ ഇന്ത്യാചരിത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aadima-indiacharithram"
+LAST|P2093|"Romila Thapar"
+LAST|P212|"9788126422821"
+LAST|P407|Q36236
+LAST|P577|+2025-06-25T00:00:00Z/11
+LAST|P1104|676
+LAST|P393|"8"
+LAST|P629|Q139998315
+CREATE
+LAST|Len|"Variyellu"
+LAST|Lml|"വാരിയെല്ല്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/VARIYELLU"
+LAST|P2093|"Sugathakumari"
+LAST|P212|"9788126426041"
+LAST|P407|Q36236
+LAST|P577|+2021-01-02T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"6"
+LAST|P629|Q139998292
+CREATE
+LAST|Len|"Aarohanam"
+LAST|Lml|"ആരോഹണം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aarohanam"
+LAST|P2093|"V K N"
+LAST|P957|"8171306632"
+LAST|P407|Q36236
+LAST|P577|+2004-02-27T00:00:00Z/11
+LAST|P1104|284
+LAST|P393|"10"
+LAST|P629|Q139998341
+CREATE
+LAST|Len|"Aanavorjjam"
+LAST|Lml|"ആണവോർജ്ജം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aanavorjjam"
+LAST|P2093|"Sunitha Ganesh"
+LAST|P212|"9789387169555"
+LAST|P407|Q36236
+LAST|P577|+2019-09-20T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"1"
+LAST|P629|Q139998329
+CREATE
+LAST|Len|"Aalkkoottathil Thaniye : M T Yude Priyapetta Thirakkathakal"
+LAST|Lml|"ആൾക്കൂട്ടത്തിൽ തനിയെ : എം ടി യുടെ പ്രിയപ്പെട്ട തിരക്കഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aalkkoottathil-thaniye-m-t-yude-priyapetta-thirakkathakal"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P212|"9788126475766"
+LAST|P407|Q36236
+LAST|P577|+2017-07-01T00:00:00Z/11
+LAST|P1104|1000
+LAST|P393|"1"
+LAST|P629|Q139998324
+CREATE
+LAST|Len|"Aarogyathinu Hanikaram-malayaliyude Aasakthikal (keralam 60 Series)"
+LAST|Lml|"ആരോഗ്യത്തിനു ഹാനികരം-മലയാളിയുടെ ആസക്തികൾ (കേരളം 60 സീരീസ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aarogyathinu-hanikaram-malayaliyude-aasakthikal"
+LAST|P2093|"Johnson"
+LAST|P212|"9788126475193"
+LAST|P407|Q36236
+LAST|P577|+2017-03-22T00:00:00Z/11
+LAST|P1104|166
+LAST|P393|"1"
+LAST|P629|Q139998339
+CREATE
+LAST|Len|"Aagolathapanavum Kalavasthavyathiyanavum"
+LAST|Lml|"ആഗോളതാപനവും കാലാവസ്ഥാവ്യതിയാനവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aagolathapanavum-kalavasthavyathiyanavum"
+LAST|P2093|"D V Cyril"
+LAST|P212|"9789352829637"
+LAST|P407|Q36236
+LAST|P577|+2021-04-16T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"2"
+LAST|P629|Q139998318
+CREATE
+LAST|Len|"Aanakkaryam"
+LAST|Lml|"ആനക്കാര്യം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aanakkaryam"
+LAST|P2093|"Akbar Kakkattil"
+LAST|P212|"9789354326394"
+LAST|P407|Q36236
+LAST|P577|+2023-07-29T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"3"
+LAST|P629|Q139998326
+CREATE
+LAST|Len|"Raavunniyute Kavithakal"
+LAST|Lml|"രാവുണ്ണിയുടെ കവിതകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/RAAVUNNIYUTE-KAVITHAKAL"
+LAST|P2093|"Ravunny"
+LAST|P957|"8126429879"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|254
+LAST|P393|"1"
+LAST|P629|Q139998272
+CREATE
+LAST|Len|"Vachanamrutham"
+LAST|Lml|"വചനാമൃതം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/VACHANAMRUTHAM"
+LAST|P2093|"Sree Ramana Maharshi"
+LAST|P212|"9788126407361"
+LAST|P407|Q36236
+LAST|P577|+2025-07-21T00:00:00Z/11
+LAST|P1104|228
+LAST|P393|"9"
+LAST|P629|Q139998290
+CREATE
+LAST|Len|"Narakathinte Taatoo"
+LAST|Lml|"നരകത്തിന്റെ ടാറ്റൂ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/NARAKATHINTETAATOO"
+LAST|P2093|"Amal"
+LAST|P212|"9788126432660"
+LAST|P407|Q36236
+LAST|P577|+2011-11-16T00:00:00Z/11
+LAST|P1104|72
+LAST|P393|"1"
+LAST|P629|Q139998258
+CREATE
+LAST|Len|"Aacharavijnanakosham"
+LAST|Lml|"ആചാരവിജ്ഞാനകോശം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aacharavijnanakosham"
+LAST|P2093|"Shornur Karthikeyan"
+LAST|P212|"9788124020807"
+LAST|P407|Q36236
+LAST|P577|+2016-11-29T00:00:00Z/11
+LAST|P1104|944
+LAST|P393|"1"
+LAST|P629|Q139998307
+CREATE
+LAST|Len|"Motorcycle Diarykkurippukal"
+LAST|Lml|"മോട്ടോർസൈക്കിൾ ടിആറിക്കുറിപ്പുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MOTORCYCLE-DIARYKKURIPPUKAL"
+LAST|P2093|"Che Guevara"
+LAST|P212|"9788126429615"
+LAST|P407|Q36236
+LAST|P577|+2025-10-20T00:00:00Z/11
+LAST|P1104|208
+LAST|P393|"11"
+LAST|P629|Q139998253
+CREATE
+LAST|Len|"Aadyakala Kathakal"
+LAST|Lml|"ആദ്യകാല കഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aadyakala-kathakal"
+LAST|P212|"9788124000717"
+LAST|P407|Q36236
+LAST|P577|+2022-04-22T00:00:00Z/11
+LAST|P1104|280
+LAST|P393|"46"
+LAST|P437|Q193934
+LAST|P629|Q139998317
+CREATE
+LAST|Len|"Malayalam Hindi English Dictionary"
+LAST|Lml|"മലയാളം ഹിന്ദി ഇംഗ്ലീഷ് ഡിക്ഷണറി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MALAYALAM-HINDI-ENGLISH-DICTIONARY"
+LAST|P2093|"Neelakantan Nair"
+LAST|P212|"9788126422111"
+LAST|P407|Q36236
+LAST|P577|+2016-05-19T00:00:00Z/11
+LAST|P1104|650
+LAST|P393|"6"
+LAST|P629|Q139998245
+CREATE
+LAST|Len|"Thakazhiyude Novalukal"
+LAST|Lml|"തകഴിയുടെ നോവലുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/THAKAZHIYUDE-NOVALUKAL"
+LAST|P2093|"Thakazhi Sivasankara Pillai"
+LAST|P212|"9788126431786"
+LAST|P407|Q36236
+LAST|P577|+2011-12-08T00:00:00Z/11
+LAST|P1104|1150
+LAST|P393|"1"
+LAST|P629|Q139998282
+CREATE
+LAST|Len|"V K N Kathakal (print on Demand)"
+LAST|Lml|"വി കെ ണ് കഥകൾ (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/V-K-N-KATHAKAL"
+LAST|P2093|"V K N"
+LAST|P957|"8171302483"
+LAST|P407|Q36236
+LAST|P577|+2021-11-05T00:00:00Z/11
+LAST|P1104|304
+LAST|P393|"7"
+LAST|P629|Q139998289
+CREATE
+LAST|Len|"Aa Ummakalkkoppamallathe"
+LAST|Lml|"ആ ഉമ്മകൾക്കൊപ്പമല്ലാതെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aa-ummakalkkoppamallathe"
+LAST|P2093|"Ajeesh Dasan"
+LAST|P212|"9789354329791"
+LAST|P407|Q36236
+LAST|P577|+2022-03-04T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"3"
+LAST|P629|Q139998306
+CREATE
+LAST|Len|"Aakhyanavum Chila Sthreekalum: Ormakalute Pusthakam"
+LAST|Lml|"ആഖ്യാനവും ചില സ്ത്രീകളും: ഓര്മകളുടെ പുസ്തകം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aakhyanavum-chila-sthreekalum-ormakalute-pusthakam"
+LAST|P2093|"Ambikasuthan Mangad"
+LAST|P212|"9789352826742"
+LAST|P407|Q36236
+LAST|P577|+2020-02-13T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"2"
+LAST|P629|Q139998320
+CREATE
+LAST|Len|"O V Vijayante Lekhanangal"
+LAST|Lml|"ഓ വി വിജയൻറെ ലേഖനങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/O-V-VIJAYANTE-LEKHANANGAL"
+LAST|P2093|"O V Vijayan"
+LAST|P212|"9788126410088"
+LAST|P407|Q36236
+LAST|P577|+2025-10-13T00:00:00Z/11
+LAST|P1104|906
+LAST|P393|"4"
+LAST|P629|Q139998264
+CREATE
+LAST|Len|"Vidooratharakam"
+LAST|Lml|"വിദൂരതരാകാം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/VIDOORATHARAKAM"
+LAST|P2093|"Roberto Bolano"
+LAST|P212|"9788126431205"
+LAST|P407|Q36236
+LAST|P577|+2011-09-26T00:00:00Z/11
+LAST|P1104|143
+LAST|P393|"1"
+LAST|P629|Q139998295
+CREATE
+LAST|Len|"Aalakambadi"
+LAST|Lml|"ആളകമ്പടി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aalakambadi"
+LAST|P2093|"Murali B"
+LAST|P212|"9788126405398"
+LAST|P407|Q36236
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P1104|105
+LAST|P393|"3"
+LAST|P629|Q139998323
+CREATE
+LAST|Len|"Aa Maratheyum Marannu Marannu Njan"
+LAST|Lml|"ആ മരത്തെയും മറന്നു മറന്നു ഞാൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aa-maratheyum-marannu-marannu-njan"
+LAST|P2093|"K. R. Meera"
+LAST|P212|"9789353903992"
+LAST|P407|Q36236
+LAST|P577|+2026-02-27T00:00:00Z/11
+LAST|P1104|88
+LAST|P393|"21"
+LAST|P629|Q139998304
+CREATE
+LAST|Len|"Aadi"
+LAST|Lml|"ആദി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aadi"
+LAST|P2093|"Bijoy Chandran"
+LAST|P212|"9789353907020"
+LAST|P407|Q36236
+LAST|P577|+2021-01-19T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"1"
+LAST|P629|Q139998312
+CREATE
+LAST|Len|"Aaranu Kolayali ?"
+LAST|Lml|"ആരാണ് കൊലയാളി ?"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aaranu-kolayali"
+LAST|P2093|"Sadasivan M P"
+LAST|P212|"9789354826979"
+LAST|P407|Q36236
+LAST|P577|+2022-04-29T00:00:00Z/11
+LAST|P1104|200
+LAST|P393|"2"
+LAST|P629|Q139998338
+CREATE
+LAST|Len|"Aami"
+LAST|Lml|"ആമി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aami"
+LAST|P2093|"Kamal"
+LAST|P212|"9788126476961"
+LAST|P407|Q36236
+LAST|P577|+2018-02-10T00:00:00Z/11
+LAST|P1104|182
+LAST|P393|"1"
+LAST|P629|Q139998325
+CREATE
+LAST|Len|"Aa Nadiyodu Peru Chodikkaruthu"
+LAST|Lml|"ആ നടിയോട് പേര് ചോദിക്കരുത്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aa-nadiyodu-peru-chodikkaruthu"
+LAST|P2093|"Sheela Tomy"
+LAST|P212|"9789354829659"
+LAST|P407|Q36236
+LAST|P577|+2025-05-31T00:00:00Z/11
+LAST|P1104|304
+LAST|P393|"5"
+LAST|P629|Q139998305
+CREATE
+LAST|Len|"Vyayamam (print on Demand)"
+LAST|Lml|"വ്യായാമം (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/VYAYAMAM"
+LAST|P2093|"Gopinatha Pillai T M"
+LAST|P212|"9788126426164"
+LAST|P407|Q36236
+LAST|P1104|100
+LAST|P393|"3"
+LAST|P629|Q139998298
+CREATE
+LAST|Len|"Subhachinthakal - Jeevithavijayathinu"
+LAST|Lml|"ശുഭചിന്തകൾ - ജീവിതവിജയത്തിന്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/SUBHACHINTHAKAL-JEEVITHAVIJAYATHINU"
+LAST|P2093|"Joshua T.J"
+LAST|P957|"8126432683"
+LAST|P407|Q36236
+LAST|P577|+2017-03-01T00:00:00Z/11
+LAST|P1104|142
+LAST|P393|"5"
+LAST|P629|Q139998277
+CREATE
+LAST|Len|"Vastu Eppozhum Unnayikkapetavunna Chodyangalum Utharangalum"
+LAST|Lml|"വസ്തു ഇപ്പോഴും ഉന്നയിക്കപ്പെടാവുന്ന ചോദ്യങ്ങളും ഉത്തരങ്ങളും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/VASTU-EPPOZHUM-UNNAYIKKAPETAVUNNA-CHODYANGALUM-UTHARANGALUM"
+LAST|P2093|"Niranjan Babu B"
+LAST|P957|"8126410507"
+LAST|P407|Q36236
+LAST|P577|+2006-01-04T00:00:00Z/11
+LAST|P1104|130
+LAST|P393|"3"
+LAST|P629|Q139998294
+CREATE
+LAST|Len|"Osho Paranja 100 Narmmakathakal"
+LAST|Lml|"ഓഷോ പറഞ്ഞ 100 നർമ്മകഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/OSHO-PARANJA-100-NARMMAKATHAKAL"
+LAST|P212|"9788126431960"
+LAST|P407|Q36236
+LAST|P1104|206
+LAST|P393|"1"
+LAST|P629|Q139998266
+CREATE
+LAST|Len|"Aattakkari"
+LAST|Lml|"ആട്ടക്കരി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aattakkari"
+LAST|P2093|"Kalesh S"
+LAST|P212|"9789354329784"
+LAST|P407|Q36236
+LAST|P577|+2023-05-30T00:00:00Z/11
+LAST|P1104|88
+LAST|P393|"4"
+LAST|P629|Q139998346
+CREATE
+LAST|Len|"Aathmajnaanathinte Vazhikal"
+LAST|Lml|"ആത്മജ്ഞാനത്തിന്റെ വഴികൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aathmajnaanathinte-vazhikal"
+LAST|P2093|"Ezhumattor Rajaraja Varma"
+LAST|P957|"8124019215"
+LAST|P407|Q36236
+LAST|P577|+2015-03-23T00:00:00Z/11
+LAST|P1104|256
+LAST|P393|"2"
+LAST|P629|Q139998343
+CREATE
+LAST|Len|"Oru Collectarute Karmakaandom"
+LAST|Lml|"ഒരു കല്ലെക്ടറുടെ കരമാകാൻടോം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/ORU-COLLECTARUTE-KARMAKAANDOM"
+LAST|P2093|"Sujathan P"
+LAST|P957|"8126430060"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|148
+LAST|P393|"1"
+LAST|P629|Q139998265
+CREATE
+LAST|Len|"Pennira"
+LAST|Lml|"പെണ്ണിറ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/Pennira"
+LAST|P2093|"Tissy Mariyam Thomas"
+LAST|P212|"9788126430581"
+LAST|P407|Q36236
+LAST|P577|+2011-07-08T00:00:00Z/11
+LAST|P1104|140
+LAST|P393|"2"
+LAST|P629|Q139998271
+CREATE
+LAST|Len|"Nilavili"
+LAST|Lml|"നിലവിളി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/NILAVILI"
+LAST|P2093|"N S Madhavan"
+LAST|P957|"8126415274"
+LAST|P407|Q36236
+LAST|P577|+2025-07-15T00:00:00Z/11
+LAST|P1104|72
+LAST|P393|"3"
+LAST|P629|Q139998262
+CREATE
+LAST|Len|"Malayalasahithyacharithram Muthirnna Kuttikalkku"
+LAST|Lml|"മലയാളസാഹിത്യചരിത്രം മുതിർന്ന കുട്ടികൾക്ക്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MALAYALASAHITHYACHARITHRAM-MUTHIRNNA-KUTTIKALKKU"
+LAST|P2093|"Ezhumattor Rajaraja Varma"
+LAST|P212|"9788126422876"
+LAST|P407|Q36236
+LAST|P1104|100
+LAST|P393|"4"
+LAST|P629|Q139998246
+CREATE
+LAST|Len|"Aanmazhayormakal"
+LAST|Lml|"ആൺമഴയോർമകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aanmazhayormakal"
+LAST|P2093|"Haris T K"
+LAST|P212|"9789385269264"
+LAST|P407|Q36236
+LAST|P577|+2019-07-17T00:00:00Z/11
+LAST|P1104|260
+LAST|P393|"1"
+LAST|P629|Q139998334
+CREATE
+LAST|Len|"Aanatham Piriyatham"
+LAST|Lml|"ആണത്തം പിരിയതാം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aanatham-piriyatham"
+LAST|P2093|"Vinoy Thomas"
+LAST|P212|"9789353905828"
+LAST|P407|Q36236
+LAST|P577|+2025-11-29T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"3"
+LAST|P629|Q139998328
+CREATE
+LAST|Len|"Nattuvakkukal"
+LAST|Lml|"നട്ടുവക്കുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/NATTUVAKKUKAL"
+LAST|P2093|"Ramanunni S V"
+LAST|P212|"9788126415045"
+LAST|P407|Q36236
+LAST|P1104|62
+LAST|P393|"2"
+LAST|P629|Q139998260
+CREATE
+LAST|Len|"Aathi"
+LAST|Lml|"ആതി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aathi"
+LAST|P2093|"Sarah Joseph"
+LAST|P212|"9788122608984"
+LAST|P407|Q36236
+LAST|P577|+2018-10-23T00:00:00Z/11
+LAST|P1104|302
+LAST|P393|"9"
+LAST|P629|Q139998342
+CREATE
+LAST|Len|"Aadikailasayathra"
+LAST|Lml|"ആദികൈലാസയാത്ര"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aadikailasayathra"
+LAST|P2093|"Ramachandran M K"
+LAST|P212|"9788122613803"
+LAST|P407|Q36236
+LAST|P577|+2018-11-14T00:00:00Z/11
+LAST|P1104|400
+LAST|P393|"16"
+LAST|P629|Q139998313
+CREATE
+LAST|Len|"Aaran"
+LAST|Lml|"ആരാണ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aaran"
+LAST|P2093|"K N Prasanth"
+LAST|P212|"9789352827657"
+LAST|P407|Q36236
+LAST|P577|+2024-06-27T00:00:00Z/11
+LAST|P1104|160
+LAST|P393|"6"
+LAST|P629|Q139998337
+CREATE
+LAST|Len|"Aadam"
+LAST|Lml|"ആദം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aadam"
+LAST|P2093|"S. Hareesh"
+LAST|P212|"9788126450947"
+LAST|P407|Q36236
+LAST|P577|+2025-04-30T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"14"
+LAST|P629|Q139998308
+CREATE
+LAST|Len|"Aa for Annama"
+LAST|Lml|"ആ ഫോർ അന്നാമ്മ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aa-for-annama"
+LAST|P2093|"Ann Palee"
+LAST|P212|"9789388343039"
+LAST|P407|Q36236
+LAST|P577|+2019-06-10T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"1"
+LAST|P629|Q139998302
+CREATE
+LAST|Len|"Russia"
+LAST|Lml|"റഷ്യ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/RUSSIA"
+LAST|P2093|"M. Mukundan"
+LAST|P957|"8171303609"
+LAST|P407|Q36236
+LAST|P577|+2025-01-31T00:00:00Z/11
+LAST|P1104|88
+LAST|P393|"12"
+LAST|P629|Q139998273
+CREATE
+LAST|Len|"Matsyangalude Lokam"
+LAST|Lml|"മത്സ്യങ്ങളുടെ ലോകം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MATSYANGALUDE-LOKAM"
+LAST|P2093|"Suresh Mannarasala"
+LAST|P212|"9788126431755"
+LAST|P407|Q36236
+LAST|P577|+2015-07-15T00:00:00Z/11
+LAST|P1104|230
+LAST|P393|"1"
+LAST|P629|Q139998250
+CREATE
+LAST|Len|"Adhunika Malayala Sahithaya Charithram"
+LAST|Lml|"ആധുനിക മലയാള സഹിതായ ചരിത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aadhunika-malayaala-saahithaya-charithram"
+LAST|P2093|"K.M. George"
+LAST|P212|"9788171308194"
+LAST|P407|Q36236
+LAST|P577|+2024-11-23T00:00:00Z/11
+LAST|P1104|1192
+LAST|P393|"8"
+LAST|P629|Q139998309
+CREATE
+LAST|Len|"Makhansinginte Maranam"
+LAST|Lml|"മഖൻസിങ്ങിന്റെ മരണം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MAKHANSINGINTE-MARANAM"
+LAST|P2093|"T. Padmanabhan"
+LAST|P957|"8171309755"
+LAST|P407|Q36236
+LAST|P577|+2017-12-06T00:00:00Z/11
+LAST|P1104|142
+LAST|P393|"6"
+LAST|P629|Q139998242
+CREATE
+LAST|Len|"Sanjarikkunna Viswasi"
+LAST|Lml|"സഞ്ചരിക്കുന്ന വിശ്വാസി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/Sanjarikkunna-Viswasi"
+LAST|P2093|"Lonappan Nambadan"
+LAST|P212|"9788126432325"
+LAST|P407|Q36236
+LAST|P577|+2012-04-10T00:00:00Z/11
+LAST|P1104|214
+LAST|P393|"4"
+LAST|P629|Q139998281
+CREATE
+LAST|Len|"Yathicharya"
+LAST|Lml|"എത്തിചര്യ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/YATHICHARYA"
+LAST|P2093|"Nithyachaithanya Yathi"
+LAST|P212|"9788126431441"
+LAST|P407|Q36236
+LAST|P577|+2024-06-17T00:00:00Z/11
+LAST|P1104|224
+LAST|P393|"4"
+LAST|P629|Q139998299
+CREATE
+LAST|Len|"Aathmasagaram"
+LAST|Lml|"ആത്മസാഗരം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aathmasagaram"
+LAST|P2093|"Geethasuraj"
+LAST|P212|"9789354321986"
+LAST|P407|Q36236
+LAST|P577|+2022-04-11T00:00:00Z/11
+LAST|P1104|256
+LAST|P393|"2"
+LAST|P629|Q139998344
+CREATE
+LAST|Len|"Nammute Pandathe Pattukal"
+LAST|Lml|"നമ്മുടെ പണ്ടത്തെ പാട്ടുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/NAMMUTE-PANDATHE-PATTUKAL"
+LAST|P2093|"Vishnu Namboothiri M V"
+LAST|P212|"9788126410590"
+LAST|P407|Q36236
+LAST|P1104|288
+LAST|P393|"4"
+LAST|P629|Q139998257
+CREATE
+LAST|Len|"Aanakkathakal Muthal Urumbu Kathakal Vare"
+LAST|Lml|"ആനക്കഥകൾ മുതൽ ഉറുമ്പു കഥകൾ വരെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aanakkathakal-muthal-urumbu-kathakal-vare"
+LAST|P2093|"S. Sivadas"
+LAST|P212|"9789354824197"
+LAST|P407|Q36236
+LAST|P577|+2022-05-04T00:00:00Z/11
+LAST|P1104|70
+LAST|P393|"1"
+LAST|P629|Q139998327
+CREATE
+LAST|Len|"Aaharathiloode Arogyathilekku"
+LAST|Lml|"ആഹാരത്തിലൂടെ ആരോഗ്യത്തിലേക്കു"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aaharathiloode-arogyathilekku"
+LAST|P2093|"Kaiyaleth D K"
+LAST|P212|"9788126438808"
+LAST|P407|Q36236
+LAST|P577|+2016-10-01T00:00:00Z/11
+LAST|P1104|134
+LAST|P393|"2"
+LAST|P629|Q139998319
+CREATE
+LAST|Len|"Yogeswaranaaya Sreekrishnan"
+LAST|Lml|"യോഗേശ്വരനായ ശ്രീകൃഷ്ണൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/YOGESWARANAAYA-SREEKRISHNAN"
+LAST|P2093|"Acharya Narendra Bhooshan"
+LAST|P957|"8126430923"
+LAST|P407|Q36236
+LAST|P577|+2013-12-02T00:00:00Z/11
+LAST|P1104|156
+LAST|P393|"2"
+LAST|P629|Q139998300
+CREATE
+LAST|Len|"Aarogyathote Jeevikkaan"
+LAST|Lml|"ആരോഗ്യത്തോടെ ജീവിക്കാൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aarogyathote-jeevikkaan"
+LAST|P2093|"Gopinatha Pillai T M"
+LAST|P212|"9788124019306"
+LAST|P407|Q36236
+LAST|P1104|330
+LAST|P393|"3"
+LAST|P629|Q139998340
+CREATE
+LAST|Len|"Malabar Vibhavangal"
+LAST|Lml|"മലബാർ വിഭവങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MALABAR-VIBHAVANGAL"
+LAST|P2093|"Jumanah Kadri"
+LAST|P212|"9788126432837"
+LAST|P407|Q36236
+LAST|P577|+2011-10-04T00:00:00Z/11
+LAST|P1104|118
+LAST|P393|"1"
+LAST|P629|Q139998243
+CREATE
+LAST|Len|"Utharkhandiloode - Kailas Manasasarassu Yathra"
+LAST|Lml|"ഉത്തര്ഖണ്ടിലൂടെ - കൈലാസ് മനസസരസ്സു യാത്ര"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/UTHARKHANDILOODE-KAILAS-MANASASARASSU-YATHRA"
+LAST|P2093|"Ramachandran M K"
+LAST|P212|"9788122613681"
+LAST|P407|Q36236
+LAST|P577|+2018-08-10T00:00:00Z/11
+LAST|P1104|216
+LAST|P393|"25"
+LAST|P629|Q139998288
+CREATE
+LAST|Len|"Palaharangal (print on Demand)"
+LAST|Lml|"പലഹാരങ്ങൾ (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/PALAHARANGAL"
+LAST|P2093|"Indu Narayan"
+LAST|P212|"9788126432424"
+LAST|P407|Q36236
+LAST|P577|+2011-11-23T00:00:00Z/11
+LAST|P1104|136
+LAST|P393|"2"
+LAST|P629|Q139998268
+CREATE
+LAST|Len|"Udalinte Thaarasanchaarangal"
+LAST|Lml|"ഉടലിന്റെ താരസഞ്ചാരങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/UDALINTE-THAARASANCHAARANGAL"
+LAST|P2093|"C S Venkiteswaran"
+LAST|P212|"9788126433353"
+LAST|P407|Q36236
+LAST|P577|+2025-07-22T00:00:00Z/11
+LAST|P1104|158
+LAST|P393|"2"
+LAST|P629|Q139998286
+CREATE
+LAST|Len|"Vanamala"
+LAST|Lml|"വനമാല"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/VANAMALA"
+LAST|P2093|"Ramesan Nair S"
+LAST|P957|"8126429941"
+LAST|P407|Q36236
+LAST|P577|+2011-05-11T00:00:00Z/11
+LAST|P1104|356
+LAST|P393|"1"
+LAST|P629|Q139998291
+CREATE
+LAST|Len|"Malayala Cinema Padanangal"
+LAST|Lml|"മലയാള സിനിമ പഠനങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MALAYALA-CINEMA-PADANANGAL"
+LAST|P2093|"C S Venkiteswaran"
+LAST|P957|"8126433426"
+LAST|P407|Q36236
+LAST|P577|+2025-07-21T00:00:00Z/11
+LAST|P1104|232
+LAST|P393|"3"
+LAST|P629|Q139998244
+CREATE
+LAST|Len|"Naricheerukal Parakkumbol"
+LAST|Lml|"നരിച്ചീറുകൾ പറക്കുമ്പോൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/NARICHEERUKAL-PARAKKUMBOL"
+LAST|P2093|"Madhavikkutty"
+LAST|P212|"9788126406234"
+LAST|P407|Q36236
+LAST|P577|+2025-08-25T00:00:00Z/11
+LAST|P1104|90
+LAST|P393|"12"
+LAST|P629|Q139998259
+CREATE
+LAST|Len|"Vasthu Nithyajeevithathil"
+LAST|Lml|"വസ്തു നിത്യജീവിതത്തിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/VASTHU-NITHYAJEEVITHATHIL"
+LAST|P2093|"Chinnachamy-m-s"
+LAST|P957|"8124017344"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|160
+LAST|P393|"3"
+LAST|P629|Q139998293
+CREATE
+LAST|Len|"Negritude"
+LAST|Lml|"നെഗ്രിറുടെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/NEGRITUDE"
+LAST|P2093|"Salimkumar K M"
+LAST|P212|"9788126433155"
+LAST|P407|Q36236
+LAST|P577|+2025-07-21T00:00:00Z/11
+LAST|P1104|222
+LAST|P393|"2"
+LAST|P629|Q139998261
+CREATE
+LAST|Len|"Maranananthara Jeevitham"
+LAST|Lml|"മരണാനന്തര ജീവിതം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MARANANANTHARA-JEEVITHAM"
+LAST|P2093|"Krishna Iyer V R"
+LAST|P212|"9788126409372"
+LAST|P407|Q36236
+LAST|P577|+2023-11-16T00:00:00Z/11
+LAST|P1104|108
+LAST|P393|"9"
+LAST|P629|Q139998249
+CREATE
+LAST|Len|"Theenkeni"
+LAST|Lml|"തീൻകെണി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/THEENKENI"
+LAST|P2093|"Ashok B"
+LAST|P957|"8126431717"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|118
+LAST|P393|"1"
+LAST|P629|Q139998283
+CREATE
+LAST|Len|"Maranamillathavarude Thaazhvara"
+LAST|Lml|"മരണമില്ലാത്തവരുടെ താഴ്വര"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MARANAMILLATHAVARUDE-THAAZHVARA"
+LAST|P2093|"Elamatha John"
+LAST|P212|"9788126433261"
+LAST|P407|Q36236
+LAST|P577|+2015-07-16T00:00:00Z/11
+LAST|P1104|94
+LAST|P393|"1"
+LAST|P629|Q139998248
+CREATE
+LAST|Len|"Maramkothi"
+LAST|Lml|"മരംകൊത്തി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MARAMKOTHI"
+LAST|P2093|"Anil Kumar T P"
+LAST|P212|"9788126430994"
+LAST|P407|Q36236
+LAST|P577|+2015-06-16T00:00:00Z/11
+LAST|P1104|85
+LAST|P393|"1"
+LAST|P629|Q139998247
+CREATE
+LAST|Len|"Aankazhuthakalude Xanadu"
+LAST|Lml|"ആൺകഴുതകളുടെ സേനാട്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aankazhuthakalude-xanadu"
+LAST|P2093|"P Jimshar"
+LAST|P212|"9789353905071"
+LAST|P407|Q36236
+LAST|P577|+2021-08-30T00:00:00Z/11
+LAST|P1104|136
+LAST|P393|"1"
+LAST|P437|Q193934
+LAST|P629|Q139998333
+CREATE
+LAST|Len|"Maranasahayi"
+LAST|Lml|"മരണസഹായി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/Maranasahayi"
+LAST|P2093|"Devadas V M"
+LAST|P212|"9788126432219"
+LAST|P407|Q36236
+LAST|P577|+2011-08-17T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"1"
+LAST|P629|Q139998255
+CREATE
+LAST|Len|"Aadhya Sramathilthanne Civil Service"
+LAST|Lml|"ആദ്യ ശ്രമത്തിൽത്തന്നെ സിവിൽ സർവീസ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aadhya-sramathilthanne-civil-service"
+LAST|P2093|"K P Sashidharan Iaas"
+LAST|P212|"9789352822164"
+LAST|P407|Q36236
+LAST|P577|+2018-04-20T00:00:00Z/11
+LAST|P1104|176
+LAST|P393|"1"
+LAST|P629|Q139998311
+CREATE
+LAST|Len|"Aatmaviswaasam Valarthiyedukkaan"
+LAST|Lml|"ആട്മാവിസ്വാസം വളർത്തിയെടുക്കാൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aatmaviswaasam-valathiyedukkaan"
+LAST|P2093|"Varghese P A"
+LAST|P957|"8126428953"
+LAST|P407|Q36236
+LAST|P577|+2012-01-02T00:00:00Z/11
+LAST|P1104|63
+LAST|P393|"2"
+LAST|P629|Q139998345
+CREATE
+LAST|Len|"Njanennum Hundushani"
+LAST|Lml|"ഞാനെന്നും ഹുന്ദുശനി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/Njanennum-Hindushani"
+LAST|P2093|"Hussain M F"
+LAST|P212|"9788126428304"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|71
+LAST|P393|"2"
+LAST|P629|Q139998263
+CREATE
+LAST|Len|"Prathimayum Rajakumariyum"
+LAST|Lml|"പ്രതിമയും രാജകുമാരിയും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/PRATHIMAYUM-RAJAKUMARIYUM"
+LAST|P2093|"P Padmarajan"
+LAST|P957|"8171308570"
+LAST|P407|Q36236
+LAST|P577|+2024-07-31T00:00:00Z/11
+LAST|P1104|96
+LAST|P393|"6"
+LAST|P629|Q139998269
+CREATE
+LAST|Len|"Subhachinthakal - Koumaaram Vazhithettaathirikkaan"
+LAST|Lml|"ശുഭചിന്തകൾ - കൗമാരം വഴിതെറ്റാതിരിക്കാൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/SUBHACHINTHAKAL-KOUMAARAM-VAZHITHETTAATHIRIKKAAN"
+LAST|P2093|"Joshua T.J"
+LAST|P212|"9788126432691"
+LAST|P407|Q36236
+LAST|P577|+2025-08-25T00:00:00Z/11
+LAST|P1104|160
+LAST|P393|"4"
+LAST|P629|Q139998278
+CREATE
+LAST|Len|"Aanhu Kothunna Anubhavangal"
+LAST|Lml|"അൻഹു കൊത്തുന്ന അനുഭവങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aanhu-kothunna-anubhavangal"
+LAST|P2093|"Kamalaram Sajeev"
+LAST|P212|"9789382934127"
+LAST|P407|Q36236
+LAST|P577|+2019-06-10T00:00:00Z/11
+LAST|P1104|125
+LAST|P393|"1"
+LAST|P629|Q139998332
+CREATE
+LAST|Len|"Aaduvalarthal - Boer, Malabari"
+LAST|Lml|"ആടുവളർത്തൽ - ബോർ  മലബാറി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aaduvalarthal-boer--malabari"
+LAST|P2093|"Mohanan P V"
+LAST|P957|"8126406917"
+LAST|P407|Q36236
+LAST|P577|+2017-08-17T00:00:00Z/11
+LAST|P1104|156
+LAST|P393|"9"
+LAST|P629|Q139998316
+CREATE
+LAST|Len|"Samkshiptha Sabdatharavali"
+LAST|Lml|"സംക്ഷിപ്ത ശബ്ദതാരാവലി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/SAMKSHIPTHA-SABDATHARAVALI"
+LAST|P2093|"Sreekanteswaram G. Padmanabha Pillai"
+LAST|P957|"8126431482"
+LAST|P407|Q36236
+LAST|P577|+2011-01-18T00:00:00Z/11
+LAST|P1104|1151
+LAST|P393|"2"
+LAST|P629|Q139998274
+CREATE
+LAST|Len|"Aadikailasayathra - Babu John"
+LAST|Lml|"ആദികൈലാസയാത്ര - ബാബു ജോൺ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aadikailasayathra-babu-john"
+LAST|P2093|"Babu John"
+LAST|P212|"9789352823895"
+LAST|P407|Q36236
+LAST|P577|+2019-02-04T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"2"
+LAST|P629|Q139998314
+CREATE
+LAST|Len|"Padichu Midukkarakan"
+LAST|Lml|"പേടിച്ചു മിടുക്കരാകാൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/PADICHU-MIDUKKARAKAN"
+LAST|P2093|"B S Warrier"
+LAST|P212|"9788126425815"
+LAST|P407|Q36236
+LAST|P577|+2024-09-30T00:00:00Z/11
+LAST|P1104|180
+LAST|P393|"7"
+LAST|P629|Q139998267
+CREATE
+LAST|Len|"Snehotsavam"
+LAST|Lml|"സ്നേഹോട്സവം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/SNEHOTSAVAM"
+LAST|P2093|"Elizabeth Gilbert"
+LAST|P212|"9788126435166"
+LAST|P407|Q36236
+LAST|P1104|224
+LAST|P393|"1"
+LAST|P629|Q139998276
+CREATE
+LAST|Len|"Nallavanaaya Yesuvum Vanchakanaaya Christhuvum"
+LAST|Lml|"നല്ലവനായ യേശുവും വഞ്ചകനായ ക്രിസ്തുവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/NALLAVANAAYA-YESUVUM-VANCHAKANAAYA-CHRISTHUVUM"
+LAST|P2093|"Philip Pullman"
+LAST|P212|"9788126431175"
+LAST|P407|Q36236
+LAST|P577|+2018-02-14T00:00:00Z/11
+LAST|P1104|278
+LAST|P393|"3"
+LAST|P629|Q139998256
+CREATE
+LAST|Len|"Udyanam Charam"
+LAST|Lml|"ഉദ്യാനം ചാരം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/UDYANAM-CHARAM"
+LAST|P2093|"Danilo Kis"
+LAST|P212|"9788126429905"
+LAST|P407|Q36236
+LAST|P577|+2008-01-01T00:00:00Z/11
+LAST|P1104|160
+LAST|P393|"1"
+LAST|P629|Q139998287
+CREATE
+LAST|Len|"Mazharaavukal"
+LAST|Lml|"മഴരാവുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/MAZHARAAVUKAL"
+LAST|P2093|"Swapna K K"
+LAST|P212|"9788126432035"
+LAST|P407|Q36236
+LAST|P577|+2011-08-10T00:00:00Z/11
+LAST|P1104|60
+LAST|P393|"1"
+LAST|P629|Q139998252
+CREATE
+LAST|Len|"Aarachar"
+LAST|Lml|"ആരാച്ചാർ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aarachar"
+LAST|P2093|"K. R. Meera"
+LAST|P212|"9788126439362"
+LAST|P407|Q36236
+LAST|P577|+2026-02-27T00:00:00Z/11
+LAST|P1104|552
+LAST|P393|"56"
+LAST|P629|Q139998336
+CREATE
+LAST|Len|"A Time Outside This Time"
+LAST|Lml|"എ ടൈം ഔറ്സിടെ ദിസ് ടൈം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/a-time-outside-this-time"
+LAST|P2093|"Amitava Kumar"
+LAST|P957|"9390918855"
+LAST|P407|Q36236
+LAST|P577|+2021-11-06T00:00:00Z/11
+LAST|P1104|226
+LAST|P393|"1"
+LAST|P629|Q139998301
+CREATE
+LAST|Len|"Vidyabhyasa Manasasthram"
+LAST|Lml|"വിദ്യാഭ്യാസ മനഃശാസ്ത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/VIDYABHYASA-MANASASTHRAM-1"
+LAST|P2093|"Arunkumar P"
+LAST|P212|"9788126426775"
+LAST|P407|Q36236
+LAST|P577|+2010-12-08T00:00:00Z/11
+LAST|P1104|362
+LAST|P393|"3"
+LAST|P629|Q139998296
+CREATE
+LAST|Len|"Aapekshikathayude Nooru Varshangal"
+LAST|Lml|"ആപേക്ഷികതയുടെ  നൂറു വർഷങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aapekshikathayude--nooru-varshangal"
+LAST|P2093|"Babu Joseph K"
+LAST|P957|"8126416599"
+LAST|P407|Q36236
+LAST|P577|+2015-06-17T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"1"
+LAST|P629|Q139998335
+CREATE
+LAST|Len|"Aa Manushyan Nee Thanne!"
+LAST|Lml|"ആ മനുഷ്യൻ നീ തന്നെ!"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/aa-manushyan-nee-thanne-"
+LAST|P2093|"Thomas C. J."
+LAST|P212|"9788126410484"
+LAST|P407|Q36236
+LAST|P577|+2026-02-27T00:00:00Z/11
+LAST|P1104|64
+LAST|P393|"17"
+LAST|P629|Q139998303
+CREATE
+LAST|Len|"Padinjare Kollam Chorakkalam"
+LAST|Lml|"പടിഞ്ഞാറേ കൊല്ലം ചോരക്കളം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/Padinjare-kollam-chorakkalam"
+LAST|P2093|"G. R. Indugopan"
+LAST|P212|"9789352825219"
+LAST|P407|Q36236
+LAST|P577|+2023-11-30T00:00:00Z/11
+LAST|P1104|168
+LAST|P393|"7"
+LAST|P629|Q139998270
+CREATE
+LAST|Len|"Kas Super Memory Tips"
+LAST|Lml|"കേസ് സൂപ്പർ മെമ്മറി ടിപ്സ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kas-super-memory-tips"
+LAST|P2093|"Sunil John S"
+LAST|P212|"9789353901721"
+LAST|P407|Q36236
+LAST|P577|+2019-12-31T00:00:00Z/11
+LAST|P1104|464
+LAST|P393|"1"
+LAST|P629|Q139999408
+CREATE
+LAST|Len|"Kapalika"
+LAST|Lml|"കാപാലിക"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kapalika"
+LAST|P2093|"Pillai N N"
+LAST|P212|"9788124008942"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|87
+LAST|P393|"1"
+LAST|P629|Q139999385
+CREATE
+LAST|Len|"Keralathile Ravutharmar"
+LAST|Lml|"കേരളത്തിലെ റാവുത്തർമാർ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathile-ravutharmar"
+LAST|P2093|"C.A. Rasheed Ravuthar"
+LAST|P212|"9789354320743"
+LAST|P407|Q36236
+LAST|P577|+2022-11-25T00:00:00Z/11
+LAST|P1104|96
+LAST|P393|"2"
+LAST|P629|Q139999475
+CREATE
+LAST|Len|"Keralathile Paristhithi Munnettangal"
+LAST|Lml|"കേരളത്തിലെ പരിസ്ഥിതി മുന്നേറ്റങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathile-paristhithi-munnettangal"
+LAST|P2093|"Haridas V N"
+LAST|P212|"9789386560087"
+LAST|P407|Q36236
+LAST|P577|+2025-12-15T00:00:00Z/11
+LAST|P1104|128
+LAST|P393|"2"
+LAST|P629|Q139999473
+CREATE
+LAST|Len|"Keralam Ketta Viplavaprasangangal"
+LAST|Lml|"കേരളം കേട്ട വിപ്ലവപ്രസംഗങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralam-ketta-viplavaprasangangal"
+LAST|P2093|"Bijuraj R K"
+LAST|P212|"9789386680013"
+LAST|P407|Q36236
+LAST|P577|+2017-07-17T00:00:00Z/11
+LAST|P1104|312
+LAST|P393|"1"
+LAST|P629|Q139999464
+CREATE
+LAST|Len|"Kerala Rashtreeya Charithram 1885-1957"
+LAST|Lml|"കേരളം രാഷ്ട്രീയ ചരിത്രം 1885-1957"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kerala-rashtreeya-charithram-1885-1957"
+LAST|P2093|"A Sreedhara Menon"
+LAST|P212|"9788126418312"
+LAST|P407|Q36236
+LAST|P577|+2025-07-29T00:00:00Z/11
+LAST|P1104|98
+LAST|P393|"9"
+LAST|P629|Q139999452
+CREATE
+LAST|Len|"Keraleeyarute Devathasankalpam"
+LAST|Lml|"കേരളീയരുടെ ദേവതാസങ്കല്പം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keraleeyarute-devathasankalpam"
+LAST|P2093|"Sasibhooshan M. G"
+LAST|P212|"9788126410446"
+LAST|P407|Q36236
+LAST|P577|+2025-11-29T00:00:00Z/11
+LAST|P1104|308
+LAST|P393|"6"
+LAST|P629|Q139999481
+CREATE
+LAST|Len|"Karutha Kamukan"
+LAST|Lml|"കറുത്ത കാമുകൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karutha-kamukan"
+LAST|P2093|"Vinu Joseph"
+LAST|P212|"9789353909178"
+LAST|P407|Q36236
+LAST|P577|+2021-12-27T00:00:00Z/11
+LAST|P1104|95
+LAST|P393|"2"
+LAST|P629|Q139999404
+CREATE
+LAST|Len|"Kavitha Ariyam Padikkam"
+LAST|Lml|"കവിത അറിയാം പഠിക്കാം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kavitha-ariyam-padikkam"
+LAST|P2093|"Erinjayam Ravi"
+LAST|P212|"9788126466238"
+LAST|P407|Q36236
+LAST|P577|+2016-03-15T00:00:00Z/11
+LAST|P1104|143
+LAST|P393|"1"
+LAST|P629|Q139999440
+CREATE
+LAST|Len|"Kathayurangunna Vazhiyiloote"
+LAST|Lml|"കഥയുറങ്ങുന്ന വഴിയിലൂടെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathayurangunna-vazhiyiloote"
+LAST|P2093|"K Thayat"
+LAST|P957|"8124007780"
+LAST|P407|Q36236
+LAST|P577|+1969-12-31T00:00:00Z/11
+LAST|P1104|172
+LAST|P393|"2"
+LAST|P629|Q139999427
+CREATE
+LAST|Len|"Kerala Bhakshana Charitram"
+LAST|Lml|"കേരളം ഭക്ഷണ ചരിത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kerala-bhakshana-charitram"
+LAST|P2093|"Suma Sivadas"
+LAST|P212|"9789353906528"
+LAST|P407|Q36236
+LAST|P577|+2024-11-30T00:00:00Z/11
+LAST|P1104|528
+LAST|P393|"2"
+LAST|P629|Q139999451
+CREATE
+LAST|Len|"Kare Kare Kadha Parayu"
+LAST|Lml|"കാരെ കാരെ കഥ പറയു"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kare-kare-kadha-parayu"
+LAST|P2093|"S. Sivadas"
+LAST|P212|"9789354824173"
+LAST|P407|Q36236
+LAST|P577|+2022-05-05T00:00:00Z/11
+LAST|P1104|100
+LAST|P393|"1"
+LAST|P629|Q139999390
+CREATE
+LAST|Len|"Keralapanineeyam"
+LAST|Lml|"കേരളപാണിനീയം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralapanineeyam"
+LAST|P2093|"A. R. Rajaraja Varma"
+LAST|P957|"8171306721"
+LAST|P407|Q36236
+LAST|P577|+2025-09-29T00:00:00Z/11
+LAST|P1104|360
+LAST|P393|"25"
+LAST|P629|Q139999465
+CREATE
+LAST|Len|"Keraleeyathayum Mattum P K Balakrishnante Asamahrutha Rachanakal"
+LAST|Lml|"കേരളീയതയും മറ്റും പി കെ ബാലകൃഷ്ണന്റെ അസമാഹൃത രചനകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keraleeyathayum-mattum-p-k-balakrishnante-asamahrutha-rachanakal"
+LAST|P2093|"P. K. Balakrishnan"
+LAST|P957|"8126408448"
+LAST|P407|Q36236
+LAST|P577|+2024-06-10T00:00:00Z/11
+LAST|P1104|132
+LAST|P393|"4"
+LAST|P629|Q139999482
+CREATE
+LAST|Len|"Kapalam"
+LAST|Lml|"കപാലം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kapalam"
+LAST|P2093|"B. Umadathan"
+LAST|P212|"9789352828432"
+LAST|P407|Q36236
+LAST|P577|+2025-11-25T00:00:00Z/11
+LAST|P1104|256
+LAST|P393|"12"
+LAST|P437|Q193934
+LAST|P629|Q139999384
+CREATE
+LAST|Len|"Kavinizhalmala"
+LAST|Lml|"കാവിനിഴൽമല"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kavinizhalmala"
+LAST|P2093|"P. Raman"
+LAST|P212|"9789354829673"
+LAST|P407|Q36236
+LAST|P577|+2022-09-06T00:00:00Z/11
+LAST|P1104|168
+LAST|P393|"1"
+LAST|P629|Q139999439
+CREATE
+LAST|Len|"Kaveriyodoppam Ente Yaathrakal"
+LAST|Lml|"കാവേരിയോടൊപ്പം എന്റെ യാത്രകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaveriyodoppam-ente-yaathrakal"
+LAST|P2093|"Johny O K"
+LAST|P212|"9788182676534"
+LAST|P407|Q36236
+LAST|P577|+2018-07-11T00:00:00Z/11
+LAST|P1104|447
+LAST|P393|"2"
+LAST|P629|Q139999438
+CREATE
+LAST|Len|"Kathabeejam"
+LAST|Lml|"കഥാബീജം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathabeejam"
+LAST|P2093|"Vaikom Muhammad Basheer"
+LAST|P957|"8171304990"
+LAST|P407|Q36236
+LAST|P577|+2025-06-23T00:00:00Z/11
+LAST|P1104|88
+LAST|P393|"18"
+LAST|P629|Q139999411
+CREATE
+LAST|Len|"Kattoorkadavu"
+LAST|Lml|"കാട്ടൂർക്കടവ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kattoorkadavu"
+LAST|P2093|"Ashokan Charuvil"
+LAST|P212|"9789354829932"
+LAST|P407|Q36236
+LAST|P577|+2026-01-30T00:00:00Z/11
+LAST|P1104|376
+LAST|P393|"11"
+LAST|P629|Q139999431
+CREATE
+LAST|Len|"Keralacharithravum Samskaravum"
+LAST|Lml|"കേരളചരിത്രവും സംസ്കാരവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralacharithravum-samskaravum"
+LAST|P2093|"Surendran Chikkilode"
+LAST|P212|"9788182657601"
+LAST|P407|Q36236
+LAST|P577|+2013-06-11T00:00:00Z/11
+LAST|P1104|150
+LAST|P393|"5"
+LAST|P629|Q139999462
+CREATE
+LAST|Len|"Kavyaroopante Kalpadukal"
+LAST|Lml|"കാവ്യരൂപന്റെ കാല്പാടുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kavyaroopante-kalpadukal"
+LAST|P2093|"Deepesh Karimpunkara"
+LAST|P212|"9789354820489"
+LAST|P407|Q36236
+LAST|P577|+2025-09-30T00:00:00Z/11
+LAST|P1104|312
+LAST|P393|"3"
+LAST|P629|Q139999445
+CREATE
+LAST|Len|"Kerala Sancharam"
+LAST|Lml|"കേരളം സഞ്ചാരം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kerala-sancharam"
+LAST|P2093|"Madhavikkutty"
+LAST|P957|"8126423560"
+LAST|P407|Q36236
+LAST|P577|+2025-09-15T00:00:00Z/11
+LAST|P1104|60
+LAST|P393|"6"
+LAST|P629|Q139999455
+CREATE
+LAST|Len|"Keralathile Smaarakangal"
+LAST|Lml|"കേരളത്തിലെ സ്മാരകങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kerathile-smaarakangal"
+LAST|P2093|"Vinodkumar R"
+LAST|P957|"8126434872"
+LAST|P407|Q36236
+LAST|P577|+2020-08-20T00:00:00Z/11
+LAST|P1104|236
+LAST|P393|"4"
+LAST|P629|Q139999485
+CREATE
+LAST|Len|"Keralam 50 Varsham Sambhashanangal"
+LAST|Lml|"കേരളം 50 വര്ഷം സംഭാഷണങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralam-50-varsham-sambhashanangal"
+LAST|P2093|"Sahadevan A"
+LAST|P957|"8126417188"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"1"
+LAST|P629|Q139999463
+CREATE
+LAST|Len|"Kattu Paranja Katha"
+LAST|Lml|"കട്ട് പറഞ്ഞ കഥ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kattu-paranja-katha"
+LAST|P2093|"O V Vijayan"
+LAST|P212|"9788171301973"
+LAST|P407|Q36236
+LAST|P577|+2025-07-15T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"14"
+LAST|P629|Q139999432
+CREATE
+LAST|Len|"Kerala Varma Muthal Chemmanum Vara"
+LAST|Lml|"കേരള വർമ്മ മുതൽ ചെമ്മാനും വരെ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kerala-varma-muthal-chemmanum-vara"
+LAST|P2093|"Ezhumattor Rajaraja Varma"
+LAST|P212|"9788124017418"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|148
+LAST|P393|"1"
+LAST|P629|Q139999457
+CREATE
+LAST|Len|"Keatsinte Pranayalekhanangal"
+LAST|Lml|"കെസ്റ്റസിന്റെ പ്രണയലേഖനങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keatsinte-pranayalekhanangal"
+LAST|P2093|"M Snehaprabha"
+LAST|P212|"9789354322006"
+LAST|P407|Q36236
+LAST|P577|+2021-03-13T00:00:00Z/11
+LAST|P1104|70
+LAST|P393|"1"
+LAST|P629|Q139999448
+CREATE
+LAST|Len|"Karukkunna Mailanchi"
+LAST|Lml|"കറക്കുന്ന മൈലാഞ്ചി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karukkunna-mailanchi"
+LAST|P2093|"Kanimozhi"
+LAST|P212|"9788126417216"
+LAST|P407|Q36236
+LAST|P577|+2003-12-03T00:00:00Z/11
+LAST|P1104|60
+LAST|P393|"1"
+LAST|P629|Q139999399
+CREATE
+LAST|Len|"Kathakal 2002 - 2012"
+LAST|Lml|"കഥകൾ 2002 - 2012"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathakal-2002-2012"
+LAST|P2093|"Anand"
+LAST|P212|"9788126435999"
+LAST|P407|Q36236
+LAST|P577|+2025-06-16T00:00:00Z/11
+LAST|P1104|224
+LAST|P393|"7"
+LAST|P629|Q139999412
+CREATE
+LAST|Len|"Keralathinte Sthree Charithrangal, Sthree Munnettangal (kerala 60 Series)"
+LAST|Lml|"കേരളത്തിന്റെ സ്ത്രീ ചരിത്രങ്ങൾ  സ്ത്രീ മുന്നേറ്റങ്ങൾ (കേരളം 60 സീരീസ്)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathinte-sthree-charithrangal-sthree-munnettangal"
+LAST|P2093|"Chandrika C S"
+LAST|P212|"9788126474110"
+LAST|P407|Q36236
+LAST|P577|+2022-12-15T00:00:00Z/11
+LAST|P1104|360
+LAST|P393|"6"
+LAST|P629|Q139999479
+CREATE
+LAST|Len|"Kathusoothram"
+LAST|Lml|"കാത്തുസൂത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathusoothram"
+LAST|P2093|"Francis Noronha"
+LAST|P212|"9789353902056"
+LAST|P407|Q36236
+LAST|P577|+2025-11-26T00:00:00Z/11
+LAST|P1104|148
+LAST|P393|"2"
+LAST|P629|Q139999429
+CREATE
+LAST|Len|"Kasa Pilasa"
+LAST|Lml|"കാസ പിലാസ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kasa-pilasa"
+LAST|P2093|"Anil Devassy"
+LAST|P212|"9789354824357"
+LAST|P407|Q36236
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P1104|376
+LAST|P393|"2"
+LAST|P629|Q139999409
+CREATE
+LAST|Len|"Karnan"
+LAST|Lml|"കര്ണന്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karnan"
+LAST|P2093|"Shivaji Sawant"
+LAST|P957|"8171304869"
+LAST|P407|Q36236
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P1104|600
+LAST|P393|"33"
+LAST|P629|Q139999394
+CREATE
+LAST|Len|"Katha Patanangal"
+LAST|Lml|"കഥ പഠനങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/katha-patanangal"
+LAST|P2093|"Panmana Ramachandran Nair"
+LAST|P212|"9788124016909"
+LAST|P407|Q36236
+LAST|P577|+2013-06-01T00:00:00Z/11
+LAST|P1104|212
+LAST|P393|"2"
+LAST|P629|Q139999410
+CREATE
+LAST|Len|"Keralolpathy [story]"
+LAST|Lml|"കേരളോത്പത്തി [സ്റ്റോറി]"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralolpathy-novel"
+LAST|P2093|"K. S. Ratheesh"
+LAST|P212|"9789353906214"
+LAST|P407|Q36236
+LAST|P577|+2021-11-02T00:00:00Z/11
+LAST|P1104|96
+LAST|P393|"4"
+LAST|P629|Q139999483
+CREATE
+LAST|Len|"Karappan"
+LAST|Lml|"കരപ്പൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karappan"
+LAST|P2093|"Ashokan Charuvil"
+LAST|P212|"9788126442959"
+LAST|P407|Q36236
+LAST|P577|+2013-09-02T00:00:00Z/11
+LAST|P1104|96
+LAST|P393|"1"
+LAST|P629|Q139999389
+CREATE
+LAST|Len|"Kartarude Kazhukan"
+LAST|Lml|"കാർട്ടറുടെ കഴുകൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kartarude-kazhukan"
+LAST|P2093|"Ravichandran C"
+LAST|P212|"9788126475742"
+LAST|P407|Q36236
+LAST|P577|+2017-01-31T00:00:00Z/11
+LAST|P1104|280
+LAST|P393|"1"
+LAST|P629|Q139999397
+CREATE
+LAST|Len|"Keralacharithram - Velayudhan Panickasseri"
+LAST|Lml|"കേരളചരിത്രം - വേലായുധൻ പണിക്കശ്ശേരി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralacharithram-velayudhan-panickasseri"
+LAST|P2093|"Velayudhan Panikkassery"
+LAST|P212|"9788126412884"
+LAST|P407|Q36236
+LAST|P577|+2025-09-29T00:00:00Z/11
+LAST|P1104|150
+LAST|P393|"6"
+LAST|P437|Q193934
+LAST|P629|Q139999459
+CREATE
+LAST|Len|"Karigurukkal"
+LAST|Lml|"കാരിഗുരുക്കൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karigurukkal"
+LAST|P2093|"Prakash Marahi"
+LAST|P212|"9788126433292"
+LAST|P407|Q36236
+LAST|P577|+2011-11-23T00:00:00Z/11
+LAST|P1104|80
+LAST|P393|"1"
+LAST|P629|Q139999391
+CREATE
+LAST|Len|"Kavalam Natakangal"
+LAST|Lml|"കാവാലം നാടകങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kavalam-natakangal"
+LAST|P2093|"Kavalam Narayanappanikkar"
+LAST|P212|"9788126443055"
+LAST|P407|Q36236
+LAST|P577|+2013-09-30T00:00:00Z/11
+LAST|P1104|822
+LAST|P393|"1"
+LAST|P629|Q139999436
+CREATE
+LAST|Len|"Kathakal Pachakkuthira"
+LAST|Lml|"കഥകൾ പച്ചക്കുതിര"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathakal-pachakkuthira"
+LAST|P212|"9789353904357"
+LAST|P407|Q36236
+LAST|P577|+2020-06-01T00:00:00Z/11
+LAST|P1104|168
+LAST|P393|"1"
+LAST|P629|Q139999419
+CREATE
+LAST|Len|"Keralathile Raajavamsangal"
+LAST|Lml|"കേരളത്തിലെ രാജവംശങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathile-raajavamsangal"
+LAST|P2093|"Velayudhan Panikkassery"
+LAST|P212|"9788126435524"
+LAST|P407|Q36236
+LAST|P577|+2019-10-18T00:00:00Z/11
+LAST|P1104|374
+LAST|P393|"5"
+LAST|P629|Q139999474
+CREATE
+LAST|Len|"Karuthavan"
+LAST|Lml|"കറുത്തവൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karuthavan"
+LAST|P2093|"Engandiyoor Chandrasekharan"
+LAST|P212|"9789354824869"
+LAST|P407|Q36236
+LAST|P577|+2022-08-17T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"2"
+LAST|P629|Q139999406
+CREATE
+LAST|Len|"Kathakal - C R Omanakkuttan"
+LAST|Lml|"കഥകൾ - സി ർ ഓമനക്കുട്ടന്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathakal-c-r-omanakkuttan"
+LAST|P2093|"Omanakkuttan C R"
+LAST|P212|"9789386680297"
+LAST|P407|Q36236
+LAST|P577|+2017-07-25T00:00:00Z/11
+LAST|P1104|184
+LAST|P393|"1"
+LAST|P629|Q139999416
+CREATE
+LAST|Len|"Kavitha Vazhi Thiriyunna Valavukalil"
+LAST|Lml|"കവിത വഴി തിരിയുന്ന വളവുകളിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kavitha-vazhi-thiriyunna-valavukalil"
+LAST|P2093|"Sangeetha Chenampulli"
+LAST|P212|"9789354821202"
+LAST|P407|Q36236
+LAST|P577|+2021-11-01T00:00:00Z/11
+LAST|P1104|84
+LAST|P393|"1"
+LAST|P629|Q139999441
+CREATE
+LAST|Len|"Keralavum Swathanthrya Samaravum"
+LAST|Lml|"കേരളവും സ്വാതന്ത്ര്യ സമരവും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralavum-swathanthrya-samaravum"
+LAST|P2093|"A Sreedhara Menon"
+LAST|P957|"8171307515"
+LAST|P407|Q36236
+LAST|P577|+2020-10-20T00:00:00Z/11
+LAST|P1104|180
+LAST|P393|"13"
+LAST|P629|Q139999480
+CREATE
+LAST|Len|"Kappalchetham Vanna Naavikan"
+LAST|Lml|"കപ്പൽച്ചേതം വന്ന നാവികന്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kappalchetham-vanna-naavikan"
+LAST|P2093|"Sasidharan N"
+LAST|P212|"9788126464463"
+LAST|P407|Q36236
+LAST|P577|+2015-08-31T00:00:00Z/11
+LAST|P1104|200
+LAST|P393|"1"
+LAST|P629|Q139999386
+CREATE
+LAST|Len|"Keralacharithram Thiruthikkuricha Mahasambhavangal"
+LAST|Lml|"കേരളചരിത്രം തിരുത്തിക്കുറിച്ച മഹാസംഭവങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralacharithram-thiruthikkuricha-mahasambhavangal"
+LAST|P2093|"Velayudhan Panikkassery"
+LAST|P212|"9789353902827"
+LAST|P407|Q36236
+LAST|P577|+2025-08-25T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"4"
+LAST|P629|Q139999458
+CREATE
+LAST|Len|"Karthavinte Namathil"
+LAST|Lml|"കർത്താവിന്റെ നാമത്തിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karthavinte-namathil"
+LAST|P2093|"SR Lucy Kalappura"
+LAST|P212|"9789353900342"
+LAST|P407|Q36236
+LAST|P577|+2025-07-22T00:00:00Z/11
+LAST|P1104|232
+LAST|P393|"12"
+LAST|P629|Q139999398
+CREATE
+LAST|Len|"Kathakal - Benyamin"
+LAST|Lml|"കഥകൾ - ബെന്യാമിൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathakal-benyamin"
+LAST|P2093|"Benyamin"
+LAST|P212|"9788126442393"
+LAST|P407|Q36236
+LAST|P577|+2025-10-31T00:00:00Z/11
+LAST|P1104|400
+LAST|P393|"12"
+LAST|P629|Q139999414
+CREATE
+LAST|Len|"Karma Vipakam"
+LAST|Lml|"കർമ്മ വ്യാപകം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karma-vipakam"
+LAST|P2093|"Bhattathiripad V T"
+LAST|P957|"8126415223"
+LAST|P407|Q36236
+LAST|P577|+2023-07-31T00:00:00Z/11
+LAST|P1104|270
+LAST|P393|"7"
+LAST|P629|Q139999392
+CREATE
+LAST|Len|"Kathikante Panippura"
+LAST|Lml|"കാഥികന്റെ പണിപ്പുര"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathikante-panippura"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P212|"9788126424290"
+LAST|P407|Q36236
+LAST|P577|+2022-12-31T00:00:00Z/11
+LAST|P1104|64
+LAST|P393|"12"
+LAST|P629|Q139999428
+CREATE
+LAST|Len|"Kattinemeikkunna Penkutty"
+LAST|Lml|"കാറ്റിനെമെയ്ക്കുന്ന പെൺകുട്ടി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kattinemeikkunna-penkutty"
+LAST|P2093|"Sangeetha R"
+LAST|P212|"9789354825491"
+LAST|P407|Q36236
+LAST|P577|+2022-07-08T00:00:00Z/11
+LAST|P1104|100
+LAST|P393|"1"
+LAST|P629|Q139999430
+CREATE
+LAST|Len|"Karutha Daivathethedi"
+LAST|Lml|"കറുത്ത ദൈവത്തെത്തേടി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karutha-daivathethedi"
+LAST|P2093|"Sankarapillai"
+LAST|P212|"9788171304271"
+LAST|P407|Q36236
+LAST|P577|+2020-02-12T00:00:00Z/11
+LAST|P1104|48
+LAST|P393|"12"
+LAST|P629|Q139999403
+CREATE
+LAST|Len|"Kathasahithyam ( Calicut University )"
+LAST|Lml|"കഥാസാഹിത്യം ( കാലിക്കറ്റ് യൂണിവേഴ്സിറ്റി )"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathasahithyam"
+LAST|P212|"9789353903220"
+LAST|P407|Q36236
+LAST|P577|+2021-11-17T00:00:00Z/11
+LAST|P1104|160
+LAST|P393|"2"
+LAST|P629|Q139999423
+CREATE
+LAST|Len|"Keralathe Nadukkiya Dhuranthangalum Nivarana Margangalum"
+LAST|Lml|"കേരളത്തെ നടുക്കിയ ദുരന്തങ്ങളും നിവാരണ മാര്ഗങ്ങളും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathe-nadukkiya-dhuranthangalum-nivarana-margangalum--203123891778"
+LAST|P2093|"Muralee Thummarukudy"
+LAST|P212|"9788126476480"
+LAST|P407|Q36236
+LAST|P577|+2017-08-13T00:00:00Z/11
+LAST|P1104|160
+LAST|P393|"1"
+LAST|P629|Q139999466
+CREATE
+LAST|Len|"Kathamathrukakal"
+LAST|Lml|"കത്തമാതൃകകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathamathrukakal"
+LAST|P212|"9789352829347"
+LAST|P407|Q36236
+LAST|P577|+2023-06-29T00:00:00Z/11
+LAST|P1104|168
+LAST|P393|"4"
+LAST|P629|Q139999421
+CREATE
+LAST|Len|"Kathakal - E Santhosh Kumar"
+LAST|Lml|"കഥകൾ - ഇ സന്തോഷ് കുമാർ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathakal-e-santhosh-kumar"
+LAST|P2093|"E. Santhosh Kumar"
+LAST|P212|"9788126439294"
+LAST|P407|Q36236
+LAST|P577|+2022-02-14T00:00:00Z/11
+LAST|P1104|448
+LAST|P393|"3"
+LAST|P629|Q139999417
+CREATE
+LAST|Len|"Keralthile Matsyangal"
+LAST|Lml|"കേരളത്തിലെ മത്സ്യങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathile-matsyangal"
+LAST|P2093|"Velayudhan T D"
+LAST|P212|"9788126435173"
+LAST|P407|Q36236
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P1104|390
+LAST|P393|"1"
+LAST|P629|Q139999470
+CREATE
+LAST|Len|"Keezhalan"
+LAST|Lml|"കീഴാളൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keezhalan"
+LAST|P2093|"Perumal Murukan"
+LAST|P212|"9789386680969"
+LAST|P407|Q36236
+LAST|P577|+2025-08-17T00:00:00Z/11
+LAST|P1104|288
+LAST|P393|"12"
+LAST|P629|Q139999450
+CREATE
+LAST|Len|"Karuppum Veluppum Mazhavillum"
+LAST|Lml|"കറുപ്പും വെളുപ്പും മഴവില്ലും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karuppum-veluppum-mazhavillum"
+LAST|P2093|"Harikrishnan"
+LAST|P212|"9789354825729"
+LAST|P407|Q36236
+LAST|P577|+2023-05-30T00:00:00Z/11
+LAST|P1104|544
+LAST|P393|"3"
+LAST|P629|Q139999401
+CREATE
+LAST|Len|"Keralathile Mahakshethrangalum Eithihyangalum"
+LAST|Lml|"കേരളത്തിലെ മഹാക്ഷേത്രങ്ങളും എഐതിഹ്യങ്ങളും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathile-mahakshethrangalum-eithihyangalum"
+LAST|P2093|"V S Nair"
+LAST|P212|"9788126475391"
+LAST|P407|Q36236
+LAST|P577|+2017-03-29T00:00:00Z/11
+LAST|P1104|1114
+LAST|P393|"1"
+LAST|P629|Q139999469
+CREATE
+LAST|Len|"Keralathile Cherujeevikal"
+LAST|Lml|"കേരളത്തിലെ ചെറുജീവികൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathile-cherujeevikal"
+LAST|P2093|"Vinodkumar R"
+LAST|P212|"9788126475513"
+LAST|P407|Q36236
+LAST|P577|+2017-06-06T00:00:00Z/11
+LAST|P1104|192
+LAST|P393|"1"
+LAST|P629|Q139999467
+CREATE
+LAST|Len|"Kappirikalute Nattil"
+LAST|Lml|"കാപ്പിരികളുടെ നാട്ടിൽ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kappirikalute-nattil"
+LAST|P2093|"Pottekkat S K"
+LAST|P957|"8171307930"
+LAST|P407|Q36236
+LAST|P577|+2026-12-30T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"35"
+LAST|P629|Q139999387
+CREATE
+LAST|Len|"Kaumaaram Maathaapithaakkal Ariyaan"
+LAST|Lml|"കൗമാരം മാതാപിതാക്കൾ അറിയാൻ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaumaaram-maathaapithaakkal-ariyaan"
+LAST|P2093|"P.k.a. Rasheed"
+LAST|P212|"9788189004781"
+LAST|P407|Q36236
+LAST|P577|+2014-12-17T00:00:00Z/11
+LAST|P1104|296
+LAST|P393|"1"
+LAST|P629|Q139999434
+CREATE
+LAST|Len|"Keralacharithrathinte Nattuvazhikal"
+LAST|Lml|"കേരളചരിത്രത്തിൽ നാട്ടുവഴികളും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralacharithrathinte-nattuvazhikal"
+LAST|P2093|"Sivadas P K"
+LAST|P212|"9788126418664"
+LAST|P407|Q36236
+LAST|P577|+2022-06-04T00:00:00Z/11
+LAST|P1104|656
+LAST|P393|"6"
+LAST|P629|Q139999461
+CREATE
+LAST|Len|"Kedukattile Neythiri"
+LAST|Lml|"കെടുകാട്ടിലെ നെയ്ത്തിരി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kedukattile-neythiri"
+LAST|P2093|"Jiji Thomson"
+LAST|P212|"9789354822469"
+LAST|P407|Q36236
+LAST|P577|+2024-01-31T00:00:00Z/11
+LAST|P1104|120
+LAST|P393|"4"
+LAST|P629|Q139999449
+CREATE
+LAST|Len|"Keralathile Sarkar Jeevanakkarude Sevanavyavasthkal"
+LAST|Lml|"കേരളത്തിലെ സർക്കാർ ജീവനക്കാരുടെ സേവനവ്യവസ്ഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathile-sarkar-jeevanakkarude-sevanavyavasthkal"
+LAST|P2093|"Sreemandiram"
+LAST|P957|"8124018936"
+LAST|P407|Q36236
+LAST|P577|+2019-01-01T00:00:00Z/11
+LAST|P1104|576
+LAST|P393|"46"
+LAST|P629|Q139999476
+CREATE
+LAST|Len|"Keralathinu Anuyojyamaya Orchidukal"
+LAST|Lml|"കേരളത്തിന് അനുയോജ്യമായ ഓർക്കിഡുകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralthinu-anuyojyamaya-orchidukal"
+LAST|P2093|"B Gopinathan Vakkom"
+LAST|P212|"9788126440962"
+LAST|P407|Q36236
+LAST|P577|+2013-05-24T00:00:00Z/11
+LAST|P1104|126
+LAST|P393|"1"
+LAST|P629|Q139999484
+CREATE
+LAST|Len|"Kavu Theendalle"
+LAST|Lml|"കാവ് തീണ്ടല്ലേ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kavu-theendalle"
+LAST|P2093|"Sugathakumari"
+LAST|P957|"8171302831"
+LAST|P407|Q36236
+LAST|P577|+2025-11-28T00:00:00Z/11
+LAST|P1104|140
+LAST|P393|"6"
+LAST|P629|Q139999443
+CREATE
+LAST|Len|"Kathakal Aathmakathakal"
+LAST|Lml|"കഥകൾ ആത്മകഥകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathakal-aathmakathakal"
+LAST|P2093|"Anand"
+LAST|P212|"9788126419814"
+LAST|P407|Q36236
+LAST|P577|+2008-06-10T00:00:00Z/11
+LAST|P1104|135
+LAST|P393|"1"
+LAST|P629|Q139999413
+CREATE
+LAST|Len|"Kathayum Kathapathrangalum Sankalpikamalla"
+LAST|Lml|"കഥയും കഥാപാത്രങ്ങളും സങ്കല്പികമല്ല"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathayum-kathapathrangalum-sankalpikamalla"
+LAST|P2093|"Lakshmi Priya"
+LAST|P212|"9789389463026"
+LAST|P407|Q36236
+LAST|P577|+2019-06-26T00:00:00Z/11
+LAST|P1104|300
+LAST|P393|"1"
+LAST|P629|Q139999426
+CREATE
+LAST|Len|"Kavithapatanangal"
+LAST|Lml|"കവിതപഠനങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kavithapatanangal"
+LAST|P2093|"Panmana Ramachandran Nair"
+LAST|P212|"9788124015780"
+LAST|P407|Q36236
+LAST|P577|+2013-06-01T00:00:00Z/11
+LAST|P1104|208
+LAST|P393|"2"
+LAST|P629|Q139999442
+CREATE
+LAST|Len|"Keralathile Pakshikal"
+LAST|Lml|"കേരളത്തിലെ പക്ഷികൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathile-pakshikal--306884127462"
+LAST|P2093|"Raju S"
+LAST|P212|"9789386680051"
+LAST|P407|Q36236
+LAST|P577|+2017-06-14T00:00:00Z/11
+LAST|P1104|200
+LAST|P393|"1"
+LAST|P629|Q139999472
+CREATE
+LAST|Len|"Kerala Service Chattangal - Oru Sampoorna Padanasahai"
+LAST|Lml|"കേരളം സർവീസ് ചട്ടങ്ങൾ - ഒരു സമ്പൂര്ണ പഠനസഹായി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kerala-service-chattangal-oru-sampoorna-padanasahai"
+LAST|P2093|"Sudarsanan P"
+LAST|P212|"9789386560889"
+LAST|P407|Q36236
+LAST|P577|+2017-05-24T00:00:00Z/11
+LAST|P1104|327
+LAST|P393|"1"
+LAST|P629|Q139999456
+CREATE
+LAST|Len|"Kerala Samskarappolimakal"
+LAST|Lml|"കേരളം സംസ്‌കാരപ്പൊലിമകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kerala-samskarappolimakal"
+LAST|P2093|"Rajagopalan C R"
+LAST|P212|"9789386560445"
+LAST|P407|Q36236
+LAST|P577|+2017-05-09T00:00:00Z/11
+LAST|P1104|184
+LAST|P393|"1"
+LAST|P629|Q139999454
+CREATE
+LAST|Len|"Kathakal - K R Meera"
+LAST|Lml|"കഥകൾ - കെ ർ മീര"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathakal-k-r-meera"
+LAST|P2093|"K. R. Meera"
+LAST|P212|"9788126451388"
+LAST|P407|Q36236
+LAST|P577|+2024-10-30T00:00:00Z/11
+LAST|P1104|416
+LAST|P393|"21"
+LAST|P629|Q139999418
+CREATE
+LAST|Len|"Keralathinte Kuttanweshana Charithram"
+LAST|Lml|"കേരളത്തിന്റെ കുറ്റാന്വേഷണ ചരിത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathinte-kuttanweshana-charithram"
+LAST|P2093|"B. Umadathan"
+LAST|P212|"9788126474103"
+LAST|P407|Q36236
+LAST|P577|+2025-10-13T00:00:00Z/11
+LAST|P1104|280
+LAST|P393|"9"
+LAST|P629|Q139999477
+CREATE
+LAST|Len|"Kathakal Thakazhi"
+LAST|Lml|"കഥകൾ തകഴി"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathakal-thakazhi"
+LAST|P2093|"Thakazhi Sivasankara Pillai"
+LAST|P212|"9788126464425"
+LAST|P407|Q36236
+LAST|P577|+2024-09-28T00:00:00Z/11
+LAST|P1104|544
+LAST|P393|"12"
+LAST|P629|Q139999420
+CREATE
+LAST|Len|"Kathayezhuthu"
+LAST|Lml|"കഥയെഴുതു"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathayezhuthu"
+LAST|P2093|"K. R. Meera"
+LAST|P212|"9789356435896"
+LAST|P407|Q36236
+LAST|P577|+2025-05-31T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"4"
+LAST|P629|Q139999425
+CREATE
+LAST|Len|"Kathavankarakal"
+LAST|Lml|"കഥാവന്കരകൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathavankarakal"
+LAST|P212|"9789354820564"
+LAST|P407|Q36236
+LAST|P577|+2022-04-30T00:00:00Z/11
+LAST|P1104|408
+LAST|P393|"1"
+LAST|P629|Q139999424
+CREATE
+LAST|Len|"Kerala Samskaram"
+LAST|Lml|"കേരള സംസ്കാരം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kerala-samskaram"
+LAST|P2093|"A Sreedhara Menon"
+LAST|P957|"8126415851"
+LAST|P407|Q36236
+LAST|P577|+2025-06-23T00:00:00Z/11
+LAST|P1104|336
+LAST|P393|"15"
+LAST|P629|Q139999453
+CREATE
+LAST|Len|"Keralacharithrathile Tippu Sulthanum Brithishukarum"
+LAST|Lml|"കേരളചരിത്രത്തിലെ ടൈപ്പ് സുൽത്താനും ബ്രിറ്റിഷുകാരും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralacharithrathile-tippu-sulthanum-brithishukarum"
+LAST|P2093|"Dr.m.p. Mujeebu Rehman"
+LAST|P212|"9789354825903"
+LAST|P407|Q36236
+LAST|P577|+2023-08-08T00:00:00Z/11
+LAST|P1104|248
+LAST|P393|"2"
+LAST|P629|Q139999460
+CREATE
+LAST|Len|"Kas Malayalam (malayalam)"
+LAST|Lml|"കേസ് മലയാളം (മലയാളം)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kas-malayalam-malayalam--536405533360"
+LAST|P2093|"Jobin S Kottaram"
+LAST|P212|"9789382628767"
+LAST|P407|Q36236
+LAST|P577|+2020-08-01T00:00:00Z/11
+LAST|P1104|107
+LAST|P393|"1"
+LAST|P629|Q139999407
+CREATE
+LAST|Len|"Karnataka Sangeethakaranmar"
+LAST|Lml|"കർണാടകം സംഗീതകാരന്മാർ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karnatakasangeethakaranmar"
+LAST|P2093|"Ramesh Gopalakrishnan"
+LAST|P212|"9788126439522"
+LAST|P407|Q36236
+LAST|P577|+2012-12-28T00:00:00Z/11
+LAST|P1104|184
+LAST|P393|"1"
+LAST|P629|Q139999396
+CREATE
+LAST|Len|"Karmothsukaraku Vijayam Ningaludethanu"
+LAST|Lml|"കര്മോത്സുകരാകു വിജയം നിങ്ങളുടേതാണ്"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karmothsukaraku-vijayam-ningaludethanu"
+LAST|P2093|"Hariharan Nair V R"
+LAST|P957|"8126435763"
+LAST|P407|Q36236
+LAST|P577|+2014-07-14T00:00:00Z/11
+LAST|P1104|168
+LAST|P393|"2"
+LAST|P629|Q139999393
+CREATE
+LAST|Len|"Keralathinte Rashtriyacharithram"
+LAST|Lml|"കേരളത്തിന്റെ രാഷ്ട്രീയചരിത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathinte-rashtriyacharithram"
+LAST|P2093|"Bijuraj R K"
+LAST|P212|"9789354329104"
+LAST|P407|Q36236
+LAST|P577|+2023-12-30T00:00:00Z/11
+LAST|P1104|992
+LAST|P393|"4"
+LAST|P629|Q139999478
+CREATE
+LAST|Len|"Karuthal Sparsham : Oru Spine Surgente Anubhavangal"
+LAST|Lml|"കരുതൽ സ്പർശം : ഒരു സ്പിൻ സൂരജിന്റെ അനുഭവങ്ങൾ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karuthal-sparsham--oru-spine-surgente-anubhavangal"
+LAST|P2093|"Suresh S. Pillai"
+LAST|P212|"9789354825699"
+LAST|P407|Q36236
+LAST|P577|+2022-04-28T00:00:00Z/11
+LAST|P1104|160
+LAST|P393|"1"
+LAST|P629|Q139999405
+CREATE
+LAST|Len|"Kavyathathvapravesika"
+LAST|Lml|"കാവ്യതത്വപ്രവേശിക"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kavyathathvapravesika"
+LAST|P2093|"M K Sanu"
+LAST|P212|"9788126422050"
+LAST|P407|Q36236
+LAST|P577|+2014-06-16T00:00:00Z/11
+LAST|P1104|158
+LAST|P393|"2"
+LAST|P629|Q139999446
+CREATE
+LAST|Len|"Kaumaaram Manassorukkaan Yoga"
+LAST|Lml|"കൗമാരം മനസ്സൊരുക്കൻ യോഗ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kaumaaram-manassorukkaan-yoga"
+LAST|P2093|"Yogacharya M R Balachandran"
+LAST|P212|"9788194229919"
+LAST|P407|Q36236
+LAST|P577|+2019-08-15T00:00:00Z/11
+LAST|P1104|200
+LAST|P393|"1"
+LAST|P629|Q139999435
+CREATE
+LAST|Len|"Kavana"
+LAST|Lml|"കൈവന്ന"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kavana"
+LAST|P2093|"Santhosh Aechikkanam"
+LAST|P212|"9789355491657"
+LAST|P407|Q36236
+LAST|P577|+2022-09-27T00:00:00Z/11
+LAST|P1104|104
+LAST|P393|"1"
+LAST|P437|Q193934
+LAST|P629|Q139999437
+CREATE
+LAST|Len|"Keralathile Navothana Nayakar"
+LAST|Lml|"കേരളത്തിലെ നവോത്ഥാന നായകർ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathile-navothana-nayakar"
+LAST|P2093|"Radhika C Nair"
+LAST|P212|"9788126411719"
+LAST|P407|Q36236
+LAST|P1104|104
+LAST|P393|"6"
+LAST|P629|Q139999471
+CREATE
+LAST|Len|"Kathapadmam"
+LAST|Lml|"കഥപാദമം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kathapadmam"
+LAST|P2093|"Pradeep Panangad"
+LAST|P212|"9789356432680"
+LAST|P407|Q36236
+LAST|P577|+2026-03-09T00:00:00Z/11
+LAST|P1104|368
+LAST|P393|"4"
+LAST|P629|Q139999422
+CREATE
+LAST|Len|"Karnataka Sangeetha Malika"
+LAST|Lml|"കർണാടകം സംഗീത മാളിക"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karnataka-sangeetha-malika"
+LAST|P2093|"Madhavan A D"
+LAST|P957|"8126416688"
+LAST|P407|Q36236
+LAST|P577|+2007-08-13T00:00:00Z/11
+LAST|P1104|268
+LAST|P393|"3"
+LAST|P629|Q139999395
+CREATE
+LAST|Len|"Karuppum Veluppum"
+LAST|Lml|"കറുപ്പും വെളുപ്പും"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karuppum-veluppum"
+LAST|P2093|"DC Kizhakemuri"
+LAST|P212|"9788126443680"
+LAST|P407|Q36236
+LAST|P577|+2013-11-15T00:00:00Z/11
+LAST|P1104|420
+LAST|P393|"1"
+LAST|P629|Q139999400
+CREATE
+LAST|Len|"Kayar Vyavasayathintte Sampathikacharithram"
+LAST|Lml|"കയർ വ്യവസായത്തിന്റെ സാമ്പത്തികചരിത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kayar-vyavasayathintte-sampathikacharithravum"
+LAST|P2093|"Balakrishnan P K"
+LAST|P212|"9788124019276"
+LAST|P407|Q36236
+LAST|P577|+2012-11-08T00:00:00Z/11
+LAST|P1104|144
+LAST|P393|"1"
+LAST|P629|Q139999447
+CREATE
+LAST|Len|"Keralathile Janakeeyasamarangalude Charithram"
+LAST|Lml|"കേരളത്തിലെ ജനകീയസമരങ്ങളുടെ ചരിത്രം"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/keralathile-janakeeyasamarangalude-charithram"
+LAST|P2093|"I. Gopinath"
+LAST|P212|"9789354821684"
+LAST|P407|Q36236
+LAST|P577|+2022-06-04T00:00:00Z/11
+LAST|P1104|960
+LAST|P393|"1"
+LAST|P629|Q139999468
+CREATE
+LAST|Len|"Kavyakairali (malayalam Ba/b.sc Sem-ii Mg Uty)"
+LAST|Lml|"കാവ്യകൈരളി (മലയാളം ബ/ബി.സ്‌ക ശേം-ഈ എംജി ഉറ്റി)"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kavyakairali-malayalam-babsc-sem-ii-mg-uty-"
+LAST|P2093|"Paul"
+LAST|P212|"9789388597746"
+LAST|P407|Q36236
+LAST|P577|+2019-10-23T00:00:00Z/11
+LAST|P1104|56
+LAST|P393|"1"
+LAST|P629|Q139999444
+CREATE
+LAST|Len|"Karadiye Valarthiya Sthree"
+LAST|Lml|"കരടിയെ വളർത്തിയ സ്ത്രീ"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/karadiye-valarthiya-sthree"
+LAST|P2093|"Vinodkumar M K"
+LAST|P212|"9788126474875"
+LAST|P407|Q36236
+LAST|P577|+2021-12-22T00:00:00Z/11
+LAST|P1104|134
+LAST|P393|"2"
+LAST|P629|Q139999388
+CREATE
+LAST|Len|"Kattupoocha"
+LAST|Lml|"കാട്ടുപൂച്ച"
+LAST|P31|Q57933693|S854|"https://dcbookstore.com/books/kattupoocha"
+LAST|P2093|"Issac Eapen"
+LAST|P212|"9789354820465"
+LAST|P407|Q36236
+LAST|P577|+2023-03-27T00:00:00Z/11
+LAST|P1104|112
+LAST|P393|"2"
+LAST|P629|Q139999433
