@@ -1,0 +1,4 @@
+# Manual review — edition, title, edition-author, candidate existing work
+Q139998557  Atayalangal  | author=Sasi M G | candidate=Q25588570
+Q140000460  Quraan  | author= | candidate=Q428
+Q139999647  Mahabharatham  | author=Sugathakumari | candidate=Q8276

@@ -1,0 +1,5363 @@
+CREATE
+LAST|Len|"Adithyanum Radhayum Mattu Chilarum"
+LAST|Lml|"ആദിത്യനും രാധയും മറ്റു ചിലരും"
+LAST|Den|"Malayalam-language literary work by M. Mukundan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/adithyanum-radhayum-mattu-chilarum"
+LAST|P2093|"M. Mukundan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-05-31T00:00:00Z/11
+LAST|P747|Q139998384
+CREATE
+LAST|Len|"Adivasi Puravritham"
+LAST|Lml|"ആദിവാസി പുരാവൃത്തം"
+LAST|Den|"Malayalam-language literary work by Kumaran Vayaleri"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/adivasi-puravritham"
+LAST|P2093|"Kumaran Vayaleri"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36192
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998385
+CREATE
+LAST|Len|"Adiyantharavastha - Kirathavazchayute 21 Masangal"
+LAST|Lml|"അടിയന്തരാവസ്ഥ - കിരാതവാഴ്ചയുടെ 21 മാസങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Sebastian Joseph"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/adiyantharavastha--kirathavazchayute-21-masangal"
+LAST|P2093|"Sebastian Joseph"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q309
+LAST|P577|+2025-06-10T00:00:00Z/11
+LAST|P747|Q139998386
+CREATE
+LAST|Len|"Adiyor Mishiha Enna Novel"
+LAST|Lml|"അടിയൊരു മിശിഹാ എന്ന നോവൽ"
+LAST|Den|"Malayalam-language literary work by Vinoy Thomas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/adiyor-mishiha-enna-novel"
+LAST|P2093|"Vinoy Thomas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-11-28T00:00:00Z/11
+LAST|P747|Q139998387
+CREATE
+LAST|Len|"Adoor Gopalakrishnante Pathinonnu Thirakkathakal"
+LAST|Lml|"അടൂർ ഗോപാലകൃഷ്ണന്റെ പതിനൊന്നു തിരക്കഥകൾ"
+LAST|Den|"Malayalam-language literary work by Adoor Gopalakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/adoor-gopalakrishnante-pathinonnu-thirakkathakal"
+LAST|P2093|"Adoor Gopalakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q103076
+LAST|P577|+2012-12-01T00:00:00Z/11
+LAST|P747|Q139998388
+CREATE
+LAST|Len|"Adoor Sarvajaneenathayude Drasyethihasom"
+LAST|Lml|"അടൂർ സാര്വജനീനതയുടെ ട്രസ്റയേതിഹാസനം"
+LAST|Den|"Malayalam-language literary work by Sajil Sreedhar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/adoor-sarvajaneenathayude-drasyethihasom"
+LAST|P2093|"Sajil Sreedhar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2019-08-06T00:00:00Z/11
+LAST|P747|Q139998390
+CREATE
+LAST|Len|"Adukkalayilninnu Arangathekku"
+LAST|Lml|"അടുക്കളയിൽനിന്ന് അരങ്ങത്തേക്ക്"
+LAST|Den|"Malayalam-language literary work by Bhattathiripad V T"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/adukkalayilninnu-arangathekku"
+LAST|P2093|"Bhattathiripad V T"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-07-22T00:00:00Z/11
+LAST|P747|Q139998391
+CREATE
+LAST|Len|"Adunna Kombile Padunna Pakshi"
+LAST|Lml|"ആടുന്ന കൊമ്പിലെ പാടുന്ന പക്ഷി"
+LAST|Den|"Malayalam-language literary work by Kurian John Melamparambil"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/adunna-kombile-padunna-pakshi"
+LAST|P2093|"Kurian John Melamparambil"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2025-11-10T00:00:00Z/11
+LAST|P747|Q139998392
+CREATE
+LAST|Len|"Adutha Bell - Malayala Professional Natakavediyude Kuthippum Kithappum (keralam 60 Series)"
+LAST|Lml|"അടുത്ത ബെൽ - മലയാള പ്രൊഫഷണൽ നാടകവേദിയുടെ കുതിപ്പും കിതപ്പും (കേരളം 60 സീരീസ്)"
+LAST|Den|"Malayalam-language literary work by K Sreekumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/adutha-bell-malayala-professional-natakavediyude-kuthippum-kithappum"
+LAST|P2093|"K Sreekumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2017-07-18T00:00:00Z/11
+LAST|P747|Q139998393
+CREATE
+LAST|Len|"Aduvalarthal 100 Chodyangalum Utharangalum"
+LAST|Lml|"ആടുവളർത്തൽ 100 ചോദ്യങ്ങളും ഉത്തരങ്ങളും"
+LAST|Den|"Malayalam-language literary work by Mohanan P V"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/aduvalarthal-100-chodyangalum-utharangalum"
+LAST|P2093|"Mohanan P V"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11451
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998394
+CREATE
+LAST|Len|"Adyathe Chiri"
+LAST|Lml|"ആദ്യത്തെ ചിരി"
+LAST|Den|"Malayalam-language literary work by P Kishor"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/adyathe-chiri"
+LAST|P2093|"P Kishor"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P136|Q4830453
+LAST|P577|+2021-04-09T00:00:00Z/11
+LAST|P747|Q139998395
+CREATE
+LAST|Len|"Aesopu Kathakal"
+LAST|Lml|"അഈസോപ് കഥകൾ"
+LAST|Den|"Malayalam-language literary work by Sankaranarayanan P I"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/aesopu-kathakal"
+LAST|P2093|"Sankaranarayanan P I"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2023-05-30T00:00:00Z/11
+LAST|P747|Q139998396
+CREATE
+LAST|Len|"African Gothrakathakal"
+LAST|Lml|"ആഫ്രിക്കൻ ഗോത്രകഥകൾ"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/african-gothrakathakal"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9134
+LAST|P577|+2017-07-10T00:00:00Z/11
+LAST|P747|Q139998397
+CREATE
+LAST|Len|"Agni Mahapuranam - 2 Volumes (print on Demand)"
+LAST|Lml|"അഗ്നി മഹാപുരാണം - 2 വോളമീസ് (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by Veda Vyasa"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/agni-mahapuranam"
+LAST|P2093|"Veda Vyasa"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9134
+LAST|P577|+2017-07-01T00:00:00Z/11
+LAST|P747|Q139998398
+CREATE
+LAST|Len|"Agnichirakil Ananthathayilekku"
+LAST|Lml|"അഗ്നിചിറകിൽ അനന്തതയിലേക്ക്"
+LAST|Den|"Malayalam-language literary work by P V Alby"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/agnichirakil-ananthathayilekku"
+LAST|P2093|"P V Alby"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2019-11-27T00:00:00Z/11
+LAST|P747|Q139998399
+CREATE
+LAST|Len|"Agniparvathangalude Thazhvarayil"
+LAST|Lml|"അഗ്നിപര്വതങ്ങളുടെ താഴ്വരയിൽ"
+LAST|Den|"Malayalam-language literary work by Zacharia"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/agniparvathangalude-thazhvarayil"
+LAST|P2093|"Zacharia"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998400
+CREATE
+LAST|Len|"Agnisalabhangal- Dr Sathidevi"
+LAST|Lml|"അഗ്നിശലഭങ്ങൾ- ദൃ സതീദേവി"
+LAST|Den|"Malayalam-language literary work by Sathidevi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/agnisalabhangal-dr-sathidevi"
+LAST|P2093|"Sathidevi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P747|Q139998402
+CREATE
+LAST|Len|"Agnisparsam"
+LAST|Lml|"അഗ്നിസ്പർശം"
+LAST|Den|"Malayalam-language literary work by Pandit Rajmani Tigunait"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/agnisparsam"
+LAST|P2093|"Pandit Rajmani Tigunait"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q7553
+LAST|P577|+2019-01-04T00:00:00Z/11
+LAST|P747|Q139998403
+CREATE
+LAST|Len|"Agolavalkaranavum Adivasikalum"
+LAST|Lml|"ആഗോളവൽക്കരണവും ആദിവാസികളും"
+LAST|Den|"Malayalam-language literary work by Mathew Aerthayil"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/agolavalkaranavum-adivasikalum"
+LAST|P2093|"Mathew Aerthayil"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2019-06-11T00:00:00Z/11
+LAST|P747|Q139998404
+CREATE
+LAST|Len|"Agolavatkaranavum Idinjupolinja Lokavum"
+LAST|Lml|"ആഗോളവറ്റകരണവും ഇടിഞ്ഞുപൊളിഞ്ഞ ലോകവും"
+LAST|Den|"Malayalam-language literary work by N P Chekkutty"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/agolavatkaranavum-idinjupolinja-lokavum"
+LAST|P2093|"N P Chekkutty"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2021-02-05T00:00:00Z/11
+LAST|P747|Q139998405
+CREATE
+LAST|Len|"Agolavatkaranavum Marxisavum"
+LAST|Lml|"ആഗോളവറ്റകരണവും മാർക്സിസവും"
+LAST|Den|"Malayalam-language literary work by Pearson N M"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/agolavatkaranavum-marxisavum"
+LAST|P2093|"Pearson N M"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q7163
+LAST|P577|+2007-01-01T00:00:00Z/11
+LAST|P747|Q139998406
+CREATE
+LAST|Len|"Agraharakathakal"
+LAST|Lml|"അഗ്രഹാരകഥകൾ"
+LAST|Den|"Malayalam-language literary work by T.K. Sankaranarayanan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/agraharakathakal"
+LAST|P2093|"T.K. Sankaranarayanan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-06-29T00:00:00Z/11
+LAST|P747|Q139998407
+CREATE
+LAST|Len|"Agrajikalude Jeevithangal"
+LAST|Lml|"അഗ്രജകളുടെ ജീവിതങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Sankaranarayanan Paleri"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/agrajikalude-jeevithangal"
+LAST|P2093|"Sankaranarayanan Paleri"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2022-03-25T00:00:00Z/11
+LAST|P747|Q139998408
+CREATE
+LAST|Len|"Ahalya"
+LAST|Lml|"അഹല്യ"
+LAST|Den|"Malayalam-language literary work by Rani Binoy"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ahalya"
+LAST|P2093|"Rani Binoy"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2017-11-20T00:00:00Z/11
+LAST|P747|Q139998409
+CREATE
+LAST|Len|"Aham Dravyasmi - Prapanchathinte Password"
+LAST|Lml|"അഹം ദ്രവ്യാസ്മി - പ്രപഞ്ചത്തിന്റെ പാസ്സ്വേർഡ്"
+LAST|Den|"Malayalam-language literary work by Vaisakhan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/aham-dravyasmi-prapanchathinte-password"
+LAST|P2093|"Vaisakhan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P747|Q139998410
+CREATE
+LAST|Len|"Ajayyanaya Arjunan"
+LAST|Lml|"അജയ്യനായ അർജുനൻ"
+LAST|Den|"Malayalam-language literary work by Debashis Chatterjee"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ajayyanaya-arjunan"
+LAST|P2093|"Debashis Chatterjee"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P747|Q139998411
+CREATE
+LAST|Len|"Ajnathakamukiyude Avasanathe Kathu"
+LAST|Lml|"അജ്ഞാതകാമുകിയുടെ അവസാനത്തെ കത്ത്"
+LAST|Den|"Malayalam-language literary work by Stefan Zweig"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ajnathakamukiyude-avasanathe-kathu"
+LAST|P2093|"Stefan Zweig"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2013-08-08T00:00:00Z/11
+LAST|P747|Q139998412
+CREATE
+LAST|Len|"Akam Puram"
+LAST|Lml|"അകം പുറം"
+LAST|Den|"Malayalam-language literary work by Sebastian Karickal"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/akam-puram"
+LAST|P2093|"Sebastian Karickal"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2022-10-25T00:00:00Z/11
+LAST|P747|Q139998413
+CREATE
+LAST|Len|"Akasapanth"
+LAST|Lml|"ആകാശപാന്ഥ്"
+LAST|Den|"Malayalam-language literary work by Nandan ."
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/akasapanth"
+LAST|P2093|"Nandan ."
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2022-04-01T00:00:00Z/11
+LAST|P747|Q139998414
+CREATE
+LAST|Len|"Akasathinu Chuvattil"
+LAST|Lml|"ആകാശത്തിനു ചുവട്ടിലെ"
+LAST|Den|"Malayalam-language literary work by M. Mukundan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/akasathinu-chuvattil"
+LAST|P2093|"M. Mukundan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-07-10T00:00:00Z/11
+LAST|P747|Q139998415
+CREATE
+LAST|Len|"Akashavattan"
+LAST|Lml|"ആകാശവേട്ടൻ"
+LAST|Den|"Malayalam-language literary work by Asok AR"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/akashavattan"
+LAST|P2093|"Asok AR"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2021-07-01T00:00:00Z/11
+LAST|P747|Q139998416
+CREATE
+LAST|Len|"Akhilaloka Aaducompany"
+LAST|Lml|"അഖിലലോക ആടുകമ്പനി"
+LAST|Den|"Malayalam-language literary work by Majeed Syed"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/akhilaloka-aaducompany"
+LAST|P2093|"Majeed Syed"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2023-05-30T00:00:00Z/11
+LAST|P747|Q139998417
+CREATE
+LAST|Len|"Akkapporinte Irupathu Nasrani Varshangal"
+LAST|Lml|"അക്കപ്പോരിന്റെ ഇരുപത് നസ്രാണി വർഷങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Benyamin"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/akkapporinte-irupathu-nasrani-varshangal"
+LAST|P2093|"Benyamin"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P747|Q139998418
+CREATE
+LAST|Len|"Akkarmashi"
+LAST|Lml|"ഹാക്കര്മാഷി"
+LAST|Den|"Malayalam-language literary work by Sharankumar Limbale"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/akkarmashi"
+LAST|P2093|"Sharankumar Limbale"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2012-01-01T00:00:00Z/11
+LAST|P747|Q139998419
+CREATE
+LAST|Len|"Al Arabian Novel Factory ( Single Title )"
+LAST|Lml|"അൽ അറേബ്യൻ നോവൽ ഫാക്ടറി ( സിംഗിൾ ടൈറ്റിൽ )"
+LAST|Den|"Malayalam-language literary work by Benyamin"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/al-arabian-novel-factory--single-title"
+LAST|P2093|"Benyamin"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-09-30T00:00:00Z/11
+LAST|P747|Q139998420
+CREATE
+LAST|Len|"August 17"
+LAST|Lml|"ഓഗസ്റ്റ് 17"
+LAST|Den|"Malayalam-language literary work by S. Hareesh"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/august-17"
+LAST|P2093|"S. Hareesh"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-08-18T00:00:00Z/11
+LAST|P747|Q139998580
+CREATE
+LAST|Len|"Autorikshawkkarante Bharya"
+LAST|Lml|"ഓട്ടോറിക്ഷവക്കാരന്റെ ഭാര്യ"
+LAST|Den|"Malayalam-language literary work by M. Mukundan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/autorikshawkkarante-bharya"
+LAST|P2093|"M. Mukundan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-08-25T00:00:00Z/11
+LAST|P747|Q139998581
+CREATE
+LAST|Len|"Avan Pathakayillatha Rajyam"
+LAST|Lml|"അവൻ പതാകയില്ലാത്ത രാജ്യം"
+LAST|Den|"Malayalam-language literary work by P. T. Binu"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/avan-pathakayillatha-rajyam"
+LAST|P2093|"P. T. Binu"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2021-11-01T00:00:00Z/11
+LAST|P747|Q139998584
+CREATE
+LAST|Len|"Avanavanoduthanneyulla Samsarangal"
+LAST|Lml|"അവനവനോടുതന്നെയുള്ള സംസാരങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Khadija Mumthas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/avanavanoduthanneyulla-samsarangal"
+LAST|P2093|"Khadija Mumthas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2025-05-31T00:00:00Z/11
+LAST|P747|Q139998585
+CREATE
+LAST|Len|"Avarna"
+LAST|Lml|"അവര്ണ"
+LAST|Den|"Malayalam-language literary work by Adila Kabeer"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/avarna"
+LAST|P2093|"Adila Kabeer"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2022-07-06T00:00:00Z/11
+LAST|P747|Q139998586
+CREATE
+LAST|Len|"Avasaanathe Penkutty"
+LAST|Lml|"അവസാനത്തെ പെൺകുട്ടി"
+LAST|Den|"Malayalam-language literary work by Nadia Murad"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/avasaanathe-penkutty"
+LAST|P2093|"Nadia Murad"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q7553
+LAST|P577|+2021-02-02T00:00:00Z/11
+LAST|P747|Q139998587
+CREATE
+LAST|Len|"Avasanathe Sainyadhipan"
+LAST|Lml|"അവസാനത്തെ സൈന്യാധിപൻ"
+LAST|Den|"Malayalam-language literary work by Padmanabhan Kavumbayi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/avasanathe-sainyadhipan"
+LAST|P2093|"Padmanabhan Kavumbayi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2022-10-10T00:00:00Z/11
+LAST|P747|Q139998588
+CREATE
+LAST|Len|"Avaseshippukal"
+LAST|Lml|"അവശേഷിപ്പുകൾ"
+LAST|Den|"Malayalam-language literary work by Sreekumaranthampi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/avaseshippukal"
+LAST|P2093|"Sreekumaranthampi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2017-08-25T00:00:00Z/11
+LAST|P747|Q139998589
+CREATE
+LAST|Len|"Avasyam Anuvarthikkenda Vidhyabhyasam"
+LAST|Lml|"ആവശ്യം അനുവർത്തിക്കേണ്ട വിദ്യാഭ്യാസം"
+LAST|Den|"Malayalam-language literary work by Nithyachaithanya Yathi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/avasyam-anuvarthikkenda-vidhyabhyasam-"
+LAST|P2093|"Nithyachaithanya Yathi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2019-01-16T00:00:00Z/11
+LAST|P747|Q139998590
+CREATE
+LAST|Len|"Avayavadanam Ariyendathellam"
+LAST|Lml|"അവയവദാനം അറിയേണ്ടതെല്ലാം"
+LAST|Den|"Malayalam-language literary work by B. Umadathan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/avayavadanam-ariyendathellam"
+LAST|P2093|"B. Umadathan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12147
+LAST|P577|+2018-06-25T00:00:00Z/11
+LAST|P747|Q139998591
+CREATE
+LAST|Len|"Ave Mariya"
+LAST|Lml|"ആവേ മാറിയ"
+LAST|Den|"Malayalam-language literary work by K. R. Meera"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ave-mariya"
+LAST|P2093|"K. R. Meera"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P747|Q139998592
+CREATE
+LAST|Len|"Aviyankora"
+LAST|Lml|"അവിയൻകോറ"
+LAST|Den|"Malayalam-language literary work by D Anilkumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/aviyankora"
+LAST|P2093|"D Anilkumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2021-11-04T00:00:00Z/11
+LAST|P747|Q139998593
+CREATE
+LAST|Len|"Aya"
+LAST|Lml|"ആയ"
+LAST|Den|"Malayalam-language literary work by Jean - Philippe Blondel"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/aya"
+LAST|P2093|"Jean - Philippe Blondel"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q7553
+LAST|P577|+2019-12-19T00:00:00Z/11
+LAST|P747|Q139998594
+CREATE
+LAST|Len|"Ayiram Padasarangal"
+LAST|Lml|"ആയിരം പാദസരങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by T P Sasthamangalam"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ayiram-padasarangal"
+LAST|P2093|"T P Sasthamangalam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2022-06-11T00:00:00Z/11
+LAST|P747|Q139998595
+CREATE
+LAST|Len|"Ayussinte Pusthakam"
+LAST|Lml|"ആയുസ്സിന്റെ പുസ്തകം"
+LAST|Den|"Malayalam-language literary work by C V Balakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ayussinte-pusthakam"
+LAST|P2093|"C V Balakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-08-18T00:00:00Z/11
+LAST|P747|Q139998596
+CREATE
+LAST|Len|"Ayyappanum Shilpiyum (print on Demand)"
+LAST|Lml|"അയ്യപ്പനും ശില്പിയും (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by Anuananthan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ayyappanum-shilpiyum"
+LAST|P2093|"Anuananthan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2022-05-13T00:00:00Z/11
+LAST|P747|Q139998597
+CREATE
+LAST|Len|"Azheekode Phalithangal"
+LAST|Lml|"അഴീക്കോട് ഫലിതങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Jayaprakash Peringottukurissi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/azheekode-phalithangal"
+LAST|P2093|"Jayaprakash Peringottukurissi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q60548032
+LAST|P577|+2017-01-24T00:00:00Z/11
+LAST|P747|Q139998598
+CREATE
+LAST|Len|"Azheekodinte Lokathil"
+LAST|Lml|"അഴീക്കോടിന്റെ ലോകത്തിൽ"
+LAST|Den|"Malayalam-language literary work by Sukumar Azhikode"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/azheekodinte-lokathil"
+LAST|P2093|"Sukumar Azhikode"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998599
+CREATE
+LAST|Len|"B Nilavara"
+LAST|Lml|"ബി നിലവറ"
+LAST|Den|"Malayalam-language literary work by V. J. James"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/b-nilavara"
+LAST|P2093|"V. J. James"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2026-01-30T00:00:00Z/11
+LAST|P747|Q139998600
+CREATE
+LAST|Len|"Babaji Jwalippicha Geetharahasyam"
+LAST|Lml|"ബാബാജി ജ്വലിപ്പിച്ചു ഗീതാരഹസ്യം"
+LAST|Den|"Malayalam-language literary work by Raveendranathan C K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/babaji-jwalippicha-geetharahasyam"
+LAST|P2093|"Raveendranathan C K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q168796
+LAST|P577|+2018-06-27T00:00:00Z/11
+LAST|P747|Q139998601
+CREATE
+LAST|Len|"Babri Masjidil Pakshikal Anayunnu"
+LAST|Lml|"ബാബരി മസ്ജിദിൽ പക്ഷികൾ അണയുന്നു"
+LAST|Den|"Malayalam-language literary work by Pramod Raman"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/babri-masjidil-pakshikal-anayunnu"
+LAST|P2093|"Pramod Raman"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2020-03-18T00:00:00Z/11
+LAST|P747|Q139998602
+CREATE
+LAST|Len|"Babu Paulinte Chiri"
+LAST|Lml|"ബാബു പോളിന്റെ ചിരി"
+LAST|Den|"Malayalam-language literary work by Prabhakaran R"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/babu-paulinte-chiri"
+LAST|P2093|"Prabhakaran R"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q60548032
+LAST|P577|+2017-04-25T00:00:00Z/11
+LAST|P747|Q139998603
+CREATE
+LAST|Len|"Babukka"
+LAST|Lml|"ബാബുക്ക"
+LAST|Den|"Malayalam-language literary work by Bicha Baburaj"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/babukka"
+LAST|P2093|"Bicha Baburaj"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P136|Q36279
+LAST|P577|+2013-01-01T00:00:00Z/11
+LAST|P747|Q139998604
+CREATE
+LAST|Len|"Bachelors Pachakam"
+LAST|Lml|"ബചേലോറസ് പാചകം"
+LAST|Den|"Malayalam-language literary work by Basil Joseph"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bachelors-pachakam"
+LAST|P2093|"Basil Joseph"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q605076
+LAST|P577|+2018-07-09T00:00:00Z/11
+LAST|P747|Q139998605
+CREATE
+LAST|Len|"Badari Kedaar Yaathra -himavante Katha; Gangayudeyum"
+LAST|Lml|"ബദരി കേദാർ യാത്ര -ഹിമവാന്റെ കഥ; ഗംഗയുടെയും"
+LAST|Den|"Malayalam-language literary work by Jayadevan O P"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/badari-kedaar-yaathra"
+LAST|P2093|"Jayadevan O P"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2012-09-11T00:00:00Z/11
+LAST|P747|Q139998606
+CREATE
+LAST|Len|"Badenheim 1939"
+LAST|Lml|"ബാഡൻഹെയിം 1939"
+LAST|Den|"Malayalam-language literary work by Appelfeld Aharon"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/badenheim-1939"
+LAST|P2093|"Appelfeld Aharon"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998607
+CREATE
+LAST|Len|"Bahuroopikal"
+LAST|Lml|"ബഹുരൂപികൾ"
+LAST|Den|"Malayalam-language literary work by Kannankutty P"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bahuroopikal"
+LAST|P2093|"Kannankutty P"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2017-08-03T00:00:00Z/11
+LAST|P747|Q139998608
+CREATE
+LAST|Len|"Bakthiyum Pathrapravarthanavum"
+LAST|Lml|"ഭക്തിയും പത്രപ്രവർത്തനവും"
+LAST|Den|"Malayalam-language literary work by Zacharia"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bakthiyum-pathrapravarthanavum"
+LAST|P2093|"Zacharia"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2019-06-12T00:00:00Z/11
+LAST|P747|Q139998610
+CREATE
+LAST|Len|"Balachandran Chullikkadinte Kavithakal"
+LAST|Lml|"ബാലചന്ദ്രൻ ചുള്ളിക്കാടിന്റെ കവിതകൾ"
+LAST|Den|"Malayalam-language literary work by Balachandran Chullikkad"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/balachandran-chullikkadinte-kavithakal"
+LAST|P2093|"Balachandran Chullikkad"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2022-10-06T00:00:00Z/11
+LAST|P747|Q139998611
+CREATE
+LAST|Len|"Balamahabharatham"
+LAST|Lml|"ബാലാമഹാഭാരതം"
+LAST|Den|"Malayalam-language literary work by Janardhanan Pallikkunnu"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/balamahabharatham"
+LAST|P2093|"Janardhanan Pallikkunnu"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q6647667
+LAST|P577|+2019-02-12T00:00:00Z/11
+LAST|P747|Q139998612
+CREATE
+LAST|Len|"Balamaniamma Patanangal"
+LAST|Lml|"ബാലാമണിയമ്മ പഠനങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Unnikrishnan A M"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/balamaniamma-patanangal"
+LAST|P2093|"Unnikrishnan A M"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2018-11-28T00:00:00Z/11
+LAST|P747|Q139998613
+CREATE
+LAST|Len|"Balathkaram Cheyyappedunna Manassu"
+LAST|Lml|"ബലാത്കാരം ചെയ്യപ്പെടുന്ന മനസ്സ്"
+LAST|Den|"Malayalam-language literary work by Johnson Eyeroor"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/balathkaram-cheyyappedunna-manassu"
+LAST|P2093|"Johnson Eyeroor"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2021-12-31T00:00:00Z/11
+LAST|P747|Q139998615
+CREATE
+LAST|Len|"Balkan Diary"
+LAST|Lml|"ബേക്കൺ ഡയറി"
+LAST|Den|"Malayalam-language literary work by Baiju N. Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/balken-diary"
+LAST|P2093|"Baiju N. Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2021-08-21T00:00:00Z/11
+LAST|P747|Q139998616
+CREATE
+LAST|Len|"Balthasarinte Odyssey"
+LAST|Lml|"ബാല്താസാറിന്റെ ഒഡീസി"
+LAST|Den|"Malayalam-language literary work by Amin Maalouf"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/balthasarinte-odyssey"
+LAST|P2093|"Amin Maalouf"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q7553
+LAST|P577|+2019-09-20T00:00:00Z/11
+LAST|P747|Q139998617
+CREATE
+LAST|Len|"Balyakalasakhi - [cinemas Special]"
+LAST|Lml|"ബാല്യകാലസഖി - [സിനിമാസ് സ്പെഷ്യൽ]"
+LAST|Den|"Malayalam-language literary work by Vaikom Muhammad Basheer"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/balyakalasakhi-cinemas-special"
+LAST|P2093|"Vaikom Muhammad Basheer"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2014-01-10T00:00:00Z/11
+LAST|P747|Q139998618
+CREATE
+LAST|Len|"Balyakalasakhiyum Kure Pennungalum"
+LAST|Lml|"ബാല്യകാലസഖിയും കുറേ പെണ്ണുങ്ങളും"
+LAST|Den|"Malayalam-language literary work by Vaikom Muhammad Basheer"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/balyakalasakhiyum-kure-pennungalum"
+LAST|P2093|"Vaikom Muhammad Basheer"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-11-29T00:00:00Z/11
+LAST|P747|Q139998619
+CREATE
+LAST|Len|"Bandhanam"
+LAST|Lml|"ബന്ധനം"
+LAST|Den|"Malayalam-language literary work by M T Vasudevan Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bandhanam"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-12-15T00:00:00Z/11
+LAST|P747|Q139998620
+CREATE
+LAST|Len|"Bar Berians : Madhyavum Malayaliyum (keralam 60 Series)"
+LAST|Lml|"ബാർ ബെറിൻസ് : മദ്യവും മലയാളിയും (കേരളം 60 സീരീസ്)"
+LAST|Den|"Malayalam-language literary work by Manilal"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bar-berians--madhyavum-malayaliyum-keralam-60-series"
+LAST|P2093|"Manilal"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11042
+LAST|P577|+2016-11-15T00:00:00Z/11
+LAST|P747|Q139998621
+CREATE
+LAST|Len|"Barman"
+LAST|Lml|"ബർമൻ"
+LAST|Den|"Malayalam-language literary work by Prathapan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/barman"
+LAST|P2093|"Prathapan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-09-15T00:00:00Z/11
+LAST|P747|Q139998622
+CREATE
+LAST|Len|"Barsa"
+LAST|Lml|"ബാഴ്സ"
+LAST|Den|"Malayalam-language literary work by Khadija Mumthas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/barsa"
+LAST|P2093|"Khadija Mumthas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-05-31T00:00:00Z/11
+LAST|P747|Q139998624
+CREATE
+LAST|Len|"Bashapadana Projectukal"
+LAST|Lml|"ഭാഷാപഠന പ്രൊജെക്ടുകൾ"
+LAST|Den|"Malayalam-language literary work by Roy Thomas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bashapadana-projectukal"
+LAST|P2093|"Roy Thomas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q13136
+LAST|P577|+2020-02-14T00:00:00Z/11
+LAST|P747|Q139998625
+CREATE
+LAST|Len|"Basheer Malayalathinte Mahasukrutham"
+LAST|Lml|"ബഷീർ മലയാളത്തിന്റെ മഹാസുകൃതം"
+LAST|Den|"Malayalam-language literary work by Chandraprakash M"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/basheer-malayalathinte-mahasukrutham-308116123469"
+LAST|P2093|"Chandraprakash M"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2019-06-11T00:00:00Z/11
+LAST|P747|Q139998626
+CREATE
+LAST|Len|"Basheer Phalithangal"
+LAST|Lml|"ബഷീർ ഫലിതങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Azeez Tharuvana"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/basheer-phalithangal"
+LAST|P2093|"Azeez Tharuvana"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1004
+LAST|P136|Q725377
+LAST|P577|+2019-05-20T00:00:00Z/11
+LAST|P747|Q139998627
+CREATE
+LAST|Len|"Basheer - Sambhashanangal"
+LAST|Lml|"ബഷീർ - സംഭാഷണങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Azeez Tharuvana"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/basheer-sambhashanangal"
+LAST|P2093|"Azeez Tharuvana"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-10-31T00:00:00Z/11
+LAST|P747|Q139998628
+CREATE
+LAST|Len|"Basheer Sampoorna Kruthikal (3 Vol Set)"
+LAST|Lml|"ബഷീർ സമ്പൂർണ കൃതികൾ (3 വോൾ സെറ്റ്)"
+LAST|Den|"Malayalam-language literary work by Vaikom Muhammad Basheer"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/basheer-sampoorna-kruthikal-"
+LAST|P2093|"Vaikom Muhammad Basheer"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q20540385
+LAST|P577|+2024-07-15T00:00:00Z/11
+LAST|P747|Q139998629
+CREATE
+LAST|Len|"Basheerinte Kathukal (print on Demand)"
+LAST|Lml|"ബഷീറിന്റെ കാതുകൾ (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by Vaikom Muhammad Basheer"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/basheerinte-kathukal"
+LAST|P2093|"Vaikom Muhammad Basheer"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998630
+CREATE
+LAST|Len|"Basheerinte Kazhchakal"
+LAST|Lml|"ബഷീറിന്റെ കാഴ്ചകൾ"
+LAST|Den|"Malayalam-language literary work by M N Karassery"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/basheerinte-kazhchakal"
+LAST|P2093|"M N Karassery"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q13136
+LAST|P577|+2024-07-31T00:00:00Z/11
+LAST|P747|Q139998631
+CREATE
+LAST|Len|"Beautiful, Trivandrum Lodge"
+LAST|Lml|"ബ്യൂട്ടിഫുൾ  ട്രിവാൻഡറും ലോഡ്ജ്"
+LAST|Den|"Malayalam-language literary work by Anoop Menon"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/beautiful-trivandrum-lodge"
+LAST|P2093|"Anoop Menon"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q103076
+LAST|P577|+2014-09-22T00:00:00Z/11
+LAST|P747|Q139998632
+CREATE
+LAST|Len|"Beauty Book (print on Demand)"
+LAST|Lml|"ബ്യൂട്ടി ബുക്ക് (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by Shahnaz Husain"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/beauty-book"
+LAST|P2093|"Shahnaz Husain"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q32090
+LAST|P577|+2014-11-29T00:00:00Z/11
+LAST|P747|Q139998633
+CREATE
+LAST|Len|"Beauty Parlour Naaykkal Naayakar"
+LAST|Lml|"ബ്യൂട്ടി പാരലൗർ നായ്ക്കൾ നായകർ"
+LAST|Den|"Malayalam-language literary work by Mario Bellatine"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/beauty-parlour-naaykkal-naayakar"
+LAST|P2093|"Mario Bellatine"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2013-06-24T00:00:00Z/11
+LAST|P747|Q139998634
+CREATE
+LAST|Len|"Kazhchayude Moonnamidangal"
+LAST|Lml|"കാഴ്ചയുടെ മൂന്നാമിടങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Madhu Eravankara"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/-kazhchayude-moonnamidangal"
+LAST|P2093|"Madhu Eravankara"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2021-03-18T00:00:00Z/11
+LAST|P747|Q139988094
+CREATE
+LAST|Len|"100 Aarogya Paachakam"
+LAST|Lml|"100 ആരോഗ്യ പാചകം"
+LAST|Den|"Malayalam-language literary work by Indu Narayan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/100-aarogya-paachakam"
+LAST|P2093|"Indu Narayan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q605076
+LAST|P577|+2011-01-27T00:00:00Z/11
+LAST|P747|Q139988095
+CREATE
+LAST|Len|"100 Beauty Tips"
+LAST|Lml|"100 ബ്യൂട്ടി ടിപ്സ്"
+LAST|Den|"Malayalam-language literary work by Indu Narayan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/100-beauty-tips"
+LAST|P2093|"Indu Narayan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q32090
+LAST|P577|+2015-11-08T00:00:00Z/11
+LAST|P747|Q139988096
+CREATE
+LAST|Len|"100 Chinthavishayangal"
+LAST|Lml|"100 ചിന്താവിഷയങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by T. Chandy"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/100-chinthavishayangal"
+LAST|P2093|"T. Chandy"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P577|+2016-01-13T00:00:00Z/11
+LAST|P747|Q139988097
+CREATE
+LAST|Len|"100 Dhyanangal"
+LAST|Lml|"100 ധ്യാനങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Shoukath"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/100-dhyanangal"
+LAST|P2093|"Shoukath"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12147
+LAST|P577|+2015-09-02T00:00:00Z/11
+LAST|P747|Q139988098
+CREATE
+LAST|Len|"100 Juicukal"
+LAST|Lml|"100 ജയ്സുകൾ"
+LAST|Den|"Malayalam-language literary work by Lilly Babu Jose"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/100-juicukal"
+LAST|P2093|"Lilly Babu Jose"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q605076
+LAST|P577|+2014-06-23T00:00:00Z/11
+LAST|P747|Q139988099
+CREATE
+LAST|Len|"100 Visishta Paneeyangal"
+LAST|Lml|"100 വിശിഷ്ട പാനീയങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Lilly Babu Jose"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/100-visishta-paneeyangal"
+LAST|P2093|"Lilly Babu Jose"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q605076
+LAST|P577|+2015-07-15T00:00:00Z/11
+LAST|P747|Q139988100
+CREATE
+LAST|Len|"1000 Mahat Vachanangalum 50 Pazhanchollukalum"
+LAST|Lml|"1000 മഹത് വചനങ്ങളും 50 പഴഞ്ചൊല്ലുകളും"
+LAST|Den|"Malayalam-language literary work by P.K. Mohsin"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/1000-mahat-vachanangalum-50-pazhanchollukalum"
+LAST|P2093|"P.K. Mohsin"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2019-06-11T00:00:00Z/11
+LAST|P747|Q139988101
+CREATE
+LAST|Len|"101 Home Made Winukal"
+LAST|Lml|"101 ഹോം മ്മടെ വൈനുകൾ"
+LAST|Den|"Malayalam-language literary work by Sagin Augustine"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/101-home-made-winukal"
+LAST|P2093|"Sagin Augustine"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q605076
+LAST|P577|+2019-12-16T00:00:00Z/11
+LAST|P747|Q139988102
+CREATE
+LAST|Len|"101 Sanjayan Phalithangal"
+LAST|Lml|"101 സഞ്ജയൻ ഫലിതങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Sanjayan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/101-sanjayan-phalithangal"
+LAST|P2093|"Sanjayan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q60548032
+LAST|P577|+2017-02-04T00:00:00Z/11
+LAST|P747|Q139988103
+CREATE
+LAST|Len|"103 Ganithathathwangal, Sidhaanthangal, Saastranjar"
+LAST|Lml|"103 ഗണിതതത്ത്വങ്ങൾ, സിദ്ധാന്തങ്ങൾ, ശാസ്ത്രജ്ഞർ"
+LAST|Den|"Malayalam-language literary work by Shayan Sen"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/103-ganithathathwangal-sidhaanthangal-saastranjar"
+LAST|P2093|"Shayan Sen"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q139998055
+CREATE
+LAST|Len|"1128IL Crime 27"
+LAST|Lml|"1128ഇൽ ക്രൈം 27"
+LAST|Den|"Malayalam-language literary work by Thomas C. J."
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/1128il-crime-27"
+LAST|P2093|"Thomas C. J."
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q139998056
+CREATE
+LAST|Len|"125 Nombuthura Vibhavangal"
+LAST|Lml|"125 നോമ്പുതുറ വിഭവങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Zubaida Obeid"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/125-nombuthura-vibhavangal"
+LAST|P2093|"Zubaida Obeid"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q139998057
+CREATE
+LAST|Len|"1857 Viplavathinte Druksaakshivivaranam"
+LAST|Lml|"1857 വിപ്ലവത്തിന്റെ ദൃക്സാക്ഷിവിവരണം"
+LAST|Den|"Malayalam-language literary work by Vishnu Bhatt Godsey"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/1857-viplavathinte-druksaakshivivaranam"
+LAST|P2093|"Vishnu Bhatt Godsey"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q139998059
+CREATE
+LAST|Len|"24 X 7 News Channel"
+LAST|Lml|"24 x 7 ന്യൂസ് ചാനൽ"
+LAST|Den|"Malayalam-language literary work by Manoj Bharathi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/24x7-news-channel"
+LAST|P2093|"Manoj Bharathi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q139998060
+CREATE
+LAST|Len|"25 Janapriya Krishikal"
+LAST|Lml|"25 ജനപ്രിയ കൃഷികൾ"
+LAST|Den|"Malayalam-language literary work by Dr. D. Shinekumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/25-janapriya-krishikal"
+LAST|P2093|"Dr. D. Shinekumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q139998061
+CREATE
+LAST|Len|"366 Sufidina Sookthamgal"
+LAST|Lml|"366 സൂഫിദിന സൂക്തങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Hashim E M"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/366-sufidina-sookthamgal"
+LAST|P2093|"Hashim E M"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q139998062
+CREATE
+LAST|Len|"50 Thikanjavarkkulla Arogyasamrakshanam"
+LAST|Lml|"50 തികഞ്ഞവർക്കുള്ള ആരോഗ്യസംരക്ഷണം"
+LAST|Den|"Malayalam-language literary work by John Powathil"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/50-thikanjavarkkulla-arogyasamrakshanam"
+LAST|P2093|"John Powathil"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q139998063
+CREATE
+LAST|Len|"56 Satragali"
+LAST|Lml|"56 സത്രഗലി"
+LAST|Den|"Malayalam-language literary work by M P Narayanapillai"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/56-satragali"
+LAST|P2093|"M P Narayanapillai"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q139998064
+CREATE
+LAST|Len|"9MM Baretta"
+LAST|Lml|"9 എം എം ബററ്റ"
+LAST|Den|"Malayalam-language literary work by Vinod Krishna"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/9mm-baretta"
+LAST|P2093|"Vinod Krishna"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q139998065
+CREATE
+LAST|Len|"Aachaaravedi"
+LAST|Lml|"ആചാരവെടി"
+LAST|Den|"Malayalam-language literary work by John Samuel"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/AACHAARAVEDI"
+LAST|P2093|"John Samuel"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998106
+CREATE
+LAST|Len|"Aagolavatkaranavum Marxisavum"
+LAST|Lml|"ആഗോളവൽക്കരണവും മാർക്സിസവും"
+LAST|Den|"Malayalam-language literary work by Pearson N M"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/AAGOLAVATKARANAVUM-MARXISAVUM"
+LAST|P2093|"Pearson N M"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q7163
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998107
+CREATE
+LAST|Len|"Adiyidaraathe"
+LAST|Lml|"അടിയിടാറാതെ"
+LAST|Den|"Malayalam-language literary work by Kalamandalam Kesavan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ADIYIDARAATHE"
+LAST|P2093|"Kalamandalam Kesavan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2015-07-15T00:00:00Z/11
+LAST|P747|Q139998108
+CREATE
+LAST|Len|"Agnisalabhangal"
+LAST|Lml|"അഗ്നിശലഭങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by O. N. V. Kurup"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/AGNISALABHANGAL"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2020-09-03T00:00:00Z/11
+LAST|P747|Q139998109
+CREATE
+LAST|Len|"Aksharaslokaratnavali"
+LAST|Lml|"അക്ഷരശ്ലോകാരത്തിനാവലി"
+LAST|Den|"Malayalam-language literary work by Kamalamma G"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/AKSHARASLOKARATNAVALI"
+LAST|P2093|"Kamalamma G"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2011-01-04T00:00:00Z/11
+LAST|P747|Q139998110
+CREATE
+LAST|Len|"Alanju Nadakkunnavan"
+LAST|Lml|"അലഞ്ഞു നടക്കുന്നവൻ"
+LAST|Den|"Malayalam-language literary work by Kahlil Gibran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ALANJU-NADAKKUNNAVAN"
+LAST|P2093|"Kahlil Gibran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q168796
+LAST|P577|+2016-09-21T00:00:00Z/11
+LAST|P747|Q139998111
+CREATE
+LAST|Len|"Amithavannam"
+LAST|Lml|"അമിതവണ്ണം"
+LAST|Den|"Malayalam-language literary work by Gopinatha Pillai T M"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/AMITHAVANNAM"
+LAST|P2093|"Gopinatha Pillai T M"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12147
+LAST|P747|Q139998112
+CREATE
+LAST|Len|"Ananthapuri Noottaandukaliloote"
+LAST|Lml|"അനന്തപുരി നൂറ്റാണ്ടുകളിലൂടെ"
+LAST|Den|"Malayalam-language literary work by Sivasankaran Nair K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ANANTHAPURI-NOOTTAANDUKALILOOTE"
+LAST|P2093|"Sivasankaran Nair K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q309
+LAST|P577|+2017-12-07T00:00:00Z/11
+LAST|P747|Q139998113
+CREATE
+LAST|Len|"Anantharam"
+LAST|Lml|"അനന്തരം"
+LAST|Den|"Malayalam-language literary work by Adoor Gopalakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ANANTHARAM"
+LAST|P2093|"Adoor Gopalakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q103076
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998114
+CREATE
+LAST|Len|"Ananthathayilekku Oru Paatha"
+LAST|Lml|"അനന്തതയിലേക്ക് ഒരു പാത"
+LAST|Den|"Malayalam-language literary work by George Gheverghese Joseph"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ANANTHATHAYILEKKU-ORU-PAATHA"
+LAST|P2093|"George Gheverghese Joseph"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998115
+CREATE
+LAST|Len|"13 Horror Kathakal"
+LAST|Lml|"13 ഹോർറോർ കഥകൾ"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/13-horror-kathakal"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q6647667
+LAST|P577|+2019-01-01T00:00:00Z/11
+LAST|P747|Q139998192
+CREATE
+LAST|Len|"Aanavara"
+LAST|Lml|"ആണവറ"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/AANAVARA"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36649
+LAST|P747|Q139998193
+CREATE
+LAST|Len|"Anveshanathinte Vazhikal"
+LAST|Lml|"അന്വേഷണത്തിന്റെ വഴികൾ"
+LAST|Den|"Malayalam-language literary work by Sam N"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ANVESHANATHINTE-VAZHIKAL"
+LAST|P2093|"Sam N"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11042
+LAST|P577|+2011-03-30T00:00:00Z/11
+LAST|P747|Q139998194
+CREATE
+LAST|Len|"Arangukaliloote Azheekode"
+LAST|Lml|"അരങ്ങുകളിലൂടെ അഴീക്കോട്"
+LAST|Den|"Malayalam-language literary work by Jayaprakash Peringottukurissi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ARANGUKALILOOTE-AZHEEKODE"
+LAST|P2093|"Jayaprakash Peringottukurissi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11042
+LAST|P577|+2012-02-01T00:00:00Z/11
+LAST|P747|Q139998195
+CREATE
+LAST|Len|"Avajna"
+LAST|Lml|"അവജ്ഞ"
+LAST|Den|"Malayalam-language literary work by Philip Roth"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/AVAJNA"
+LAST|P2093|"Philip Roth"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2013-01-23T00:00:00Z/11
+LAST|P747|Q139998196
+CREATE
+LAST|Len|"Azheekodinte Vimarsanathrayam"
+LAST|Lml|"അഴീക്കോടിന്റെ വിമര്ശനത്രയം"
+LAST|Den|"Malayalam-language literary work by Sukumar Azhikode"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/AZHEEKODINTE-VIMARSANATHRAYAM"
+LAST|P2093|"Sukumar Azhikode"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q58854
+LAST|P577|+2011-05-18T00:00:00Z/11
+LAST|P747|Q139998197
+CREATE
+LAST|Len|"Akshaya Tritheeya Vruthavum Anushtanangalum"
+LAST|Lml|"അക്ഷയ തൃതീയ വൃത്തവും അനുഷ്ടാനങ്ങളും"
+LAST|Den|"Malayalam-language literary work by Sukesh P D"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/Akshaya-Tritheeya-Vruthavum-Anushtanangalum"
+LAST|P2093|"Sukesh P D"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9174
+LAST|P577|+2016-03-16T00:00:00Z/11
+LAST|P747|Q139998198
+CREATE
+LAST|Len|"Bahuroopi"
+LAST|Lml|"ബഹുരൂപി"
+LAST|Den|"Malayalam-language literary work by K Sachidanandan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/BAHUROOPI"
+LAST|P2093|"K Sachidanandan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2017-11-15T00:00:00Z/11
+LAST|P747|Q139998199
+CREATE
+LAST|Len|"Bhaaratheeya Manassaasthram"
+LAST|Lml|"ഭാരതീയ മനസ്സാസ്ത്രം"
+LAST|Den|"Malayalam-language literary work by Nithyachaithanya Yathi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/BHAARATHEEYA-MANASSAASTHRAM"
+LAST|P2093|"Nithyachaithanya Yathi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9418
+LAST|P577|+2025-08-18T00:00:00Z/11
+LAST|P747|Q139998200
+CREATE
+LAST|Len|"Bhagavad Gitayute Thatvasaasthram"
+LAST|Lml|"ഭഗവദ് ഗീതയുടെ തത്വശാസ്ത്രം"
+LAST|Den|"Malayalam-language literary work by Subba Rao"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/BHAGAVAD-GITAYUTE-THATVASAASTHRAM"
+LAST|P2093|"Subba Rao"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q5891
+LAST|P577|+2013-01-28T00:00:00Z/11
+LAST|P747|Q139998201
+CREATE
+LAST|Len|"Bolivian Diary"
+LAST|Lml|"ബൊളീവിയൻ ഡയറി"
+LAST|Den|"Malayalam-language literary work by Che Guevara"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/BOLIVIAN-DIARY"
+LAST|P2093|"Che Guevara"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P136|Q36279
+LAST|P577|+2025-10-30T00:00:00Z/11
+LAST|P747|Q139998202
+CREATE
+LAST|Len|"Breakfast Vibhavangal"
+LAST|Lml|"ബ്രീക്ഫസ്റ്റ് വിഭവങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Indu Narayan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/BREAKFAST-VIBHAVANGAL"
+LAST|P2093|"Indu Narayan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q605076
+LAST|P577|+2014-01-14T00:00:00Z/11
+LAST|P747|Q139998203
+CREATE
+LAST|Len|"Buddhan Paranja Kathakal (anilkumar Thiruvoth)"
+LAST|Lml|"ബുദ്ധൻ പറഞ്ഞ കഥകൾ (അനിൽകുമാർ തിരുവോത്)"
+LAST|Den|"Malayalam-language literary work by Anilkumar Thiruvoth"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/BUDDHANPARANJAKATHAKALAnilkumarThiruvoth"
+LAST|P2093|"Anilkumar Thiruvoth"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2017-06-07T00:00:00Z/11
+LAST|P747|Q139998204
+CREATE
+LAST|Len|"Budhanilekkulla Dhooram"
+LAST|Lml|"ബുദ്ധനിലേക്കുള്ള ദൂരം"
+LAST|Den|"Malayalam-language literary work by Kochu K K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/BUDHANILEKKULLA-DHOORAM"
+LAST|P2093|"Kochu K K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11042
+LAST|P577|+2011-11-10T00:00:00Z/11
+LAST|P747|Q139998205
+CREATE
+LAST|Len|"Bum Bum Hara Hara Bum Bum Bool"
+LAST|Lml|"ബും ബും ഹര ഹര ബും ബും ബുൾ"
+LAST|Den|"Malayalam-language literary work by Zacharia"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/BUM-BUM-HARA-HARA-BUM-BUM-BOOL"
+LAST|P2093|"Zacharia"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2025-03-31T00:00:00Z/11
+LAST|P747|Q139998206
+CREATE
+LAST|Len|"Book of Beautiful Curves (print on Demand)"
+LAST|Lml|"ബുക്ക് ഓഫ് ബ്യൂട്ടിഫുള് സുർവീസ് (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by Sebastian Vattamattom"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/Book-of-beautiful-curves"
+LAST|P2093|"Sebastian Vattamattom"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q395
+LAST|P577|+2015-01-12T00:00:00Z/11
+LAST|P747|Q139998207
+CREATE
+LAST|Len|"Chevikal Chembarathikal"
+LAST|Lml|"ചെവികൾ ചെമ്പരത്തികൾ"
+LAST|Den|"Malayalam-language literary work by Latheesh Mohan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/CHEVIKAL-CHEMBARATHIKAL"
+LAST|P2093|"Latheesh Mohan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2015-08-07T00:00:00Z/11
+LAST|P747|Q139998208
+CREATE
+LAST|Len|"Cinema Talkies"
+LAST|Lml|"സിനിമ ടാക്കീസ്"
+LAST|Den|"Malayalam-language literary work by C S Venkiteswaran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/CINEMA-TALKIES"
+LAST|P2093|"C S Venkiteswaran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11424
+LAST|P577|+2025-08-29T00:00:00Z/11
+LAST|P747|Q139998209
+CREATE
+LAST|Len|"Chumbana Shabdathaaraavali"
+LAST|Lml|"ചുംബന ശബ്ദതാരാവലി"
+LAST|Den|"Malayalam-language literary work by Indu Menon"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/Chumbana"
+LAST|P2093|"Indu Menon"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q858330
+LAST|P577|+2011-05-05T00:00:00Z/11
+LAST|P747|Q139998210
+CREATE
+LAST|Len|"Daampathyanwayam"
+LAST|Lml|"ദാമ്പത്യന്വയം"
+LAST|Den|"Malayalam-language literary work by Ramakrishnapanikkar Peringad"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/DAAMPATHYANWAYAM"
+LAST|P2093|"Ramakrishnapanikkar Peringad"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q34362
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998211
+CREATE
+LAST|Len|"Anaswarakathakal:thakazhi"
+LAST|Lml|"അനശ്വരകഥകൾ:തകഴി"
+LAST|Den|"Malayalam-language literary work by Thakazhi Sivasankara Pillai"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anaswarakathakalthakazhi"
+LAST|P2093|"Thakazhi Sivasankara Pillai"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2023-08-30T00:00:00Z/11
+LAST|P747|Q139998476
+CREATE
+LAST|Len|"Anaswarathayilekku"
+LAST|Lml|"അനശ്വരതയിലേക്കു"
+LAST|Den|"Malayalam-language literary work by O. N. V. Kurup"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anaswarathayilekku"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2017-03-14T00:00:00Z/11
+LAST|P747|Q139998477
+CREATE
+LAST|Len|"Anayaatha Deepasikha"
+LAST|Lml|"അണയാത്ത ദീപശിഖ"
+LAST|Den|"Malayalam-language literary work by Sanil P Thomas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anayaatha-deepasikha"
+LAST|P2093|"Sanil P Thomas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q349
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998478
+CREATE
+LAST|Len|"Anaye Ariyan"
+LAST|Lml|"ആനയെ അറിയാൻ"
+LAST|Den|"Malayalam-language literary work by Sethumadhavan T P"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anaye-ariyan"
+LAST|P2093|"Sethumadhavan T P"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11451
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998479
+CREATE
+LAST|Len|"Andamanum Africayum"
+LAST|Lml|"ആണ്ടമാനും ആഫ്രിക്കയും"
+LAST|Den|"Malayalam-language literary work by Baiju N. Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/andamanum-africayum"
+LAST|P2093|"Baiju N. Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2022-08-09T00:00:00Z/11
+LAST|P747|Q139998480
+CREATE
+LAST|Len|"Andhakaaranazhi"
+LAST|Lml|"അന്ധകാരനഴി"
+LAST|Den|"Malayalam-language literary work by E. Santhosh Kumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/andhakaaranazhi-358045119803"
+LAST|P2093|"E. Santhosh Kumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P747|Q139998481
+CREATE
+LAST|Len|"Andhanaya Daivam Malayala Novalinte Nooru Varshangal"
+LAST|Lml|"അന്ധനായ ദൈവം മലയാള നോവലിന്റെ നൂറു വർഷങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by P. K. Rajasekharan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/andhanaya-daivam-malayala-novalinte-nooru-varshangal-213294042947"
+LAST|P2093|"P. K. Rajasekharan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q58854
+LAST|P577|+2024-12-31T00:00:00Z/11
+LAST|P747|Q139998482
+CREATE
+LAST|Len|"Andhar Badhirar Mookar"
+LAST|Lml|"അന്ധർ ബധിരർ മൂകർ"
+LAST|Den|"Malayalam-language literary work by T. D. Ramakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/andhar-badhirar-mookar"
+LAST|P2093|"T. D. Ramakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-08-18T00:00:00Z/11
+LAST|P747|Q139998483
+CREATE
+LAST|Len|"Aniyan"
+LAST|Lml|"അനിയൻ"
+LAST|Den|"Malayalam-language literary work by P Kesavadev"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/aniyan"
+LAST|P2093|"P Kesavadev"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-06-29T00:00:00Z/11
+LAST|P747|Q139998484
+CREATE
+LAST|Len|"Annathe Naayikamaar"
+LAST|Lml|"അന്നത്തെ നായികമാർ"
+LAST|Den|"Malayalam-language literary work by Chelangattu Gopalakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/annathe-naayikamaar"
+LAST|P2093|"Chelangattu Gopalakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11424
+LAST|P747|Q139998485
+CREATE
+LAST|Len|"Antharjanathinu Snehapoorvam Basheer"
+LAST|Lml|"അന്തർജ്ജനത്തിനു സ്നേഹപൂർവ്വം ബഷീർ"
+LAST|Den|"Malayalam-language literary work by Thanuja S Bhattathiri"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/antharjanathinu-snehapoorvam-basheer"
+LAST|P2093|"Thanuja S Bhattathiri"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998486
+CREATE
+LAST|Len|"Antharvahini"
+LAST|Lml|"അന്തർവാഹിനി"
+LAST|Den|"Malayalam-language literary work by Pottekkat S K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/antharvahini"
+LAST|P2093|"Pottekkat S K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P747|Q139998487
+CREATE
+LAST|Len|"Anthikkallum Pranayashappum"
+LAST|Lml|"അന്തിക്കള്ളും പ്രണയശപ്പും"
+LAST|Den|"Malayalam-language literary work by Sheeja Vakkom"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anthikkallum-pranayashappum"
+LAST|P2093|"Sheeja Vakkom"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2022-09-14T00:00:00Z/11
+LAST|P747|Q139998488
+CREATE
+LAST|Len|"Anthimahakalam"
+LAST|Lml|"അന്തിമഹാകാളം"
+LAST|Den|"Malayalam-language literary work by K. G. Raghunath"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anthimahakalam"
+LAST|P2093|"K. G. Raghunath"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2021-10-22T00:00:00Z/11
+LAST|P747|Q139998489
+CREATE
+LAST|Len|"Anticlock"
+LAST|Lml|"ആന്റിക്ലോക്ക്"
+LAST|Den|"Malayalam-language literary work by V. J. James"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anticlock"
+LAST|P2093|"V. J. James"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-02-28T00:00:00Z/11
+LAST|P747|Q139998491
+CREATE
+LAST|Len|"Anubhavam Orma Yathra - Dr. M.k. Muneer"
+LAST|Lml|"അനുഭവം ഓര്മ യാത്ര - ദൃ. എം.കെ. മുനീർ"
+LAST|Den|"Malayalam-language literary work by M K Muneer"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavam-orma-yathra---dr-mk-muneer"
+LAST|P2093|"M K Muneer"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2019-05-21T00:00:00Z/11
+LAST|P747|Q139998492
+CREATE
+LAST|Len|"Anubhavam Orma Yathra-akbar Kakkattil"
+LAST|Lml|"അനുഭവം ഓര്മ യാത്ര-അക്ബർ കക്കട്ടിൽ"
+LAST|Den|"Malayalam-language literary work by Akbar Kakkattil"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavam-orma-yathra-akbar-kakkattil"
+LAST|P2093|"Akbar Kakkattil"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2019-06-19T00:00:00Z/11
+LAST|P747|Q139998495
+CREATE
+LAST|Len|"Anubhavam Orma Yathra-babu Baradwaj"
+LAST|Lml|"അനുഭവം ഓര്മ യാത്ര-ബാബു ഭരദ്വാജ്"
+LAST|Den|"Malayalam-language literary work by Babu Bharadwaj"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavam-orma-yathra-babu-baradwaj"
+LAST|P2093|"Babu Bharadwaj"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2019-08-14T00:00:00Z/11
+LAST|P747|Q139998496
+CREATE
+LAST|Len|"Anubhavam Orma Yathra-benyamin"
+LAST|Lml|"അനുഭവം ഓര്മ യാത്ര-ബെന്യാമിൻ"
+LAST|Den|"Malayalam-language literary work by Benyamin"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavam-orma-yathra-benyamin"
+LAST|P2093|"Benyamin"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2019-07-17T00:00:00Z/11
+LAST|P747|Q139998497
+CREATE
+LAST|Len|"Anubhavam Orma Yathra-m.mukundan"
+LAST|Lml|"അനുഭവം ഓര്മ യാത്ര-എം.മുകുന്ദൻ"
+LAST|Den|"Malayalam-language literary work by M. Mukundan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavam-orma-yathra-mmukundan"
+LAST|P2093|"M. Mukundan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2019-07-24T00:00:00Z/11
+LAST|P747|Q139998498
+CREATE
+LAST|Len|"Anubhavam Orma Yathra-m.n.karassery"
+LAST|Lml|"അനുഭവം ഓര്മ യാത്ര-എം.ണ്.കാരശ്ശേരി"
+LAST|Den|"Malayalam-language literary work by M N Karassery"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavam-orma-yathra-mnkarassery"
+LAST|P2093|"M N Karassery"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2019-07-30T00:00:00Z/11
+LAST|P747|Q139998499
+CREATE
+LAST|Len|"Anubhavam Orma Yathra-sachidanandan"
+LAST|Lml|"അനുഭവം ഓര്മ യാത്ര-സച്ചിദാനന്ദൻ"
+LAST|Den|"Malayalam-language literary work by K Sachidanandan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavam-orma-yathra-sachidanandan"
+LAST|P2093|"K Sachidanandan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2019-07-17T00:00:00Z/11
+LAST|P747|Q139998500
+CREATE
+LAST|Len|"Anubhavam Orma Yathra-u.k.kumaran"
+LAST|Lml|"അനുഭവം ഓര്മ യാത്ര-ഉ.കെ.കുമാരൻ"
+LAST|Den|"Malayalam-language literary work by U K Kumaran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavam-orma-yathra-ukkumaran"
+LAST|P2093|"U K Kumaran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2019-07-17T00:00:00Z/11
+LAST|P747|Q139998501
+CREATE
+LAST|Len|"Anubhavam Orma Yatra – U a Khader"
+LAST|Lml|"അനുഭവം ഓര്മ യാത്ര – ഉ എ ഖാദർ"
+LAST|Den|"Malayalam-language literary work by Category :"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavam-orma-yatra--u-a-khader"
+LAST|P2093|"Category :"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2019-06-19T00:00:00Z/11
+LAST|P747|Q139998502
+CREATE
+LAST|Len|"Anubhavam Orma Yatra-p K Parakkadavu"
+LAST|Lml|"അനുഭവം ഓര്മ യാത്ര-പി കെ പാറക്കടവ്"
+LAST|Den|"Malayalam-language literary work by P. K. Parakkadavu"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavam-orma-yatra-p-k-parakkadavu"
+LAST|P2093|"P. K. Parakkadavu"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2019-06-11T00:00:00Z/11
+LAST|P747|Q139998503
+CREATE
+LAST|Len|"Anubhavangal"
+LAST|Lml|"അനുഭവങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Nandanar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavangal"
+LAST|P2093|"Nandanar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-11-12T00:00:00Z/11
+LAST|P747|Q139998504
+CREATE
+LAST|Len|"Anubhavangal Nettangal"
+LAST|Lml|"അനുഭവങ്ങൾ നേട്ടങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by M. Govindan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anubhavangal-nettangal"
+LAST|P2093|"M. Govindan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2022-01-20T00:00:00Z/11
+LAST|P747|Q139998505
+CREATE
+LAST|Len|"Anukudumbathile Kutti"
+LAST|Lml|"അണുകുടുംബത്തിലെ കുട്ടി"
+LAST|Den|"Malayalam-language literary work by Thanuvan Achari S"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anukudumbathile-kutti"
+LAST|P2093|"Thanuvan Achari S"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2017-01-04T00:00:00Z/11
+LAST|P747|Q139998506
+CREATE
+LAST|Len|"Anuragathinte Dinangal"
+LAST|Lml|"അനുരാഗത്തിന്റെ ദിനങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Vaikom Muhammad Basheer"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anuragathinte-dinangal"
+LAST|P2093|"Vaikom Muhammad Basheer"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q858330
+LAST|P577|+2025-10-29T00:00:00Z/11
+LAST|P747|Q139998507
+CREATE
+LAST|Len|"Anuyojya Vidyabhyasam"
+LAST|Lml|"അനുയോജ്യ വിദ്യാഭ്യാസം"
+LAST|Den|"Malayalam-language literary work by Basheer K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anuyojya-vidyabhyasam"
+LAST|P2093|"Basheer K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2015-06-17T00:00:00Z/11
+LAST|P747|Q139998508
+CREATE
+LAST|Len|"Anuyojyamaya Coursukal Thiranjedukkuvan"
+LAST|Lml|"അനുയോജ്യമായ കോഴ്സുകൾ തിരഞ്ഞെടുക്കുവാൻ"
+LAST|Den|"Malayalam-language literary work by Sethumadhavan T P"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anuyojyamaya-coursukal-thiranjedukkuvan"
+LAST|P2093|"Sethumadhavan T P"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q282049
+LAST|P747|Q139998509
+CREATE
+LAST|Len|"Anveshanachovva"
+LAST|Lml|"അന്വേഷണച്ചൊവ്വ"
+LAST|Den|"Malayalam-language literary work by Anoop S. P."
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/anveshanachovva"
+LAST|P2093|"Anoop S. P."
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q182015
+LAST|P577|+2021-12-10T00:00:00Z/11
+LAST|P747|Q139998511
+CREATE
+LAST|Len|"Apara Ormasakthi Nedam, Pariseelikkam"
+LAST|Lml|"അപാര ഓര്മശക്തി നേടാം  പരിശീലിക്കാം"
+LAST|Den|"Malayalam-language literary work by Sakunthala Devi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/apara-ormasakthi-nedam-pariseelikkam"
+LAST|P2093|"Sakunthala Devi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P577|+2023-03-30T00:00:00Z/11
+LAST|P747|Q139998512
+CREATE
+LAST|Len|"Aparachinthanam"
+LAST|Lml|"അപരചിന്തനം"
+LAST|Den|"Malayalam-language literary work by Baburaj K K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/aparachinthanam"
+LAST|P2093|"Baburaj K K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2022-07-27T00:00:00Z/11
+LAST|P747|Q139998513
+CREATE
+LAST|Len|"Aparahnam"
+LAST|Lml|"അപരാഹ്നം"
+LAST|Den|"Malayalam-language literary work by O. N. V. Kurup"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/aparahnam"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2018-12-19T00:00:00Z/11
+LAST|P747|Q139998514
+CREATE
+LAST|Len|"Appam Chudunna Kunkiyamma"
+LAST|Lml|"അപ്പം ചുടുന്ന കുങ്കിയമ്മ"
+LAST|Den|"Malayalam-language literary work by M. Mukundan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/appam-chudunna-kunkiyamma"
+LAST|P2093|"M. Mukundan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2025-06-25T00:00:00Z/11
+LAST|P747|Q139998515
+CREATE
+LAST|Len|"Appan"
+LAST|Lml|"അപ്പൻ"
+LAST|Den|"Malayalam-language literary work by S. Hareesh"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/appan"
+LAST|P2093|"S. Hareesh"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-09-30T00:00:00Z/11
+LAST|P747|Q139998516
+CREATE
+LAST|Len|"Appante Brandykkuppy"
+LAST|Lml|"അപ്പന്റെ ബ്രാണ്ടിക്കുപ്പി"
+LAST|Den|"Malayalam-language literary work by M. Mukundan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/appante-brandykkuppy"
+LAST|P2093|"M. Mukundan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P747|Q139998517
+CREATE
+LAST|Len|"Appooppanthadiyude Swargayatrayum Mattu Balakadhakalum"
+LAST|Lml|"അപ്പൂപ്പന്താടിയുടെ സ്വർഗ്ഗയാത്രയും മറ്റു ബാലകഥകളും"
+LAST|Den|"Malayalam-language literary work by Sippy Pallippuram"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/appooppanthadiyude-swargayatrayum-mattu-balakadhakalum"
+LAST|P2093|"Sippy Pallippuram"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2023-11-30T00:00:00Z/11
+LAST|P747|Q139998518
+CREATE
+LAST|Len|"Aracycle"
+LAST|Lml|"അരസികളെ"
+LAST|Den|"Malayalam-language literary work by Renukumar M. R"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/aracycle"
+LAST|P2093|"Renukumar M. R"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2025-09-15T00:00:00Z/11
+LAST|P747|Q139998520
+CREATE
+LAST|Len|"Aranginte Vakabhedangal"
+LAST|Lml|"അരങ്ങിന്റെ വകഭേദങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Sajitha Madathil"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/aranginte-vakabhedangal"
+LAST|P2093|"Sajitha Madathil"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2013-07-02T00:00:00Z/11
+LAST|P747|Q139998521
+CREATE
+LAST|Len|"Arbudham - Kuttikalilum Sthreekalilum"
+LAST|Lml|"അര്ബുദം - കുട്ടികളിലും സ്ത്രീകളിലും"
+LAST|Den|"Malayalam-language literary work by B Shyamala Kumari"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/arbudham-kuttikalilum-sthreekalilum"
+LAST|P2093|"B Shyamala Kumari"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12147
+LAST|P577|+2017-02-03T00:00:00Z/11
+LAST|P747|Q139998522
+CREATE
+LAST|Len|"Ardhanareeswaran"
+LAST|Lml|"അർദ്ധനാരീശ്വരൻ"
+LAST|Den|"Malayalam-language literary work by Perumal Murukan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ardhanareeswaran"
+LAST|P2093|"Perumal Murukan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-11-29T00:00:00Z/11
+LAST|P747|Q139998523
+CREATE
+LAST|Len|"Ardhaviramangal"
+LAST|Lml|"അർദ്ധവിരാമങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by O. N. V. Kurup"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ardhaviramangal"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2025-05-31T00:00:00Z/11
+LAST|P747|Q139998524
+CREATE
+LAST|Len|"Are You Human Manushyethara Manavikathaykku Oramukham"
+LAST|Lml|"ഏറെ യു ഹ്യൂമൻ മനുഷ്യേതര മാനവികതയ്ക്കു ഒരാമുഖം"
+LAST|Den|"Malayalam-language literary work by Prasad Pannian"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/are-you-human-manushyethara-manavikathaykku-oramukham-"
+LAST|P2093|"Prasad Pannian"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2025-09-29T00:00:00Z/11
+LAST|P747|Q139998525
+CREATE
+LAST|Len|"Arikil Nee Undayirunnenkil"
+LAST|Lml|"അരികിൽ നീ ഉണ്ടായിരുന്നെങ്കിൽ"
+LAST|Den|"Malayalam-language literary work by O. N. V. Kurup"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/arikil-nee-undayirunnenkil"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2017-02-22T00:00:00Z/11
+LAST|P747|Q139998526
+CREATE
+LAST|Len|"Arinjathinumappuram"
+LAST|Lml|"അറിഞ്ഞതിനുമപ്പുറം"
+LAST|Den|"Malayalam-language literary work by Rajendran C P"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/arinjathinumappuram"
+LAST|P2093|"Rajendran C P"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2015-12-15T00:00:00Z/11
+LAST|P747|Q139998527
+CREATE
+LAST|Len|"Arivavakasham : Kathayum Porulum"
+LAST|Lml|"അറിവാവകാശം : കഥയും പൊരുളും"
+LAST|Den|"Malayalam-language literary work by K.V Sudhakaran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/arivavakasham-kathayum-porulum"
+LAST|P2093|"K.V Sudhakaran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2022-10-27T00:00:00Z/11
+LAST|P747|Q139998528
+CREATE
+LAST|Len|"Arivekum Jeevasasthram"
+LAST|Lml|"അരിവെക്കും ജീവശാസ്ത്രം"
+LAST|Den|"Malayalam-language literary work by Rajagopal Kammath A"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/arivekum-jeevasasthram"
+LAST|P2093|"Rajagopal Kammath A"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139998529
+CREATE
+LAST|Len|"O V Vijayante Kathakal"
+LAST|Lml|"ഓ വി വിജയൻറെ കഥകൾ"
+LAST|Den|"Malayalam-language literary work by O V Vijayan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/o-v-vijayante-kathakal"
+LAST|P2093|"O V Vijayan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q20540385
+LAST|P577|+2022-04-25T00:00:00Z/11
+LAST|P747|Q140000100
+CREATE
+LAST|Len|"Oceanic Gothrakathakalum Russian Nadodikathakalum"
+LAST|Lml|"ഒസ്താനിക് ഗോത്രകഥകളും റഷ്യൻ നാടോടിക്കഥകളും"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oceanic-gothrakathakalum-russian-nadodikathakalum"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9134
+LAST|P577|+2017-07-10T00:00:00Z/11
+LAST|P747|Q140000101
+CREATE
+LAST|Len|"Oharinikshepam Ariyendathellam"
+LAST|Lml|"ഓഹരിനിക്ഷേപം അറിയേണ്ടതെല്ലാം"
+LAST|Den|"Malayalam-language literary work by Roshan R"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oharinikshepam-ariyendathellam"
+LAST|P2093|"Roshan R"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P136|Q4830453
+LAST|P577|+2025-01-28T00:00:00Z/11
+LAST|P747|Q140000102
+CREATE
+LAST|Len|"Oharivipaniyil Vijayam Koyyan"
+LAST|Lml|"ഓഹരിവിപണിയിൽ വിജയം കൊയ്യാൻ"
+LAST|Den|"Malayalam-language literary work by Manoj Thomas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oharivipaniyil-vijayam-koyyan"
+LAST|P2093|"Manoj Thomas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q4830453
+LAST|P577|+2015-07-15T00:00:00Z/11
+LAST|P747|Q140000103
+CREATE
+LAST|Len|"Oheemo"
+LAST|Lml|"ഓഹീമോ"
+LAST|Den|"Malayalam-language literary work by Sharon"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oheemo"
+LAST|P2093|"Sharon"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2019-01-16T00:00:00Z/11
+LAST|P747|Q140000104
+CREATE
+LAST|Len|"Olavum Theeravum"
+LAST|Lml|"ഓളവും തീരവും"
+LAST|Den|"Malayalam-language literary work by M T Vasudevan Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/olavum-theeravum"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2017-08-30T00:00:00Z/11
+LAST|P747|Q140000105
+CREATE
+LAST|Len|"Olympicsile Indian Veeragathakal"
+LAST|Lml|"ഒളിംപിക്സിലെ ഇന്ത്യൻ വീരകഥകൾ"
+LAST|Den|"Malayalam-language literary work by Sanil P Thomas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/olympicsile-indian-veeragathakal"
+LAST|P2093|"Sanil P Thomas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q349
+LAST|P577|+2016-07-19T00:00:00Z/11
+LAST|P747|Q140000106
+CREATE
+LAST|Len|"Olympicsinte Katha"
+LAST|Lml|"ഒളിംപിക്സിന്റെ കഥ"
+LAST|Den|"Malayalam-language literary work by Sanil P Thomas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/olympicsinte-katha"
+LAST|P2093|"Sanil P Thomas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q349
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q140000107
+CREATE
+LAST|Len|"Onchiyam Rekhakal -janadhipathyam V/s Facism"
+LAST|Lml|"ഒഞ്ചിയം രേഖകൾ -ജനാധിപത്യം വി/സ് ഫാസിസം"
+LAST|Den|"Malayalam-language literary work by Neelakantan C R"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/onchiyam-rekhakal-janadhipathyam-vs-facism-299516404823"
+LAST|P2093|"Neelakantan C R"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q7163
+LAST|P577|+2012-09-08T00:00:00Z/11
+LAST|P747|Q140000108
+CREATE
+LAST|Len|"Onlinile Schoolpadanam"
+LAST|Lml|"ഓൺലൈനിലെ സ്കൂള്പഠനം"
+LAST|Den|"Malayalam-language literary work by A K Abdulhakkeem"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/onlinile-schoolpadanam"
+LAST|P2093|"A K Abdulhakkeem"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2021-07-13T00:00:00Z/11
+LAST|P747|Q140000109
+CREATE
+LAST|Len|"Onnam Forensic Adhyayam"
+LAST|Lml|"ഒന്നാം ഫോറന്സിക് അധ്യായം"
+LAST|Den|"Malayalam-language literary work by Rajad R."
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/onnam-forensic-adhyayam"
+LAST|P2093|"Rajad R."
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q182015
+LAST|P577|+2022-01-04T00:00:00Z/11
+LAST|P747|Q140000110
+CREATE
+LAST|Len|"Onpathu Jeevithangal"
+LAST|Lml|"ഒൻപതു ജീവിതങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by William Dalrymple"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/onpathu-jeevithangal"
+LAST|P2093|"William Dalrymple"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2010-12-27T00:00:00Z/11
+LAST|P747|Q140000111
+CREATE
+LAST|Len|"Onv Yude Anaswara Kavithakal"
+LAST|Lml|"ഓണവ യുടെ അനശ്വര കവിതകൾ"
+LAST|Den|"Malayalam-language literary work by O. N. V. Kurup"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/onv-yude-anaswara-kavithakal"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2024-10-31T00:00:00Z/11
+LAST|P747|Q140000112
+CREATE
+LAST|Len|"Oorjakadhakal"
+LAST|Lml|"ഊർജകഥകൾ"
+LAST|Den|"Malayalam-language literary work by S. Sivadas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oorjakadhakal"
+LAST|P2093|"S. Sivadas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2022-04-28T00:00:00Z/11
+LAST|P747|Q140000113
+CREATE
+LAST|Len|"Oorjasrothassukal"
+LAST|Lml|"ഊർജസ്രോതസ്സുകൾ"
+LAST|Den|"Malayalam-language literary work by Suresh Mannarasala"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oorjasrothassukal"
+LAST|P2093|"Suresh Mannarasala"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q13136
+LAST|P577|+2021-04-16T00:00:00Z/11
+LAST|P747|Q140000114
+CREATE
+LAST|Len|"Oorooroo Kaalathilum"
+LAST|Lml|"ഓരോരോ കാലത്തിലും"
+LAST|Den|"Malayalam-language literary work by Sreeja K V"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oorooroo-kaalathilum"
+LAST|P2093|"Sreeja K V"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-07-31T00:00:00Z/11
+LAST|P747|Q140000115
+CREATE
+LAST|Len|"Ooru Kaval"
+LAST|Lml|"ഒരു കാവൽ"
+LAST|Den|"Malayalam-language literary work by Sarah Joseph"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ooru-kaval"
+LAST|P2093|"Sarah Joseph"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-10-28T00:00:00Z/11
+LAST|P747|Q140000116
+CREATE
+LAST|Len|"Orachan Makalkkayacha Kathukal"
+LAST|Lml|"ഒരച്ഛൻ മകൾക്കയച്ച കത്തുകൾ"
+LAST|Den|"Malayalam-language literary work by Jawaharlal Nehru"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/orachan-makalkkayacha-kathukal"
+LAST|P2093|"Jawaharlal Nehru"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-11-24T00:00:00Z/11
+LAST|P747|Q140000117
+CREATE
+LAST|Len|"Oranjukutti"
+LAST|Lml|"ഓറഞ്ചുകുട്ടി"
+LAST|Den|"Malayalam-language literary work by Lalithambika Antharjanam"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oranjukutti"
+LAST|P2093|"Lalithambika Antharjanam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-10-30T00:00:00Z/11
+LAST|P747|Q140000118
+CREATE
+LAST|Len|"Oranweshanathinte Katha"
+LAST|Lml|"ഒരന്വേഷണത്തിന്റെ കഥ"
+LAST|Den|"Malayalam-language literary work by K Venu"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oranweshanathinte-katha"
+LAST|P2093|"K Venu"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2023-05-30T00:00:00Z/11
+LAST|P747|Q140000119
+CREATE
+LAST|Len|"Orayiram Kamukanmar"
+LAST|Lml|"ഒരായിരം കാമുകന്മാർ"
+LAST|Den|"Malayalam-language literary work by Kishan Chandar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/orayiram-kamukanmar"
+LAST|P2093|"Kishan Chandar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q140000120
+CREATE
+LAST|Len|"Ore Kadalile Kappalukal"
+LAST|Lml|"ഒരേ കടലിലെ കപ്പലുകൾ"
+LAST|Den|"Malayalam-language literary work by Subhash Ottumpuram"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ore-kadalile-kappalukal"
+LAST|P2093|"Subhash Ottumpuram"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-01-24T00:00:00Z/11
+LAST|P747|Q140000121
+CREATE
+LAST|Len|"Oridathoru Fayalvan"
+LAST|Lml|"ഒരിടത്തൊരു ഫയല്വാന്"
+LAST|Den|"Malayalam-language literary work by P Padmarajan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oridathoru-fayalvan"
+LAST|P2093|"P Padmarajan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q103076
+LAST|P577|+2018-06-05T00:00:00Z/11
+LAST|P747|Q140000122
+CREATE
+LAST|Len|"Orkkappurangal"
+LAST|Lml|"ഓർക്കാപ്പുറങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Kalpatta Narayanan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/orkkappurangal"
+LAST|P2093|"Kalpatta Narayanan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2021-11-30T00:00:00Z/11
+LAST|P747|Q140000123
+CREATE
+LAST|Len|"Ormaayanam"
+LAST|Lml|"ഒരമായണം"
+LAST|Den|"Malayalam-language literary work by Sudhakaran E"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormaayanam"
+LAST|P2093|"Sudhakaran E"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q140000124
+CREATE
+LAST|Len|"Ormachavu"
+LAST|Lml|"ഓർമക്കാവ്"
+LAST|Den|"Malayalam-language literary work by Shivaprasad P"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormachavu"
+LAST|P2093|"Shivaprasad P"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-10-31T00:00:00Z/11
+LAST|P747|Q140000125
+CREATE
+LAST|Len|"Ormacheppu"
+LAST|Lml|"ഓർമ്മച്ചെപ്പ്"
+LAST|Den|"Malayalam-language literary work by M. M. Hassan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormacheppu-hassan"
+LAST|P2093|"M. M. Hassan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2022-10-06T00:00:00Z/11
+LAST|P747|Q140000126
+CREATE
+LAST|Len|"Ormakalude Pagoda"
+LAST|Lml|"ഓർമകളുടെ പഗോഡ"
+LAST|Den|"Malayalam-language literary work by U. A. Khadar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormakalude-pagoda"
+LAST|P2093|"U. A. Khadar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P136|Q36279
+LAST|P577|+2013-10-01T00:00:00Z/11
+LAST|P747|Q140000127
+CREATE
+LAST|Len|"Ormakalude Urumpanakkangal"
+LAST|Lml|"ഓർമകളുടെ ഉറുമ്പനക്കങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Fousia Kalappatt"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormakalude-urumpanakkangal"
+LAST|P2093|"Fousia Kalappatt"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2019-06-10T00:00:00Z/11
+LAST|P747|Q140000128
+CREATE
+LAST|Len|"Ormakalute Snehatheeram"
+LAST|Lml|"ഓർമകളുടെ സ്നേഹതീരം"
+LAST|Den|"Malayalam-language literary work by T N Prathapan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormakalute-snehatheeram"
+LAST|P2093|"T N Prathapan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q6647667
+LAST|P577|+2019-06-11T00:00:00Z/11
+LAST|P747|Q140000129
+CREATE
+LAST|Len|"Ormakkurippu"
+LAST|Lml|"ഓർമ്മക്കുറിപ്പ്"
+LAST|Den|"Malayalam-language literary work by Vaikom Muhammad Basheer"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormakkurippu"
+LAST|P2093|"Vaikom Muhammad Basheer"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-10-30T00:00:00Z/11
+LAST|P747|Q140000130
+CREATE
+LAST|Len|"Ormappadikal"
+LAST|Lml|"ഓർമപ്പടികൾ"
+LAST|Den|"Malayalam-language literary work by M A Oommen"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormappadikal"
+LAST|P2093|"M A Oommen"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2021-06-22T00:00:00Z/11
+LAST|P747|Q140000131
+CREATE
+LAST|Len|"Ormayile Krishikkazhchakal"
+LAST|Lml|"ഓർമയിലെ കൃഷിക്കാഴ്ചകൾ"
+LAST|Den|"Malayalam-language literary work by Muralidharan Thazhakkara"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormayile-krishikkazhchakal"
+LAST|P2093|"Muralidharan Thazhakkara"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36192
+LAST|P577|+2017-07-17T00:00:00Z/11
+LAST|P747|Q140000132
+CREATE
+LAST|Len|"Ormayile Theenalangal"
+LAST|Lml|"ഓർമയിലെ തീനാളങ്ങൾ"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormayile-theenalangal"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2022-11-01T00:00:00Z/11
+LAST|P747|Q140000133
+CREATE
+LAST|Len|"Ormayude Arakal"
+LAST|Lml|"ഓർമയുടെ അറകൾ"
+LAST|Den|"Malayalam-language literary work by Vaikom Muhammad Basheer"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormayude-arakal"
+LAST|P2093|"Vaikom Muhammad Basheer"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P136|Q36279
+LAST|P577|+2024-06-20T00:00:00Z/11
+LAST|P747|Q140000134
+CREATE
+LAST|Len|"Ormayude Njarambu"
+LAST|Lml|"ഓർമ്മയുടെ ഞരമ്പ്"
+LAST|Den|"Malayalam-language literary work by K. R. Meera"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormayude-njarambu"
+LAST|P2093|"K. R. Meera"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2026-02-28T00:00:00Z/11
+LAST|P747|Q140000135
+CREATE
+LAST|Len|"Ormayude Olangalil (print on Demand )"
+LAST|Lml|"ഓർമയുടെ ഓളങ്ങളിൽ (പ്രിന്റ് ഓൺ ഡിമാൻഡ് )"
+LAST|Den|"Malayalam-language literary work by Antony M. Ambattu"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormayude-olangalil-print-on-demand--47389604430"
+LAST|P2093|"Antony M. Ambattu"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2021-04-23T00:00:00Z/11
+LAST|P747|Q140000136
+CREATE
+LAST|Len|"Ormayude Oliyalakal"
+LAST|Lml|"ഓർമയുടെ ഒളിയലകൾ"
+LAST|Den|"Malayalam-language literary work by P.leelakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormayude-oliyalakal"
+LAST|P2093|"P.leelakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2022-05-21T00:00:00Z/11
+LAST|P747|Q140000139
+CREATE
+LAST|Len|"Ormmakalude Album"
+LAST|Lml|"ഓർമ്മകളുടെ ആൽബം"
+LAST|Den|"Malayalam-language literary work by Malayattoor Ramakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormmakalude-album"
+LAST|P2093|"Malayattoor Ramakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2021-07-30T00:00:00Z/11
+LAST|P747|Q140000140
+CREATE
+LAST|Len|"Ormmappadam"
+LAST|Lml|"ഓർമ്മപ്പാടം"
+LAST|Den|"Malayalam-language literary work by P Balachandran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormmappadam"
+LAST|P2093|"P Balachandran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2022-01-29T00:00:00Z/11
+LAST|P747|Q140000141
+CREATE
+LAST|Len|"Ormmayundo Ee Mukham (keralam 60 Series)"
+LAST|Lml|"ഓർമ്മയുണ്ടോ ഈ മുഖം (കേരളം 60 സീരീസ്)"
+LAST|Den|"Malayalam-language literary work by Bipin Chandran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ormmayundo-ee-mukham"
+LAST|P2093|"Bipin Chandran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11424
+LAST|P577|+2017-08-22T00:00:00Z/11
+LAST|P747|Q140000142
+CREATE
+LAST|Len|"Oro Swasavum Santhi"
+LAST|Lml|"ഓരോ ശ്വാസവും ശാന്തി"
+LAST|Den|"Malayalam-language literary work by Thich Nhat Hanh"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oro-swasavum-santhi"
+LAST|P2093|"Thich Nhat Hanh"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P577|+2019-11-15T00:00:00Z/11
+LAST|P747|Q140000143
+CREATE
+LAST|Len|"Oro Votum - Janadhipathyavum Theranjeduppum ( Every Vote Counts ))"
+LAST|Lml|"ഓരോ വോട്ടും - ജനാധിപത്യവും തെരഞ്ഞെടുപ്പും  ( എവെരി വോട്ട് കൗണ്ട് ))"
+LAST|Den|"Malayalam-language literary work by Navin Chawla IAS"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oro-votum-janadhipathyavum-theranjeduppum"
+LAST|P2093|"Navin Chawla IAS"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q309
+LAST|P577|+2019-03-12T00:00:00Z/11
+LAST|P747|Q140000145
+CREATE
+LAST|Len|"Ororo Thirivukal"
+LAST|Lml|"ഓരോരോ തിരിവുകൾ"
+LAST|Den|"Malayalam-language literary work by Priya A. S."
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ororo-thirivukal"
+LAST|P2093|"Priya A. S."
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2023-12-28T00:00:00Z/11
+LAST|P747|Q140000146
+CREATE
+LAST|Len|"Orpheus"
+LAST|Lml|"ഓർഫക്സ്"
+LAST|Den|"Malayalam-language literary work by Joseph S"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/orpheus"
+LAST|P2093|"Joseph S"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2021-02-19T00:00:00Z/11
+LAST|P747|Q140000148
+CREATE
+LAST|Len|"Orthu Chirikkan"
+LAST|Lml|"ഓർത്തു ചിരിക്കാൻ"
+LAST|Den|"Malayalam-language literary work by Vincent Arakkuzha"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/orthu-chirikkan"
+LAST|P2093|"Vincent Arakkuzha"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q60548032
+LAST|P577|+2013-03-07T00:00:00Z/11
+LAST|P747|Q140000149
+CREATE
+LAST|Len|"Oru Adholoka Recipie"
+LAST|Lml|"ഒരു അധോലോക റെസിപിഎ"
+LAST|Den|"Malayalam-language literary work by Shaju V V"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-adholoka-recipie"
+LAST|P2093|"Shaju V V"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2021-04-16T00:00:00Z/11
+LAST|P747|Q140000150
+CREATE
+LAST|Len|"Oru Adimappenkuttiyude Jeevithanubhavangal"
+LAST|Lml|"ഒരു അടിമപ്പെൺകുട്ടിയുടെ ജീവിതാനുഭവങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Harriet Ann Jacob"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-adimappenkuttiyude-jeevithanubhavangal"
+LAST|P2093|"Harriet Ann Jacob"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2019-06-04T00:00:00Z/11
+LAST|P747|Q140000151
+CREATE
+LAST|Len|"Oru Asaadhaarana Jeevitham"
+LAST|Lml|"ഒരു അസാധാരണ ജീവിതം"
+LAST|Den|"Malayalam-language literary work by Shijil Kumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-asaadhaarana-jeevitham"
+LAST|P2093|"Shijil Kumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q213051
+LAST|P136|Q36279
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P747|Q140000154
+CREATE
+LAST|Len|"Oru Bhagavatgeetayum Kure Mulakalum"
+LAST|Lml|"ഒരു ഭഗവതിഗീതയും കുറെ മുലകളും"
+LAST|Den|"Malayalam-language literary work by Vaikom Muhammad Basheer"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-bhagavatgeetayum-kure-mulakalum"
+LAST|P2093|"Vaikom Muhammad Basheer"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-07-02T00:00:00Z/11
+LAST|P747|Q140000155
+CREATE
+LAST|Len|"Psc Last Grade Vinjana Padavukal"
+LAST|Lml|"സ്പി ലിസ്റ് ഗ്രേഡ് വിജ്ഞാന പടവുകൾ"
+LAST|Den|"Malayalam-language literary work by I Rank Research Team"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/psc-last-grade-vinjana-padavukal"
+LAST|P2093|"I Rank Research Team"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q282049
+LAST|P577|+2014-01-01T00:00:00Z/11
+LAST|P747|Q140000416
+CREATE
+LAST|Len|"Psc Lp/up School Assistant"
+LAST|Lml|"സ്പി ലിപ്/അപ്പ് സ്കൂൾ അസിസ്റ്റന്റ്"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/psc-lp-up-school-assistant"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q282049
+LAST|P577|+2014-10-11T00:00:00Z/11
+LAST|P747|Q140000417
+CREATE
+LAST|Len|"Psc Nirantharam Aavarthikkunna 10000 Chodyangal"
+LAST|Lml|"സ്പി നിരന്തരം ആവർത്തിക്കുന്ന 10000 ചോദ്യങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Sukumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/psc-nirantharam-aavarthikkunna-10000-chodyangal-203085316316"
+LAST|P2093|"Sukumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q13136
+LAST|P577|+2019-12-16T00:00:00Z/11
+LAST|P747|Q140000418
+CREATE
+LAST|Len|"Psc Pareekshakalkku Priyappetta Chodyangal"
+LAST|Lml|"സ്പി പരീക്ഷകൾക്ക് പ്രിയപ്പെട്ട ചോദ്യങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Jaikar Thalayolapparambu"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/psc-pareekshakalkku-priyappetta-chodyangal"
+LAST|P2093|"Jaikar Thalayolapparambu"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q282049
+LAST|P577|+2017-06-12T00:00:00Z/11
+LAST|P747|Q140000419
+CREATE
+LAST|Len|"Psc Prayogika Ganitham"
+LAST|Lml|"സ്പി പ്രായോഗിക ഗണിതം"
+LAST|Den|"Malayalam-language literary work by Palliyara Sreedharan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/psc-prayogika-ganitham"
+LAST|P2093|"Palliyara Sreedharan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q282049
+LAST|P136|Q395
+LAST|P577|+2017-06-21T00:00:00Z/11
+LAST|P747|Q140000420
+CREATE
+LAST|Len|"Psc Previous Question Papers Work Book"
+LAST|Lml|"സ്പി പ്രീവിയസ് കുഎസ്ടിഒന് പപെര്സ് വർക്ക് ബുക്ക്"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/psc-previous-question-papers-work-book"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q282049
+LAST|P577|+2014-01-01T00:00:00Z/11
+LAST|P747|Q140000421
+CREATE
+LAST|Len|"Psc Super Memory Tips"
+LAST|Lml|"സ്പി സൂപ്പർ മെമ്മറി ടിപ്സ്"
+LAST|Den|"Malayalam-language literary work by Sunil John S"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/psc-super-memory-tips"
+LAST|P2093|"Sunil John S"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q282049
+LAST|P577|+2018-03-30T00:00:00Z/11
+LAST|P747|Q140000422
+CREATE
+LAST|Len|"Pulijanmam"
+LAST|Lml|"പുലിജന്മം"
+LAST|Den|"Malayalam-language literary work by N Prabhakaran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pulijanmam"
+LAST|P2093|"N Prabhakaran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q103076
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q140000423
+CREATE
+LAST|Len|"Pulimurugan: a Roar in the Boxoffice"
+LAST|Lml|"പുലിമുരുഗൻ: എ റോർ ഇൻ ദി ബോസ്ഓഫീസ്"
+LAST|Den|"Malayalam-language literary work by T Arunkumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pulimurugan-a-roar-in-the-boxoffice"
+LAST|P2093|"T Arunkumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P136|Q11424
+LAST|P577|+2017-04-07T00:00:00Z/11
+LAST|P747|Q140000424
+CREATE
+LAST|Len|"Pulinelli Station"
+LAST|Lml|"പുളിനെല്ലി സ്റ്റേഷൻ"
+LAST|Den|"Malayalam-language literary work by Ashokan Charuvil"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pulinelli-station"
+LAST|P2093|"Ashokan Charuvil"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2020-01-15T00:00:00Z/11
+LAST|P747|Q140000425
+CREATE
+LAST|Len|"Pullikkaruppan"
+LAST|Lml|"പുള്ളിക്കറുപ്പാണ്"
+LAST|Den|"Malayalam-language literary work by Madhusanker Meenakshi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pullikkaruppan"
+LAST|P2093|"Madhusanker Meenakshi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2026-02-27T00:00:00Z/11
+LAST|P747|Q140000426
+CREATE
+LAST|Len|"Pulliyan"
+LAST|Lml|"പുലിയാണ്"
+LAST|Den|"Malayalam-language literary work by Soman Kataloor"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pulliyan"
+LAST|P2093|"Soman Kataloor"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-10-17T00:00:00Z/11
+LAST|P747|Q140000427
+CREATE
+LAST|Len|"Punarapi"
+LAST|Lml|"പുനരപി"
+LAST|Den|"Malayalam-language literary work by O. N. V. Kurup"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/punarapi"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2020-09-01T00:00:00Z/11
+LAST|P747|Q140000428
+CREATE
+LAST|Len|"Punarjanmam"
+LAST|Lml|"പുനർജ്ജന്മം"
+LAST|Den|"Malayalam-language literary work by Swami Abhedananda"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/punarjanmam"
+LAST|P2093|"Swami Abhedananda"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q5891
+LAST|P577|+2008-01-01T00:00:00Z/11
+LAST|P747|Q140000429
+CREATE
+LAST|Len|"Punarvayanakalile Marxism"
+LAST|Lml|"പുനര്വായനകളിലെ മാർക്സിസം"
+LAST|Den|"Malayalam-language literary work by Sreekumar T T"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/punarvayanakalile-marxism"
+LAST|P2093|"Sreekumar T T"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2021-09-07T00:00:00Z/11
+LAST|P747|Q140000430
+CREATE
+LAST|Len|"Punathilinte Yathrakal"
+LAST|Lml|"പുനത്തിലിന്റെ യാത്രകൾ"
+LAST|Den|"Malayalam-language literary work by Punathil Kunhabdulla"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/punathilinte-yathrakal"
+LAST|P2093|"Punathil Kunhabdulla"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2022-02-24T00:00:00Z/11
+LAST|P747|Q140000431
+CREATE
+LAST|Len|"Punchiriyode Jeevikkan"
+LAST|Lml|"പുഞ്ചിരിയോടെ ജീവിക്കാൻ"
+LAST|Den|"Malayalam-language literary work by Nathan P R"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/punchiriyode-jeevikkan"
+LAST|P2093|"Nathan P R"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P577|+2019-09-20T00:00:00Z/11
+LAST|P747|Q140000432
+CREATE
+LAST|Len|"Punnapravayalarum Keralacharithravum"
+LAST|Lml|"പുന്നപ്രവയലാരും കേരളചരിത്രവും"
+LAST|Den|"Malayalam-language literary work by A Sreedhara Menon"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/punnapravayalarum-keralacharithravum"
+LAST|P2093|"A Sreedhara Menon"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q309
+LAST|P577|+2021-04-16T00:00:00Z/11
+LAST|P747|Q140000433
+CREATE
+LAST|Len|"Punyam Aham"
+LAST|Lml|"പുണ്യം അഹം"
+LAST|Den|"Malayalam-language literary work by Raj Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/punyam-aham"
+LAST|P2093|"Raj Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q103076
+LAST|P577|+2014-12-29T00:00:00Z/11
+LAST|P747|Q140000434
+CREATE
+LAST|Len|"Purampokkupadal"
+LAST|Lml|"പുറംപോക്കുപാടൽ"
+LAST|Den|"Malayalam-language literary work by T M Krishna"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/purampokkupadal"
+LAST|P2093|"T M Krishna"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q7163
+LAST|P136|Q638
+LAST|P136|Q11042
+LAST|P577|+1970-01-20T00:00:00Z/11
+LAST|P747|Q140000435
+CREATE
+LAST|Len|"Purana Kathasagaram"
+LAST|Lml|"പുരാണ കഥാസാഗരം"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/purana-kathasagaram"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9134
+LAST|P577|+2017-07-10T00:00:00Z/11
+LAST|P747|Q140000436
+CREATE
+LAST|Len|"Puranakathapusthakam"
+LAST|Lml|"പുരാണകഥാപുസ്തകം"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puranakathapusthakam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9174
+LAST|P577|+2014-05-12T00:00:00Z/11
+LAST|P747|Q140000437
+CREATE
+LAST|Len|"Purananooru Oru Paddanam"
+LAST|Lml|"പുറനാനൂറ് ഒരു പഠനം"
+LAST|Den|"Malayalam-language literary work by Kaviyoor Murali"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/purananooru-oru-paddanam"
+LAST|P2093|"Kaviyoor Murali"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+1999-01-01T00:00:00Z/11
+LAST|P747|Q140000438
+CREATE
+LAST|Len|"Puranasamjagamakosham"
+LAST|Lml|"പുരാണസംജഗാമകോശം"
+LAST|Den|"Malayalam-language literary work by Prasad C"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puranansamjagamakosham"
+LAST|P2093|"Prasad C"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9174
+LAST|P577|+2000-03-01T00:00:00Z/11
+LAST|P747|Q140000439
+CREATE
+LAST|Len|"Puranatheertham - 101 Puranakadamkathakal"
+LAST|Lml|"പുരാണാതീർത്ഥം - 101 പുരാണകടംകഥകൾ"
+LAST|Den|"Malayalam-language literary work by Pakalkkuri Viswan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puranatheertham-101-puranakadamkathakal"
+LAST|P2093|"Pakalkkuri Viswan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P136|Q9134
+LAST|P577|+2018-11-14T00:00:00Z/11
+LAST|P747|Q140000440
+CREATE
+LAST|Len|"Puranathile Sapakathakal"
+LAST|Lml|"പുരാണത്തിലെ സപാകതകൾ"
+LAST|Den|"Malayalam-language literary work by Geethalayam Geethakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puranathile-sapakathakal"
+LAST|P2093|"Geethalayam Geethakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9134
+LAST|P577|+2015-03-16T00:00:00Z/11
+LAST|P747|Q140000441
+CREATE
+LAST|Len|"Puranic Encyclopaedia - 2 Volumes"
+LAST|Lml|"പുരാണിക് എൻസൈക്ലോപേത്യ - 2 വോളുമെസ്"
+LAST|Den|"Malayalam-language literary work by Vettom Mani"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puranic-encyclopaedia---2-volumes"
+LAST|P2093|"Vettom Mani"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9174
+LAST|P577|+2023-04-29T00:00:00Z/11
+LAST|P747|Q140000442
+CREATE
+LAST|Len|"Pushkin Swathanthryabodhathinte Duranthagadha"
+LAST|Lml|"പുഷ്കിൻ സ്വാതന്ത്ര്യബോധത്തിന്റെ ദുരന്തകഥ"
+LAST|Den|"Malayalam-language literary work by O. N. V. Kurup"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pushkin-swathanthryabodhathinte-duranthagadha"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2013-01-01T00:00:00Z/11
+LAST|P747|Q140000443
+CREATE
+LAST|Len|"Pushpakavimanam"
+LAST|Lml|"പുഷ്പകവിമാനം"
+LAST|Den|"Malayalam-language literary work by Jissa Jose"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pushpakavimanam"
+LAST|P2093|"Jissa Jose"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2023-05-30T00:00:00Z/11
+LAST|P747|Q140000444
+CREATE
+LAST|Len|"Pusthakangalute Mathram Lokam"
+LAST|Lml|"പുസ്തകങ്ങളുടെ മാത്രം ലോകം"
+LAST|Den|"Malayalam-language literary work by DC Kizhakemuri"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pusthakangalute-mathram-lokam"
+LAST|P2093|"DC Kizhakemuri"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q60548032
+LAST|P136|Q11042
+LAST|P577|+2013-04-02T00:00:00Z/11
+LAST|P747|Q140000445
+CREATE
+LAST|Len|"Pusthakathinte Poomukham"
+LAST|Lml|"പുസ്തകത്തിന്റെ പൂമുഖം"
+LAST|Den|"Malayalam-language literary work by M T Vasudevan Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pusthakathinte-poomukham"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2019-11-27T00:00:00Z/11
+LAST|P747|Q140000446
+CREATE
+LAST|Len|"Puthiya Manushyan Puthiya Lokam - 2 Vol"
+LAST|Lml|"പുതിയ മനുഷ്യൻ പുതിയ ലോകം - 2 വോൾ"
+LAST|Den|"Malayalam-language literary work by M. Govindan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puthiya-manushyan-puthiya-lokam-2-vol"
+LAST|P2093|"M. Govindan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2025-08-25T00:00:00Z/11
+LAST|P747|Q140000447
+CREATE
+LAST|Len|"Puthiya Teacherum Puthiya Kuttiyum"
+LAST|Lml|"പുതിയ ടീച്ചറും പുതിയ കുട്ടിയും"
+LAST|Den|"Malayalam-language literary work by A K Abdulhakkeem"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puthiya-teacherum-puthiya-kuttiyum"
+LAST|P2093|"A K Abdulhakkeem"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11042
+LAST|P577|+2021-02-18T00:00:00Z/11
+LAST|P747|Q140000448
+CREATE
+LAST|Len|"Puthiya Vidhyabhyasanayam Sameepanavum Vimarsanavum"
+LAST|Lml|"പുതിയ വിദ്യാഭ്യാസനയം സമീപനവും വിമര്ശനവും"
+LAST|Den|"Malayalam-language literary work by B Ekbal"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puthiya-vidhyabhyasanayam-sameepanavum-vimarsanavum"
+LAST|P2093|"B Ekbal"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P136|Q213051
+LAST|P577|+2023-01-31T00:00:00Z/11
+LAST|P747|Q140000449
+CREATE
+LAST|Len|"Puthuyugam Puthu India"
+LAST|Lml|"പുതുയുഗം പുതു ഇന്ത്യ"
+LAST|Den|"Malayalam-language literary work by Shashi Tharoor"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puthuyugam-puthu-india"
+LAST|P2093|"Shashi Tharoor"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q7163
+LAST|P136|Q11042
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q140000450
+CREATE
+LAST|Len|"Puttu"
+LAST|Lml|"പുട്ടു"
+LAST|Den|"Malayalam-language literary work by Vinoy Thomas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puttu"
+LAST|P2093|"Vinoy Thomas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-09-29T00:00:00Z/11
+LAST|P747|Q140000451
+CREATE
+LAST|Len|"Puttukal Currykal"
+LAST|Lml|"പൂട്ടുകൾ ക്യൂറികൾ"
+LAST|Den|"Malayalam-language literary work by Ummi Abdulla"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puttukal-currykal"
+LAST|P2093|"Ummi Abdulla"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q605076
+LAST|P577|+2015-10-26T00:00:00Z/11
+LAST|P747|Q140000452
+CREATE
+LAST|Len|"Puzha Kadannu Pookkalude Thazhvarayilekku"
+LAST|Lml|"പുഴ കടന്ന് പൂക്കളുടെ താഴ്വരയിലേക്ക്"
+LAST|Den|"Malayalam-language literary work by Mohanlal"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puzha-kadannu-pookkalude-thazhvarayilekku"
+LAST|P2093|"Mohanlal"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P136|Q213051
+LAST|P577|+2020-02-13T00:00:00Z/11
+LAST|P747|Q140000453
+CREATE
+LAST|Len|"Puzha Malsyathil Ozhukumpol"
+LAST|Lml|"പുഴ മൽസ്യത്തിലെ ഒഴുകുമ്പോൾ"
+LAST|Den|"Malayalam-language literary work by Chandraprakash M"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puzha-malsyathil-ozhukumpol"
+LAST|P2093|"Chandraprakash M"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2012-11-22T00:00:00Z/11
+LAST|P747|Q140000454
+CREATE
+LAST|Len|"Puzhakkarayile Millu"
+LAST|Lml|"പുഴക്കരയിലെ മില്ല്"
+LAST|Den|"Malayalam-language literary work by George Eliot"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puzhakkarayile-millu"
+LAST|P2093|"George Eliot"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-10-24T00:00:00Z/11
+LAST|P747|Q140000455
+CREATE
+LAST|Len|"Puzhameenukale Kollunna Vidham"
+LAST|Lml|"പുഴമീനുകളെ കൊള്ളുന്ന വിധം"
+LAST|Den|"Malayalam-language literary work by Benyamin"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/puzhameenukale-kollunna-vidham"
+LAST|P2093|"Benyamin"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q182015
+LAST|P577|+2026-01-30T00:00:00Z/11
+LAST|P747|Q140000456
+CREATE
+LAST|Len|"Pythagoras,euclid,archimedes,descartes"
+LAST|Lml|"പൈതഗോറസ് യൂക്ലിഡ് ആർക്കിമെഡീസ് ഡിസ്കര്ട്സ്"
+LAST|Den|"Malayalam-language literary work by P.K Uthaman"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pythagoraseuclidarchimedesdescartes"
+LAST|P2093|"P.K Uthaman"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2015-01-01T00:00:00Z/11
+LAST|P747|Q140000457
+CREATE
+LAST|Len|"Qabar"
+LAST|Lml|"കുർബാർ"
+LAST|Den|"Malayalam-language literary work by K. R. Meera"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/qabar"
+LAST|P2093|"K. R. Meera"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2026-02-27T00:00:00Z/11
+LAST|P747|Q140000458
+CREATE
+LAST|Len|"Quantum Physicsum Cosmologiyum"
+LAST|Lml|"ക്വാന്റും പഹൈസിക്സും കോസ്മോളജിയും"
+LAST|Den|"Malayalam-language literary work by Moncy V John"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/quantum-physicsum-cosmologiyum"
+LAST|P2093|"Moncy V John"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2019-12-12T00:00:00Z/11
+LAST|P747|Q140000459
+CREATE
+LAST|Len|"R Balakrishna Pillayude Athmakatha (print on Demand)"
+LAST|Lml|"ർ ബാലകൃഷ്ണ പിള്ളയുടെ ആത്മകഥ (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by Balakrishna Pillai R"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/r-balakrishna-pillayude-athmakatha"
+LAST|P2093|"Balakrishna Pillai R"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2023-10-31T00:00:00Z/11
+LAST|P747|Q140000461
+CREATE
+LAST|Len|"Raavum Pakalum"
+LAST|Lml|"രാവും പകലും"
+LAST|Den|"Malayalam-language literary work by M. Mukundan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/raavum-pakalum"
+LAST|P2093|"M. Mukundan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2026-02-27T00:00:00Z/11
+LAST|P747|Q140000462
+CREATE
+LAST|Len|"Rabeendranath Tagore"
+LAST|Lml|"രബീന്ദ്രനാഥ ടാഗോർ"
+LAST|Den|"Malayalam-language literary work by Chandraprakash M"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/rabeendranath-tagore"
+LAST|P2093|"Chandraprakash M"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2019-06-14T00:00:00Z/11
+LAST|P747|Q140000464
+CREATE
+LAST|Len|"Raadha Evite"
+LAST|Lml|"രാധ ഇവിടെ"
+LAST|Den|"Malayalam-language literary work by Sugathakumari"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/radha-evide"
+LAST|P2093|"Sugathakumari"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2019-12-18T00:00:00Z/11
+LAST|P747|Q140000466
+CREATE
+LAST|Len|"Raganibadhamalla Mamsam"
+LAST|Lml|"രാഗനിബദ്ധമല്ല മാംസം"
+LAST|Den|"Malayalam-language literary work by Murali B"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/raganibadhamalla-mamsam"
+LAST|P2093|"Murali B"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2021-10-21T00:00:00Z/11
+LAST|P747|Q140000467
+CREATE
+LAST|Len|"Oru Adimappenninte Aathmakatha"
+LAST|Lml|"ഒരു അടിമപ്പെണ്ണിന്റെ ആത്മകഥ"
+LAST|Den|"Malayalam-language literary work by Harriet Ann Jacob"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-adimappenninte-aathmakatha"
+LAST|P2093|"Harriet Ann Jacob"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2022-01-12T00:00:00Z/11
+LAST|P747|Q140000152
+CREATE
+LAST|Len|"Oru African Yathra"
+LAST|Lml|"ഒരു ആഫ്രിക്കൻ യാത്ര"
+LAST|Den|"Malayalam-language literary work by Zacharia"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-african-yathra"
+LAST|P2093|"Zacharia"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2024-09-30T00:00:00Z/11
+LAST|P747|Q140000153
+CREATE
+LAST|Len|"Oru Cheriya Vasantham"
+LAST|Lml|"ഒരു ചെറിയ വസന്തം"
+LAST|Den|"Malayalam-language literary work by K Sachidanandan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-cheriya-vasantham"
+LAST|P2093|"K Sachidanandan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2020-10-29T00:00:00Z/11
+LAST|P747|Q140000156
+CREATE
+LAST|Len|"Oru Cherukathakrithinte Ekanthatha"
+LAST|Lml|"ഒരു ചെറുകഥാകൃത്തിന്റെ ഏകാന്തത"
+LAST|Den|"Malayalam-language literary work by Shashi Tharoor"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-cherukathakrithinte-ekanthatha"
+LAST|P2093|"Shashi Tharoor"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q140000157
+CREATE
+LAST|Len|"Oru Cherupunchiri"
+LAST|Lml|"ഒരു ചെറുപുഞ്ചിരി"
+LAST|Den|"Malayalam-language literary work by M T Vasudevan Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-cherupunchiri"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q103076
+LAST|P577|+2025-09-29T00:00:00Z/11
+LAST|P747|Q140000158
+CREATE
+LAST|Len|"Oru Dalit Yuvadiyude Kadana Katha"
+LAST|Lml|"ഒരു ദളിത് യുവതിയുടെ കദന കഥ"
+LAST|Den|"Malayalam-language literary work by M. Mukundan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-dalit-yuvadiyude-kadana-katha"
+LAST|P2093|"M. Mukundan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2019-10-23T00:00:00Z/11
+LAST|P747|Q140000159
+CREATE
+LAST|Len|"Oru Lakshathinu Thudangaavunna Business"
+LAST|Lml|"ഒരു ലക്ഷത്തിന് തുടങ്ങാവുന്ന ബിസിനസ്"
+LAST|Den|"Malayalam-language literary work by T.s.chandran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-lakshathinu-thudangaavunna-business"
+LAST|P2093|"T.s.chandran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P136|Q193495
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P747|Q140000160
+CREATE
+LAST|Len|"Oru Lyngikathozhilaliyude Pranayapusthakam"
+LAST|Lml|"ഒരു ലൈങ്ങികത്തൊഴിലാളിയുടെ പ്രണയപുസ്തകം"
+LAST|Den|"Malayalam-language literary work by Nalini Jameela"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-lyngikathozhilaliyude-pranayapusthakam"
+LAST|P2093|"Nalini Jameela"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2022-08-19T00:00:00Z/11
+LAST|P747|Q140000161
+CREATE
+LAST|Len|"Oru Madichippennum Pallukuthiyum"
+LAST|Lml|"ഒരു മടിച്ചിപ്പെണ്ണും പല്ലുകുത്തിയും"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-madichippennum-pallukuthiyum"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2022-02-24T00:00:00Z/11
+LAST|P747|Q140000162
+CREATE
+LAST|Len|"Oru Neendarathriyude Ormakkayiyum Arakshithavasthayum"
+LAST|Lml|"ഒരു നീണ്ടരാത്രിയുടെ ഓര്മക്കായിയും അരക്ഷിതാവസ്ഥയും"
+LAST|Den|"Malayalam-language literary work by O V Vijayan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-neendarathriyude-ormakkayiyum-arakshithavasthayum"
+LAST|P2093|"O V Vijayan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2019-06-24T00:00:00Z/11
+LAST|P747|Q140000163
+CREATE
+LAST|Len|"Oru Pennum Randanum"
+LAST|Lml|"ഒരു പെണ്ണും രണ്ടാണും"
+LAST|Den|"Malayalam-language literary work by Adoor Gopalakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-pennum-randanum"
+LAST|P2093|"Adoor Gopalakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q103076
+LAST|P577|+2015-08-07T00:00:00Z/11
+LAST|P747|Q140000164
+CREATE
+LAST|Len|"Oru Police Surgeonte Ormakkurippukal"
+LAST|Lml|"ഒരു പോലീസ് സുർജിയന്റെ ഓർമ്മക്കുറിപ്പുകൾ"
+LAST|Den|"Malayalam-language literary work by B. Umadathan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-police-surgeonte-ormakkurippukal"
+LAST|P2093|"B. Umadathan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P136|Q36279
+LAST|P577|+2026-02-25T00:00:00Z/11
+LAST|P747|Q140000165
+CREATE
+LAST|Len|"Oru Poompattakkatha"
+LAST|Lml|"ഒരു പൂമ്പാറ്റയ്ക്കാത്ത"
+LAST|Den|"Malayalam-language literary work by Sangeetha"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-poompattakkatha"
+LAST|P2093|"Sangeetha"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2019-06-10T00:00:00Z/11
+LAST|P747|Q140000166
+CREATE
+LAST|Len|"Oru Sammanam"
+LAST|Lml|"ഒരു സമ്മാനം"
+LAST|Den|"Malayalam-language literary work by Spencer Johnson"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-sammanam"
+LAST|P2093|"Spencer Johnson"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P577|+2013-04-02T00:00:00Z/11
+LAST|P747|Q140000167
+CREATE
+LAST|Len|"Oru Suvarnakaalam"
+LAST|Lml|"ഒരു സുവർണകാലം"
+LAST|Den|"Malayalam-language literary work by Tahmima Anam"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-suvarnakaalam"
+LAST|P2093|"Tahmima Anam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2010-12-27T00:00:00Z/11
+LAST|P747|Q140000168
+CREATE
+LAST|Len|"Oru Swapna Yathrayude Katha -yusuff Ali"
+LAST|Lml|"ഒരു സ്വപ്ന യാത്രയുടെ കഥ -യുസുഫ് അലി"
+LAST|Den|"Malayalam-language literary work by Raju Mathew"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-swapna-yathrayude-katha--yusuff-ali"
+LAST|P2093|"Raju Mathew"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2020-01-01T00:00:00Z/11
+LAST|P747|Q140000169
+CREATE
+LAST|Len|"Oru Vazhiyum Kure Nizhalukalum"
+LAST|Lml|"ഒരു വഴിയും കുറെ നിഴലുകളും"
+LAST|Den|"Malayalam-language literary work by Rajalakshmi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-vazhiyum-kure-nizhalukalum"
+LAST|P2093|"Rajalakshmi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-01-01T00:00:00Z/11
+LAST|P747|Q140000171
+CREATE
+LAST|Len|"Oru Veerapulakathinte Katha"
+LAST|Lml|"ഒരു വീരപുളകത്തിന്റെ കഥ"
+LAST|Den|"Malayalam-language literary work by P. K. Balakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-veerapulakathinte-katha"
+LAST|P2093|"P. K. Balakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2024-05-30T00:00:00Z/11
+LAST|P747|Q140000172
+CREATE
+LAST|Len|"Oru Viralthumb"
+LAST|Lml|"ഒരു വിരൽത്തുമ്പ"
+LAST|Den|"Malayalam-language literary work by Malini Chib"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-viralthumbu"
+LAST|P2093|"Malini Chib"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q140000173
+CREATE
+LAST|Len|"Oru Yathra Poyaalo?"
+LAST|Lml|"ഒരു യാത്ര പോയാലോ?"
+LAST|Den|"Malayalam-language literary work by Anil Radhakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/oru-yathra-poyaalo"
+LAST|P2093|"Anil Radhakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2018-04-05T00:00:00Z/11
+LAST|P747|Q140000174
+CREATE
+LAST|Len|"Orumakkethire Oru Sathamanam"
+LAST|Lml|"ഒരുമക്കെതിരെ ഒരു ശതമാനം"
+LAST|Den|"Malayalam-language literary work by Vandana Shiva"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/orumakkethire-oru-sathamanam-177485313608"
+LAST|P2093|"Vandana Shiva"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11042
+LAST|P577|+2021-01-19T00:00:00Z/11
+LAST|P747|Q140000175
+CREATE
+LAST|Len|"Orunooru Minikkathakal"
+LAST|Lml|"ഒരുനൂറ് മിനിക്കഥകൾ"
+LAST|Den|"Malayalam-language literary work by V K N"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/orunooru-minikkathakal"
+LAST|P2093|"V K N"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2014-05-30T00:00:00Z/11
+LAST|P747|Q140000176
+CREATE
+LAST|Len|"Orupidi Penkuttikal"
+LAST|Lml|"ഒരുപിടി പെൺകുട്ടികൾ"
+LAST|Den|"Malayalam-language literary work by Chandramathi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/orupidi-penkuttikal"
+LAST|P2093|"Chandramathi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-07-21T00:00:00Z/11
+LAST|P747|Q140000177
+CREATE
+LAST|Len|"Othappu"
+LAST|Lml|"ഒതപ്പ്"
+LAST|Den|"Malayalam-language literary work by Sarah Joseph"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/othappu"
+LAST|P2093|"Sarah Joseph"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P747|Q140000178
+CREATE
+LAST|Len|"Ottakavum Mattu Pradhanakathakalum"
+LAST|Lml|"ഒട്ടകവും മറ്റു പ്രധാനകഥകളും"
+LAST|Den|"Malayalam-language literary work by Pottekkat S K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ottakavum-mattu-pradhanakathakalum"
+LAST|P2093|"Pottekkat S K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-06-30T00:00:00Z/11
+LAST|P747|Q140000179
+CREATE
+LAST|Len|"Ottamarappeythu"
+LAST|Lml|"ഓട്ടമരപ്പെയ്തു"
+LAST|Den|"Malayalam-language literary work by Deepa Nisanth"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ottamarappeythu"
+LAST|P2093|"Deepa Nisanth"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P136|Q36279
+LAST|P577|+2025-10-13T00:00:00Z/11
+LAST|P747|Q140000180
+CREATE
+LAST|Len|"Ottamarathanal"
+LAST|Lml|"ഓട്ടമരത്തണൽ"
+LAST|Den|"Malayalam-language literary work by Benyamin"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ottamarathanal"
+LAST|P2093|"Benyamin"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2017-11-30T00:00:00Z/11
+LAST|P747|Q140000181
+CREATE
+LAST|Len|"Ottamooli Vijnanakosam"
+LAST|Lml|"ഒറ്റമൂലി വിജ്ഞാനകോശം"
+LAST|Den|"Malayalam-language literary work by Velayudhan Panikkassery"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ottamooli-vijnanakosam"
+LAST|P2093|"Velayudhan Panikkassery"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12147
+LAST|P577|+2016-07-12T00:00:00Z/11
+LAST|P747|Q140000182
+CREATE
+LAST|Len|"Ottamuri(vu)"
+LAST|Lml|"ഒറ്റമുറി(വ്)"
+LAST|Den|"Malayalam-language literary work by Sofia Shajahan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ottamurivu"
+LAST|P2093|"Sofia Shajahan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2018-10-30T00:00:00Z/11
+LAST|P747|Q140000183
+CREATE
+LAST|Len|"Ottayadippathayum Vishadam Pookkunna Marangalum"
+LAST|Lml|"ഒറ്റയടിപ്പാതയും വിഷാദം പൂക്കുന്ന മരങ്ങളും"
+LAST|Den|"Malayalam-language literary work by Madhavikkutty"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ottayadippathayum-vishadam-pookkunna-marangalum"
+LAST|P2093|"Madhavikkutty"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2023-11-30T00:00:00Z/11
+LAST|P747|Q140000184
+CREATE
+LAST|Len|"Ottayakku - Limited Edition"
+LAST|Lml|"ഒറ്റയ്ക്ക് - ലിമിറ്റഡ് എഡിഷൻ"
+LAST|Den|"Malayalam-language literary work by V Vinayakumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ottayakku-limited-edition"
+LAST|P2093|"V Vinayakumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2020-09-01T00:00:00Z/11
+LAST|P747|Q140000185
+CREATE
+LAST|Len|"Out of Syllabus"
+LAST|Lml|"ഔട്ട് ഓഫ് സിലബസ്"
+LAST|Den|"Malayalam-language literary work by Madhavan Pallatheri"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/out-of-syllabus"
+LAST|P2093|"Madhavan Pallatheri"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2016-03-10T00:00:00Z/11
+LAST|P747|Q140000186
+CREATE
+LAST|Len|"Ozhivudivasathe Kali"
+LAST|Lml|"ഒഴിവുദിവസത്തെ കാളി"
+LAST|Den|"Malayalam-language literary work by Unni R."
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ozhivudivasathe-kali"
+LAST|P2093|"Unni R."
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-01-07T00:00:00Z/11
+LAST|P747|Q140000187
+CREATE
+LAST|Len|"Ozhukanam Puzhakal"
+LAST|Lml|"ഒഴുകണം പുഴകൾ"
+LAST|Den|"Malayalam-language literary work by S.P. Ravi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ozhukanam-puzhakal"
+LAST|P2093|"S.P. Ravi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-01-20T00:00:00Z/11
+LAST|P747|Q140000188
+CREATE
+LAST|Len|"Ozhukkinethire"
+LAST|Lml|"ഒഴുക്കിനെതിരെ"
+LAST|Den|"Malayalam-language literary work by Joy J Peediakal"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/ozhukkinethire"
+LAST|P2093|"Joy J Peediakal"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2015-11-18T00:00:00Z/11
+LAST|P747|Q140000189
+CREATE
+LAST|Len|"P Bhaskaran Krithikal : Kavithakal - Ganagal"
+LAST|Lml|"പി ഭാസ്കരൻ കൃതികൾ : കവിതകൾ - ഗാനങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Bhaskaran P"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/p-bhaskaran-krithikal--kavithakal---ganagal"
+LAST|P2093|"Bhaskaran P"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2021-05-04T00:00:00Z/11
+LAST|P747|Q140000190
+CREATE
+LAST|Len|"P.subrahmaniam-malayalacinemayile Bheeshmacharyar"
+LAST|Lml|"പി.സുബ്രഹ്മണ്യവും-മലയാളസിനിമയിലെ ഭീഷ്മാചാര്യർ"
+LAST|Den|"Malayalam-language literary work by Sreekumaranthampi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/p-subrahmaniam-malayalacinemayile-bheeshmacharyar"
+LAST|P2093|"Sreekumaranthampi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P136|Q11424
+LAST|P577|+2019-02-05T00:00:00Z/11
+LAST|P747|Q140000191
+CREATE
+LAST|Len|"Paachakaraani - Part-1"
+LAST|Lml|"പാചകറാണി - പാർട്ട്-1"
+LAST|Den|"Malayalam-language literary work by Betty Louis Baby"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paachakaraani-part-1"
+LAST|P2093|"Betty Louis Baby"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q605076
+LAST|P577|+2012-11-12T00:00:00Z/11
+LAST|P747|Q140000192
+CREATE
+LAST|Len|"Paachakarani - Part Ii"
+LAST|Lml|"പാചകറാണി - പാർട്ട് ഈ"
+LAST|Den|"Malayalam-language literary work by Betty Louis Baby"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paachakarani-part-2"
+LAST|P2093|"Betty Louis Baby"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q605076
+LAST|P577|+2012-01-02T00:00:00Z/11
+LAST|P747|Q140000193
+CREATE
+LAST|Len|"Paathira Sooryante Naattil"
+LAST|Lml|"പാതിരാ സൂര്യന്റെ നാട്ടിൽ"
+LAST|Den|"Malayalam-language literary work by Pottekkat S K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paathira-sooryante-naattil"
+LAST|P2093|"Pottekkat S K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2025-12-15T00:00:00Z/11
+LAST|P747|Q140000194
+CREATE
+LAST|Len|"Paattorukkam"
+LAST|Lml|"പാട്ടൊരുക്കം"
+LAST|Den|"Malayalam-language literary work by V T Murali"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paattorukkam"
+LAST|P2093|"V T Murali"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q638
+LAST|P577|+2013-05-01T00:00:00Z/11
+LAST|P747|Q140000195
+CREATE
+LAST|Len|"Paattuvazhiyorathu"
+LAST|Lml|"പാട്ടുവഴിയോരത്തു"
+LAST|Den|"Malayalam-language literary work by Ravi Menon"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paattuvazhiyorathu"
+LAST|P2093|"Ravi Menon"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2018-01-03T00:00:00Z/11
+LAST|P747|Q140000196
+CREATE
+LAST|Len|"Pacha Manja Chuvappu"
+LAST|Lml|"പച്ച മഞ്ഞ ചുവപ്പു"
+LAST|Den|"Malayalam-language literary work by T. D. Ramakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pacha-manja-chuvappu"
+LAST|P2093|"T. D. Ramakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2026-01-30T00:00:00Z/11
+LAST|P747|Q140000197
+CREATE
+LAST|Len|"Pachakkarikal Engane Varakkam"
+LAST|Lml|"പച്ചക്കറികൾ എങ്ങനെ വരയ്ക്കാം"
+LAST|Den|"Malayalam-language literary work by Madhu V S"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pachakkarikal-engane-varakkam"
+LAST|P2093|"Madhu V S"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P747|Q140000198
+CREATE
+LAST|Len|"Padam"
+LAST|Lml|"പടം"
+LAST|Den|"Malayalam-language literary work by Rajeev Sivasankar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/padam"
+LAST|P2093|"Rajeev Sivasankar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-08-02T00:00:00Z/11
+LAST|P747|Q140000199
+CREATE
+LAST|Len|"Padanam Pareekshanangaliloote"
+LAST|Lml|"പഠനം പരീക്ഷണങ്ങളിലൂടെ"
+LAST|Den|"Malayalam-language literary work by S. Sivadas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/padanam-pareekshanangaliloote"
+LAST|P2093|"S. Sivadas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2012-04-10T00:00:00Z/11
+LAST|P747|Q140000200
+CREATE
+LAST|Len|"Padapusthakam"
+LAST|Lml|"പാഠപുസ്തകം"
+LAST|Den|"Malayalam-language literary work by Subhash Chandran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/padapusthakam"
+LAST|P2093|"Subhash Chandran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2017-01-30T00:00:00Z/11
+LAST|P747|Q140000201
+CREATE
+LAST|Len|"Padartham Muthal Daivakanam Vare: Bhauthikasasthrathinte Vikasaparinamacharithram"
+LAST|Lml|"പദാർത്ഥം മുതൽ ദൈവകണം വരെ: ഭൗതികശാസ്ത്രത്തിൽ വികാസപരിണാമചരിത്രം"
+LAST|Den|"Malayalam-language literary work by Babu Joseph K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/padartham-muthal-daivakanam-vare-bhauthikasasthrathinte-vikasaparinamacharithram"
+LAST|P2093|"Babu Joseph K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2017-06-30T00:00:00Z/11
+LAST|P747|Q140000202
+CREATE
+LAST|Len|"Padasudhikosam : Vaakkukalute Thettum Sariyum"
+LAST|Lml|"പാദശുദ്ധികൊസം : വാക്കുകളുടെ തെറ്റും ശരിയും"
+LAST|Den|"Malayalam-language literary work by P. Prakash"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/padasudhikosam--vaakkukalute-thettum-sariyum"
+LAST|P2093|"P. Prakash"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q13136
+LAST|P577|+2020-11-10T00:00:00Z/11
+LAST|P747|Q140000203
+CREATE
+LAST|Len|"Padma Mahapuranam -3 Voulmes (print on Demand)"
+LAST|Lml|"പദ്മ മഹാപുരാണം -3 വൗൽമീസ് (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by Veda Vyasa"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/padma-mahapuranam"
+LAST|P2093|"Veda Vyasa"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9134
+LAST|P577|+2017-07-01T00:00:00Z/11
+LAST|P747|Q140000204
+CREATE
+LAST|Len|"Padmaraajante Priyappetta Thirakkathakal"
+LAST|Lml|"പദ്മരാജന്റെ പ്രിയപ്പെട്ട തിരക്കഥകള്"
+LAST|Den|"Malayalam-language literary work by P Padmarajan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/padmaraajante-priyappetta-thirakkathakal"
+LAST|P2093|"P Padmarajan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q103076
+LAST|P577|+2025-09-22T00:00:00Z/11
+LAST|P747|Q140000205
+CREATE
+LAST|Len|"Padmarajan Sampoorna Novelukal - 2 Volumes"
+LAST|Lml|"പദ്മരാജൻ സമ്പൂർണ നോവലുകൾ - 2 വോളമീസ്"
+LAST|Den|"Malayalam-language literary work by P Padmarajan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/padmarajan-sampoorna-novelukal-2-valumes"
+LAST|P2093|"P Padmarajan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2010-10-01T00:00:00Z/11
+LAST|P747|Q140000206
+CREATE
+LAST|Len|"Padmarajante Kathakal Sampoornam"
+LAST|Lml|"പദ്മരാജന്റെ കഥകൾ സമ്പൂർണ്ണം"
+LAST|Den|"Malayalam-language literary work by P Padmarajan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/padmarajante-kathakal-sampoornam"
+LAST|P2093|"P Padmarajan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2026-12-30T00:00:00Z/11
+LAST|P747|Q140000207
+CREATE
+LAST|Len|"Padmarajante Krithikal Sampoornam"
+LAST|Lml|"പദ്മരാജന്റെ കൃതികൾ സമ്പൂർണ്ണം"
+LAST|Den|"Malayalam-language literary work by P Padmarajan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/padmarajante-krithikal-sampoornam-2-volumes"
+LAST|P2093|"P Padmarajan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q20540385
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P747|Q140000208
+CREATE
+LAST|Len|"Padmarajante Moonu Novellakal"
+LAST|Lml|"പദ്മരാജന്റെ മൂന്ന് നോവെല്ലകൾ"
+LAST|Den|"Malayalam-language literary work by P Padmarajan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/padmarajante-moonu-novellakal"
+LAST|P2093|"P Padmarajan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P747|Q140000209
+CREATE
+LAST|Len|"Pakalswapnathil Veyilu Kaayaan Vanna Oru Nar"
+LAST|Lml|"പകൽസ്വപ്നത്തിൽ വെയില് കായൻ വന്ന ഒരു നേർ"
+LAST|Den|"Malayalam-language literary work by Santhosh Aechikkanam"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pakalswapnathil-veyilu-kaayaan-vanna-oru-nar"
+LAST|P2093|"Santhosh Aechikkanam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2017-01-31T00:00:00Z/11
+LAST|P747|Q140000210
+CREATE
+LAST|Len|"Pakida 13 : Jyothishabheekarathayude Marupuram"
+LAST|Lml|"പകിട 13 : ജ്യോതിഷഭീകരതയുടെ മറുപുറം"
+LAST|Den|"Malayalam-language literary work by Ravichandran C"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pakida-13-marupuram"
+LAST|P2093|"Ravichandran C"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2025-10-13T00:00:00Z/11
+LAST|P747|Q140000211
+CREATE
+LAST|Len|"Pakshikkathakalum Pakshirahasyangalum"
+LAST|Lml|"പക്ഷിക്കഥകളും പക്ഷിരഹസ്യങ്ങളും"
+LAST|Den|"Malayalam-language literary work by S. Sivadas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pakshikkathakalum-pakshirahasyangalum"
+LAST|P2093|"S. Sivadas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2022-03-03T00:00:00Z/11
+LAST|P747|Q140000212
+CREATE
+LAST|Len|"Pakshikkoodu : Oru Padanam"
+LAST|Lml|"പക്ഷിക്കൂട് : ഒരു പഠനം"
+LAST|Den|"Malayalam-language literary work by Padmanabhan P V"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pakshikkoodu-oru-padanam"
+LAST|P2093|"Padmanabhan P V"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2012-12-11T00:00:00Z/11
+LAST|P747|Q140000213
+CREATE
+LAST|Len|"Palakkadan Ruchikal"
+LAST|Lml|"പാലക്കാടൻ രുചികൾ"
+LAST|Den|"Malayalam-language literary work by Fathima Ikbal"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/palakkadan-ruchikal"
+LAST|P2093|"Fathima Ikbal"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q605076
+LAST|P577|+2016-12-28T00:00:00Z/11
+LAST|P747|Q140000214
+CREATE
+LAST|Len|"Palayile Communist"
+LAST|Lml|"പാലായിലെ കമ്മ്യൂണിസ്റ്റ്"
+LAST|Den|"Malayalam-language literary work by S. R. Lal"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/palayile-communist"
+LAST|P2093|"S. R. Lal"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2023-08-31T00:00:00Z/11
+LAST|P747|Q140000215
+CREATE
+LAST|Len|"Pallikoodam Phalithangal"
+LAST|Lml|"പള്ളിക്കൂടം ഫലിതങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Vincent Arakkuzha"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pallikoodam-phalithangal"
+LAST|P2093|"Vincent Arakkuzha"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q60548032
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q140000216
+CREATE
+LAST|Len|"Palnjarambu"
+LAST|Lml|"പാൽഞരമ്പു"
+LAST|Den|"Malayalam-language literary work by Rosy Thampy"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/palnjarambu"
+LAST|P2093|"Rosy Thampy"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2017-01-02T00:00:00Z/11
+LAST|P747|Q140000217
+CREATE
+LAST|Len|"Palunku Rajakumari"
+LAST|Lml|"പളുങ്കു രാജകുമാരി"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/palunku-rajakumari"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2016-12-20T00:00:00Z/11
+LAST|P747|Q140000218
+CREATE
+LAST|Len|"Pamba - Paristhithi, Samskaram, Paripalanam"
+LAST|Lml|"പമ്പ - പരിസ്ഥിതി  സംസ്കാരം  പരിപാലനം"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pampa-paristhithi-samskaram-paripalanam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2018-01-05T00:00:00Z/11
+LAST|P747|Q140000219
+CREATE
+LAST|Len|"Panam Polikkan Pala Vazhikal"
+LAST|Lml|"പണം പൊളിക്കാന് പല വഴികൾ"
+LAST|Den|"Malayalam-language literary work by Manoj Thomas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/panam-polikkan-pala-vazhikal"
+LAST|P2093|"Manoj Thomas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q4830453
+LAST|P577|+2015-12-08T00:00:00Z/11
+LAST|P747|Q140000220
+CREATE
+LAST|Len|"Panchakanyakakal"
+LAST|Lml|"പഞ്ചകന്യകകൾ"
+LAST|Den|"Malayalam-language literary work by N S Madhavan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/panchakanyakakal"
+LAST|P2093|"N S Madhavan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-11-30T00:00:00Z/11
+LAST|P747|Q140000221
+CREATE
+LAST|Len|"Pani Rogam Chikitsa Prathirodham"
+LAST|Lml|"പണി രോഗം ചികിത്സാ പ്രതിരോധം"
+LAST|Den|"Malayalam-language literary work by Padmakumar B"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pani-rogam-chikitsa-prathirodham"
+LAST|P2093|"Padmakumar B"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12147
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q140000222
+CREATE
+LAST|Len|"Panikkannu"
+LAST|Lml|"പണിക്കാണ്"
+LAST|Den|"Malayalam-language literary work by Gracy"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/panikkannu"
+LAST|P2093|"Gracy"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2021-10-11T00:00:00Z/11
+LAST|P747|Q140000223
+CREATE
+LAST|Len|"Panippurayile Pisachu"
+LAST|Lml|"പണിപ്പുരയിലെ പിശാച്"
+LAST|Den|"Malayalam-language literary work by Sir Arthur Conan Doyle"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/panippurayile-pisachu"
+LAST|P2093|"Sir Arthur Conan Doyle"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q182015
+LAST|P577|+2022-09-02T00:00:00Z/11
+LAST|P747|Q140000224
+CREATE
+LAST|Len|"Panna"
+LAST|Lml|"പന്ന"
+LAST|Den|"Malayalam-language literary work by Madhavikkutty"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/panna-malayalam"
+LAST|P2093|"Madhavikkutty"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2018-07-11T00:00:00Z/11
+LAST|P747|Q140000225
+CREATE
+LAST|Len|"Panathinte Manasasthram (the Psychology of Money )"
+LAST|Lml|"പണത്തിന്റെ മനഃശാസ്ത്രം (ദി സൈക്കോളജി ഓഫ് മണിയായി )"
+LAST|Den|"Malayalam-language literary work by Morgan Housel"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pannathinte-manasasthram-the-psychology-of-money"
+LAST|P2093|"Morgan Housel"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q4830453
+LAST|P577|+2022-05-09T00:00:00Z/11
+LAST|P747|Q140000226
+CREATE
+LAST|Len|"Papathara"
+LAST|Lml|"പാപത്താറ"
+LAST|Den|"Malayalam-language literary work by Sarah Joseph"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/papathara"
+LAST|P2093|"Sarah Joseph"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-01-05T00:00:00Z/11
+LAST|P747|Q140000227
+CREATE
+LAST|Len|"Paper Rocket"
+LAST|Lml|"പേപ്പർ റോക്കറ്റ്"
+LAST|Den|"Malayalam-language literary work by G. R. Indugopan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paper-rocket"
+LAST|P2093|"G. R. Indugopan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2024-01-31T00:00:00Z/11
+LAST|P747|Q140000228
+CREATE
+LAST|Len|"Parakkallo Athens"
+LAST|Lml|"പാറക്കല്ലോ അതെൻസ്"
+LAST|Den|"Malayalam-language literary work by Santhosh Aechikkanam"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parakkallo-athens"
+LAST|P2093|"Santhosh Aechikkanam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2019-04-02T00:00:00Z/11
+LAST|P747|Q140000229
+CREATE
+LAST|Len|"Parakkum Kashyap"
+LAST|Lml|"പറക്കും കശ്യപ്"
+LAST|Den|"Malayalam-language literary work by Gracy"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parakkum-kashyap"
+LAST|P2093|"Gracy"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2023-11-27T00:00:00Z/11
+LAST|P747|Q140000230
+CREATE
+LAST|Len|"Paralmeen Neenthunna Paadam"
+LAST|Lml|"പരല്മീന് നീന്തുന്ന പാഠം"
+LAST|Den|"Malayalam-language literary work by C V Balakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paralmeen-neenthunna-paadam-479491404373"
+LAST|P2093|"C V Balakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2013-05-13T00:00:00Z/11
+LAST|P747|Q140000231
+CREATE
+LAST|Len|"Paramaveerachakram"
+LAST|Lml|"പരമവീരചക്രം"
+LAST|Den|"Malayalam-language literary work by Manini Mukunda"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paramaveerachakram"
+LAST|P2093|"Manini Mukunda"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2019-03-05T00:00:00Z/11
+LAST|P747|Q140000232
+CREATE
+LAST|Len|"Paramparyarogangalum Pakarchavyadhikalum"
+LAST|Lml|"പാരമ്പര്യരോഗങ്ങളും പകർച്ചവ്യാധികളും"
+LAST|Den|"Malayalam-language literary work by N Ajithkumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paramparyarogangalum-pakarchavyadhikalum"
+LAST|P2093|"N Ajithkumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12147
+LAST|P577|+2020-01-16T00:00:00Z/11
+LAST|P747|Q140000233
+CREATE
+LAST|Len|"Paramporul Paschathya Darsanathil"
+LAST|Lml|"പരംപൊരുൾ പാശ്ചാത്യ ദർശനത്തിൽ"
+LAST|Den|"Malayalam-language literary work by Nataraja Guru"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paramporul-paschathya-darsanathil"
+LAST|P2093|"Nataraja Guru"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q5891
+LAST|P577|+2016-05-16T00:00:00Z/11
+LAST|P747|Q140000234
+CREATE
+LAST|Len|"Paranna Bhoomi-ambarappikkunna Sasthra Sathyangal"
+LAST|Lml|"പരന്ന ഭൂമി-അമ്പരപ്പിക്കുന്ന ശാസ്ത്ര സത്യങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Vaisakhan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paranna-bhoomi-ambarappikkunna-sasthra-sathyangal"
+LAST|P2093|"Vaisakhan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2023-12-30T00:00:00Z/11
+LAST|P747|Q140000235
+CREATE
+LAST|Len|"Parannu Parannu Chekkuttyppava"
+LAST|Lml|"പറന്നു പറന്നു ചേക്കുട്ടിപ്പാവ"
+LAST|Den|"Malayalam-language literary work by Veerankutty"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parannu-parannu-chekkuttyppava"
+LAST|P2093|"Veerankutty"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2023-11-30T00:00:00Z/11
+LAST|P747|Q140000236
+CREATE
+LAST|Len|"Parasuraman"
+LAST|Lml|"പരശുരാമൻ"
+LAST|Den|"Malayalam-language literary work by Ullala Babu"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parasuraman"
+LAST|P2093|"Ullala Babu"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P136|Q9174
+LAST|P136|Q9134
+LAST|P577|+2017-09-30T00:00:00Z/11
+LAST|P747|Q140000237
+CREATE
+LAST|Len|"Paravayude Swathandryam"
+LAST|Lml|"പറവയുടെ സ്വാതന്ദ്ര്യം"
+LAST|Den|"Malayalam-language literary work by Ajai P Mangattu"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paravayude-swathandryam"
+LAST|P2093|"Ajai P Mangattu"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2020-01-15T00:00:00Z/11
+LAST|P747|Q140000238
+CREATE
+LAST|Len|"Parayipetta Panthirukulam : Aithihyavum Charithravum"
+LAST|Lml|"പറയിപെറ്റ പന്തിരുകുലം : ഐതിഹ്യവും ചരിത്രവും"
+LAST|Den|"Malayalam-language literary work by Rajan Chungath"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parayipetta-panthirukulam-aithihyavum-charitravum"
+LAST|P2093|"Rajan Chungath"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q309
+LAST|P577|+2025-11-25T00:00:00Z/11
+LAST|P747|Q140000239
+CREATE
+LAST|Len|"Pareeksha"
+LAST|Lml|"പരീക്ഷ"
+LAST|Den|"Malayalam-language literary work by T N Gopinathan Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pareeksha"
+LAST|P2093|"T N Gopinathan Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2018-03-27T00:00:00Z/11
+LAST|P747|Q140000240
+CREATE
+LAST|Len|"Pareekshapradhanamaya Upanyasangal"
+LAST|Lml|"പരീക്ഷപ്രധാനമായ ഉപന്യാസങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Unni Ammayambalam"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pareekshapradhanamaya-upanyasangal"
+LAST|P2093|"Unni Ammayambalam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2019-06-04T00:00:00Z/11
+LAST|P747|Q140000241
+CREATE
+LAST|Len|"Pareekshichu Padikkam"
+LAST|Lml|"പരീക്ഷിച്ചു പഠിക്കാം"
+LAST|Den|"Malayalam-language literary work by Thomas P T"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/pareekshichu-padikkam"
+LAST|P2093|"Thomas P T"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2010-11-30T00:00:00Z/11
+LAST|P747|Q140000242
+CREATE
+LAST|Len|"Parichuputha"
+LAST|Lml|"പറിച്ചുപുത്ത"
+LAST|Den|"Malayalam-language literary work by Renukumar M. R"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parichuputha"
+LAST|P2093|"Renukumar M. R"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2023-07-31T00:00:00Z/11
+LAST|P747|Q140000243
+CREATE
+LAST|Len|"Parimalaparvatham"
+LAST|Lml|"പരിമലപര്വതം"
+LAST|Den|"Malayalam-language literary work by C V Balakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parimalaparvatham"
+LAST|P2093|"C V Balakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-10-25T00:00:00Z/11
+LAST|P747|Q140000244
+CREATE
+LAST|Len|"Parinamam Innale Innu Nale"
+LAST|Lml|"പരിണാമം ഇന്നലെ ഇന്ന് നാളെ"
+LAST|Den|"Malayalam-language literary work by Balagopalan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parinamam-innale-innu-nale"
+LAST|P2093|"Balagopalan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2000-10-23T00:00:00Z/11
+LAST|P747|Q140000245
+CREATE
+LAST|Len|"Parinamam-m P Narayanapillai"
+LAST|Lml|"പരിണാമം-എം പി നാരായണപിള്ളയ്"
+LAST|Den|"Malayalam-language literary work by M P Narayanapillai"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parinamam-m-p-narayanapillai"
+LAST|P2093|"M P Narayanapillai"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2026-01-30T00:00:00Z/11
+LAST|P747|Q140000246
+CREATE
+LAST|Len|"Parinamam-thanmatharakalilninnu Jeevikalilekku"
+LAST|Lml|"പരിണാമം-തന്മാത്രകളിൽനിന്നു ജീവികളിലേക്കു"
+LAST|Den|"Malayalam-language literary work by Dileep Mampallil"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parinamam-thanmatharakalilninnu-jeevikalilekku"
+LAST|P2093|"Dileep Mampallil"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2023-09-30T00:00:00Z/11
+LAST|P747|Q140000247
+CREATE
+LAST|Len|"Parinamathinte Bhoothangal"
+LAST|Lml|"പരിണാമത്തിന്റെ ഭൂതങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Anand"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parinamathinte-bhoothangal"
+LAST|P2093|"Anand"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2013-06-05T00:00:00Z/11
+LAST|P747|Q140000248
+CREATE
+LAST|Len|"Paristhithi Nikhandu (print on Demand)"
+LAST|Lml|"പരിസ്ഥിതി നിഘണ്ടു (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by D V Cyril"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paristhithi-nikhandu"
+LAST|P2093|"D V Cyril"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q23622
+LAST|P577|+2018-06-25T00:00:00Z/11
+LAST|P747|Q140000249
+CREATE
+LAST|Len|"Paristhithi Padanam (print on Demand)"
+LAST|Lml|"പരിസ്ഥിതി പഠനം (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by Erach Bharucha"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paristhithi-padanam"
+LAST|P2093|"Erach Bharucha"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q140000250
+CREATE
+LAST|Len|"Paristhithi Prasthanathinu Indhira Gandhiyude Sambhavanakal"
+LAST|Lml|"പരിസ്ഥിതി പ്രസ്ഥാനത്തിന് ഇന്ദിരാ ഗാന്ധിയുടെ സംഭാവനകൾ"
+LAST|Den|"Malayalam-language literary work by Jairam Ramesh"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paristhithi-prasthanathinu-indira-gandhiyude-sambhavanakal"
+LAST|P2093|"Jairam Ramesh"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2017-10-31T00:00:00Z/11
+LAST|P747|Q140000251
+CREATE
+LAST|Len|"Parvathangal"
+LAST|Lml|"പർവതങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Suresh Mannarasala"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/parvathangal"
+LAST|P2093|"Suresh Mannarasala"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-05-21T00:00:00Z/11
+LAST|P747|Q140000254
+CREATE
+LAST|Len|"Paschathya Sangeetha Praveshika"
+LAST|Lml|"പാശ്ചാത്യ സംഗീത പ്രവേശിക"
+LAST|Den|"Malayalam-language literary work by M P George"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/paschathya-sangeetha-praveshika"
+LAST|P2093|"M P George"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q638
+LAST|P577|+2013-07-01T00:00:00Z/11
+LAST|P747|Q140000255
+CREATE
+LAST|Len|"Malayali Ingane Marickano"
+LAST|Lml|"മലയാളി ഇങ്ങനെ മരിക്കണോ"
+LAST|Den|"Malayalam-language literary work by Siby Mathews IPS"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/malayali-ingane-marickano"
+LAST|P2093|"Siby Mathews IPS"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2017-06-22T00:00:00Z/11
+LAST|P747|Q139999716
+CREATE
+LAST|Len|"Malayali Laimgikatha (keralam 60 Series)"
+LAST|Lml|"മലയാളി ലൈംഗികത (കേരളം 60 സീരീസ്)"
+LAST|Den|"Malayalam-language literary work by Indira K R"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/malayali-laimgikatha"
+LAST|P2093|"Indira K R"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2017-03-22T00:00:00Z/11
+LAST|P747|Q139999717
+CREATE
+LAST|Len|"Malayalikalkku Easy Kannada"
+LAST|Lml|"മലയാളികൾക്ക് ഈസി കന്നഡ"
+LAST|Den|"Malayalam-language literary work by Amith Kumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/malayalikalkku-easy-kannada"
+LAST|P2093|"Amith Kumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q13136
+LAST|P577|+2019-06-03T00:00:00Z/11
+LAST|P747|Q139999720
+CREATE
+LAST|Len|"Malayalisadya"
+LAST|Lml|"മലയാളിസദ്യ"
+LAST|Den|"Malayalam-language literary work by Padmini Antharjanam"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/malayalisadya"
+LAST|P2093|"Padmini Antharjanam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q605076
+LAST|P577|+2016-09-13T00:00:00Z/11
+LAST|P747|Q139999721
+CREATE
+LAST|Len|"Malayaliyude Janithakam"
+LAST|Lml|"മലയാളിയുടെ ജനിതകം"
+LAST|Den|"Malayalam-language literary work by Ethiran Kathiravan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/malayaliyude-janithakam"
+LAST|P2093|"Ethiran Kathiravan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1129795
+LAST|P136|Q12042160
+LAST|P577|+2025-08-18T00:00:00Z/11
+LAST|P747|Q139999722
+CREATE
+LAST|Len|"Malayaliyute Swathu: Basheer Muthal Mohanlal Vare"
+LAST|Lml|"മലയാളിയുടെ സ്വത്തു: ബഷീർ മുതൽ മോഹൻലാൽ വരെ"
+LAST|Den|"Malayalam-language literary work by George T J S"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/malayaliyute-swathu-basheer-muthal-mohanlal-vare"
+LAST|P2093|"George T J S"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2021-02-17T00:00:00Z/11
+LAST|P747|Q139999723
+CREATE
+LAST|Len|"Malibharatam"
+LAST|Lml|"മാലിഭാരതം"
+LAST|Den|"Malayalam-language literary work by Mali Madhavan Nair V"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/malibharatam"
+LAST|P2093|"Mali Madhavan Nair V"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P136|Q9134
+LAST|P577|+2025-11-28T00:00:00Z/11
+LAST|P747|Q139999724
+CREATE
+LAST|Len|"Malineekaranam"
+LAST|Lml|"മലിനീകരണം"
+LAST|Den|"Malayalam-language literary work by Suresh Mannarasala"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/malineekaranam"
+LAST|P2093|"Suresh Mannarasala"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139999725
+CREATE
+LAST|Len|"Maliyude Unnikkathakal"
+LAST|Lml|"മാലിയുടെ ഉണ്ണിക്കഥകൾ"
+LAST|Den|"Malayalam-language literary work by Mali Madhavan Nair V"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/maliyude-unnikkathakal"
+LAST|P2093|"Mali Madhavan Nair V"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2021-10-22T00:00:00Z/11
+LAST|P747|Q139999727
+CREATE
+LAST|Len|"Mama Africa"
+LAST|Lml|"മമ ആഫ്രിക്ക"
+LAST|Den|"Malayalam-language literary work by T. D. Ramakrishnan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mama-africa"
+LAST|P2093|"T. D. Ramakrishnan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2026-02-27T00:00:00Z/11
+LAST|P747|Q139999728
+CREATE
+LAST|Len|"Mamankam"
+LAST|Lml|"മാമാങ്കം"
+LAST|Den|"Malayalam-language literary work by Sajeev Pillai"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mamankam"
+LAST|P2093|"Sajeev Pillai"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2019-12-30T00:00:00Z/11
+LAST|P747|Q139999729
+CREATE
+LAST|Len|"Mamankam: Chaverukalute Charithram"
+LAST|Lml|"മാമാങ്കം: ചാവേറുകളുടെ ചരിത്രം"
+LAST|Den|"Malayalam-language literary work by Haridas V V"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mamankam-chaverukalute-charithram"
+LAST|P2093|"Haridas V V"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q309
+LAST|P577|+2023-01-19T00:00:00Z/11
+LAST|P747|Q139999730
+CREATE
+LAST|Len|"Mamukkoya"
+LAST|Lml|"മാമുക്കോയ"
+LAST|Den|"Malayalam-language literary work by Thaha Madai"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mamukkoya"
+LAST|P2093|"Thaha Madai"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2023-04-28T00:00:00Z/11
+LAST|P747|Q139999731
+CREATE
+LAST|Len|"Manalezuth"
+LAST|Lml|"മണലെഴുത്"
+LAST|Den|"Malayalam-language literary work by Sugathakumari"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manalezuth"
+LAST|P2093|"Sugathakumari"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2025-12-30T00:00:00Z/11
+LAST|P747|Q139999732
+CREATE
+LAST|Len|"Manas"
+LAST|Lml|"മനസ്"
+LAST|Den|"Malayalam-language literary work by Gulab Kothari"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manas"
+LAST|P2093|"Gulab Kothari"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139999733
+CREATE
+LAST|Len|"Manasajapalahari"
+LAST|Lml|"മനസജപാലഹരി"
+LAST|Den|"Malayalam-language literary work by Prasanth Varma"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manasajapalahari"
+LAST|P2093|"Prasanth Varma"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9174
+LAST|P577|+2016-05-16T00:00:00Z/11
+LAST|P747|Q139999735
+CREATE
+LAST|Len|"Manasasthra Counselling Keralathil"
+LAST|Lml|"മനഃശാസ്ത്ര കൗൺസിലിങ് കേരളത്തിൽ"
+LAST|Den|"Malayalam-language literary work by Krishnaprasad Sreedhar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manasasthra-counselling-keralathil"
+LAST|P2093|"Krishnaprasad Sreedhar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9418
+LAST|P577|+2021-08-19T00:00:00Z/11
+LAST|P747|Q139999736
+CREATE
+LAST|Len|"Manasasthram Jeevithathil"
+LAST|Lml|"മനഃശാസ്ത്രം ജീവിതത്തിൽ"
+LAST|Den|"Malayalam-language literary work by Nithyachaithanya Yathi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manasasthram-jeevithathil"
+LAST|P2093|"Nithyachaithanya Yathi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9418
+LAST|P577|+2025-08-26T00:00:00Z/11
+LAST|P747|Q139999737
+CREATE
+LAST|Len|"Manassasthravum Manassasthrajnanmarum"
+LAST|Lml|"മനശ്ശാസ്ത്രവും മനശ്ശാസ്ത്രജ്ഞന്മാരും"
+LAST|Den|"Malayalam-language literary work by Nithyachaithanya Yathi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manassasthravum-manassasthrajnanmarum"
+LAST|P2093|"Nithyachaithanya Yathi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9418
+LAST|P577|+2024-08-31T00:00:00Z/11
+LAST|P747|Q139999738
+CREATE
+LAST|Len|"Manassilakkam Kuttikale"
+LAST|Lml|"മനസിലാക്കാം കുട്ടികളെ"
+LAST|Den|"Malayalam-language literary work by SR. Anjitha S.v.m"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manassilakkam-kuttikale"
+LAST|P2093|"SR. Anjitha S.v.m"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P577|+2025-06-30T00:00:00Z/11
+LAST|P747|Q139999739
+CREATE
+LAST|Len|"Manassinte Bandhangalum Sythilyangalum"
+LAST|Lml|"മനസ്സിന്റെ ബന്ധങ്ങളും സിഥില്യങ്ങളും"
+LAST|Den|"Malayalam-language literary work by K. Rajasekharan Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manassinte-bandhangalum-sythilyangalum"
+LAST|P2093|"K. Rajasekharan Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2025-07-28T00:00:00Z/11
+LAST|P747|Q139999740
+CREATE
+LAST|Len|"Manassinte Kanakkayangal"
+LAST|Lml|"മനസ്സിന്റെ കാണാക്കയങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by C J John"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manassinte-kanakkayangal"
+LAST|P2093|"C J John"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2017-07-13T00:00:00Z/11
+LAST|P747|Q139999741
+CREATE
+LAST|Len|"Manassu Mara Neekkumbol"
+LAST|Lml|"മനസ്സ് മറ നീക്കുമ്പോൾ"
+LAST|Den|"Malayalam-language literary work by V S Ramachandran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manassu-mara-neekumbol"
+LAST|P2093|"V S Ramachandran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2015-12-29T00:00:00Z/11
+LAST|P747|Q139999742
+CREATE
+LAST|Len|"Manassu: Swantham Vyavaharam / Sareeram: Sreshtamaya Upakaranam"
+LAST|Lml|"മനസ്സ്: സ്വന്തം വ്യവഹാരം / ശരീരം: സ്രേഷ്ടമായ ഉപകരണം"
+LAST|Den|"Malayalam-language literary work by Sadhguru"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manassu-swantham-vyavaharam--sareeram-sreshtamaya-upakaranam"
+LAST|P2093|"Sadhguru"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q168796
+LAST|P577|+2019-07-11T00:00:00Z/11
+LAST|P747|Q139999743
+CREATE
+LAST|Len|"Manassu Vaayikkan Sareerabhasha"
+LAST|Lml|"മനസ്സ് വായിക്കാൻ ശരീരഭാഷ"
+LAST|Den|"Malayalam-language literary work by P.k.a. Rasheed"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manassu-vaayikkan-sareerabhasha"
+LAST|P2093|"P.k.a. Rasheed"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P577|+2017-11-16T00:00:00Z/11
+LAST|P747|Q139999744
+CREATE
+LAST|Len|"Manasum Dampathyavum"
+LAST|Lml|"മനസും ദാമ്പത്യവും"
+LAST|Den|"Malayalam-language literary work by Basheerkutty A"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manasum-dampathyavum"
+LAST|P2093|"Basheerkutty A"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9418
+LAST|P577|+2025-08-25T00:00:00Z/11
+LAST|P747|Q139999745
+CREATE
+LAST|Len|"Manasum Kopavum"
+LAST|Lml|"മനസും കോപവും"
+LAST|Den|"Malayalam-language literary work by Samji Vadakkedam"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manasum-kopavum"
+LAST|P2093|"Samji Vadakkedam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P136|Q9418
+LAST|P577|+2016-03-21T00:00:00Z/11
+LAST|P747|Q139999746
+CREATE
+LAST|Len|"Manasum Snehavum"
+LAST|Lml|"മനസും സ്നേഹവും"
+LAST|Den|"Malayalam-language literary work by Samji Vadakkedam"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manasum-snehavum"
+LAST|P2093|"Samji Vadakkedam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9418
+LAST|P577|+2025-09-24T00:00:00Z/11
+LAST|P747|Q139999747
+CREATE
+LAST|Len|"Manchal (v.k.n)"
+LAST|Lml|"മഞ്ചൽ (വി.കെ.ണ്)"
+LAST|Den|"Malayalam-language literary work by V K N"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manchal"
+LAST|P2093|"V K N"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2021-02-01T00:00:00Z/11
+LAST|P747|Q139999748
+CREATE
+LAST|Len|"Manchuvattil"
+LAST|Lml|"മാഞ്ചുവട്ടിൽ"
+LAST|Den|"Malayalam-language literary work by Thakazhi Sivasankara Pillai"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manchuvattil"
+LAST|P2093|"Thakazhi Sivasankara Pillai"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2025-10-30T00:00:00Z/11
+LAST|P747|Q139999749
+CREATE
+LAST|Len|"Mandiyum Motorum"
+LAST|Lml|"മിണ്ടിയും മോട്ടോറും"
+LAST|Den|"Malayalam-language literary work by Ashna Merin George"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mandiyum-motorum"
+LAST|P2093|"Ashna Merin George"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2021-12-02T00:00:00Z/11
+LAST|P747|Q139999750
+CREATE
+LAST|Len|"Mangalyathileku"
+LAST|Lml|"മംഗല്യത്തിലേക്കു"
+LAST|Den|"Malayalam-language literary work by John Berger"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mangalyathileku"
+LAST|P2093|"John Berger"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q7553
+LAST|P577|+2019-03-11T00:00:00Z/11
+LAST|P747|Q139999752
+CREATE
+LAST|Len|"Manha: Vangogh Dhyanangal"
+LAST|Lml|"മൻഹ: വാൻഗോഗ് ധ്യാനങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Biju Kanhangad"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manha-vangogh-dhyanangal"
+LAST|P2093|"Biju Kanhangad"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2022-07-12T00:00:00Z/11
+LAST|P747|Q139999753
+CREATE
+LAST|Len|"Manikandan"
+LAST|Lml|"മണികണ്ഠൻ"
+LAST|Den|"Malayalam-language literary work by Manoharan Kuzhimattam"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manikandan"
+LAST|P2093|"Manoharan Kuzhimattam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2018-11-29T00:00:00Z/11
+LAST|P747|Q139999754
+CREATE
+LAST|Len|"Manikyakkallu"
+LAST|Lml|"മാണിക്യക്കല്ല്"
+LAST|Den|"Malayalam-language literary work by M T Vasudevan Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manikyakkallu"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2026-01-28T00:00:00Z/11
+LAST|P747|Q139999755
+CREATE
+LAST|Len|"Manikyakkallum Kuttikkathakalum Chitrangalum"
+LAST|Lml|"മാണിക്യക്കല്ലും കുട്ടിക്കഥകളും ചിത്രങ്ങളും"
+LAST|Den|"Malayalam-language literary work by M T Vasudevan Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manikyakkallu--kuttikkathakalum-chitrangalum"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2012-03-15T00:00:00Z/11
+LAST|P747|Q139999756
+CREATE
+LAST|Len|"Manikyaveena O. N. V. Yude Theranhedutha 1001 Ganangal"
+LAST|Lml|"മാണിക്യവീണ ഓ. ണ്. വി. യുടെ തെരണത്തെടുത്ത 1001 ഗാനങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by O. N. V. Kurup"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manikyaveena-o-n-v-yude-theranhedutha-1001-ganangal"
+LAST|P2093|"O. N. V. Kurup"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q20540385
+LAST|P577|+2024-10-31T00:00:00Z/11
+LAST|P747|Q139999757
+CREATE
+LAST|Len|"Manjadikuruvum Mattu Balanovelukalum"
+LAST|Lml|"മഞ്ചാടികുരുവും മറ്റു ബാലനോവലുകളും"
+LAST|Den|"Malayalam-language literary work by Sumangala"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manjadikuruvum-mattu-balanovelukalum"
+LAST|P2093|"Sumangala"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2025-08-25T00:00:00Z/11
+LAST|P747|Q139999758
+CREATE
+LAST|Len|"Manjaniramulla Rosappoovu"
+LAST|Lml|"മഞ്ഞനിറമുള്ള റോസാപ്പൂവ്"
+LAST|Den|"Malayalam-language literary work by T. Padmanabhan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manjaniramulla-rosappoovu"
+LAST|P2093|"T. Padmanabhan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2025-07-22T00:00:00Z/11
+LAST|P747|Q139999759
+CREATE
+LAST|Len|"Manju - M T Vasudevan Nair"
+LAST|Lml|"മഞ്ജു - എം ടി വാസുദേവൻ നായർ"
+LAST|Den|"Malayalam-language literary work by M T Vasudevan Nair"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manju-m-t-vasudevan-nair"
+LAST|P2093|"M T Vasudevan Nair"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2016-07-26T00:00:00Z/11
+LAST|P747|Q139999761
+CREATE
+LAST|Len|"Manjukalam Notta Kuthira"
+LAST|Lml|"മഞ്ഞുകാലം നോറ്റ കുതിര"
+LAST|Den|"Malayalam-language literary work by P Padmarajan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manjukalam-notta-kuthira"
+LAST|P2093|"P Padmarajan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-03-29T00:00:00Z/11
+LAST|P747|Q139999762
+CREATE
+LAST|Len|"Manjumanushyar"
+LAST|Lml|"മഞ്ഞുമനുഷ്യർ"
+LAST|Den|"Malayalam-language literary work by Santhosh Aechikkanam"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manjumanushyar"
+LAST|P2093|"Santhosh Aechikkanam"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-05-30T00:00:00Z/11
+LAST|P747|Q139999763
+CREATE
+LAST|Len|"Manjupuli"
+LAST|Lml|"മഞ്ഞുപുളി"
+LAST|Den|"Malayalam-language literary work by Peter Matthiessen"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manjupuli"
+LAST|P2093|"Peter Matthiessen"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2021-03-15T00:00:00Z/11
+LAST|P747|Q139999764
+CREATE
+LAST|Len|"Mannankatta Keralam Ketta Nadodikkathakal"
+LAST|Lml|"മണ്ണാങ്കട്ട  കേരളം കേട്ട നാടോടിക്കഥകൾ"
+LAST|Den|"Malayalam-language literary work by Sreekumar K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mannankatta--keralam-ketta-nadodikkathakal"
+LAST|P2093|"Sreekumar K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2022-02-24T00:00:00Z/11
+LAST|P747|Q139999765
+CREATE
+LAST|Len|"Manne Nalla Manne"
+LAST|Lml|"മണ്ണേ നല്ല മണ്ണേ"
+LAST|Den|"Malayalam-language literary work by S. Sivadas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manne-nalla-manne"
+LAST|P2093|"S. Sivadas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2022-05-04T00:00:00Z/11
+LAST|P747|Q139999766
+CREATE
+LAST|Len|"Mannine Ariyam"
+LAST|Lml|"മണ്ണിനെ അറിയാം"
+LAST|Den|"Malayalam-language literary work by K.N Krishnakumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mannine-ariyam"
+LAST|P2093|"K.N Krishnakumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q13136
+LAST|P577|+2021-04-16T00:00:00Z/11
+LAST|P747|Q139999767
+CREATE
+LAST|Len|"Mannorukkam - Limited Edition"
+LAST|Lml|"മണ്ണൊരുക്കം - ലിമിറ്റഡ് എഡിഷൻ"
+LAST|Den|"Malayalam-language literary work by Geethumol Suran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mannorukkam-limited-edition"
+LAST|P2093|"Geethumol Suran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2020-09-01T00:00:00Z/11
+LAST|P747|Q139999769
+CREATE
+LAST|Len|"Mannum Manushyanum"
+LAST|Lml|"മണ്ണും മനുഷ്യനും"
+LAST|Den|"Malayalam-language literary work by S. Sivadas"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mannum-manushyanum"
+LAST|P2093|"S. Sivadas"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2021-11-30T00:00:00Z/11
+LAST|P747|Q139999770
+CREATE
+LAST|Len|"Manobharamakattoo Manasakthi Nedoo"
+LAST|Lml|"മനോഭാരമകറ്റൂ മനശക്തി നേടൂ"
+LAST|Den|"Malayalam-language literary work by Robert A Schuller"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/manobharamakattoo-manasakthi-nedoo"
+LAST|P2093|"Robert A Schuller"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P577|+2018-06-27T00:00:00Z/11
+LAST|P747|Q139999771
+CREATE
+LAST|Len|"Mathetharavaadathe Muslingal Pedikkendathundo"
+LAST|Lml|"മതേതരവാദത്തെ മുസ്ലിങ്ങൾ പേടിക്കേണ്ടതുണ്ടോ"
+LAST|Den|"Malayalam-language literary work by M N Karassery"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mathetharavaadathe-muslingal-pedikkendathundo"
+LAST|P2093|"M N Karassery"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9174
+LAST|P577|+2012-01-02T00:00:00Z/11
+LAST|P747|Q139999821
+CREATE
+LAST|Len|"Mathsarappareekshakalile Information Technologyum Cyber Lawyum"
+LAST|Lml|"മത്സരപ്പരീക്ഷകളിലെ ഇൻഫർമേഷൻ ടെക്നോളജിയും സൈബർ ലൗയും"
+LAST|Den|"Malayalam-language literary work by Abdul Salam K M"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mathsarappareekshakalile-information-technologyum-cyber-lawyum"
+LAST|P2093|"Abdul Salam K M"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q282049
+LAST|P577|+2016-07-26T00:00:00Z/11
+LAST|P747|Q139999824
+CREATE
+LAST|Len|"Matsya Mahapuranam (print on Demand)"
+LAST|Lml|"മത്സ്യ മഹാപുരാണം (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by Veda Vyasa"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/matsya-mahapuranam"
+LAST|P2093|"Veda Vyasa"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9134
+LAST|P577|+2017-07-01T00:00:00Z/11
+LAST|P747|Q139999825
+CREATE
+LAST|Len|"Mattathi"
+LAST|Lml|"മാറ്റാതെ"
+LAST|Den|"Malayalam-language literary work by Sarah Joseph"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mattathi"
+LAST|P2093|"Sarah Joseph"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2016-02-23T00:00:00Z/11
+LAST|P747|Q139999827
+CREATE
+LAST|Len|"Maulana Jalaluddin Rumi : Jeevithavum Kalavum"
+LAST|Lml|"മൗലാന ജലാലുദ്ദിൻ റൂമി : ജീവിതവും കാലവും"
+LAST|Den|"Malayalam-language literary work by K. T. Sooppi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/maulana-jalaluddin-rumi--jeevithavum-kalavum"
+LAST|P2093|"K. T. Sooppi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2022-02-11T00:00:00Z/11
+LAST|P747|Q139999828
+CREATE
+LAST|Len|"Maya"
+LAST|Lml|"മായാ"
+LAST|Den|"Malayalam-language literary work by V R Sudheesh"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/maya"
+LAST|P2093|"V R Sudheesh"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q858330
+LAST|P577|+2023-05-30T00:00:00Z/11
+LAST|P747|Q139999829
+CREATE
+LAST|Len|"Mayamatham"
+LAST|Lml|"മയമതം"
+LAST|Den|"Malayalam-language literary work by Mayamuni"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mayamatham"
+LAST|P2093|"Mayamuni"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2023-11-30T00:00:00Z/11
+LAST|P747|Q139999830
+CREATE
+LAST|Len|"Mayasamudrathinakkare"
+LAST|Lml|"മയാസമുദ്രത്തിനക്കരെ"
+LAST|Den|"Malayalam-language literary work by Perumpadavom Sreedharan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mayasamudrathinakkare"
+LAST|P2093|"Perumpadavom Sreedharan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-10-13T00:00:00Z/11
+LAST|P747|Q139999831
+CREATE
+LAST|Len|"Mayilukal Savarikkirangiya Cheriviloode"
+LAST|Lml|"മയിലുകൾ സവാരിക്കിറങ്ങിയ ചെരിവിലൂടെ"
+LAST|Den|"Malayalam-language literary work by Musafar Ahammed V"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mayilukal-savarikkirangiya-cheriviloode-443496747164"
+LAST|P2093|"Musafar Ahammed V"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2012-03-21T00:00:00Z/11
+LAST|P747|Q139999832
+CREATE
+LAST|Len|"Mayunnu Manjum Mazhayum"
+LAST|Lml|"മായുന്നു മഞ്ഞും മഴയും"
+LAST|Den|"Malayalam-language literary work by Kunhikannan T P"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mayunnu-manjum-mazhayum"
+LAST|P2093|"Kunhikannan T P"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2017-05-01T00:00:00Z/11
+LAST|P747|Q139999833
+CREATE
+LAST|Len|"Mazhakoythum Jalasurekshayum"
+LAST|Lml|"മഴക്കൊയ്ത്തും ജലസുരക്ഷയും"
+LAST|Den|"Malayalam-language literary work by Subhash Chandrabose"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mazhakoythum-jalasurekshayum"
+LAST|P2093|"Subhash Chandrabose"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-04-30T00:00:00Z/11
+LAST|P747|Q139999834
+CREATE
+LAST|Len|"Mazhayude Udhyanathil"
+LAST|Lml|"മഴയുടെ ഉദ്യാനത്തിൽ"
+LAST|Den|"Malayalam-language literary work by Biju Kanhangad"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mazhayude-udhyanathil"
+LAST|P2093|"Biju Kanhangad"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2021-02-01T00:00:00Z/11
+LAST|P747|Q139999835
+CREATE
+LAST|Len|"Meenachilattile Rathri"
+LAST|Lml|"മീനച്ചിലാറ്റിലെ രാത്രി"
+LAST|Den|"Malayalam-language literary work by Aymanam John"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/meenachilattile-rathri"
+LAST|P2093|"Aymanam John"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2021-11-01T00:00:00Z/11
+LAST|P747|Q139999836
+CREATE
+LAST|Len|"Meera Athmeeya Sagarathile Pranayathira"
+LAST|Lml|"മീര ആത്മീയ സാഗരത്തിലെ പ്രണയത്തിരാ"
+LAST|Den|"Malayalam-language literary work by Hashim E M"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/meera-athmeeya-sagarathile-pranayathira"
+LAST|P2093|"Hashim E M"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q168796
+LAST|P577|+2014-02-21T00:00:00Z/11
+LAST|P747|Q139999837
+CREATE
+LAST|Len|"Meerasadhu"
+LAST|Lml|"മീരാസാധു"
+LAST|Den|"Malayalam-language literary work by K. R. Meera"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/meerasadhu"
+LAST|P2093|"K. R. Meera"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q858330
+LAST|P577|+2026-02-27T00:00:00Z/11
+LAST|P747|Q139999838
+CREATE
+LAST|Len|"Meerayude Novellakal"
+LAST|Lml|"മീരയുടെ നോവെല്ലകൾ"
+LAST|Den|"Malayalam-language literary work by K. R. Meera"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/meerayude-novellakal"
+LAST|P2093|"K. R. Meera"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-07-29T00:00:00Z/11
+LAST|P747|Q139999839
+CREATE
+LAST|Len|"Meesa"
+LAST|Lml|"മീശ"
+LAST|Den|"Malayalam-language literary work by S. Hareesh"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/meesa"
+LAST|P2093|"S. Hareesh"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-11-29T00:00:00Z/11
+LAST|P747|Q139999840
+CREATE
+LAST|Len|"Meesamahathmyam"
+LAST|Lml|"മീസമാഹാത്മ്യം"
+LAST|Den|"Malayalam-language literary work by Rajeev Sivasankar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/meesamahathmyam"
+LAST|P2093|"Rajeev Sivasankar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2021-03-15T00:00:00Z/11
+LAST|P747|Q139999843
+CREATE
+LAST|Len|"Megham Vannu Thottappol"
+LAST|Lml|"മേഘം വന്നു തൊട്ടപ്പോൾ"
+LAST|Den|"Malayalam-language literary work by Sugathakumari"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/megham-vannu-thottappol"
+LAST|P2093|"Sugathakumari"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11042
+LAST|P577|+2024-11-30T00:00:00Z/11
+LAST|P747|Q139999844
+CREATE
+LAST|Len|"Melaragamrutham"
+LAST|Lml|"മേളരാഗാമൃതം"
+LAST|Den|"Malayalam-language literary work by Koteeswara Iyyer"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/melaragamrutham"
+LAST|P2093|"Koteeswara Iyyer"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q638
+LAST|P577|+2012-12-25T00:00:00Z/11
+LAST|P747|Q139999845
+CREATE
+LAST|Len|"Mele Kavulu"
+LAST|Lml|"മേലെ ക്വുല്"
+LAST|Den|"Malayalam-language literary work"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mele-kavulu"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2022-07-07T00:00:00Z/11
+LAST|P747|Q139999846
+CREATE
+LAST|Len|"Memory Police"
+LAST|Lml|"മെമ്മറി പോലീസ്"
+LAST|Den|"Malayalam-language literary work by Yoko Ogawa"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/memory-police"
+LAST|P2093|"Yoko Ogawa"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q7553
+LAST|P577|+2022-07-27T00:00:00Z/11
+LAST|P747|Q139999847
+CREATE
+LAST|Len|"Menusmruthi"
+LAST|Lml|"മെനുസ്മൃതി"
+LAST|Den|"Malayalam-language literary work by Vinu Joseph"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/menusmruthi"
+LAST|P2093|"Vinu Joseph"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P136|Q605076
+LAST|P577|+2016-08-05T00:00:00Z/11
+LAST|P747|Q139999848
+CREATE
+LAST|Len|"Michael Keyude Jeevithavum Kalavum"
+LAST|Lml|"മിഖായേൽ കെയുടെ ജീവിതവും കാലവും"
+LAST|Den|"Malayalam-language literary work by Coetzee J M"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/michael-keyude-jeevithavum-kalavum"
+LAST|P2093|"Coetzee J M"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139999849
+CREATE
+LAST|Len|"Mikacha India Mikavutta Lokam"
+LAST|Lml|"മികച്ച ഇന്ത്യ മികവുറ്റ ലോകം"
+LAST|Den|"Malayalam-language literary work by Narayana Murthy N R"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mikacha-india-mikavutta-lokam"
+LAST|P2093|"Narayana Murthy N R"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11042
+LAST|P577|+2015-05-08T00:00:00Z/11
+LAST|P747|Q139999850
+CREATE
+LAST|Len|"Milindapanja - Buddhadarsanam"
+LAST|Lml|"മിലിന്ദപഞ്ഞ - ബുദ്ധദര്ശനം"
+LAST|Den|"Malayalam-language literary work by Pillai R N"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/milindapanja-buddhadarsanam"
+LAST|P2093|"Pillai R N"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9174
+LAST|P577|+2015-02-23T00:00:00Z/11
+LAST|P747|Q139999851
+CREATE
+LAST|Len|"Mind Map Book [malayalam]"
+LAST|Lml|"മൈൻഡ് മാപ് ബുക്ക് [മലയാളം]"
+LAST|Den|"Malayalam-language literary work by Tony Buzan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mind-map-book-malayalam"
+LAST|P2093|"Tony Buzan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q3739522
+LAST|P577|+2012-01-02T00:00:00Z/11
+LAST|P747|Q139999852
+CREATE
+LAST|Len|"Mind Master"
+LAST|Lml|"മൈൻഡ് മാസ്റ്റർ"
+LAST|Den|"Malayalam-language literary work by Viswanathan Anand"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mind-master"
+LAST|P2093|"Viswanathan Anand"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2021-12-04T00:00:00Z/11
+LAST|P747|Q139999853
+CREATE
+LAST|Len|"Mindaprani"
+LAST|Lml|"മിണ്ടാപ്രാണി"
+LAST|Den|"Malayalam-language literary work by Veerankutty"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mindaprani"
+LAST|P2093|"Veerankutty"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2017-06-16T00:00:00Z/11
+LAST|P747|Q139999854
+CREATE
+LAST|Len|"Mindattangal"
+LAST|Lml|"മിണ്ടാട്ടങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Rajagopalan E P"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mindattangal"
+LAST|P2093|"Rajagopalan E P"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2021-02-01T00:00:00Z/11
+LAST|P747|Q139999855
+CREATE
+LAST|Len|"Mithum Charithravum ( Print on Demand )"
+LAST|Lml|"മിത്തും ചരിത്രവും ( പ്രിന്റ് ഓൺ ഡിമാൻഡ് )"
+LAST|Den|"Malayalam-language literary work by M.I Punnoose"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mithum-charithravum"
+LAST|P2093|"M.I Punnoose"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2021-10-07T00:00:00Z/11
+LAST|P747|Q139999856
+CREATE
+LAST|Len|"Mizhi: Ellam Kanunnaval"
+LAST|Lml|"മിഴി: എല്ലാം കാണുന്നവൻ"
+LAST|Den|"Malayalam-language literary work by K.V. Anil"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mizhi-ellam-kanunnaval"
+LAST|P2093|"K.V. Anil"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2020-06-01T00:00:00Z/11
+LAST|P747|Q139999857
+CREATE
+LAST|Len|"M N Roy - Swathanthryanveshiyaya Viplavakari"
+LAST|Lml|"എം ണ് റോയ് - സ്വാതന്ത്ര്യാന്വേഷിയായ വിപ്ലവകാരി"
+LAST|Den|"Malayalam-language literary work by Damodaran N"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mnroy-swathanthryanveshiyaya-viplavakari"
+LAST|P2093|"Damodaran N"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36279
+LAST|P577|+2019-11-25T00:00:00Z/11
+LAST|P747|Q139999858
+CREATE
+LAST|Len|"Mohamanja"
+LAST|Lml|"മോഹമഞ്ഞ"
+LAST|Den|"Malayalam-language literary work by K. R. Meera"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mohamanja"
+LAST|P2093|"K. R. Meera"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2026-01-19T00:00:00Z/11
+LAST|P747|Q139999859
+CREATE
+LAST|Len|"Mohiniyaattam Ariyendathellaam"
+LAST|Lml|"മോഹിനിയാട്ടം അറിയേണ്ടതെല്ലാം"
+LAST|Den|"Malayalam-language literary work by Kala Vijayan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mohiniyaattam-ariyendathellaam"
+LAST|P2093|"Kala Vijayan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q36649
+LAST|P577|+2024-10-31T00:00:00Z/11
+LAST|P747|Q139999860
+CREATE
+LAST|Len|"Molakkalmuruvile Rapakalukal"
+LAST|Lml|"മൊല്ലാക്കാലമുരുവിലെ രാപകലുകൾ"
+LAST|Den|"Malayalam-language literary work by Shobheendran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/molakkalmuruvile-rapakalukal"
+LAST|P2093|"Shobheendran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q112983
+LAST|P577|+2025-11-29T00:00:00Z/11
+LAST|P747|Q139999861
+CREATE
+LAST|Len|"Moodupadam"
+LAST|Lml|"മൂടുപടം"
+LAST|Den|"Malayalam-language literary work by Pottekkat S K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/moodupadam"
+LAST|P2093|"Pottekkat S K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-07-21T00:00:00Z/11
+LAST|P747|Q139999862
+CREATE
+LAST|Len|"Mooliyalankari"
+LAST|Lml|"മൂളിയലങ്കരി"
+LAST|Den|"Malayalam-language literary work by Jyothibai Pariyadath"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mooliyalankari"
+LAST|P2093|"Jyothibai Pariyadath"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2021-12-11T00:00:00Z/11
+LAST|P747|Q139999863
+CREATE
+LAST|Len|"Moolyangalute Kuzhamarichil"
+LAST|Lml|"മൂല്യങ്ങളുടെ കുഴമറിച്ചിൽ"
+LAST|Den|"Malayalam-language literary work by Nithyachaithanya Yathi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/moolyangalute-kuzhamarichil"
+LAST|P2093|"Nithyachaithanya Yathi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q5891
+LAST|P577|+2021-10-10T00:00:00Z/11
+LAST|P747|Q139999864
+CREATE
+LAST|Len|"Moongakal Marangalil Jeevikkunnu"
+LAST|Lml|"മൂങ്ങകൾ മരങ്ങളിൽ ജീവിക്കുന്നു"
+LAST|Den|"Malayalam-language literary work by Melvin Berger"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/moongakal-marangalil-jeevikkunnu"
+LAST|P2093|"Melvin Berger"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q12042160
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139999865
+CREATE
+LAST|Len|"Moonnu Anthanmar Anaye Vivarikkunnu"
+LAST|Lml|"മൂന്നു അന്ധന്മാർ ആനയെ വിവരിക്കുന്നു"
+LAST|Den|"Malayalam-language literary work by E. Santhosh Kumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/moonnu-anthanmar-anaye-vivarikkunnu"
+LAST|P2093|"E. Santhosh Kumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2015-06-01T00:00:00Z/11
+LAST|P747|Q139999866
+CREATE
+LAST|Len|"Moonnu Kuttikal"
+LAST|Lml|"മൂന്നു കുട്ടികൾ"
+LAST|Den|"Malayalam-language literary work by Sethu"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/moonnu-kuttikal"
+LAST|P2093|"Sethu"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2024-06-29T00:00:00Z/11
+LAST|P747|Q139999867
+CREATE
+LAST|Len|"Moonnu Manthrikanmar"
+LAST|Lml|"മൂന്നു മന്ത്രികന്മാർ"
+LAST|Den|"Malayalam-language literary work by Subhash Chandran"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/moonnu-manthrikanmar"
+LAST|P2093|"Subhash Chandran"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2022-08-19T00:00:00Z/11
+LAST|P747|Q139999868
+CREATE
+LAST|Len|"Moonu Kallukal"
+LAST|Lml|"മൂന്ന് കല്ലുകൾ"
+LAST|Den|"Malayalam-language literary work by Ajai P Mangattu"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/moonu-kallukal"
+LAST|P2093|"Ajai P Mangattu"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-10-06T00:00:00Z/11
+LAST|P747|Q139999869
+CREATE
+LAST|Len|"Moonnu Viralukal"
+LAST|Lml|"മൂന്നു വിരലുകൾ"
+LAST|Den|"Malayalam-language literary work by E. Santhosh Kumar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/moonu-viralukal"
+LAST|P2093|"E. Santhosh Kumar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2025-08-29T00:00:00Z/11
+LAST|P747|Q139999870
+CREATE
+LAST|Len|"Moothore Vakku"
+LAST|Lml|"മൂത്തോറെ വാക്ക്"
+LAST|Den|"Malayalam-language literary work by Manoj Manayil"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/moothore-vakku--360873530412"
+LAST|P2093|"Manoj Manayil"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2016-11-08T00:00:00Z/11
+LAST|P747|Q139999871
+CREATE
+LAST|Len|"Mossad (malayalam)"
+LAST|Lml|"മൊസാദ് (മലയാളം)"
+LAST|Den|"Malayalam-language literary work by Michael Bar Zohar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mossad-malayalam"
+LAST|P2093|"Michael Bar Zohar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q309
+LAST|P577|+2022-10-05T00:00:00Z/11
+LAST|P747|Q139999872
+CREATE
+LAST|Len|"Mottambuli"
+LAST|Lml|"മോട്ടാമ്പുളി"
+LAST|Den|"Malayalam-language literary work by Ambikasuthan Mangad"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mottambuli"
+LAST|P2093|"Ambikasuthan Mangad"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-08-26T00:00:00Z/11
+LAST|P747|Q139999873
+CREATE
+LAST|Len|"Mozhiyazham"
+LAST|Lml|"മൊഴിയാഴം"
+LAST|Den|"Malayalam-language literary work by Shoukath"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mozhiyazham"
+LAST|P2093|"Shoukath"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q5891
+LAST|P577|+2015-07-08T00:00:00Z/11
+LAST|P747|Q139999874
+CREATE
+LAST|Len|"Mrigaparipalanathile Nattarivukal"
+LAST|Lml|"മൃഗപരിപാലനത്തിലെ നാട്ടറിവുകൾ"
+LAST|Den|"Malayalam-language literary work by Mohanan P V"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/mrigaparipalanathile-nattarivukal"
+LAST|P2093|"Mohanan P V"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11451
+LAST|P577|+2015-11-30T00:00:00Z/11
+LAST|P747|Q139999875
+CREATE
+LAST|Len|"Bhutan Dinangal"
+LAST|Lml|"ഭൂട്ടാൻ ദിനങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Johny O K"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bhutan-dinangal"
+LAST|P2093|"Johny O K"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2019-10-01T00:00:00Z/11
+LAST|P747|Q139998684
+CREATE
+LAST|Len|"Bhutan Viseshangal"
+LAST|Lml|"ഭൂട്ടാൻ വിശേഷങ്ങൾ"
+LAST|Den|"Malayalam-language literary work by Renukumar M. R"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bhutan-viseshangal"
+LAST|P2093|"Renukumar M. R"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2024-12-21T00:00:00Z/11
+LAST|P747|Q139998685
+CREATE
+LAST|Len|"Bible Kathakal : Davidhum Goliyathum Mattu Kathakalum"
+LAST|Lml|"ബൈബിൾ കഥകൾ : ഡാവിധും ഗോളിയതും മറ്റു കഥകളും"
+LAST|Den|"Malayalam-language literary work by Sam Panamkunnel"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bible-kathakal-davidhum-goliyathum-mattu-kathakalum"
+LAST|P2093|"Sam Panamkunnel"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2017-12-31T00:00:00Z/11
+LAST|P747|Q139998688
+CREATE
+LAST|Len|"Bible Kathakal (rosy Thampy)"
+LAST|Lml|"ബൈബിൾ കഥകൾ (റോസി തമ്പയ്)"
+LAST|Den|"Malayalam-language literary work by Rosy Thampy"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bible-kathakal-rosy-thampy"
+LAST|P2093|"Rosy Thampy"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2022-01-06T00:00:00Z/11
+LAST|P747|Q139998689
+CREATE
+LAST|Len|"Bible Velichathinte Kavacham"
+LAST|Lml|"ബൈബിൾ വെളിച്ചത്തിന്റെ കവചം"
+LAST|Den|"Malayalam-language literary work by Appan K P"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bible-velichathinte-kavacham"
+LAST|P2093|"Appan K P"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2022-02-24T00:00:00Z/11
+LAST|P747|Q139998690
+CREATE
+LAST|Len|"Block 46"
+LAST|Lml|"ബ്ലോക്ക് 46"
+LAST|Den|"Malayalam-language literary work by Johana Gustawsson"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/block-46"
+LAST|P2093|"Johana Gustawsson"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q182015
+LAST|P136|Q7553
+LAST|P577|+2023-05-30T00:00:00Z/11
+LAST|P747|Q139998691
+CREATE
+LAST|Len|"Body Lab"
+LAST|Lml|"ബോഡി ലാബ്"
+LAST|Den|"Malayalam-language literary work by Rajad R."
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/body-lab"
+LAST|P2093|"Rajad R."
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q182015
+LAST|P577|+2026-02-20T00:00:00Z/11
+LAST|P747|Q139998692
+CREATE
+LAST|Len|"Bonsai"
+LAST|Lml|"ബോൺസായ്"
+LAST|Den|"Malayalam-language literary work by Chandramathi"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bonsai"
+LAST|P2093|"Chandramathi"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2023-11-30T00:00:00Z/11
+LAST|P747|Q139998693
+CREATE
+LAST|Len|"Bonsai: Dhanathinum Anandathinum"
+LAST|Lml|"ബോൺസായ്: ദഹനത്തിനും ആനന്ദത്തിനും"
+LAST|Den|"Malayalam-language literary work by Marykutty Abraham"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bonsai-dhanathinum-anandathinum"
+LAST|P2093|"Marykutty Abraham"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q11451
+LAST|P577|+2022-06-04T00:00:00Z/11
+LAST|P747|Q139998694
+CREATE
+LAST|Len|"Book Shelf"
+LAST|Lml|"ബുക്ക് ഷെൽഫ്"
+LAST|Den|"Malayalam-language literary work by Vaikom Murali"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/book-shelf"
+LAST|P2093|"Vaikom Murali"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q193495
+LAST|P577|+2015-05-08T00:00:00Z/11
+LAST|P747|Q139998695
+CREATE
+LAST|Len|"Bookstalgia"
+LAST|Lml|"ബുക്സ്റാൾജിയ"
+LAST|Den|"Malayalam-language literary work by P. K. Rajasekharan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bookstalgia"
+LAST|P2093|"P. K. Rajasekharan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q35760
+LAST|P577|+2025-01-28T00:00:00Z/11
+LAST|P747|Q139998696
+CREATE
+LAST|Len|"Border Line"
+LAST|Lml|"ബോർഡർ ലൈൻ"
+LAST|Den|"Malayalam-language literary work by Reshma C"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/border-line"
+LAST|P2093|"Reshma C"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q482
+LAST|P577|+2023-04-28T00:00:00Z/11
+LAST|P747|Q139998697
+CREATE
+LAST|Len|"Boskiyude Kappithanammaman"
+LAST|Lml|"ബോസ്കിയുടെ കപ്പിത്താനമ്മമാണ്"
+LAST|Den|"Malayalam-language literary work by Gulzar"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/boskiyude-kappithanammaman"
+LAST|P2093|"Gulzar"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q131539
+LAST|P577|+2023-10-31T00:00:00Z/11
+LAST|P747|Q139998698
+CREATE
+LAST|Len|"Bouncer"
+LAST|Lml|"ബൗൺസർ"
+LAST|Den|"Malayalam-language literary work by K. N. Raghavan"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/bouncer"
+LAST|P2093|"K. N. Raghavan"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P577|+2023-12-30T00:00:00Z/11
+LAST|P747|Q139998699
+CREATE
+LAST|Len|"Brahma Mahapuranam (print on Demand)"
+LAST|Lml|"ബ്രഹ്മ മഹാപുരാണം (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by Veda Vyasa"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/brahma-mahapuranam"
+LAST|P2093|"Veda Vyasa"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9134
+LAST|P577|+2017-07-01T00:00:00Z/11
+LAST|P747|Q139998700
+CREATE
+LAST|Len|"Brahmanda Mahapuranam (print on Demand)"
+LAST|Lml|"ബ്രഹ്മാണ്ഡ മഹാപുരാണം (പ്രിന്റ് ഓൺ ഡിമാൻഡ്)"
+LAST|Den|"Malayalam-language literary work by Veda Vyasa"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/brahmanda-mahapuranam"
+LAST|P2093|"Veda Vyasa"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9134
+LAST|P577|+2017-07-01T00:00:00Z/11
+LAST|P747|Q139998701
+CREATE
+LAST|Len|"Brahmaputhrayile Veedu"
+LAST|Lml|"ബ്രഹ്മപുത്രയിലെ വീട്"
+LAST|Den|"Malayalam-language literary work by K A Beena"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/brahmaputhrayile-veedu"
+LAST|P2093|"K A Beena"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q1072723
+LAST|P577|+2025-05-31T00:00:00Z/11
+LAST|P747|Q139998702
+CREATE
+LAST|Len|"Brahmavaivartha Mahapuranam (print on Deamnd)"
+LAST|Lml|"ബ്രഹ്മവൈവർത്ത മഹാപുരാണം (പ്രിന്റ് ഓൺ ടെമ്മ്ദ്)"
+LAST|Den|"Malayalam-language literary work by Veda Vyasa"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/brahmavaivartha-mahapuranam"
+LAST|P2093|"Veda Vyasa"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q9134
+LAST|P577|+2017-07-01T00:00:00Z/11
+LAST|P747|Q139998703
+CREATE
+LAST|Len|"British Indiayum Sayudha Samarangalum"
+LAST|Lml|"ബ്രിട്ടീഷ് ഇൻഡ്യയും സായുധ സമരങ്ങളും"
+LAST|Den|"Malayalam-language literary work by Warrier P A"
+LAST|P31|Q7725634|S854|"https://dcbookstore.com/books/british-indiayum-sayudha-samarangalum"
+LAST|P2093|"Warrier P A"
+LAST|P407|Q36236
+LAST|P495|Q668
+LAST|P136|Q309
+LAST|P577|+2017-06-27T00:00:00Z/11
+LAST|P747|Q139998704
